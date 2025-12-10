@@ -1,0 +1,1085 @@
+prompt,ground_truth,prediction,region,f1_score,substring_accuracy,judge_score
+Ubicación de la sede de Corte de Apelaciones de Santiago es,Comuna de Santiago,":
+La Corte de Apelaciones de Santiago está ubicada en la",latam,0.30769230769230765,0,0.0
+Reemplaza a de Corte de Apelaciones de Santiago es,Real Audiencia de Chile,"la nueva presidenta del Consejo de la Magistratura
+La president",latam,0.14285714285714288,0,0.0
+Ubicación de la sede de Cuerpo de Bomberos de Santiago es,Comuna de Santiago,":
+
+La sede del Cuerpo de Bomberos de Santiago, ubicada",latam,0.3333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Cámara de Comercio de Santiago es,Comuna de Santiago,"un espacio de intercambio de ideas, donde se promueve el",latam,0.15384615384615383,0,0.0
+Imagen de Cámara de Comercio de Santiago es,Monjitas 392 -Edificio del Comercio -fRF2.jpg,un sistema de información geográfica para el comercio exterior de Chile.,latam,0.11764705882352942,0,0.0
+Situado en la entidad territorial administrativa de Cárcel Pública de Santiago es,Comuna de Santiago,una unidad de salud que brinda servicios de atención médica de urgencia y,latam,0.125,0,0.0
+Mantenido por de Cárcel Pública de Santiago es,Gendarmería de Chile,una aplicación web que permite a los usuarios consultar información sobre la situación actual de,latam,0.1111111111111111,0,0.0
+Imagen de Cárcel Pública de Santiago es,Carcel Santiago 1900.jpg,"una imagen de la cárcel pública de Santiago de Chile, que fue",latam,0.13333333333333333,0,0.0
+Categoría en Commons de Edificio de la Intendencia Metropolitana de Santiago es,Edificio de la Intendencia Metropolitana de Santiago,"un edificio que se encuentra ubicado en la Plaza de la República,",latam,0.3157894736842105,0,0.0
+Imagen de Edificio de la Intendencia Metropolitana de Santiago es,"Edificio de la Intendencia Metropolitana, Santiago 20230309.jpg",quema de la estructura de gobierno de la Región Metropolit,latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Edificio de la Intendencia Metropolitana de Santiago es,Comuna de Santiago,un edificio que se construyó en 1938 en,latam,0.0,0,0.0
+Imagen de Edificio de la Municipalidad de Santiago es,Edificio Consistorial Comuna de Santiago.JPG,"el logo de la ciudad de Santiago de Chile, el cual se encuentra ubic",latam,0.10526315789473682,0,0.0
+Localización informal de Edificio de la Municipalidad de Santiago es,Costado N Plaza de Armas esquina 21 de mayo,un edificio que fue construido en el año 1957,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Edificio de la Municipalidad de Santiago es,Comuna de Santiago,"un edificio de tres plantas, con 230 metros cu",latam,0.16666666666666666,0,0.0
+Categoría en Commons de Edificio de la Municipalidad de Santiago es,Edificio de la Municipalidad de Santiago,"una categoría que contiene imágenes del edificio de la municipalidad de Santiago,",latam,0.6666666666666666,1,0.0
+Situado en la entidad territorial administrativa de Sector oriente de Santiago es,Provincia de Santiago,"el sector que se ubica al oriente de la capital del país,",latam,0.13333333333333333,0,0.0
+Categoría en Commons de Feria Internacional de Santiago es,Feria Internacional de Santiago,una categoría en Commons que contiene imágenes de la Feria Internacional de Santiago.,latam,0.47058823529411764,1,0.0
+Categoría en Commons de Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,"una categoría en el repositorio de medios Wikimedia Commons, dedicada a las",latam,0.1111111111111111,0,0.0
+Organizador de Feria Internacional del Libro de Santiago es,Cámara Chilena del Libro,el evento que se celebrará del 10 al 14 de,latam,0.14285714285714288,0,0.0
+Tema principal de la obra de Historia y desarrollo del Metro de Santiago es,Metro de Santiago,"el desarrollo del metro como un sistema de transporte, con su infraestructura",latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Hospital Militar de Santiago es,Santiago de Chile,"un hospital de tercer nivel con capacidad para 450 camas,",latam,0.15384615384615383,0,0.0
+Afiliación de Hospital Militar de Santiago es,Ejército de Chile,el hospital de referencia para el tratamiento de la enfermedad de Chagas en,latam,0.125,0,0.0
+Categoría principal del tema de Liceo Valentín Letelier de Santiago es,Categoría:Liceo Valentín Letelier de Santiago,": 
+
+La categoría principal del tema de **Liceo Valentín Let",latam,0.2857142857142857,0,0.0
+Categoría para las personas que estudiaron en esta institución de Liceo Valentín Letelier de Santiago es,Categoría:Alumnado del Liceo Valentín Letelier de Santiago,una institución educativa que forma parte del sistema nacional de educación. Este,latam,0.2105263157894737,0,0.0
+Categoría en Commons de Liceo Valentín Letelier de Santiago es,Liceo Valentín Letelier de Santiago,un espacio donde se encuentra una colección de imágenes relacionadas con el L,latam,0.1111111111111111,0,0.0
+Imagen de Liceo Valentín Letelier de Santiago es,"Liceo Valentín Letelier de Santiago, Recoleta, Santiago 20220626.jpg","una escuela con un gran número de estudiantes de bajo ingreso, que",latam,0.1,0,0.0
+Imagen de Maratón de Santiago es,Meta Maratón de Santiago de Chile 2010.jpg,una empresa de marketing y comunicación que se especializa en el desarrollo de estr,latam,0.19047619047619047,0,0.0
+Ubicación de Maratón de Santiago es,Santiago de Chile,"en la ciudad de Santiago, en la Región Metropolitana de",latam,0.30769230769230765,0,0.0
+Situado en la entidad territorial administrativa de línea 3 del Metro de Santiago es,Santiago de Chile,el sector de la capital que más creció en el periodo 20,latam,0.13333333333333333,0,0.0
+Mapa vial de línea 3 del Metro de Santiago es,Línea 3 del Metro de Santiago.svg,"un mapa de la línea 3 del Metro de Santiago, Chile, que",latam,0.5555555555555556,0,0.0
+Ancho de vía de línea 3 del Metro de Santiago es,ancho de vía estándar,de 3.40 m. El ancho de vía de,latam,0.5,0,0.0
+Tipo de electrificación de línea 3 del Metro de Santiago es,electrificación ferroviaria de 750 V,la que utiliza el sistema de alimentación por sobre (catenaria),latam,0.13333333333333333,0,0.0
+Estado de uso de línea 3 del Metro de Santiago es,en funcionamiento,"muy bueno, según el reporte de la empresa de transporte. La línea",latam,0.0,0,0.0
+Red de transporte de línea 3 del Metro de Santiago es,Metro de Santiago,un sistema de transporte subterráneo que conecta la comuna de,latam,0.15384615384615383,0,0.0
+Continente de línea 3 del Metro de Santiago es,América del Sur,"el que más se expande, pero también el que más se encare",latam,0.0,0,0.0
+Término (objeto) de línea 3 del Metro de Santiago es,Fernando Castillo Velasco,"el lugar donde ocurre el primer crimen en la novela ""El",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de línea 6 del Metro de Santiago es,Santiago de Chile,un complejo de oficinas y vivienda con 240,latam,0.18181818181818182,0,0.0
+Término (objeto) de línea 6 del Metro de Santiago es,Los Leones,"el ""Cerro Navia"", pero en la realidad el Cerro Nav",latam,0.0,0,0.0
+Término (objeto) de línea 6 del Metro de Santiago es,Cerrillos,"un error de escritura? ¿Qué significa ""Término""?",latam,0.0,0,0.0
+Mapa vial de línea 6 del Metro de Santiago es,Línea 6 del Metro de Santiago.svg,"un mapa de líneas del metro de Santiago, Chile, que muestra la",latam,0.3333333333333333,0,0.0
+Mapa vial de línea 6 del Metro de Santiago es,Linea 6 Metro de Santiago mapa.png,un mapa que representa las estaciones y las líneas del metro de Santiago,latam,0.3157894736842105,0,0.0
+Estado de uso de línea 6 del Metro de Santiago es,en funcionamiento,'bueno' y 'regular' en zonas de mayor a,latam,0.2,0,0.0
+Red de transporte de línea 6 del Metro de Santiago es,Metro de Santiago,un sistema de transporte subterráneo que conecta la comuna de,latam,0.15384615384615383,0,0.0
+Continente de línea 6 del Metro de Santiago es,América del Sur,"el metro de Santiago, Chile. El metro de Santiago es un sistema de",latam,0.0,0,0.0
+Deporte de Municipal de Santiago es,fútbol,"un club de fútbol de Chile, fundado en 1",latam,0.19999999999999998,1,0.0
+Imagen de Palacio Arzobispal de Santiago es,"Palacio Arzobispal, Santiago 20230310.jpg","un gran edificio religioso, en la ciudad de Santiago de Compost",latam,0.13333333333333333,0,0.0
+Localización informal de Palacio Arzobispal de Santiago es,Compañía N.º 1005 -1039 y Ahumada N.º 402 - 442,un edificio que se encuentra ubicado en la plaza de la Cated,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Palacio Arzobispal de Santiago es,Comuna de Santiago,"el centro de atención primaria de salud de la zona, con un área",latam,0.125,0,0.0
+Categoría en Commons de Palacio Arzobispal de Santiago es,Palacio arzobispal de Santiago,un espacio de imágenes de dominio público relacionadas con el Palacio Ar,latam,0.25,0,0.0
+Uso de Palacio Arzobispal de Santiago es,palacio arzobispal,"un espacio de la ciudad, pero con una función de servicio al pere",latam,0.0,0,0.0
+Imagen de Palacio de la Real Aduana de Santiago es,"Palacio de la Real Aduana, Santiago 20231109.jpg",un palacio que se encuentra en el centro histórico de la ciudad de Santiago,latam,0.38095238095238093,0,0.0
+Situado en la entidad territorial administrativa de Palacio de la Real Aduana de Santiago es,Comuna de Santiago,"el lugar donde se encuentra el Museo de la Aduana, el",latam,0.14285714285714288,0,0.0
+Categoría en Commons de Palacio de la Real Aduana de Santiago es,Palacio de la Real Aduana de Santiago,un archivo que contiene imágenes del Palacio de la Real Aduana de,latam,0.631578947368421,0,0.0
+Categoría en Commons de Teleférico de Santiago es,Teleférico de Santiago,"un conjunto de imágenes del Teleférico de Santiago, un telef",latam,0.4615384615384615,1,0.0
+Término (objeto) de Teleférico de Santiago es,estación Oasis,un término municipal de la comarca de la Ribera del Duero,latam,0.0,0,0.0
+Término (objeto) de Teleférico de Santiago es,estación Cumbre,un término municipal que pertenece a la comarca de la Vega,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Terminal Pesquero de Santiago es,Lo Espejo,"un importante centro de distribución de productos pesqueros en la región,",latam,0.0,0,0.0
+Imagen de Terminal Pesquero de Santiago es,Terminal pesquero Santiago (La Cisterna).jpg,un lugar de paso obligado para los buques que llegan desde las,latam,0.0,0,0.0
+Lista de de Anexo:Estaciones fantasma en el Metro de Santiago es,estación fantasma,"una lista de estaciones fantasma en el Metro de Santiago, Chile,",latam,0.15384615384615385,0,0.0
+Lista de de Anexo:Estaciones fantasma en el Metro de Santiago es,estación de ferrocarril,"una lista de estaciones que existieron en el Metro de Santiago, pero",latam,0.13333333333333333,0,0.0
+Categoría relacionada con la lista de Anexo:Estaciones fantasma en el Metro de Santiago es,Categoría:Estaciones fantasma del Metro de Santiago,":
+A) Anexo:Estaciones del Metro de Santiago
+B)",latam,0.6153846153846153,0,0.0
+Imagen de Funicular de Santiago es,Funicular de Santiago.jpg,el título de una obra del artista contemporáneo chileno Javier,latam,0.15384615384615383,0,0.0
+Localización informal de Funicular de Santiago es,"Ver límites en DE. Cerro San Cristóbal, acceso por Pío Nono","un funicular que conecta el centro de Santiago, Chile, con la",latam,0.09090909090909091,0,0.0
+Situado en la entidad territorial administrativa de Funicular de Santiago es,Providencia,"un barrio de la ciudad de Santiago de Chile, que se ubica",latam,0.0,0,0.0
+Categoría en Commons de Funicular de Santiago es,Funicular de Santiago,el nombre de una categoría en el repositorio de medios Wikimedia Commons que contiene,latam,0.11764705882352941,0,0.0
+Imagen de Centro de Justicia de Santiago es,"Centro de Justicia, Santiago 20230312.jpg",una de las imágenes de los Centros de Justicia de Chile. Es,latam,0.23529411764705882,0,0.0
+Categoría en Commons de Centro de Justicia de Santiago es,Centro de Justicia de Santiago,una categoría que se creó en 2006. La categoría,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Centro de Justicia de Santiago es,Santiago de Chile,"el
+**Tribunal de Cuentas de Santiago, **es",latam,0.4,0,0.0
+Imagen de Teatro Municipal de Santiago es,"Teatro Municipal, Santiago 20230521 01.jpg",la que se muestra en la portada del periódico El Mercur,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Teatro Municipal de Santiago es,Comuna de Santiago,"el lugar donde se realizan las funciones de teatro, ballet, conc",latam,0.14285714285714288,0,0.0
+Categoría en Commons de Teatro Municipal de Santiago es,Teatro Municipal de Santiago,una categoría en el repositorio de medios libres Commons. El objetivo de,latam,0.125,0,0.0
+Categoría en Commons de Museo Arqueológico de Santiago es,Museo Arqueológico de Santiago,una categoría de la Wikipedia en español que reúne imágenes del Museo,latam,0.25,0,0.0
+Situado en la entidad territorial administrativa de Museo Arqueológico de Santiago es,Comuna de Santiago,un museo que se encuentra en la ciudad de Santiago de Compostela,latam,0.26666666666666666,0,0.0
+Situado en la dirección postal de Museo Arqueológico de Santiago es,José Victorino Lastarria #307,"el Museo de la Ciudad de Santiago, que se encuentra en el centro",latam,0.0,0,0.0
+Imagen de Palacio de la Real Audiencia de Santiago es,"Palacio de la Real Audiencia, Santiago 20230521.jpg",la que está en el centro de la imagen. El Palacio de la,latam,0.3,0,0.0
+Galería en Commons de Palacio de la Real Audiencia de Santiago es,Palacio de la Real Audiencia de Santiago,una galería de arte en el Palacio de la Real Audiencia de,latam,0.631578947368421,0,0.0
+Localización informal de Palacio de la Real Audiencia de Santiago es,Plaza de Armas N.º 951,una de las calles más antiguas de la ciudad. La Cal,latam,0.12500000000000003,0,0.0
+Situado en la entidad territorial administrativa de Palacio de la Real Audiencia de Santiago es,Comuna de Santiago,"el edificio más antiguo de la ciudad de San Salvador, en El",latam,0.13333333333333333,0,0.0
+Categoría en Commons de Palacio de la Real Audiencia de Santiago es,Palacio de la Real Audiencia de Santiago,"el nombre de la categoría en el repositorio de medios de Wikimedia, Commons",latam,0.3,0,0.0
+Categoría principal del tema de Palacio de la Real Audiencia de Santiago es,Category:Palacio de la Real Audiencia de Santiago,": 
+A) Arquitectura
+B) Historia
+C",latam,0.0,0,0.0
+Categoría en Commons de Palacio de los Tribunales de Justicia de Santiago es,Palacio de los Tribunales de Justicia de Santiago,"una categoría en el sitio de Wikimedia Commons, donde se pueden subir imágenes",latam,0.09523809523809525,0,0.0
+Imagen de Palacio de los Tribunales de Justicia de Santiago es,2017 Santiago de Chile - Edificio de los Tribunales de Justicia.jpg,"una institución con 175 años de historia, es un ed",latam,0.10000000000000002,0,0.0
+Localización informal de Palacio de los Tribunales de Justicia de Santiago es,"Compañía 1140 (Plaza Montt-Varas, entre Bandera y Morandé)","en la Calle San Martín, 114, Santiago,",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Palacio de los Tribunales de Justicia de Santiago es,Comuna de Santiago,el edificio que alberga los principales órganos del Poder,latam,0.0,0,0.0
+Estatus patrimonial de Biblioteca de Santiago es,Monumento Nacional de Chile,un proyecto de investigación que se desarrolló en el año 200,latam,0.13333333333333333,0,0.0
+Imagen de Biblioteca de Santiago es,"Biblioteca de Santiago, Santiago 20231014.jpg","el nombre de una serie de imágenes de la ciudad de Santiago de Chile,",latam,0.21052631578947364,0,0.0
+Categoría en Commons de Biblioteca de Santiago es,Biblioteca de Santiago,"un espacio de contenido libre, en el que se pueden subir y compartir",latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca de Santiago es,Santiago de Chile,"un espacio cultural, educativo y de divulgación científica, que",latam,0.16666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca de Santiago es,Comuna de Santiago,el espacio físico que ofrece a la comunidad el acceso a los recursos documentales,latam,0.0,0,0.0
+Localización informal de Biblioteca de Santiago es,"Manzana formada por las calles Matucana, Agustinas, Chacabuco y Moneda","una biblioteca ubicada en el barrio de La Cabaña,",latam,0.0,0,0.0
+Categoría en Commons de Mercado Central de Santiago es,Mercado Central de Santiago,"un mercado de frutas, verduras, carnes, pescados",latam,0.36363636363636365,0,0.0
+Imagen de Mercado Central de Santiago es,"Mercado Central, Santiago 20230324.jpg","la primera en su tipo en el mundo, en el contexto del Programa",latam,0.0,0,0.0
+Localización informal de Mercado Central de Santiago es,"Comprende la manzana de Ismael Valdés Vergara, 21 de Mayo, San Pablo y Puente.",en la Plaza de Armas. ¿Es cierto? La localización,latam,0.17391304347826086,0,0.0
+Situado en la entidad territorial administrativa de Mercado Central de Santiago es,Comuna de Santiago,un mercado de abastos que se ubica en la Plaza de Armas,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de línea 4 del Metro de Santiago es,Santiago de Chile,un edificio de uso comercial que tiene un área de 1.0,latam,0.14285714285714288,0,0.0
+Término (objeto) de línea 4 del Metro de Santiago es,Plaza de Puente Alto,"el 25 de marzo de 1987, cuando se",latam,0.16666666666666666,0,0.0
+Mapa vial de línea 4 del Metro de Santiago es,Línea 4 del Metro de Santiago.svg,"una ruta de transporte público que forma parte del Metro de Santiago, que se",latam,0.3,0,0.0
+Estado de uso de línea 4 del Metro de Santiago es,en funcionamiento,"""normal"" para el momento
+El director de operaciones del Metro de",latam,0.0,0,0.0
+Red de transporte de línea 4 del Metro de Santiago es,Metro de Santiago,una red de transporte de superficie y subterráneo que sirve,latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de línea 5 del Metro de Santiago es,Santiago de Chile,"la estación de Metro de San José de Maipo, es la est",latam,0.13333333333333333,0,0.0
+Término (objeto) de línea 5 del Metro de Santiago es,Plaza de Maipú,el punto de convergencia entre las líneas 1 y 2,latam,0.15384615384615383,0,0.0
+Mapa vial de línea 5 del Metro de Santiago es,Línea 5 del Metro de Santiago.svg,un mapa que muestra la red de la Línea 5 del Metro,latam,0.5555555555555556,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,Línea 5,"una estación de metro de la Línea 5, en el",latam,0.33333333333333337,1,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5 del Metro de París,"el ""Metro de la Línea 5"", que es un sistema",latam,0.5,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5,"el metro de Valparaíso, que está hecho de madera y",latam,0.0,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5 (Metro de Bruselas),"el metro de La Serena, que es un sistema de transporte público en el",latam,0.21052631578947364,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5 del Metro de Shanghái,"la línea 5 del metro de Madrid, que es una línea de circ",latam,0.5263157894736842,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5 del Metro de Barcelona,"el Metro de Rancagua, que no está conectado al sistema principal",latam,0.23529411764705885,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5 del Metro de Madrid,"un tipo de tren que no se usa en el metro de Santiago, pero",latam,0.2,0,0.0
+Diferente de de línea 5 del Metro de Santiago es,línea 5 del Metro de Gran Manila,"el transporte de pasajeros en el metro de Valparaíso,",latam,0.25,0,0.0
+Estado de uso de línea 5 del Metro de Santiago es,en funcionamiento,de 93% (80% en la madrugada),latam,0.25,0,0.0
+Red de transporte de línea 5 del Metro de Santiago es,Metro de Santiago,un sistema de transporte subterráneo de la ciudad de Santiago de Chile,latam,0.26666666666666666,0,0.0
+Aplica a la jurisdicción de intendente de la Región Metropolitana de Santiago es,Región Metropolitana de Santiago,la autoridad que tiene competencia en materia de regulación de precios en,latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Tranvías de Santiago es,Santiago de Chile,un sistema de transporte urbano de superficie que circula en la ciudad,latam,0.13333333333333333,0,0.0
+Imagen de Tranvías de Santiago es,Tranvía en Santiago de Chile (1915).jpg,un proyecto de desarrollo de software que se está implementando en el sistema de,latam,0.2,0,0.0
+Ancho de vía de Tranvías de Santiago es,ancho de vía indio,"1.400 mm, que es 1.4 m",latam,0.0,0,0.0
+Ancho de vía de Tranvías de Santiago es,ancho de vía estándar,1.432 mm. ¿Cuál es el ancho,latam,0.2,0,0.0
+Estado de uso de Tranvías de Santiago es,clausurado,"un sistema de transporte público que se encuentra en el centro de la ciudad,",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de línea 2 del Metro de Santiago es,Santiago de Chile,"el punto de encuentro de los vecinos del sector, es una plaza",latam,0.13333333333333333,0,0.0
+Término (objeto) de línea 2 del Metro de Santiago es,Vespucio Norte,un objeto que se encuentra en la estación de metro de la línea,latam,0.0,0,0.0
+Mapa vial de línea 2 del Metro de Santiago es,Línea 2 del Metro de Santiago.svg,"un mapa de transporte público de la ciudad de Santiago de Chile, que muestra",latam,0.1,0,0.0
+Imagen de línea 2 del Metro de Santiago es,Estación Los Héroes - andén L2.jpg,una imagen que representa el metro de santiago de chile. La imagen,latam,0.0,0,0.0
+Estado de uso de línea 2 del Metro de Santiago es,en funcionamiento,"97% de capacidad, según el reporte del Ministerio de",latam,0.0,0,0.0
+Red de transporte de línea 2 del Metro de Santiago es,Metro de Santiago,"el nombre del metro de Santiago de Chile, que fue construido y oper",latam,0.375,1,0.0
+Categoría principal del tema de línea 4A del Metro de Santiago es,Línea 4A del Metro de Santiago,"la infraestructura, como la avenida del Metro, los túne",latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de línea 4A del Metro de Santiago es,Santiago de Chile,"un centro de investigación y desarrollo de la Universidad de Chile, dedicado a",latam,0.25,0,0.0
+Mapa vial de línea 4A del Metro de Santiago es,Línea 4A del Metro de Santiago.svg,una nueva versión del mapa del metro de Santiago que se muestra en el sitio,latam,0.28571428571428575,0,0.0
+Imagen de línea 4A del Metro de Santiago es,Metro en Américo vespucio 01.jpg,"un retrato de un hombre con bigote, barba, camisa",latam,0.0,0,0.0
+Estado de uso de línea 4A del Metro de Santiago es,en funcionamiento,"""muy bueno"" según el informe del ministerio de Obras",latam,0.0,0,0.0
+Red de transporte de línea 4A del Metro de Santiago es,Metro de Santiago,una red de transporte subterráneo que conecta las estaciones de,latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Catedral Metropolitana de Santiago es,Comuna de Santiago,"el
+**municipio de Santiago**. Es el más grande de la",latam,0.30769230769230765,0,0.0
+Diócesis de Catedral Metropolitana de Santiago es,Arquidiócesis de Santiago de Chile,"la diócesis que comprende la ciudad de Santiago, la capital",latam,0.26666666666666666,0,0.0
+Localización informal de Catedral Metropolitana de Santiago es,Plaza de Armas N.º 444,una de las atracciones más visitadas de la capital. El edificio,latam,0.12500000000000003,0,0.0
+Nombrado en referencia a de Catedral Metropolitana de Santiago es,Santiago el Mayor,"un lugar en el que se puede encontrar la Plaza de Armas, la",latam,0.125,0,0.0
+Estilo arquitectónico de Catedral Metropolitana de Santiago es,arquitectura neoclásica,"el siguiente: 
+
+La Catedral Metropolitana de Santiago es",latam,0.0,0,0.0
+Dedicado a de Catedral Metropolitana de Santiago es,Nuestra Señora de la Asunción,un monumento dedicado a la Virgen de la Catedral de,latam,0.26666666666666666,0,0.0
+Imagen de Asilo de las Hermanitas de los Pobres de Santiago es,"Asilo de las Hermanitas de los Pobres, Santiago 20191221 02.jpg",el título del cuadro que pintó José de Ribera en 1,latam,0.09523809523809525,0,0.0
+Situado en la entidad territorial administrativa de Asilo de las Hermanitas de los Pobres de Santiago es,Comuna de Santiago,el centro de salud más antiguo del departamento de Cundinamarca,latam,0.15384615384615383,0,0.0
+Categoría en Commons de Asilo de las Hermanitas de los Pobres de Santiago es,Asilo de las Hermanitas de los Pobres de Santiago,"un espacio en el que se puede subir imágenes, documentos, videos y",latam,0.0,0,0.0
+Deporte de Asociación de Básquetbol de Santiago es,baloncesto,"un equipo de básquetbol femenino de Santiago, Chile, fund",latam,0.0,0,0.0
+Diócesis de Cementerio Católico de Santiago es,Arquidiócesis de Santiago de Chile,una diócesis de la Iglesia católica en Chile. Su,latam,0.2857142857142857,0,0.0
+Categoría en Commons de Cementerio Católico de Santiago es,Cementerio Católico de Santiago,"una categoría de Commons, el repositorio de medios libres, que contiene",latam,0.13333333333333333,0,0.0
+Localización informal de Cuartel General del Cuerpo de Bomberos de Santiago es,"Puente N.º 551 y N.º 599, y Santo Domingo N.º 984 y 998","una ciudad de la región Metropolitana de Chile, en la com",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Cuartel General del Cuerpo de Bomberos de Santiago es,Comuna de Santiago,un edificio de 3 pisos construido en el año 1,latam,0.15384615384615383,0,0.0
+Categoría en Commons de Cuartel General del Cuerpo de Bomberos de Santiago es,Cuartel General del Cuerpo de Bomberos de Santiago,una categoría de la Wikipedia en español. La categoría se compone de,latam,0.2,0,0.0
+Imagen de Cuartel General del Cuerpo de Bomberos de Santiago es,Panoramica Cuartel General del Cuerpo de Bombero de Santiago.jpg,"una foto de un edificio con aspecto militar, con banderas y",latam,0.09999999999999999,0,0.0
+Situado en la entidad territorial administrativa de Villa Olímpica de Santiago es,Ñuñoa,un municipio ubicado en el centro del departamento de Santiago. Su nombre,latam,0.0,0,0.0
+Propiedad de de Material rodante del Metro de Santiago es,Metro de Santiago,"el metro, pero el metro también es una unidad de longitud. ¿Cómo",latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Jardín Japonés de Santiago es,Santiago de Chile,"un espacio dedicado a la celebración de eventos culturales, art",latam,0.15384615384615383,0,0.0
+Categoría en Commons de Jardín Japonés de Santiago es,Jardín Japonés de Santiago,"un espacio de 2000 m², en el que se",latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Seminario Pontificio de Santiago es,Santiago de Chile,"una de las catedrales más importantes del país, y es la",latam,0.14285714285714288,0,0.0
+Imagen de Seminario Pontificio de Santiago es,"Seminario Pontificio Mayor de Santiago, La Florida, Santiago 20240604.jpg",un proyecto de investigación y divulgación del Seminario Pontificio de,latam,0.3157894736842105,0,0.0
+Categoría en Commons de Fuente Alemana de Santiago es,Fuente Alemana de Santiago,el lugar donde se encuentran los archivos de la Fuente Alemana de,latam,0.375,0,0.0
+Imagen de Fuente Alemana de Santiago es,Fuente Alemana parque forestal.jpg,"un municipio de la Provincia de Cuenca, en la Com",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Fuente Alemana de Santiago es,Santiago de Chile,un parque nacional que se encuentra dentro de la cordillera de los,latam,0.13333333333333333,0,0.0
+Ubicación de Fuente Alemana de Santiago es,Parque Forestal de Santiago,"una ciudad en el norte de Chile, en la región de Antof",latam,0.125,0,0.0
+Estatus patrimonial de Museo Ferroviario de Santiago es,Monumento Nacional de Chile,"un desastre, según informes
+En el Museo Ferro",latam,0.0,0,0.0
+Imagen de Museo Ferroviario de Santiago es,"Locomotora chilena 306, año 1911, de vía o trocha ancha, Museo Ferroviario, Santiago de Chile.JPG","un Museo que se encuentra en la ciudad de Santiago de Chile, en",latam,0.28571428571428575,0,0.0
+Categoría en Commons de Museo Ferroviario de Santiago es,Museo Ferroviario de Santiago,la categoría que permite organizar los archivos de la imagen del Museo Fer,latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Aula Magna de la Universidad de Santiago es,Estación Central,un campus universitario que se encuentra en el municipio de San Javier,latam,0.0,0,0.0
+Categoría en Commons de Aula Magna de la Universidad de Santiago es,Aula Magna de la Universidad de Santiago,un conjunto de imágenes de la Aula Magna de la Universidad de Santiago,latam,0.7000000000000001,1,0.0
+Imagen de Aula Magna de la Universidad de Santiago es,Aula Magna Universidad de Santiago de Chile.JPG,una imagen de la Aula Magna de la Universidad de Santiago de Com,latam,0.6,0,0.0
+Situado en la entidad territorial administrativa de Colegio Alemán de Santiago es,Las Condes,un instituto de educación superior cuya misión es formar profesionales,latam,0.0,0,0.0
+Situado en la dirección postal de Colegio Alemán de Santiago es,Nuestra Señora del Rosario 850,un edificio que se construyó en la década de 19,latam,0.0,0,0.0
+Categoría en Commons de Colegio Alemán de Santiago es,Colegio Alemán de Santiago,"un sitio web de archivos multimedia, imágenes y videos en la nube.",latam,0.125,0,0.0
+Imagen de Colegio Alemán de Santiago es,"Colegio Alemán, Vitacura, Santiago 20241116 02.jpg","un colegio alemán en el centro de Santiago, Chile, fund",latam,0.37499999999999994,0,0.0
+Compuesto por de Gobierno Regional Metropolitano de Santiago es,Gobernador regional Metropolitano de Santiago,un organismo autónomo que depende del Ministerio de Interior y,latam,0.13333333333333333,0,0.0
+Compuesto por de Gobierno Regional Metropolitano de Santiago es,Consejo Regional de la Región Metropolitana de Santiago,un organismo de gobierno regional que se encarga de la coordinación y,latam,0.4,0,0.0
+Aplica a la jurisdicción de Gobierno Regional Metropolitano de Santiago es,Región Metropolitana de Santiago,el Consejo de la Magistratura. ¿Qué función tiene? ¿,latam,0.16666666666666666,0,0.0
+Lista de de Anexo:Recorridos de las micros amarillas de Santiago es,línea de autobús,un artículo del diario El Mercurio que se publicó el,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Intendencia Metropolitana de Santiago es,Santiago de Chile,un distrito que se encuentra en la zona central de la capital del país,latam,0.11764705882352941,0,0.0
+Imagen de Intendencia Metropolitana de Santiago es,Intendencia de Santiago 1.jpg,el autor de una denuncia por violencia de género contra un funcionario,latam,0.125,0,0.0
+Conferido por de Premio Municipal de Literatura de Santiago es,Ilustre Municipalidad de Santiago,"el premio más prestigioso del municipio, con un importe",latam,0.0,0,0.0
+Propiedad de de Estación Central de Santiago es,Empresa de los Ferrocarriles del Estado,"un edificio con 134 años de antigüedad, ubic",latam,0.14285714285714288,0,0.0
+Imagen de Estación Central de Santiago es,"Estación Central, Santiago 20230520 02.jpg",una de las imágenes más emblemáticas de Chile. La estación fue constr,latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Estación Central de Santiago es,Estación Central,un centro cultural y de convenciones con capacidad para 1.0,latam,0.0,0,0.0
+Categoría en Commons de Estación Central de Santiago es,Estación Central de Santiago,"una categoría que contiene imágenes de la Estación Central de Santiago, que es",latam,0.47058823529411764,1,0.0
+Operador de Estación Central de Santiago es,EFE Central,"un trabajo que se encuentra en la región Metropolitana, en la",latam,0.0,0,0.0
+Estación de intercambio de Estación Central de Santiago es,Estación Central,"un metro de Santiago, Chile, que se encuentra ubicada en la A",latam,0.0,0,0.0
+Ubicación de Estación Central de Santiago es,Santiago de Chile,":
+La Estación Central de Santiago, también conocida como Estación Central",latam,0.30769230769230765,0,0.0
+Servicio de conexión de Estación Central de Santiago es,Tren Nos-Estación Central,el responsable de la conexión de la red de fibra óptica de,latam,0.0,0,0.0
+Servicio de conexión de Estación Central de Santiago es,Tren Rancagua-Estación Central,un servicio de conexión entre los usuarios que desean conectar sus equipos de red,latam,0.0,0,0.0
+Servicio de conexión de Estación Central de Santiago es,Tren Chillán-Estación Central,"un servicio que ofrece la empresa de telecomunicaciones Movistar, que permite",latam,0.0,0,0.0
+Servicio de conexión de Estación Central de Santiago es,Tren Melipilla-Estación Central,el que se encarga de conectar el metro de Santiago con el transporte público,latam,0.0,0,0.0
+Estación adyacente de Estación Central de Santiago es,Estación Lo Valledor,":
+
+La estación adyacente a la **Estación Central de Santiago",latam,0.16666666666666666,0,0.0
+Estación adyacente de Estación Central de Santiago es,estación Yungay,"la Estación de Metro de San Joaquín, que se encuentra a",latam,0.15384615384615385,0,0.0
+Estación adyacente de Estación Central de Santiago es,Estación Maipú (Chile),":
+
+La estación adyacente a la Estación Central de Santiago,",latam,0.16666666666666666,0,0.0
+Estación adyacente de Estación Central de Santiago es,Estación San Bernardo,"la Estación Bellavista, ¿verdadero o falso?",latam,0.2222222222222222,0,0.0
+Estación adyacente de Estación Central de Santiago es,Estación Central 2,"la estación de Metro de Santiago, Chile, que está ubicada en",latam,0.14285714285714288,0,0.0
+Línea de ferrocarril de Estación Central de Santiago es,Tren Valparaíso-Santiago,"una línea de la Red del Metro de Santiago, que une la Estación",latam,0.0,0,0.0
+Estado de uso de Estación Central de Santiago es,en funcionamiento,un estado de uso de terreno que se define como un área destinada,latam,0.0,0,0.0
+Idioma de la obra o del nombre de Revista de Santiago es,español,"el idioma que se usa para publicar la obra, como un peri",latam,0.0,0,0.0
+Fundador de Revista de Santiago es,José Victorino Lastarria,"un periodista chileno, nacido en 195",latam,0.0,0,0.0
+Mapa vial de línea 7 del Metro de Santiago es,Línea 7 del Metro de Santiago.svg,"un mapa de la Línea 7 del Metro de Santiago, Chile",latam,0.5882352941176471,0,0.0
+Mapa vial de línea 7 del Metro de Santiago es,Linea 7 Metro de Santiago mapa.png,"un mapa que muestra la línea 7 del Metro de Santiago, Chile,",latam,0.4444444444444444,0,0.0
+Situado en la entidad territorial administrativa de línea 7 del Metro de Santiago es,Santiago de Chile,"el metro de la línea 7 en el metro de santiago, el",latam,0.26666666666666666,0,0.0
+Estado de uso de línea 7 del Metro de Santiago es,edificio en construcción,"""regular"" (cortesía de Metro de Santiago)
+El metro",latam,0.0,0,0.0
+Red de transporte de línea 7 del Metro de Santiago es,Metro de Santiago,un sistema de transporte urbano de superficie que une el centro de Santiago,latam,0.25,0,0.0
+Imagen de Parque Forestal de Santiago es,Parque Florestal - Santiago - Chile (14764391608).jpg,"un lugar donde se pueden encontrar animales como el cóndor, el",latam,0.0,0,0.0
+Localización informal de Parque Forestal de Santiago es,"Ver límites en DE. Demarcan un área entre la calle Pío Nono y las construcciones al poniente de la Estación Mapocho, delimitada al N por el eje de la Av. Santa María y por el S por el eje de las calles Merced e Ismael Valdés Vergara.","el lugar donde se encuentra el Parque Forestal de Santiago, en el",latam,0.1694915254237288,0,0.0
+Situado en la entidad territorial administrativa de Parque Forestal de Santiago es,Comuna de Santiago,una de las áreas más importantes del Parque Nacional Natural de Chirib,latam,0.13333333333333333,0,0.0
+Categoría en Commons de Parque Forestal de Santiago es,"Parque Forestal, Santiago de Chile",la que se encuentra en la página de Commons con el mismo nombre. Este,latam,0.10526315789473682,0,0.0
+Propiedad de de Parque Forestal de Santiago es,Ilustre Municipalidad de Santiago,"un espacio natural con una gran biodiversidad, que se encuentra ubicado",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Circuito callejero de Santiago es,Santiago de Chile,"una obra de arte monumental con un valor histórico, cultural, social y ambient",latam,0.125,0,0.0
+Ubicación de Circuito callejero de Santiago es,Parque Forestal de Santiago,"en el centro histórico de la ciudad, entre la plaza de Armas y",latam,0.11764705882352941,0,0.0
+Imagen de Circuito callejero de Santiago es,Baquedano desde Telefónica.jpg,el nombre de la imagen que se muestra. El circuito callejero,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de línea 8 del Metro de Santiago es,Santiago de Chile,"el metro de la línea 8 de Santiago, Chile, que se encuentra",latam,0.4,0,0.0
+Término (objeto) de línea 8 del Metro de Santiago es,Santa Rosa,el lugar donde se encuentra la estación de Metro más antigua de la,latam,0.0,0,0.0
+Término (objeto) de línea 8 del Metro de Santiago es,Los Leones,un espacio de 12 m de ancho por 14 m,latam,0.0,0,0.0
+Mapa vial de línea 8 del Metro de Santiago es,Línea 8 del Metro de Santiago.svg,"un mapa de la Línea 8 del Metro de Santiago, Chile",latam,0.5882352941176471,0,0.0
+Estado de uso de línea 8 del Metro de Santiago es,edificio en construcción,"muy pobre
+La línea 8 del Metro de Santiago, una de",latam,0.0,0,0.0
+Red de transporte de línea 8 del Metro de Santiago es,Metro de Santiago,una red de transporte de superficie que conecta el metro de Santiago con,latam,0.375,1,0.0
+Situado en la entidad territorial administrativa de línea 9 del Metro de Santiago es,Santiago de Chile,"el edificio que se encuentra en la plaza de armas, que es",latam,0.13333333333333333,0,0.0
+Término (objeto) de línea 9 del Metro de Santiago es,Las Parcelas,el que se refiere a un elemento estructural que se encuentra en la,latam,0.0,0,0.0
+Mapa vial de línea 9 del Metro de Santiago es,Línea 9 del Metro de Santiago.svg,"un proyecto que se está desarrollando en Chile, específicamente en la ciudad",latam,0.0,0,0.0
+Estado de uso de línea 9 del Metro de Santiago es,edificio en construcción,"un sistema de transporte en Chile, es el sistema de metro más antiguo",latam,0.125,0,0.0
+Red de transporte de línea 9 del Metro de Santiago es,Metro de Santiago,"un sistema de transporte público de superficie, que conecta el centro de",latam,0.13333333333333333,0,0.0
+Aplica a la jurisdicción de Consejo Regional de la Región Metropolitana de Santiago es,Región Metropolitana de Santiago,un tipo de jurisdicción que se caracteriza por ser de alc,latam,0.13333333333333333,0,0.0
+Compuesto por de Consejo Regional de la Región Metropolitana de Santiago es,consejero de la Consejo Regional Metropolitana de Santiago,un organismo consultivo que se encarga de asesorar al President,latam,0.11111111111111112,0,0.0
+Forma femenina de la etiqueta de consejero de la Consejo Regional Metropolitana de Santiago es,consejera de la Consejo Regional Metropolitana de Santiago,"""Consejera""?
+Sí, la forma femenina",latam,0.3076923076923077,0,0.0
+Subclase de de consejero de la Consejo Regional Metropolitana de Santiago es,legislador,"el cargo de consejero, que se divide en 3 categorías",latam,0.0,0,0.0
+Organización dirigida desde este cargo de Obispo anglicano de Santiago es,diócesis anglicana de Santiago de Chile,el centro de la controversia. La Iglesia anglicana de Chile,latam,0.5,0,0.0
+Situado en la entidad territorial administrativa de Edificio de la Bolsa de Comercio de Santiago es,Comuna de Santiago,el edificio que más se ha construido en el centro de la ciudad,latam,0.125,0,0.0
+Ocupante de Edificio de la Bolsa de Comercio de Santiago es,Bolsa de Comercio de Santiago,un proyecto de arte urbano que se desarrolló en la plaza de la,latam,0.2222222222222222,0,0.0
+Imagen de Edificio de la Bolsa de Comercio de Santiago es,Bolsa De comercio Santiago.jpg,"un lugar emblemático de la ciudad, construido en el siglo X",latam,0.13333333333333333,0,0.0
+Situado en la dirección postal de Edificio de la Bolsa de Comercio de Santiago es,"La Bolsa 84, Santiago, Región Metropolitana de Santiago, Chile","un edificio de uso comercial, con un área de 136",latam,0.10526315789473685,0,0.0
+Subclase de de Intendente de la provincia de Santiago es,intendente provincial de Chile,el cargo que se encarga de la administración y gestión de los recursos,latam,0.11764705882352941,0,0.0
+Subclase de de alcalde de Santiago es,alcalde de Chile,la de alcalde de la ciudad de Santiago de Chile. El al,latam,0.4,0,0.0
+Aplica a la jurisdicción de alcalde de Santiago es,Comuna de Santiago,el área de servicios sociales y en qué consiste? La jurisdicc,latam,0.14285714285714288,0,0.0
+Forma femenina de la etiqueta de alcalde de Santiago es,alcaldesa de Santiago,"""la alcaldesa"" o ""la alcaldesa de Santiago""?",latam,0.6,1,0.0
+Lista del elemento de alcalde de Santiago es,Anexo:Alcaldes de Santiago,"la lista de alcalde de Santiago de Chile, actualmente es el",latam,0.28571428571428575,0,0.0
+Organización dirigida desde este cargo de alcalde de Santiago es,Ilustre Municipalidad de Santiago,la que ha llevado a cabo la instalación del sistema de monitore,latam,0.125,0,0.0
+Categoría principal del tema de alcalde de Santiago es,Categoría:Alcaldes de Santiago (comuna),":
+
+A) Salud  
+B) Educación  
+C) Seguridad",latam,0.0,0,0.0
+Subclase de de concejal de la comuna de Santiago es,concejal de Chile,un organismo que se encarga de la administración de la comuna,latam,0.14285714285714288,0,0.0
+Aplica a la jurisdicción de concejal de la comuna de Santiago es,Comuna de Santiago,la competencia de la administración de recursos humanos de la municipalidad,latam,0.14285714285714288,0,0.0
+Conferido por de Premio Municipal de Artes Escénicas de Santiago es,Ilustre Municipalidad de Santiago,una distinción de la ciudad que se otorga cada año desde,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Plaza Vasca de Santiago es,Santiago de Chile,"un barrio de la comuna de San Antonio, en la Región",latam,0.14285714285714288,0,0.0
+Imagen de Plaza Vasca de Santiago es,"Plaza Vasca, Parque Metropolitano de Santiago 20230423 01.jpg",una aplicación que permite ver la Plaza Vasca de Santiago en 3D,latam,0.4,0,0.0
+Categoría en Commons de Plaza Vasca de Santiago es,"Plaza Vasca, Santiago de Chile",la plaza que está en el centro de la ciudad de Santiago de Compost,latam,0.3157894736842105,0,0.0
+Situado en la entidad territorial administrativa de Placa Memorial GAP en la Intendencia de Santiago es,Comuna de Santiago,una de las ciudades con más población del departamento de San Juan Baut,latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Placa Memorial GAP en la Intendencia de Santiago es,Región Metropolitana de Santiago,un lugar de culto y memoria para los pueblos de la,latam,0.13333333333333333,0,0.0
+Imagen de Placa Memorial GAP en la Intendencia de Santiago es,"Placa Memorial GAP, Santiago 20230309.jpg","un lugar donde se encuentra la Placa Memorial GAP, que fue establec",latam,0.35294117647058826,0,0.0
+Categoría en Commons de Placa Memorial GAP en la Intendencia de Santiago es,Placa Memorial GAP,una categoría de la Wikipedia. ¿Cómo se llama esta categoría en la Wikipedia,latam,0.0,0,0.0
+Categoría en Commons de Edificio de la Bolsa de Comercio de Santiago es,Edificio de la Bolsa de Comercio de Santiago,"una categoría que se creó en 2010, con la",latam,0.11764705882352941,0,0.0
+Imagen de Edificio de la Bolsa de Comercio de Santiago es,"Bolsa de Comercio, Santiago.jpg","un tipo de imagen de edificio, que muestra un edificio de la",latam,0.125,0,0.0
+Estatus patrimonial de Edificio de la Bolsa de Comercio de Santiago es,Monumento Nacional de Chile,un estudio de valoración patrimonial del Edificio de la Bolsa,latam,0.14285714285714288,0,0.0
+Aplica a la jurisdicción de Ilustre Municipalidad de Santiago es,Comuna de Santiago,la autoridad competente para resolver el conflicto de competencia entre el,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Ilustre Municipalidad de Santiago es,Comuna de Santiago,un edificio construido en el año 1934 y es,latam,0.0,0,0.0
+Compuesto por de Ilustre Municipalidad de Santiago es,alcalde de Santiago,un grupo de empresas que se encarga de la gestión de servicios públicos,latam,0.125,0,0.0
+Cargo ocupado por el dirigente de Ilustre Municipalidad de Santiago es,alcalde de Santiago,el que está siendo ocupado por el dirigente de la UDI en,latam,0.13333333333333333,0,0.0
+Imagen de Palacio del Real Tribunal del Consulado de Santiago es,Palacio del Real Tribunal del Consulado de Santiago.jpg,"una imagen de un edificio histórico en la ciudad de Santiago, Chile.",latam,0.1,0,0.0
+Situado en la entidad territorial administrativa de Palacio del Real Tribunal del Consulado de Santiago es,Santiago de Chile,el Palacio de la Real Audiencia del Consulado de Santiago de Chile,latam,0.4,1,0.0
+Nombre oficial de Museo de Bomberos de Santiago es,Museo de Bomberos de Santiago,":
+El nombre oficial del Museo de Bomberos de Santiago es **M",latam,0.625,1,0.0
+Situado en la entidad territorial administrativa de Museo de Bomberos de Santiago es,Comuna de Santiago,"una institución que tiene como misión la protección de la vida, la",latam,0.13333333333333333,0,0.0
+Imagen de Museo de Bomberos de Santiago es,"Campana del Museo de Bomberos, Santiago 20190718 01.jpg",una imagen de museo de bomberos de santiago. The image is,latam,0.4210526315789474,0,0.0
+Propiedad de de Museo de Bomberos de Santiago es,Cuerpo de Bomberos de Santiago,un museo que alberga una gran cantidad de objetos históricos,latam,0.13333333333333333,0,0.0
+Categoría en Commons de Museo de Bomberos de Santiago es,Museo de Bomberos de Santiago,"una categoría en el repositorio de medios de Wikimedia, Commons, dedicada",latam,0.25000000000000006,0,0.0
+Ubicación de Festival de Autores de Santiago es,Santiago de Chile,"en el Paseo de los Artistas, en el corazón del bar",latam,0.14285714285714288,0,0.0
+Categoría en Commons de Festival de Autores de Santiago es,Festival de Autores de Santiago,una categoría en el repositorio de medios Wikimedia Commons. Se usa para categor,latam,0.1111111111111111,0,0.0
+Imagen de Festival de Autores de Santiago es,FAS 20181109 venta libros fRF03.jpg,"una imagen de archivo de la que se desconoce la autoria, que",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Museo Colegio Alemán de Santiago es,Las Condes,"un centro educativo con más de 100 años de historia,",latam,0.0,0,0.0
+Situado en la dirección postal de Museo Colegio Alemán de Santiago es,"Nuestra Señora del Rosario 850, Las Condes","el Museo del Aire, el cual se encuentra en el antiguo",latam,0.1111111111111111,0,0.0
+Estado de uso de Nuevo Museo de Santiago es,edificio en construcción,de 99% y en el área de gestión cultural se encuentra en,latam,0.13333333333333333,0,0.0
+Ubicación de Protesta homosexual en la Plaza de Armas de Santiago es,Plaza de Armas de Santiago,una protesta que se realizó en la Plaza de Armas de Santiago,latam,0.5882352941176471,1,0.0
+Ubicación de XXX Feria Internacional del Libro de Santiago es,Santiago de Chile,el primer evento del año y se celebra en la capital de la Reg,latam,0.11764705882352941,0,0.0
+Serie de XXX Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,una feria de libros que se celebrará en el Parque de la,latam,0.2222222222222222,0,0.0
+Título de XXX Feria Internacional del Libro de Santiago es,XXX Feria Internacional del Libro de Santiago,"el libro ""La vida es un libro"" de la escritora santi",latam,0.2222222222222222,0,0.0
+Sucedido por de XXX Feria Internacional del Libro de Santiago es,XXXI Feria Internacional del Libro de Santiago,el evento más importante del año en el ámbito cultural de la ciudad. C,latam,0.19047619047619047,0,0.0
+Subclase de de Gobernador regional Metropolitano de Santiago es,Gobernador regional de Chile,el cargo de gobernador regional que se encarga de la administración,latam,0.39999999999999997,0,0.0
+Subclase de de Gobernador regional Metropolitano de Santiago es,jefe del Gobierno,"el Gobernador Regional Metropolitano de Santiago, el cual",latam,0.0,0,0.0
+Aplica a la jurisdicción de Gobernador regional Metropolitano de Santiago es,Región Metropolitana de Santiago,"el siguiente caso: Un ciudadano de nacionalidad chilena, resident",latam,0.15384615384615383,0,0.0
+Ubicación de XXXII Feria Internacional del Libro de Santiago es,Santiago de Chile,"el 12 de mayo de 2018, la Fer",latam,0.18181818181818182,0,0.0
+Serie de XXXII Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,la que se celebrará del 15 al 18 de nov,latam,0.25,0,0.0
+Título de XXXII Feria Internacional del Libro de Santiago es,XXXII Feria Internacional del Libro de Santiago,el libro de la escritora gallega M.ª del Carmen V,latam,0.3529411764705882,0,0.0
+Sucedido por de XXXII Feria Internacional del Libro de Santiago es,XXXIII Feria Internacional del Libro de Santiago,"el XXXIII Feria Internacional del Libro de Santiago, que se celebr",latam,0.7777777777777778,1,0.0
+Imagen de XXXII Feria Internacional del Libro de Santiago es,Canciller Ricardo Patiño visita stand de Ecuador en la XXXII Feria Internacional del Libro de Santiago (8128532496).jpg,"una imagen de la feria del libro de Santiago de Compostela,",latam,0.5,0,0.0
+Precedido por de XXXII Feria Internacional del Libro de Santiago es,XXXI Feria Internacional del Libro de Santiago,el momento de celebrar la XXXIII Feria Internacional del Libro de,latam,0.5555555555555556,0,0.0
+Invitado de honor de XXXII Feria Internacional del Libro de Santiago es,Ecuador,"el escritor y periodista mexicano
+**Fernando del",latam,0.0,0,0.0
+Ubicación de XXXIII Feria Internacional del Libro de Santiago es,Santiago de Chile,en el Parque de la Catedral de Santiago de Compostela,latam,0.30769230769230765,0,0.0
+Serie de XXXIII Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,un evento que se celebrará del 15 al 19 de,latam,0.25,0,0.0
+Título de XXXIII Feria Internacional del Libro de Santiago es,XXXIII Feria Internacional del Libro de Santiago,"""Santiago, la capital del libro""
+La Feria Internacional del Lib",latam,0.588235294117647,0,0.0
+Sucedido por de XXXIII Feria Internacional del Libro de Santiago es,XXXIV Feria Internacional del Libro de Santiago,"el XXXIV, que se celebrará del 11 al 1",latam,0.25,0,0.0
+Precedido por de XXXIII Feria Internacional del Libro de Santiago es,XXXII Feria Internacional del Libro de Santiago,el momento de presentar la XXXIV Feria del Libro de Santiago,latam,0.5555555555555556,0,0.0
+Ubicación de XXXVI Feria Internacional del Libro de Santiago es,Santiago de Chile,"en el Parque de las Ciencias, en la ciudad de Santiago de",latam,0.26666666666666666,0,0.0
+Serie de XXXVI Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,el título de una novela de la escritora chilena María José,latam,0.11764705882352942,0,0.0
+Título de XXXVI Feria Internacional del Libro de Santiago es,XXXVI Feria Internacional del Libro de Santiago,"""Un mundo de lectura"" y el lema es ""Leer",latam,0.125,0,0.0
+Sucedido por de XXXVI Feria Internacional del Libro de Santiago es,XXXVII Feria Internacional del Libro de Santiago,"el evento de literatura más importante del sur de Chile, con una importante",latam,0.2,0,0.0
+Precedido por de XXXVI Feria Internacional del Libro de Santiago es,XXXV Feria Internacional del Libro de Santiago,el momento de presentar la Feria del Libro de la Universidad de,latam,0.4210526315789474,0,0.0
+Imagen de XXXVI Feria Internacional del Libro de Santiago es,Ballet Raices de Mexico -FILSA 2016 fRF04.jpg,una exposición de arte que se celebrará del 15 al,latam,0.11764705882352941,0,0.0
+Invitado de honor de XXXVI Feria Internacional del Libro de Santiago es,México,"el escritor y periodista cubano, Mario R. Sánchez.",latam,0.0,0,0.0
+Ubicación de XXXVII Feria Internacional del Libro de Santiago es,Santiago de Chile,"en la Plaza del León, en la capital del país. La fer",latam,0.0,0,0.0
+Serie de XXXVII Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,el título de la 37 edición del evento que se celebrará del,latam,0.2222222222222222,0,0.0
+Título de XXXVII Feria Internacional del Libro de Santiago es,XXXVII Feria Internacional del Libro de Santiago,"""De la palabra al mundo"" y la feria se celebrará entre",latam,0.2222222222222222,0,0.0
+Sucedido por de XXXVII Feria Internacional del Libro de Santiago es,XXXVIII Feria Internacional del Libro de Santiago,el evento de la ciudad donde el libro y la lectura son protagonistas,latam,0.2,0,0.0
+Precedido por de XXXVII Feria Internacional del Libro de Santiago es,XXXVI Feria Internacional del Libro de Santiago,el evento que se celebrará del 20 al 24 de,latam,0.23529411764705882,0,0.0
+Ubicación de XXXIV Feria Internacional del Libro de Santiago es,Santiago de Chile,"en la Plaza de la Catedral, en la capital de la Reg",latam,0.13333333333333333,0,0.0
+Serie de XXXIV Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,el título del programa de la Feria del Libro de Santiago de Com,latam,0.5263157894736842,0,0.0
+Título de XXXIV Feria Internacional del Libro de Santiago es,XXXIV Feria Internacional del Libro de Santiago,"""Libro y tecnología: entre el papel y la pantalla"" -",latam,0.125,0,0.0
+Sucedido por de XXXIV Feria Internacional del Libro de Santiago es,XXXV Feria Internacional del Libro de Santiago,el XXXV. El XXXV está siendo celebrado desde el 1,latam,0.11764705882352941,0,0.0
+Precedido por de XXXIV Feria Internacional del Libro de Santiago es,XXXIII Feria Internacional del Libro de Santiago,un evento que se celebra en el marco del Festival de la C,latam,0.2,0,0.0
+Ubicación de XXXV Feria Internacional del Libro de Santiago es,Santiago de Chile,"el Parque de las Naciones, ubicado en la capital del país",latam,0.14285714285714288,0,0.0
+Serie de XXXV Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,el título de la 35 edición de la Feria del Libro,latam,0.4705882352941177,0,0.0
+Título de XXXV Feria Internacional del Libro de Santiago es,XXXV Feria Internacional del Libro de Santiago,"“El libro como puerta del mundo”
+SANTIAGO DE COMPOST",latam,0.5,0,0.0
+Sucedido por de XXXV Feria Internacional del Libro de Santiago es,XXXVI Feria Internacional del Libro de Santiago,el XXXVI que se celebrará del 27 al 30,latam,0.25,0,0.0
+Precedido por de XXXV Feria Internacional del Libro de Santiago es,XXXIV Feria Internacional del Libro de Santiago,el evento de gran relevancia para el mundo del libro y la cultura en,latam,0.2857142857142857,0,0.0
+Invitado de honor de XXXV Feria Internacional del Libro de Santiago es,Noruega,"el escritor mexicano Javier Sicilia, quien participará en la",latam,0.0,0,0.0
+Invitado de honor de XXXV Feria Internacional del Libro de Santiago es,Suecia,"el escritor y editor uruguayo, Juan Carlos Monedero.",latam,0.0,0,0.0
+Ubicación de XXXVIII Feria Internacional del Libro de Santiago es,Santiago de Chile,"el Paseo del Prado (Calle de los Molinos,",latam,0.18181818181818182,0,0.0
+Serie de XXXVIII Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,el título del libro que recoge las imágenes de la edición del año,latam,0.3157894736842105,0,0.0
+Título de XXXVIII Feria Internacional del Libro de Santiago es,XXXVIII Feria Internacional del Libro de Santiago,"""El libro, un mundo en manos de los demás""
+El libro,",latam,0.2222222222222222,0,0.0
+Precedido por de XXXVIII Feria Internacional del Libro de Santiago es,XXXVII Feria Internacional del Libro de Santiago,"el momento de la XXXIX Feria, que se celebrará del",latam,0.3529411764705882,0,0.0
+Serie de XXXI Feria Internacional del Libro de Santiago es,Feria Internacional del Libro de Santiago,"la mejor opción para la industria editorial y el libro en general
+S",latam,0.10526315789473684,0,0.0
+Ubicación de XXXI Feria Internacional del Libro de Santiago es,Santiago de Chile,"en el Parque de la Catedral, Santiago de Compostela",latam,0.3333333333333333,0,0.0
+Título de XXXI Feria Internacional del Libro de Santiago es,XXXI Feria Internacional del Libro de Santiago,"“Libros y lenguas del mundo”.
+La Feria Internacional",latam,0.39999999999999997,0,0.0
+Sucedido por de XXXI Feria Internacional del Libro de Santiago es,XXXII Feria Internacional del Libro de Santiago,"el XXXII Feria Internacional del Libro de Santiago, que se celebr",latam,0.7777777777777778,1,0.0
+Precedido por de XXXI Feria Internacional del Libro de Santiago es,XXX Feria Internacional del Libro de Santiago,el momento de presentar la XXXII Feria Internacional del Libro de,latam,0.5555555555555556,0,0.0
+Subclase de de Delegado presidencial de la Región Metropolitana de Santiago es,delegado presidencial regional de Chile,una figura que se crea como parte de la estructura de gobierno de la,latam,0.10526315789473682,0,0.0
+Aplica a la jurisdicción de Delegado presidencial de la Región Metropolitana de Santiago es,Región Metropolitana de Santiago,el Ministerio Público de la Defensa. ¿Está bien eso?,latam,0.15384615384615383,0,0.0
+Forma femenina de la etiqueta de Delegado presidencial de la Región Metropolitana de Santiago es,delegada presidencial regional metropolitana de Santiago,":  La forma femenina de la etiqueta ""Delegado",latam,0.15384615384615383,0,0.0
+Titular del cargo de Delegado presidencial de la Región Metropolitana de Santiago es,Constanza Martínez,"el Sr. Rodrigo Soto, quien está encargado de la coordin",latam,0.0,0,0.0
+Subclase de de Festival Internacional de Documentales de Santiago es,evento cultural,la 16.ª edición del Festival de Cine Documental de,latam,0.0,0,0.0
+Ubicación de Festival Internacional de Documentales de Santiago es,Santiago de Chile,en la capital de Chile. ¿Cuál es el nombre de esta ciudad,latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Festival Internacional de Documentales de Santiago es,Santiago de Chile,"una ciudad del estado de Miranda, Venezuela. El Festival Internacional de Documentales",latam,0.13333333333333333,0,0.0
+Título de Festival Internacional de Documentales de Santiago es,Festival Internacional de Documentales de Santiago,"para el documental
+**“El río de los sueños”",latam,0.14285714285714288,0,0.0
+Estrellas de un hotel de NH Ciudad de Santiago es,hotel de 4 estrellas,un hotel de 3 estrellas con un precio por noche de 1,latam,0.375,0,0.0
+Situado en la entidad territorial administrativa de NH Ciudad de Santiago es,Santiago de Chile,un centro de educación básica con 800 estudiantes y 52,latam,0.15384615384615383,0,0.0
+Imagen de NH Ciudad de Santiago es,NH Ciudad de Santiago.jpg,un proyecto de desarrollo urbano que incluye la construcción de un centro comercial,latam,0.11764705882352941,0,0.0
+Nombre oficial de Parque nacional Glaciares de Santiago es,Parque Nacional Glaciares de Santiago,"Parque Nacional Glaciares, en honor a la ciudad de Santiago,",latam,0.6666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Parque nacional Glaciares de Santiago es,Región Metropolitana de Santiago,"un parque nacional de Argentina, en la provincia de Santa Cruz, en",latam,0.125,0,0.0
+Situado en la entidad geográfica de Parque nacional Glaciares de Santiago es,Cajón del Maipo,un lago de aguas cristalinas que se encuentra en el,latam,0.0,0,0.0
+Categoría en Commons de Parque nacional Glaciares de Santiago es,Glaciares de Santiago National Park,"un grupo de archivos que se compone de imágenes de la naturaleza,",latam,0.11764705882352941,0,0.0
+Situado en la dirección postal de Museo Judío Alemán de Santiago es,Mar Jónico 8880,el museo de la comunidad judía en el centro de la capital ch,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Instituto Profesional de Santiago es,Santiago de Chile,"un centro educativo privado de carácter católico, con más de",latam,0.15384615384615383,0,0.0
+Subclase de de Consejero Regional Metropolitano de Santiago es,gobierno regional de Chile,"el cargo de consejero regional, el cual se crea en el mar",latam,0.25,0,0.0
+Aplica a la jurisdicción de Consejero Regional Metropolitano de Santiago es,Región Metropolitana de Santiago,"el Consejo Regional Metropolitano de Santiago, que se encarga",latam,0.30769230769230765,0,0.0
+Situado en la entidad territorial administrativa de Jardín chino de Santiago es,Santiago de Chile,"el Parque Metropolitano de Santiago, un parque urbano",latam,0.36363636363636365,0,0.0
+Categoría en Commons de Jardín chino de Santiago es,Jardín chino de Santiago,"un espacio de aproximadamente 1000 metros cuadrados,",latam,0.18181818181818182,0,0.0
+Imagen de Jardín chino de Santiago es,Paifang Jardín Chino de Santiago.jpg,una imagen de un jardín de estilo chino ubicado en la,latam,0.37499999999999994,0,0.0
+Situado en la entidad territorial administrativa de Club Suizo de Santiago es,Ñuñoa,"un espacio comunitario de convivencia, recreación y aprendiz",latam,0.0,0,0.0
+Categoría en Commons de Club Suizo de Santiago es,Club Suizo de Santiago,una categoría en el repositorio de medios Wikimedia Commons. Se utiliza para categor,latam,0.11764705882352941,0,0.0
+Situado en la dirección postal de Museo Judío Alemán de Santiago es,"Mar Jónico 8880, 7640282 Vitacura, Chile",el siguiente: Av. Almirante Montt 2500,latam,0.0,0,0.0
+Ubicación de Cárcel de Alta Seguridad de Santiago es,Comuna de Santiago,"en la comuna de Santiago, en la Región Metropolitana",latam,0.5,1,0.0
+"Situado en la entidad territorial administrativa de Tiltil, patio trasero de Santiago es",Región Metropolitana de Santiago,el lugar de nacimiento de la primera y más famosa estatua,latam,0.13333333333333333,0,0.0
+Operador de Centro Penitenciario Femenino de Santiago es,Gendarmería de Chile,una empresa en la cual se trabaja con personas en situación de vulnerabilidad,latam,0.125,0,0.0
+Propiedad de de Centro Penitenciario Femenino de Santiago es,Gendarmería de Chile,"un espacio de reeducación, donde se busca la transformación del ser",latam,0.14285714285714288,0,0.0
+Categoría en Commons de Centro Penitenciario Femenino de Santiago es,Centro Penitenciario Femenino de Santiago,"una categoría en Commons con el siguiente texto descriptivo:
+
+Categoría",latam,0.0,0,0.0
+Imagen de Centro Penitenciario Femenino de Santiago es,"Centro Penitenciario Femenino de Santiago, San Joaquín, Santiago 20240604 01.jpg","una imagen de un centro penitenciario en Santiago, Chile. El",latam,0.4000000000000001,0,0.0
+Situado en la entidad territorial administrativa de Villa Panamericana de Santiago es,Cerrillos,"un municipio en el departamento de La Guajira, en el nor",latam,0.0,0,0.0
+Categoría en Commons de Villa Panamericana de Santiago es,Villa Panamericana de Santiago,una categoría de la Wikipedia en español que contiene archivos relacionados con Villa Pan,latam,0.22222222222222224,0,0.0
+Imagen de Villa Panamericana de Santiago es,"Presidente de la República, Gabriel Boric, inaugura la Villa Panamericana que recibirá a los deportistas de los Juegos Panamericano y Parapanamericanos Santiago 2023 - 53187931548.jpg",un proyecto que busca desarrollar un modelo de vivienda social de baja dens,latam,0.16216216216216217,0,0.0
+Situado en la entidad territorial administrativa de Centro Vasco de Santiago es,Comuna de Santiago,"un centro de salud comunitario de carácter privado, que brinda",latam,0.15384615384615383,0,0.0
+Imagen de Casa Griega de Santiago es,Casa Griega de Santiago.jpg,"la casa de la familia de la presidenta de la República, Michelle B",latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Casa Griega de Santiago es,Comuna de Santiago,una plaza de mercado con más de 100 años de historia.,latam,0.14285714285714288,0,0.0
+FilmFreeway ID de Festival de Largos y Cortos de Santiago es,felacos,un festival de cine en el que participan los estudiantes de la Universidad de,latam,0.0,0,0.0
+Identificador en Facebook de Festival de Largos y Cortos de Santiago es,Festival-de-Largos-y-Cortos-de-Santiago-felacos-346773195703194,: **facebook.com/groups/509286166,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Mural de Santiago es,Santiago de Chile,un centro de salud con un servicio de urgencias atiende a la,latam,0.13333333333333333,0,0.0
+Imagen de Mural de Santiago es,Mural de Santiago.jpg,"una empresa dedicada a la realización de murales, pinturas en",latam,0.15384615384615383,0,0.0
+Imagen de Stadio Italiano de Santiago es,"Stadio Italiano, Las Condes, Santiago 20211024 02.jpg","un estadio de fútbol ubicado en Santiago, Chile.",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Stadio Italiano de Santiago es,Las Condes,un estadio de fútbol ubicado en la ciudad de Santiago,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Primera Iglesia Evangélica Bautista de Santiago es,Comuna de Santiago,el proyecto que busca unir el mundo académico con el mundo labor,latam,0.0,0,0.0
+Religión de Primera Iglesia Evangélica Bautista de Santiago es,Iglesias Bautistas en Chile,"un grupo religioso con sede en Santiago, Chile. La iglesia fue",latam,0.26666666666666666,0,0.0
+Imagen de Primera Iglesia Evangélica Bautista de Santiago es,"Primera Iglesia Evangélica Bautista, Santiago 20231221.jpg","la iglesia más antigua de Chile, fundada el 13",latam,0.13333333333333333,0,0.0
+Situado en la dirección postal de Primera Iglesia Evangélica Bautista de Santiago es,"Compañía de Jesús 1730, 8340406",la casa de la familia de la Serna. La casa fue construida,latam,0.11764705882352941,0,0.0
+"Situado en la entidad territorial administrativa de Conflicto socioambiental por central hidroeléctrica Guayacán, San José de Maipo, Región Metropolitana de Santiago es",Región Metropolitana de Santiago,un proyecto de desarrollo que se enmarca en el plan de desarrollo del gobierno,latam,0.11111111111111112,0,0.0
+"Situado en la entidad territorial administrativa de Conflicto socioambiental por central hidroeléctrica Alto Maipo, Región Metropolitana de Santiago es",Región Metropolitana de Santiago,"una zona que, por su ubicación estratégica, posee una alta",latam,0.0,0,0.0
+Categoría en Commons de Estadio Militar de Santiago es,Estadio Militar de Santiago,"un estadio de fútbol ubicado en Santiago, Chile.",latam,0.5,0,0.0
+Imagen de Estadio Militar de Santiago es,"Estadio Militar, Santiago 20230312 01.jpg",el nombre de un proyecto que se está desarrollando en el municipio de,latam,0.0,0,0.0
+Lugar de formación de Orquesta Filarmónica de Santiago es,Santiago de Chile,":
+
+La Orquesta Filarmónica de Santiago, también conocida como",latam,0.36363636363636365,0,0.0
+Situado en la entidad territorial administrativa de Primera Iglesia Metodista de Santiago es,Comuna de Santiago,un edificio religioso de estilo neogótico construido en el,latam,0.16666666666666666,0,0.0
+Categoría en Commons de Primera Iglesia Metodista de Santiago es,Primera Iglesia Metodista de Santiago,"el nombre de una categoría de la Wikipedia en español, en la cual se",latam,0.10526315789473682,0,0.0
+Imagen de Primera Iglesia Metodista de Santiago es,Primera Iglesia Metodista de Santiago.jpg,"la que se muestra en esta nota, pero el edificio actual fue constr",latam,0.0,0,0.0
+Red de transporte de Línea A del Metro de Santiago es,Metro de Santiago,una red de transporte subterráneo que forma parte del Metro de Santiago,latam,0.4,1,0.0
+Situado en la entidad territorial administrativa de Línea A del Metro de Santiago es,Santiago de Chile,"el metro de Santiago. Consta de 14 estaciones,",latam,0.36363636363636365,0,0.0
+Estado de uso de Línea A del Metro de Santiago es,edificio en construcción,"bueno, según reporte de la empresa
+El director general del Metro de",latam,0.0,0,0.0
+Red de transporte de línea 10 del Metro de Santiago es,Metro de Santiago,una red de transporte subterráneo de la ciudad de Santiago de Chile,latam,0.26666666666666666,0,0.0
+Estado de uso de línea 10 del Metro de Santiago es,estructura o edificio propuesto,"100% operativo
+
+La Línea 10",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Novena Compañía del Cuerpo de Bomberos de Santiago es,Santiago de Chile,un grupo de bomberos que se encarga del rescate de personas y,latam,0.13333333333333333,0,0.0
+Idioma de la película o programa de televisión de Días de Santiago es,español,":
+
+El idioma de la película o programa de televisión ""Días",latam,0.0,0,0.0
+Título de Días de Santiago es,Días de Santiago,"una película de 1959, dirigida por José Antonio N",latam,0.16666666666666666,0,0.0
+Clasificación CNC (Francia) de Días de Santiago es,todos los públicos,"un evento de nivel 2, en la categoría de ""Fiestas",latam,0.0,0,0.0
+Distribución de Días de Santiago es,vídeo bajo demanda,"una empresa que se dedica a la venta de entradas para eventos,",latam,0.0,0,0.0
+Idioma de la obra o del nombre de La investidura del hábito de Santiago es,español,"el idioma del texto de la obra, y el idioma del título",latam,0.0,0,0.0
+Imagen de Santiago es,"Rio Upano, Logroño.jpg","una empresa dedicada a la producción de imágenes en 3D, con",latam,0.0,0,0.0
+Desembocadura del curso de agua de Santiago es,Marañón,"en el río:
+
+A)  Tajo
+
+B)",latam,0.0,0,0.0
+País de Santiago es,Ecuador,"una tierra de contrastes. Al norte, el paisaje es",latam,0.0,0,0.0
+Categoría en Commons de Santiago es,Río Santiago (Marañón),"un proyecto de categorización en Commons, la biblioteca de medios de Wikimedia",latam,0.0,0,0.0
+Cuenca hidrográfica de Santiago es,cuenca hidrográfica del Amazonas,un área geográfica en la que convergen los cursos de agua que,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Condorcanqui,un edificio de estilo moderno que se erige sobre una base que,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Distrito de Santiago es,Provincia de Cusco,un centro de salud de la red pública de salud del país.  Su,latam,0.125,0,0.0
+Imagen de Distrito de Santiago es,"Municipalidad Distrital de Santiago, Cusco.jpg",una empresa dedicada a la fabricación y comercialización de productos de interés,latam,0.11764705882352941,0,0.0
+Comparte fronteras con de Distrito de Santiago es,Distrito de San Sebastián,"el Distrito de La Unión, ¿verdad?
+
+No, no",latam,0.3333333333333333,0,0.0
+Órgano legislativo de Distrito de Santiago es,Municipalidad Distrital de Santiago,"la Asamblea Municipal, que está compuesta por 15 mi",latam,0.0,0,0.0
+Comparte fronteras con de Santiago es,Distrito de Ocucaje,la capital de la region de O'Higgins. ¿Cuál es el,latam,0.15384615384615383,0,0.0
+Comparte fronteras con de Santiago es,Distrito de Pueblo Nuevo,"un país de América del Sur, con una población de aproximadamente 1",latam,0.125,0,0.0
+Comparte fronteras con de Santiago es,Distrito de Pachacútec,"una de las ciudades más grandes de Chile, y se encuentra ubicada",latam,0.13333333333333333,0,0.0
+Comparte fronteras con de Santiago es,Distrito de Yauca del Rosario,con el departamento de Antioquia y con el departamento de Risaral,latam,0.12500000000000003,0,0.0
+Comparte fronteras con de Santiago es,Distrito de Changuillo,"el país que esta al norte de Chile, es el segundo país que",latam,0.125,0,0.0
+Estatus patrimonial de Plaza e iglesia de Santiago es,parte de un sitio Patrimonio de la Humanidad,el título de un artículo publicado en el periódico mexicano,latam,0.22222222222222224,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Distrito de Chalaco,el primer edificio de oficinas en la historia de la ciudad.,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Provincia de Morropón,el único centro de salud con atención integral a la población de los municipios,latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Distrito de Suyo,un parque natural que fue fundado en el año 198,latam,0.0,0,0.0
+Categoría en Commons de Plaza de Santiago es,Plaza de Santiago (Cusco),"un espacio de archivos digitales con contenido libre, accesible a todos.",latam,0.13333333333333333,0,0.0
+Imagen de Plaza de Santiago es,Plaza de Santiago Cusco 02.jpg,"el nombre de un barrio en la ciudad de Buenos Aires, Argentina.",latam,0.11764705882352941,0,0.0
+Idioma de la película o programa de televisión de Lina de Lima es,español,":
+El idioma de la película o programa de televisión de Lina",latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Lina de Lima es,lenguas quechuas,el idioma original del contenido. How do you say this in Spanish?,latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Santa Rosa de Lima es,español,":
+El idioma de la película o programa de televisión de **Santa",latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Reducto. La última lí­nea de defensa de Lima es,español,"un barrio que no tiene salida, donde se juntan los margin",latam,0.0,0,0.0
+El director de Reducto. La última lí­nea de defensa de Lima es,Hamilton Segura Farfán,"un ex soldado de 45 años, que vive en un bar",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca Pública Municipal Santa Rosa de Lima es,Santa Rosa de Lima,"una institución cultural que se encarga de la gestión, conservación y",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Centro histórico de Lima es,Rí­mac,"el edificio que fue construido durante el siglo XIX, con",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Lima es,Departamento de San Pedro,"la ciudad más importante del país y la capital del departamento de Lima, es",latam,0.22222222222222224,0,0.0
+Situado en la entidad territorial administrativa de Santa Rosa de Lima es,Provincia de Esteban Arze,"un municipio del departamento de Antioquia, Colombia, que tiene una",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Distrito de Santa Rosa de Lima es,Departamento de La Unión,un centro de salud público y comunitario de primer nivel de atención que,latam,0.11764705882352941,0,0.0
+Estación adyacente de Lima es,Sáenz Peña,":
+A. Pachacámac  
+B. Miraflores",latam,0.0,0,0.0
+Línea de ferrocarril de Lima es,línea A,"una empresa privada con 50 años de historia, que presta",latam,0.0,0,0.0
+Categoría en Commons de Lima es,Lima (Subte de Buenos Aires),"un sistema de categorización de imágenes de la ciudad de Lima, Perú",latam,0.23529411764705882,0,0.0
+Imagen de Lima es,Estación Lima del Subterráneo de Bs As.jpg,el título de la exposición que se presentará del 24 de,latam,0.2222222222222222,0,0.0
+Instalaciones de Lima es,máquina de boletos,"una empresa peruana dedicada a la instalación de sistemas de seguridad,",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Lima es,Buenos Aires,"el segundo río más extenso de Perú, con 12",latam,0.0,0,0.0
+Situado en la calle de Lima es,Avenida de Mayo,"un local con un diseño contemporáneo, con amplios ventanales que",latam,0.0,0,0.0
+Estación de intercambio de Lima es,Avenida de Mayo,"la estación de tren más antigua de Lima, Perú. Es",latam,0.15384615384615383,0,0.0
+Estado de uso de Lima es,en funcionamiento,"una empresa que se dedica a la
+producción de cemento.",latam,0.0,0,0.0
+Red de transporte de Lima es,Subte de Buenos Aires,"una empresa que presta servicios de transporte en la ciudad de Lima, Per",latam,0.11764705882352941,0,0.0
+Panel del nombre del lugar de Lima es,Estación Lima 04.jpg,una plaza central que fue construida en la época colonial y tiene una fu,latam,0.0,0,0.0
+Título de Lina de Lima es,Lina de Lima,una novela de ciencia ficción escrita por la autora arg,latam,0.15384615384615383,0,0.0
+Idioma de la película o programa de televisión de Lina de Lima es,español,": ""Telenovela"" (Spanish) – What's the answer",latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Lina de Lima es,lenguas quechuas,el idioma que se utiliza para emitir la película o programa de televis,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de basílica Santuario de Santa Rosa de Lima es,Buenos Aires,un lugar que data desde el siglo XIX. Este lugar fue constr,latam,0.0,0,0.0
+Estilo arquitectónico de basílica Santuario de Santa Rosa de Lima es,arquitectura bizantina,un estilo arquitectónico que combina elementos de la arquitect,latam,0.0,0,0.0
+Diócesis de basílica Santuario de Santa Rosa de Lima es,Arquidiócesis de Buenos Aires,una diócesis de la Iglesia católica en el Perú,latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Quebrada de Lima es,Provincia de San Juan,el municipio más pequeño del país. Se encuentra a 30 km,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca Popular Santa Rosa de Lima es,Las Cañas,"una institución pública que brinda servicios de información, educación, cultura y",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Museo de Arte Religioso Santa Rosa de Lima es,Santa Rosa de Calamuchita,un museo de arte religioso ubicado en la ciudad de San José,latam,0.125,0,0.0
+Imagen de Museo de Arte Religioso Santa Rosa de Lima es,Capilla Vieja Santa Rosa de Calamuchita.jpg,una exposición de arte religioso que se encuentra en la ciudad de Santa,latam,0.21052631578947367,0,0.0
+Situado en la dirección postal de Museo de Arte Religioso Santa Rosa de Lima es,"Libertad esq. Juana de Fernández, Santa Rosa de Calamuchita (X5196)","un museo de arte religioso en la ciudad de San Salvador, El",latam,0.1818181818181818,0,0.0
+Diócesis de Iglesia de Santa Rosa de Lima es,diócesis de San Marcos de Arica,"un rito en la Iglesia católica, que está bajo la jur",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Iglesia de Santa Rosa de Lima es,General Lagos,"un edificio de estilo neoclásico, construido entre los años",latam,0.0,0,0.0
+Categoría principal del tema de Universidad de Lima es,Categoría:Universidad de Lima,"la educación superior, pero también abarca áreas como la investigación, la",latam,0.0,0,0.0
+Categoría en Commons de Universidad de Lima es,Universidad de Lima,una categoría de la Wikipedia en español que contiene imágenes y archivos multimedia relacionados,latam,0.11764705882352941,0,0.0
+Logotipo de Universidad de Lima es,Universidad de Lima logo.svg,"un logotipo de la Universidad de Lima, Perú. El log",latam,0.4285714285714285,0,0.0
+Categoría para las personas que estudiaron en esta institución de Universidad de Lima es,Categoría:Alumnado de la Universidad de Lima,un lugar de aprendizaje que se encuentra en el distrito de Lima,latam,0.3333333333333333,0,0.0
+Miembro de de Universidad de Lima es,Centro Interuniversitario de Desarrollo,"un estudiante de derecho, con especialización en derecho internacional. Actualmente",latam,0.14285714285714288,0,0.0
+Ciudad hermana de Lima es,Pescara,la capital de que país? ¿Cuál es el nombre de la capital,latam,0.0,0,0.0
+Ciudad hermana de Lima es,San José,"...?
+
+La ciudad hermana de Lima, Perú, es **C",latam,0.0,0,0.0
+Ciudad hermana de Lima es,Buenos Aires,":  
+A) Quito  
+B) San Salvador  
+C) Mont",latam,0.0,0,0.0
+Ciudad hermana de Lima es,Ciudad de México,la capital del Perú. ¿Cuál es el nombre de esa ciudad,latam,0.28571428571428575,0,0.0
+Categoría principal del tema de Lima es,Categoría:Lima,": 1) Historia, 2) Cultura, 3",latam,0.0,0,0.0
+Banner de Wikiviajes de Lima es,Lima Plaza mayor banner.jpg,una web de viajes que ofrece información sobre los destinos más interesantes,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Lima es,Provincia de Lima,"el segundo centro urbano más importante del país, con 1,4",latam,0.0,0,0.0
+Categoría para las personas que nacieron aquí de Lima es,Categoría:Nacidos en Lima,una categoría que se usa para referirse a personas que nacieron en,latam,0.13333333333333333,0,0.0
+Categoría para las personas que fallecieron aquí de Lima es,Categoría:Fallecidos en Lima,"una categoría de la Wikipedia, que se usa para categorizar artículos sobre",latam,0.0,0,0.0
+Categoría de personas relacionadas de Lima es,Categoría:Personas de Lima,el nombre de un grupo de artistas y escritores que se reú,latam,0.13333333333333333,0,0.0
+Gentilicio de Lima es,Limeño,: ¿Qué es el gentilicio de Lima? ¿Cómo se dice,latam,0.0,0,0.0
+Gentilicio de Lima es,limeñu,el término que se usa para referirse a la gente nacida o,latam,0.0,0,0.0
+Gentilicio de Lima es,limeña,":
+La palabra ""gentilicio"" se refiere al nombre que se",latam,0.0,0,0.0
+Gentilicio de Lima es,limeño,el nombre con el que se conoce a la gente nacida en,latam,0.0,0,0.0
+Fundador de Lima es,Francisco Pizarro,"una película de 2009, basada en la novela",latam,0.0,0,0.0
+Descrito en la fuente de Lima es,Diccionario Enciclopédico Brockhaus y Efron,"el primer museo de arte moderno de Latinoamérica, pero en",latam,0.0,0,0.0
+Descrito en la fuente de Lima es,Pequeño diccionario enciclopédico de Brockhaus y Efron,"una ciudad que se encuentra en el norte de Perú, es la",latam,0.10526315789473685,0,0.0
+Descrito en la fuente de Lima es,Encyclopædia Britannica (11ª edición),"el primer centro de salud de la región, con un área de 1",latam,0.0,0,0.0
+Descrito en la fuente de Lima es,Gran Enciclopedia Soviética (19261947),"el primer sistema de transporte eléctrico del mundo, diseñado para transport",latam,0.0,0,0.0
+Demografía del elemento de Lima es,demografía de Lima,"un sistema de gobierno, el cual se encarga de organizar el poder",latam,0.13333333333333333,0,0.0
+Lista de interés para el proyecto Wikimedia de Lima es,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,un espacio donde se pueden encontrar recursos y herramientas para el desarrollo del proyecto,latam,0.0,0,0.0
+Mapa de localización de Lima es,Regiones del Perú 2002.png,"una herramienta que permite ubicar la ciudad de Lima, capital del Per",latam,0.125,0,0.0
+Identificador de artículo en Vikidia de Lima es,es:Lima,"7293, y se puede encontrar en el índice de art",latam,0.0,0,0.0
+Continente de Lima es,América del Sur,un proyecto de investigación que busca integrar la historia de los pueb,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Barranca,"el distrito de San Isidro, ubicado en la región de",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Cajatambo,"un distrito de la Provincia de Lima, Región de Lima,",latam,0.30769230769230765,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Cañete,"una zona de Lima, Perú, que abarca el distrito",latam,0.16666666666666666,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Canta,"el distrito de Ancón, que está ubicado en la parte n",latam,0.14285714285714288,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Huaral,"el distrito de San Isidro, en el distrito de San",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Huarochirí,"el distrito de San Juan de Miraflores, ¿dó",latam,0.18181818181818182,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Huaura,"el distrito de San Juan de Miraflores, en el Per",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Oyón,"el distrito de Miraflores, que se encuentra en la zona",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,provincia de Yauyos,"el distrito de San Juan de Miraflores, que tiene como",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Departamento de Lima es,Provincia de Lima,"el distrito de San Juan de Miraflores, en la Reg",latam,0.15384615384615383,0,0.0
+Comparte fronteras con de Departamento de Lima es,Departamento de Huánuco,"el departamento de:
+La pregunta está en español y pregunta por el departamento que",latam,0.23529411764705882,0,0.0
+Comparte fronteras con de Departamento de Lima es,Departamento de Junín,"el departamento de San Martín. Es decir, el departamento de San Mart",latam,0.26666666666666666,0,0.0
+Comparte fronteras con de Departamento de Lima es,Departamento de Huancavelica,: 1. Arequipa 2. Ica 3.,latam,0.0,0,0.0
+Comparte fronteras con de Departamento de Lima es,Región Callao,"el departamento de?
+La pregunta es sobre los departamentos que comparten fron",latam,0.0,0,0.0
+Categoría principal del tema de Departamento de Lima es,Categoría:Departamento de Lima,: Ciencias sociales. ¿Correcto? ¿Qué otros temas podría tener,latam,0.0,0,0.0
+Jefe de gobierno de Departamento de Lima es,Ricardo Chavarría Oría,"el encargado de la administración del Departamento de Lima, en",latam,0.0,0,0.0
+Idioma usado de Departamento de Lima es,quechua ayacuchano,Peru. How to say this in Spanish? The sentence you provided is actually,latam,0.0,0,0.0
+Idioma usado de Departamento de Lima es,Quechua del norte de Junín,"el quechua, ¿verdad? ¿Por qué no se usa",latam,0.15384615384615385,0,0.0
+Idioma usado de Departamento de Lima es,quechua de Pacaraos,"el quechua, pero también se habla el castellano.",latam,0.18181818181818182,0,0.0
+Idioma usado de Departamento de Lima es,quechua huanca,"el quechua y el castellano.
+Idioma usado de",latam,0.2,0,0.0
+Idioma usado de Departamento de Lima es,quechua de Yauyos,en el Perú? ¿Y el idioma usado en el Departamento,latam,0.0,0,0.0
+Descrito en la fuente de Departamento de Lima es,Encyclopædia Britannica (11ª edición),"un documento de la Dirección de la Universidad Nacional Mayor de San Marcos,",latam,0.0,0,0.0
+Categoría para las personas que nacieron aquí de Departamento de Lima es,Categoría:Nacidos en el departamento de Lima,"A. limeños
+B. peruanos
+C. lime",latam,0.0,0,0.0
+Categoría para las personas que fallecieron aquí de Departamento de Lima es,Categoría:Fallecidos en el departamento de Lima,una categoría de la Wikipedia que se usa para organizar a los artículos,latam,0.10526315789473684,0,0.0
+Idioma de la obra o del nombre de Anales de la Inquisición de Lima es,español,un título que se le da a un documento histórico que fue redactado,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Ancón,"una localidad en el distrito de La Victoria, provincia de Lima,",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Breña,"el distrito de Huachipa, que se ubica en la parte",latam,0.30769230769230765,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Carabayllo,"un distrito de Perú, en el departamento de Lima, y es",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Chaclacayo,"el distrito de
+**Santa Rosa de Arequipa**, ubicado",latam,0.36363636363636365,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Chorrillos,"un distrito de la región de Lima, Perú, que se encuentra",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de El Agustino,"el distrito de San Isidro, en el distrito de San",latam,0.4285714285714285,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Independencia,"una división administrativa de segunda categoría en el Perú, ubicada",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Jesús María,"el distrito de San Juan de Miraflores, que se ub",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de La Victoria,"el distrito de San Juan de Miraflores, en el dist",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Lurigancho-Chosica,"un distrito peruano ubicado en el departamento de Lima, en el",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Magdalena del Mar,"el distrito de San José de Lourdes, en el departamento de",latam,0.25000000000000006,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Pachacámac,"una localidad del departamento de Lima, en el distrito de San Is",latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Pucusana,el distrito de San Borja. How do you say this sentence in,latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Pueblo Libre,"un distrito peruano del departamento de Lima, ubicado en el dist",latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Puente Piedra,"el distrito de San Isidro, que se encuentra en el dist",latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Punta Hermosa,"el distrito de San Juan de Miraflores, el cual se",latam,0.28571428571428575,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,San Juan de Miraflores,"una división administrativa de segundo nivel de la República del Perú,",latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de San Juan de Lurigancho,"un distrito peruano de la región Lima, ubicado en el dist",latam,0.23529411764705885,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,San Martín de Porres,"un distrito de la región Lima, en el departamento de Lima, Per",latam,0.125,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,San Miguel,"el distrito de Huancayo, en el departamento de Junín.",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Santa María del Mar,"el distrito de San Juan de Miraflores, que se encuentra",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Santa Rosa,"un distrito de la región Lima, en el Perú. How do",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Santiago de Surco,"un distrito peruano, que se encuentra ubicado en el departamento de",latam,0.14285714285714288,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Distrito de Villa El Salvador,"el distrito de
+**San Juan de Miraflores**, que",latam,0.4615384615384615,0,0.0
+Subdividido en (división administrativa) de Provincia de Lima es,Villa María del Triunfo,una subdivisión administrativa que comprende la capital del país y 2,latam,0.13333333333333333,0,0.0
+Categoría principal del tema de Provincia de Lima es,Categoría:Provincia de Lima,": 
+
+Categoría: 
+
+Elije entre estas opciones:
+
+A",latam,0.0,0,0.0
+Comparte fronteras con de Provincia de Lima es,Provincia de Huaral,: a) Arequipa b) Huancavelica c) C,latam,0.0,0,0.0
+Comparte fronteras con de Provincia de Lima es,Provincia de Canta,"la Provincia de:  La Provincia de Lima, en el Per",latam,0.30769230769230765,0,0.0
+Comparte fronteras con de Provincia de Lima es,Provincia de Huarochirí,"la Provincia de
+La Provincia de **Lima** está ubic",latam,0.3333333333333333,0,0.0
+Comparte fronteras con de Provincia de Lima es,Provincia de Cañete,"la Provincia de:  ¿Qué provincia?
+
+La provincia de **L",latam,0.3333333333333333,0,0.0
+Nombre oficial de Provincia de Lima es,Provincia de Lima,": 
+
+La provincia de Lima, también conocida como Lima Metropolit",latam,0.5,1,0.0
+Idioma usado de Provincia de Lima es,quechua ayacuchano,"Peruano, pero en el código de ejemplo, el idioma es español",latam,0.0,0,0.0
+Idioma usado de Provincia de Lima es,Quechua del norte de Junín,"el castellano, con algunas variantes regionales. How do you",latam,0.0,0,0.0
+Idioma usado de Provincia de Lima es,quechua de Pacaraos,"el queco, pero no es el queco que se habla en",latam,0.0,0,0.0
+Idioma usado de Provincia de Lima es,quechua huanca,"el quechua? La Provincia de Lima, que es parte de",latam,0.16666666666666669,0,0.0
+Idioma usado de Provincia de Lima es,quechua de Yauyos,":
+La Provincia de Lima, también conocida como Lima Metropolit",latam,0.16666666666666666,0,0.0
+Órgano legislativo de Provincia de Lima es,Municipalidad Metropolitana de Lima,": 
+
+A) El Congreso de la República
+B) El Conse",latam,0.15384615384615383,0,0.0
+Categoría principal del tema de Arquidiócesis de Lima es,Categoría:Arquidiócesis de Lima,"la religión, específicamente el catolicismo. La arquidi",latam,0.0,0,0.0
+Mapa de localización de Arquidiócesis de Lima es,Arquidiócesis de Lima.svg,una de las 12 arquidiócesis de Perú,latam,0.4,0,0.0
+Comparte fronteras con de Arquidiócesis de Lima es,diócesis del Callao,"la Arquidiócesis de Arequipa, de la cual",latam,0.0,0,0.0
+Comparte fronteras con de Arquidiócesis de Lima es,diócesis de Chosica,la que le da el nombre a la Arquidiócesis de,latam,0.15384615384615383,0,0.0
+Comparte fronteras con de Arquidiócesis de Lima es,Prelatura de Yauyos,el arzobispado más antiguo de Perú. La ciudad,latam,0.18181818181818182,0,0.0
+Comparte fronteras con de Arquidiócesis de Lima es,diócesis de Lurín,"la Arquidiócesis de Arequipa, y con la",latam,0.2,0,0.0
+Imagen de Arquidiócesis de Lima es,Arzobispado de Lima02.jpg,el nombre de un libro que se publicó en 1996,latam,0.15384615384615383,0,0.0
+Idioma usado de Arquidiócesis de Lima es,español,"el quechua, o quechua y español. La Arqu",latam,0.2222222222222222,1,0.0
+Cargo ocupado por el dirigente de Arquidiócesis de Lima es,Arzobispo de Lima,una de las principales figuras del catolicismo peruano. Se enc,latam,0.15384615384615383,0,0.0
+Identificador en Facebook de Arquidiócesis de Lima es,arzobispadodelima,el número 213329154510,latam,0.0,0,0.0
+Reemplaza a de Arquidiócesis de Lima es,Diócesis de Lima,el que más ha crecido en el número de parroquias en,latam,0.14285714285714288,0,0.0
+Ancho de vía de Tranvía de Lima es,ancho de vía estándar,de 1.400 mm. ¿Cuál es el radio,latam,0.18181818181818182,0,0.0
+Estado de uso de Tranvía de Lima es,clausurado,"un proyecto del Museo Histórico del Perú (MHP),",latam,0.0,0,0.0
+Categoría principal del tema de Anexo:Distritos de Lima es,Categoría:Distritos de Lima,"La categoría principal del tema ""Anexo:Distritos de Lima""",latam,0.36363636363636365,0,0.0
+Idioma de la obra o del nombre de Conferencia en el Ateneo de Lima es,español,"el que se toma como base para la traducción.
+El idioma",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Palacio de Justicia de Lima es,Provincia de Lima,un edificio que se encuentra ubicado en el barrio de San Bor,latam,0.13333333333333333,0,0.0
+Imagen de Palacio de Justicia de Lima es,"Palacio De Justicia, Lima, Peru.jpg","un lugar emblemático de la ciudad, ubicado en el centro histórico.",latam,0.12500000000000003,0,0.0
+Imagen de Palacio de Justicia de Lima es,"Palacio de Justicia. Lima, Perú.jpg","el mejor ejemplo de la arquitectura colonial en Lima, Perú",latam,0.26666666666666666,0,0.0
+Ocupante de Palacio de Justicia de Lima es,Corte Suprema de Justicia del Perú,"el primer ministro de Perú, Pedro Pablo Kuczynski,",latam,0.28571428571428575,0,0.0
+Estilo arquitectónico de Palacio de Justicia de Lima es,arquitectura neoclásica,": El Palacio de Justicia de Lima, también conocido como el",latam,0.0,0,0.0
+Estatus patrimonial de Palacio de Justicia de Lima es,Patrimonio Cultural de la Nación,un lugar de interés turístico. How do you say this sentence in English,latam,0.1111111111111111,0,0.0
+Basado en de Palacio de Justicia de Lima es,Palacio de Justicia de Bruselas,un proyecto de arquitectura con un enfoque en la integr,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Catedral de Lima es,Provincia de Lima,el primer edificio construido en el Perú con el método de construcción,latam,0.13333333333333333,0,0.0
+Diócesis de Catedral de Lima es,Arquidiócesis de Lima,un título episcopal en la Iglesia católica. Su sede es la,latam,0.0,0,0.0
+Imagen de Catedral de Lima es,Fachada principal de la Catedral de Lima.jpg,un lugar de peregrinación y un monumento histórico que data,latam,0.11764705882352941,0,0.0
+Arquitecto de Catedral de Lima es,Francisco Becerra Pérez Finchui,un proyecto de investigación que busca explorar y comprender el diseño y construcción,latam,0.0,0,0.0
+Estilo arquitectónico de Catedral de Lima es,Renacimiento,un estilo arquitectónico que se caracteriza por la combinación de,latam,0.0,0,0.0
+Categoría principal del tema de Catedral de Lima es,Categoría:Catedral de Lima,"A. Cultura
+B. Turismo
+C. Educación",latam,0.0,0,0.0
+Estatus patrimonial de Catedral de Lima es,Patrimonio Cultural de la Nación,"una obra que se encuentra en la Biblioteca Nacional de Perú, en",latam,0.23529411764705882,0,0.0
+Localización informal de Catedral de Lima es,Plaza Mayor de Lima.,la catedral de lima que está ubicada en la avenida,latam,0.28571428571428575,0,0.0
+Categoría para las personas enterradas aquí de Catedral de Lima es,Categoría:Sepultados en la Catedral de Lima,"un monumento histórico y religioso ubicado en el corazón de Lima,",latam,0.3529411764705882,0,0.0
+Ubicación de la sede de Bolsa de Valores de Lima es,Edificio de la Bolsa de Valores de Lima,"en el distrito de Miraflores, en la ciudad de Lima",latam,0.4444444444444445,0,0.0
+Idioma de la obra o del nombre de La excomunión de los alcaldes de Lima es,español,"en idioma que? La obra ""La excomunión de los",latam,0.0,0,0.0
+Idioma de la obra o del nombre de La primera campana de Lima es,español,"una obra literaria de tipo novela histórica, escrita por el",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Plaza Mayor de Lima es,Provincia de Lima,el barrio más antiguo de la ciudad. How do you say this,latam,0.13333333333333333,0,0.0
+Imagen de Plaza Mayor de Lima es,"Plaza de Armas, Lima, Peru.jpg","un lugar que se encuentra en el distrito de Lima, en el departamento",latam,0.2222222222222222,0,0.0
+Estatus patrimonial de Plaza Mayor de Lima es,Patrimonio Cultural de la Nación,un tipo de documento que se requiere para la obtención de créditos,latam,0.23529411764705882,0,0.0
+Idioma de la obra o del nombre de Las cuatro PPPP de Lima es,español,un libro que se publicó en 2019 en la editorial,latam,0.0,0,0.0
+Título de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima.,"un título de libro, revista, periódico, etc.?",latam,0.14285714285714285,0,0.0
+Título de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad geográfica de Lima,el que se le da al documento que se publica en el Bolet,latam,0.0,0,0.0
+Nombre del autor de Boletín de la Sociedad geográfica de Lima es,Sociedad Geográfica de Lima,"el que escribe ""La tierra y el hombre en la costa del",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1189soci,": 158377993
+El identificador",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1019soci,SGO229848852. El Bolet,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1119soci,100326637. ¿Cuales son,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1219soci,el siguiente: https://archive.org/details/boletindealsocie,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1301soci,: https://archive.org/details/boletin2005soc,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1314soci,": 
+
+El identificador del Boletín de la Sociedad Geográf",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1516soci,": 
+
+Para obtener el identificador del Internet Archive (también conoc",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1719soci,"el siguiente: 
+
+https://archive.org/details/boletin-de-la",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1819soci,10.5285/134396,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied1919soci,el siguiente: 10.5287/b3-7,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2019soci,: https://archive.org/details/boletindelag01lim,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2189soci,"101134484.
+The Internet Archive identifier",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2324soci,02930348347516,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2425soci,": 
+
+El identificador (ID) de Internet Archive para el *Bo",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2619soci,: 11075602. How would you say,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2719soci,13627188. El Boletín de,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2819soci,13083438. How do you say this,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied2919soci,": 28787866
+Identificador Internet Archive",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied3019soci,101282929. El Boletín,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied3189soci,": 11104107. 
+¿Cómo se",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied3132soci,14053943.  El Boletín,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied3536soci,": 00508579
+
+La identificación del",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied3946soci,": 26547040
+El Boletín",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied3334soci,10.5281/zenodo.148,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied4189soci,10.5281/zenodo.143,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied5189soci,": 
+
+El Identificador Internet Archive (IA ID) para el ""Bo",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied6189soci,"el siguiente: 
+
+https://archive.org/details/boletindeclasoc",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied7189soci,10.5281/IZ/10.5,latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied8189soci,": 
+
+El Identificador Internet Archive (IA) para el *Bolet",latam,0.0,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad geográfica de Lima es,boletndelasocied9189soci,136381114. How do you say,latam,0.0,0,0.0
+Idioma de la obra o del nombre de Boletín de la Sociedad geográfica de Lima es,español,"el idioma que se habla en el Perú, es decir,",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1019soci).pdf,"1873-1874, vol. 1",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1119soci).pdf,un libro de 1882 que contiene mapas y descripciones,latam,0.1111111111111111,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1189soci).pdf,"el 2018, número 15. 20",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1219soci).pdf,"el artículo titulado ""El río Mantaro"", escrito por el",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1301soci).pdf,la fuente de la foto de la bandera de Perú. The,latam,0.3,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1314soci).pdf,"el 1912, n. 3, página 1",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1516soci).pdf,"el 1897, vol. 1, no.",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1719soci).pdf,el primero de los Boletines de la Sociedad Geográfica de,latam,0.5263157894736842,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1819soci).pdf,un sitio web que proporciona acceso a documentos históricos y cartográf,latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied1919soci).pdf,"el número 32, año 1900, edición",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2019soci).pdf,"el título de un periódico que se publicó en Lima, Per",latam,0.19999999999999998,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2122soci).pdf,"el que se muestra en la imagen de la derecha, correspondiente a",latam,0.1904761904761905,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2189soci).pdf,"de 1903, con el título: ""El problema de",latam,0.23529411764705882,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2324soci).pdf,"de 1917, el artículo se titula ""Sobre",latam,0.125,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2425soci).pdf,"1902, n. 21, p.",latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima (IA boletndelasocied2619soci).pdf,"el documento que se adjunta, de 1907, en",latam,0.11764705882352941,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2719soci).pdf,un trabajo de la Sociedad geográfica de Lima. El texto original,latam,0.6,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2819soci).pdf,una publicación periódica que se edita desde 191,latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied2919soci).pdf,"el que se muestra en el artículo, pero el texto es de esta página",latam,0.08695652173913043,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied3019soci).pdf,el primero de los Boletines de la Sociedad Geográfica de,latam,0.5263157894736842,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied3189soci).pdf,un artículo de 1923 sobre la geografía de la Sierra,latam,0.3157894736842105,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied3132soci).pdf,un artículo de un periódico peruano del siglo XIX.,latam,0.1111111111111111,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied3536soci).pdf,una publicación periódica de la Sociedad geográfica de Lima,latam,0.6666666666666666,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied3946soci).pdf,el 1878. Número 1. Páginas,latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied3334soci).pdf,un tipo de documento digitalizado. La imagen está en el dominio público,latam,0.1904761904761905,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied4189soci).pdf,el título de un periódico que publicó en el Perú desde,latam,0.09999999999999999,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied5189soci).pdf,el documento que se muestra en la imagen. Se puede ver en la imagen,latam,0.08695652173913043,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied6189soci).pdf,"el artículo de 1905 sobre el río Mantaro,",latam,0.11764705882352941,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied7189soci).pdf,"un proyecto de Wikimedia Chile, con el apoyo de la Universidad de Chile",latam,0.27272727272727276,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied8189soci).pdf,"un libro editado por la Sociedad geográfica de Lima, public",latam,0.5263157894736842,0,0.0
+Fichero digitalizado en Wikimedia Commons de Boletín de la Sociedad geográfica de Lima es,Boletín de la Sociedad Geográfica de Lima. (IA boletndelasocied9189soci).pdf,"el título de un periódico que se publicó en Lima, Per",latam,0.19999999999999998,0,0.0
+Situado en la entidad territorial administrativa de Distrito de Lima es,Provincia de Lima,"un centro de salud, con 130 camas, que at",latam,0.16666666666666666,0,0.0
+Comparte fronteras con de Distrito de Lima es,Carmen de La Legua-Reynoso,"el Distrito de San Isidro, San Borja, Miraf",latam,0.16666666666666666,0,0.0
+Comparte fronteras con de Distrito de Lima es,Distrito de El Agustino,el distrito de? Comparte fronteras con el distrito,latam,0.5,0,0.0
+Comparte fronteras con de Distrito de Lima es,Distrito de La Victoria,"el distrito de San Borja. Which is correct? - ""Com",latam,0.30769230769230765,0,0.0
+Comparte fronteras con de Distrito de Lima es,Distrito de Jesús María,"el Distrito de San Isidro, el Distrito de Miraf",latam,0.30769230769230765,0,0.0
+Comparte fronteras con de Distrito de Lima es,Distrito de Breña,el Perú. ¿Qué país está al norte de Perú?,latam,0.16666666666666666,0,0.0
+Comparte fronteras con de Distrito de Lima es,Distrito de Pueblo Libre,el Distrito de San Juan de Miraflores. ¿Cual,latam,0.3333333333333333,0,0.0
+Comparte fronteras con de Distrito de Lima es,San Miguel,"el distrito de
+La pregunta parece estar relacionada con la geografía",latam,0.0,0,0.0
+Comparte fronteras con de Distrito de Lima es,San Martín de Porres,"el Distrito de Ate, el Distrito de San Juan de L",latam,0.26666666666666666,0,0.0
+Comparte fronteras con de Distrito de Lima es,Distrito de San Juan de Lurigancho,"el Distrito de San Juan de Lurigancho, el Distrito",latam,0.8,1,0.0
+Imagen de Distrito de Lima es,"Lima, Peruthe Plaza de Armas de Lima by day (8444360764).jpg",un proyecto editorial y de difusión cultural que nace en 2,latam,0.09090909090909091,0,0.0
+Categoría principal del tema de Distrito de Lima es,Categoría:Distrito de Lima,"el turismo, pero también incluye otros temas. La categoría principal es",latam,0.0,0,0.0
+Estatus patrimonial de Murallas de Lima es,Patrimonio Cultural de la Nación,un proyecto de investigación en el que se busca identificar y registrar los pat,latam,0.10526315789473682,0,0.0
+Localización informal de Murallas de Lima es,Asentamiento Humano Catalina Buendía,un proyecto de investigación y arte que busca crear una red de conocimiento sobre,latam,0.0,0,0.0
+Título de Reducto. La última línea de defensa de Lima es,Reducto. La última línea de defensa de Lima,el cerro de San Bartolo. El cerro está en el dist,latam,0.10526315789473685,0,0.0
+Idioma de la película o programa de televisión de Reducto. La última línea de defensa de Lima es,español,"una producción de 2009, ¿cuál es el idi",latam,0.0,0,0.0
+El director de Reducto. La última línea de defensa de Lima es,Hamilton Segura Farfán,un hombre de 55 años que lleva 15 años trabaj,latam,0.0,0,0.0
+Título de Boletín de Lima es,Boletín de Lima,"un título de la revista
+*Boletín de Lima*, que",latam,0.5,1,0.0
+Idioma de la obra o del nombre de Boletín de Lima es,español,el idioma de la obra o del nombre de Boletín de Lima,latam,0.0,0,0.0
+Estatus patrimonial de Centro histórico de Lima es,Patrimonio de la Humanidad,una investigación que se desarrolló como parte de la asignatura de Investigación,latam,0.25,0,0.0
+Imagen de Centro histórico de Lima es,"Plaza de Armas, Lima.jpg",la capital del Perú. Se encuentra ubicada en la costa del oc,latam,0.0,0,0.0
+Categoría principal del tema de historia de Lima es,Categoría:Historia de Lima,"la historia de la ciudad, la historia del Perú, y la historia",latam,0.13333333333333333,0,0.0
+Tipo de superficie de Challenger de Lima es,pista de tenis de tierra batida,de 1000 metros cuadrados. La superficie de,latam,0.30769230769230765,0,0.0
+Categoría principal del tema de Challenger de Lima es,Categoría:Challenger de Lima,":
+A. El deseo de vivir
+B. El deseo",latam,0.18181818181818182,0,0.0
+Subclase de de Challenger de Lima es,torneo de tenis,"un subgénero de la subclase de de Challenger de Lima,",latam,0.15384615384615383,0,0.0
+Idioma de la película o programa de televisión de Santa Rosa de Lima es,español,": 
+Español
+Idioma original de Santa Rosa de Lima",latam,0.2222222222222222,1,0.0
+El director de Santa Rosa de Lima es,Rubén Enzian,"un hombre que se llama
+**Antonio del Castillo**. Es un",latam,0.0,0,0.0
+Estilo arquitectónico de Palacio Arzobispal de Lima es,arquitectura neocolonial española,": El Palacio Arzobispal de Lima, también conocido",latam,0.0,0,0.0
+Imagen de Palacio Arzobispal de Lima es,"Palacio Arzobispal, Lima, Perú, 2015-07-28, DD 62.JPG",el nombre de un proyecto de investigación que se está realizando en la Universidad,latam,0.0,0,0.0
+Estatus patrimonial de Palacio Arzobispal de Lima es,Patrimonio Cultural de la Nación,"un estudio que se realiza cada dos años, con la participación de expertos",latam,0.2222222222222222,0,0.0
+Localización informal de Palacio Arzobispal de Lima es,Plaza Mayor (Plaza de Armas).,"un edificio religioso ubicado en el centro histórico de Lima, Per",latam,0.12500000000000003,0,0.0
+Uso de Palacio Arzobispal de Lima es,palacio arzobispal,"un edificio ubicado en el centro histórico de Lima, Perú,",latam,0.0,0,0.0
+Diócesis de Palacio Arzobispal de Lima es,Arquidiócesis de Lima,la diócesis que abarca la ciudad de Lima y el,latam,0.30769230769230765,0,0.0
+Subclase de de balcones de Lima es,balcón,"una empresa que brinda servicios de limpieza, mantenimiento y servicios",latam,0.0,0,0.0
+Imagen de Palacio Municipal de Lima es,Municipalidad Metropolitana de Lima.JPG,"un lugar que se encuentra en el centro de Lima, Perú, y",latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Palacio Municipal de Lima es,Provincia de Lima,el lugar donde se celebra el festival de San Francisco. Es el principal,latam,0.125,0,0.0
+Estatus patrimonial de Palacio Municipal de Lima es,Patrimonio Cultural de la Nación,"un edificio con valor histórico, cultural y arquitectónico, que",latam,0.14285714285714285,0,0.0
+Localización informal de Palacio Municipal de Lima es,Jr. de la Unión cuadra 3.,"un edificio con una fachada de estilo neocolonial,",latam,0.14285714285714288,0,0.0
+Ocupante de Palacio Municipal de Lima es,Pinacoteca Municipal Ignacio Merino,"el nuevo rey del mundo, el rey de la ciudad, el",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Teatro Municipal de Lima es,Provincia de Lima,un edificio construido en 1926 y es el principal,latam,0.0,0,0.0
+Estatus patrimonial de Teatro Municipal de Lima es,Patrimonio Cultural de la Nación,"un tema de interés público, ya que se trata de un bien cultural de",latam,0.21052631578947364,0,0.0
+Localización informal de Teatro Municipal de Lima es,Jr. Ica cuadra 3.,"en la Avenida 28 de Julio, en el distrito de",latam,0.0,0,0.0
+Categoría principal del tema de Festival de Cine de Lima es,Categoría:Festival de Cine de Lima,"el cine peruano, con un total de 10 películas.",latam,0.2857142857142857,0,0.0
+Imagen de Festival de Cine de Lima es,Centro Cultural PUCP 22 Festival de Cine de Lima.jpg,el título de la película que se estrena este 2024,latam,0.10526315789473685,0,0.0
+Categoría en Commons de Festival de Cine de Lima es,Festival de Cine de Lima,"una categoría de Commons de Wikipedia, que contiene imágenes de la 17",latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Hotel Country Club de Lima es,Provincia de Lima,un complejo turístico que ofrece una amplia gama de servicios y,latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Hotel Country Club de Lima es,Patrimonio Cultural de la Nación,un hotel de lujo ubicado en el distrito de Miraflo,latam,0.13333333333333333,0,0.0
+Localización informal de Hotel Country Club de Lima es,Calles Los Eucaliptos s/n.,"un hotel de 3 estrellas, con 257 habitaciones",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Observatorio Sismológico de Lima es,Provincia de Lima,un sistema de vigilancia sísmica que monitorea la actividad sí,latam,0.15384615384615383,0,0.0
+Imagen de Observatorio Sismológico de Lima es,Pabellón sismográfico de Lima.jpg,"la imagen que se muestra, y esta se encuentra en el link: http",latam,0.0,0,0.0
+Ubicación de Observatorio Sismológico de Lima es,Parque de la Exposición,":
+A. Calle Sánchez Cerro 145
+B",latam,0.0,0,0.0
+Estatus patrimonial de Observatorio Sismológico de Lima es,Patrimonio Cultural de la Nación,un término que se refiere al estado financiero y patrimonial del,latam,0.0,0,0.0
+Localización informal de Observatorio Sismológico de Lima es,Parque de la Exposición s/n.,una de las organizaciones que participa en el programa de formación de,latam,0.11764705882352941,0,0.0
+Categoría en Commons de Observatorio Sismológico de Lima es,Pabellón Sismográfico (Lima),un espacio donde se almacenan imágenes y videos relacionados con el Observ,latam,0.0,0,0.0
+Ubicación de Distrito judicial de Lima es,Edificio Javier Alzamora Valdez,"en el distrito de
+A. Lurín
+B. Call",latam,0.0,0,0.0
+Imagen de Distrito judicial de Lima es,Sede Corte Superior de Justicia de Lima.png,"una imagen de un edificio judicial en la ciudad de Lima, Perú",latam,0.2105263157894737,0,0.0
+Situado en la entidad territorial administrativa de Casa de Moneda de Lima es,Provincia de Lima,"un edificio de estilo colonial, con fachada de piedra,",latam,0.16666666666666666,0,0.0
+Organización matriz de Casa de Moneda de Lima es,Banco Central de Reserva del Perú,un esquema de organización que se basa en la división del,latam,0.23529411764705885,0,0.0
+Estatus patrimonial de Casa de Moneda de Lima es,Patrimonio Cultural de la Nación,un tema que se ha mantenido en el debate público en los últimos años,latam,0.0,0,0.0
+Categoría en Commons de Casa de Moneda de Lima es,Casa de la Moneda (Lima),una categoría en Wikimedia Commons que agrupa imágenes relacionadas con la Casa de,latam,0.33333333333333337,0,0.0
+Categoría principal del tema de Cabildo de Lima es,Categoría:Cabildo de Lima,":
+A. Política
+B. Sociedad
+C. Cultura",latam,0.0,0,0.0
+Arquitecto de Centro Cívico de Lima es,José García Bryce,un proyecto de la arquitectura moderna y contemporánea en,latam,0.0,0,0.0
+Arquitecto de Centro Cívico de Lima es,Carlos Williams León,el título de un libro que publicó el arquitecto peruano,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Colegio de Abogados de Lima es,Provincia de Lima,"el principal foro de debate y análisis sobre temas legales, políticos",latam,0.14285714285714288,0,0.0
+Logotipo de Facultad de Teología Pontificia y Civil de Lima es,Facultad de teologia pontificia y civil de lima.png,un logotipo que representa la Facultad de Teología Pontific,latam,0.23529411764705882,0,0.0
+Imagen de Facultad de Teología Pontificia y Civil de Lima es,Facultad de teologia pontificia y civil de lima peru.jpg,"una Facultad universitaria del Perú, con sede en Lima",latam,0.2222222222222222,0,0.0
+Filial de Facultad de Teología Pontificia y Civil de Lima es,Centro de Investigaciones Teológicas,un programa de radio que transmite desde el Colegio de San Juan de,latam,0.11764705882352941,0,0.0
+Categoría en Commons de Feria Internacional del Libro de Lima es,Feria Internacional del Libro de Lima,una categoría en Commons que se utiliza para organizar y clasificar los archivos,latam,0.0,0,0.0
+Idioma de la obra o del nombre de Gaceta de Lima es,español,"en español, pero el idioma de la obra es en español. How",latam,0.15384615384615385,1,0.0
+Categoría en Commons de Huacas de Lima es,Huacas de Lima,un sitio en el que se pueden encontrar imágenes de los huacos de Lima,latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Iglesia del sagrario de Lima es,Provincia de Lima,"un edificio de estilo neogótico, construido entre 1",latam,0.18181818181818182,0,0.0
+Estilo arquitectónico de Iglesia del sagrario de Lima es,arquitectura neoclásica,El Estilo arquitectónico de la Iglesia del Sagr,latam,0.0,0,0.0
+Diócesis de Iglesia del sagrario de Lima es,Arquidiócesis de Lima,"un rito que se originó en la ciudad de Lima, Perú",latam,0.28571428571428575,0,0.0
+Estatus patrimonial de Iglesia del sagrario de Lima es,Patrimonio Cultural de la Nación,un tema que se ha discutido en los últimos años. La ig,latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Jardín botánico de Lima es,Provincia de Lima,el primer jardín botánico de América Latina y es el segundo,latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Jardín botánico de Lima es,Patrimonio Cultural de la Nación,"un tema que no es muy común en el ámbito académico, pero",latam,0.0,0,0.0
+Imagen de Jardín botánico de Lima es,Jardin Botanico de la Facultad Medicina San Fernando UNMSM.jpg,un proyecto que busca promover el turismo en el distrito de Lima,latam,0.09523809523809525,0,0.0
+Propiedad de de Jardín botánico de Lima es,Universidad Nacional Mayor de San Marcos,"un lugar de descanso en el centro de Lima, Perú,",latam,0.125,0,0.0
+Deporte de Liga de baloncesto de Lima es,baloncesto,un deporte de equipo. ¿Cuál es el objetivo del juego?,latam,0.0,0,0.0
+Clase de competencia de Liga de baloncesto de Lima es,baloncesto masculino,"una competencia profesional de baloncesto en Perú, organizada por",latam,0.1818181818181818,0,0.0
+Categoría en Commons de Monasterio de Santa Rosa de Lima es,Santa Rosa de Santa María (Lima),una categoría de la Wikipedia en la que se pueden subir imágenes relacionadas,latam,0.10526315789473684,0,0.0
+Estatus patrimonial de Monasterio de Santa Rosa de Lima es,Patrimonio Cultural de la Nación,un documento que se elabora con el fin de que la institución tenga,latam,0.2222222222222222,0,0.0
+Página de institución en Commons de Museo de Arte de Lima es,Museo de Arte de Lima,la colección de imágenes de dominio público del Museo de Arte de,latam,0.47058823529411764,0,0.0
+Categoría en Commons de Museo de Arte de Lima es,Museo de Arte de Lima,"una categoría de la Wikipedia, y puede ser consultada en la web de",latam,0.2222222222222222,0,0.0
+Localización informal de Museo de Arte de Lima es,Paseo Colón.,: 180 metros al norte de la plaza de San Francisco,latam,0.0,0,0.0
+Imagen de Museo de Arte de Lima es,Inauguración Fachada MALI HM 7198 F.jpg,un museo de arte moderno y contemporáneo ubicado en el,latam,0.0,0,0.0
+Ubicación de Museo de Arte de Lima es,Palacio de la Exposición,"en el barrio de Barranco, que es un barrio histórico.",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Santuario de Santa Rosa de Lima es,Provincia de Lima,"un lugar de gran importancia histórica, cultural y religiosa, que",latam,0.15384615384615383,0,0.0
+Estilo arquitectónico de Santuario de Santa Rosa de Lima es,Rococó,un estilo que se caracteriza por su fachada de estilo neog,latam,0.0,0,0.0
+Diócesis de Santuario de Santa Rosa de Lima es,Arquidiócesis de Lima,una diócesis de la Iglesia católica en el Perú,latam,0.16666666666666666,0,0.0
+Estatus patrimonial de Santuario de Santa Rosa de Lima es,Patrimonio Cultural de la Nación,un documento que se presenta en el Registro de la Propiedad para dar a,latam,0.21052631578947364,0,0.0
+Localización informal de Santuario de Santa Rosa de Lima es,Av. Tacna cuadra 1.,una de las parroquias del municipio de Ciénega de,latam,0.0,0,0.0
+Categoría en Commons de Sociedad Geográfica de Lima es,Sociedad Geográfica de Lima,"la que contiene imágenes de la Sociedad Geográfica de Lima, en",latam,0.5333333333333333,1,0.0
+Fundador de Seminario de Lima es,Toribio de Mogrovejo,el sacerdote peruano que estudió en la Universidad de,latam,0.16666666666666666,0,0.0
+Categoría en Commons de Beneficencia de Lima es,Beneficencia de Lima,"una categoría que contiene imágenes de la Beneficencia de Lima, un organ",latam,0.4,1,0.0
+Ubicación de la sede de Municipalidad Metropolitana de Lima es,Palacio Municipal de Lima,": 
+
+La sede de la **Municipalidad Metropolitana",latam,0.2,0,0.0
+Situado en la entidad territorial administrativa de Municipalidad Metropolitana de Lima es,Provincia de Lima,"un organismo descentralizado con autonomía técnica y financiera, c",latam,0.0,0,0.0
+Aplica a la jurisdicción de Municipalidad Metropolitana de Lima es,Provincia de Lima,la competencia de la municipalidad de Lima: - La construcción de una,latam,0.28571428571428575,0,0.0
+Categoría principal del tema de alcalde de Lima es,Categoría:Alcaldes de Lima,"la política, pero también se relaciona con temas como la administración pública",latam,0.0,0,0.0
+Imagen de Centro de Convenciones de Lima es,Salón reuniones VIII Cumbre de las Américas.jpg,un proyecto de desarrollo urbano que se encuentra en el distrito de Mir,latam,0.1,0,0.0
+Imagen de Museo de Arte Contemporáneo de Lima es,Barranco 06.jpg,una organización dedicada a la producción y difusión del arte contemporá,latam,0.0,0,0.0
+Tema principal de la obra de Museo de Arte Contemporáneo de Lima es,arte contemporáneo,"el proceso de modernización de la sociedad peruana, con especial énf",latam,0.0,0,0.0
+Categoría en Commons de Museo de Arte Contemporáneo de Lima es,Museo de Arte Contemporáneo de Lima,una categoría que contiene archivos relacionados con el Museo de Arte Contempor,latam,0.3333333333333333,0,0.0
+Categoría en Commons de Media Maratón de Lima es,Media Maratón de Lima,"2017
+Categoría en Commons de Media Marat",latam,0.36363636363636365,0,0.0
+Clase de competencia de Media Maratón de Lima es,media maratón,una carrera que se organiza cada año en el distrito de San Is,latam,0.0,0,0.0
+Propiedad de de Museo Metropolitano de Lima es,Municipalidad Metropolitana de Lima,"el museo de arte contemporáneo más importante de Perú, que",latam,0.14285714285714288,0,0.0
+Imagen de Museo Metropolitano de Lima es,Museo Metropolitano de Lima - Conmemoración histórica de la Independencia del Perú (cropped).png,el nombre de una aplicación que permite ver las obras de arte del Museo,latam,0.30769230769230765,0,0.0
+Operador de Museo Metropolitano de Lima es,Municipalidad Metropolitana de Lima,un lugar que se encuentra ubicado en el centro de la capital del Per,latam,0.11111111111111112,0,0.0
+Estatus patrimonial de Museo Metropolitano de Lima es,Patrimonio Cultural de la Nación,"una de las obras más importantes del arte contemporáneo peruano, c",latam,0.12500000000000003,0,0.0
+Situado en la dirección postal de Museo Metropolitano de Lima es,Av. 28 de Julio 800 esq. Garcilaso de la Vega cuadra 19.,el museo que tiene como objetivo principal la conservación y exhibición de,latam,0.16666666666666666,0,0.0
+Ubicación de Museo Metropolitano de Lima es,Parque de la Exposición,una de las cuestiones que más nos interesa a los visitantes,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Villa Panamericana de Lima es,Distrito de Villa El Salvador,un espacio donde se puede observar las diferentes etapas del desarrollo del ser,latam,0.0,0,0.0
+Categoría en Commons de Villa Panamericana de Lima es,Villa Panamericana de Lima,"un lugar con un alto valor histórico, cultural y arquitectónico.",latam,0.0,0,0.0
+Imagen de Catacumbas de Lima es,"Catacumbas de San Francisco, Lima.jpg",una aplicación de Android que te permite explorar las catacumbas de,latam,0.25000000000000006,0,0.0
+Categoría en Commons de Catacumbas de Lima es,Catacombs of San Francisco de Asis (Lima),"una categoría en el repositorio de medios libre Commons, que incluye imágenes",latam,0.10526315789473685,0,0.0
+Situado en la entidad territorial administrativa de Mercado Central de Lima es,Provincia de Lima,una plaza de feria de abastos y también un complejo comercial de,latam,0.13333333333333333,0,0.0
+Imagen de Mercado Central de Lima es,Mercado central y barrio chino.jpg,una foto de archivo de 1940. En la imagen se,latam,0.0,0,0.0
+Categoría en Commons de Mercado Central de Lima es,Mercado Central de Lima,una categoría de imágenes en el repositorio de imágenes libre Commons de Wikipedia,latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Casa Hermita e iglesia donde vivió Santa Rosa de Lima es,Provincia de Canta,"el lugar de culto donde se venera a Santa Rosa de Lima,",latam,0.13333333333333333,0,0.0
+Estatus patrimonial de Casa Hermita e iglesia donde vivió Santa Rosa de Lima es,Patrimonio Cultural de la Nación,"un espacio que se encuentra en la región de la ciudad de Lima, en",latam,0.21052631578947364,0,0.0
+Situado en la entidad territorial administrativa de Casa de Rosell de Lima es,Provincia de Lima,"un centro cultural con museo, biblioteca y teatro, que fue",latam,0.0,0,0.0
+Estatus patrimonial de Casa de Rosell de Lima es,Patrimonio Cultural de la Nación,"una empresa de servicios de salud, que se encuentra en la ciudad de Lima",latam,0.21052631578947364,0,0.0
+Ubicación de Antigua escuela de artes y oficios de Lima es,Distrito de La Victoria,"en el distrito de San Isidro, en el barrio de",latam,0.28571428571428575,0,0.0
+Situado en la entidad territorial administrativa de Antigua escuela de artes y oficios de Lima es,Provincia de Lima,el centro de formación técnica de la ciudad de Lima y uno de los,latam,0.23529411764705882,0,0.0
+Estatus patrimonial de Antigua escuela de artes y oficios de Lima es,Patrimonio Cultural de la Nación,un tema que ha sido objeto de estudio por parte de varios investigadores y,latam,0.10526315789473682,0,0.0
+Situado en la entidad territorial administrativa de Parque Mariscal Cáceres de Lima es,Provincia de Lima,"una zona de gran importancia turística y cultural, en el distrito",latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Parque Mariscal Cáceres de Lima es,Patrimonio Cultural de la Nación,un estudio que se realizó entre los años 2013 y,latam,0.0,0,0.0
+Estatus patrimonial de Plaza de Monserrate de Lima es,Patrimonio Cultural de la Nación,"una obra que se enmarca en el proyecto de investigación titulado ""Pat",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de la buena muerte y de Trinitarias de Lima es,Provincia de Lima,"un lugar en la que se encuentra el distrito de Trinitarias,",latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Plazuela de la buena muerte y de Trinitarias de Lima es,Patrimonio Cultural de la Nación,un tema que me ha interesado mucho. How do you say this sentence,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de Buenos Aires y calle Cocharcas de Lima es,Provincia de Lima,"la plaza de armas de la ciudad de Lima, la plaza Mayor de",latam,0.25,0,0.0
+Estatus patrimonial de Plazuela de Buenos Aires y calle Cocharcas de Lima es,Patrimonio Cultural de la Nación,"una zona de la ciudad de Lima, Perú. El edificio de",latam,0.25000000000000006,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de las Nazarenas de Lima es,Provincia de Lima,un río que nace en la cordillera de los Andes,latam,0.15384615384615383,0,0.0
+Estatus patrimonial de Plazuela de las Nazarenas de Lima es,Patrimonio Cultural de la Nación,un término que se refiere al estado financiero de una propiedad o bien,latam,0.1111111111111111,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de San Agustín de Lima es,Provincia de Lima,un lugar que se caracteriza por ser un punto de encuentro de la,latam,0.125,0,0.0
+Estatus patrimonial de Plazuela de San Agustín de Lima es,Patrimonio Cultural de la Nación,un concepto que describe el estado actual del patrimonio cultural de la,latam,0.47058823529411764,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de San Francisco de Lima es,Provincia de Lima,"un lugar de gran valor histórico, cultural y religioso, que se encuentra",latam,0.13333333333333333,0,0.0
+Estatus patrimonial de Plazuela de San Francisco de Lima es,Patrimonio Cultural de la Nación,"una obra de arte, no un edificio, y es un símb",latam,0.12500000000000003,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de San Pedro de Lima es,Provincia de Lima,"una población del distrito de San Pedro de Lima, en el departamento de",latam,0.25,0,0.0
+Estatus patrimonial de Plazuela de San Pedro de Lima es,Patrimonio Cultural de la Nación,un tema que ha generado mucha controversia en la sociedad peruana.,latam,0.12500000000000003,0,0.0
+Categoría en Commons de Plazuela de San Pedro de Lima es,Plazuela de San Pedro,una categoría que contiene imágenes de la plazuela de San Pedro de Lima,latam,0.47058823529411764,1,0.0
+Imagen de Plazuela de San Pedro de Lima es,Plazuela de San Pedro de Lima 01.jpg,"una imagen de la plaza de San Pedro en Lima, Perú. La",latam,0.5263157894736842,0,0.0
+Situado en la entidad territorial administrativa de Iglesia y convento de la buena muerte de Lima es,Provincia de Lima,"un edificio de estilo barroco, construido durante el siglo",latam,0.16666666666666666,0,0.0
+Estatus patrimonial de Iglesia y convento de la buena muerte de Lima es,Patrimonio Cultural de la Nación,un libro que fue publicado en 1929 por el ingen,latam,0.0,0,0.0
+Imagen de Iglesia y convento de la buena muerte de Lima es,2017 Lima - Iglesia y Convento de la Buena Muerte.jpg,"un lugar de culto católico en la ciudad de Lima, Per",latam,0.3,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de San Sebastián de Lima es,Provincia de Lima,un centro de salud con una amplia trayectoria en el área de,latam,0.13333333333333333,0,0.0
+Estatus patrimonial de Plazuela de San Sebastián de Lima es,Patrimonio Cultural de la Nación,"una zona en el distrito de San Borja, en el distrito",latam,0.12500000000000003,0,0.0
+Situado en la entidad territorial administrativa de Iglesia y monasterio del Carmen de Lima es,Provincia de Lima,un templo que fue construido a mediados del siglo XVII,latam,0.0,0,0.0
+Estatus patrimonial de Iglesia y monasterio del Carmen de Lima es,Patrimonio Cultural de la Nación,un trabajo de investigación que se desarrolló como parte de la tesis doctoral,latam,0.2222222222222222,0,0.0
+Localización informal de Iglesia y monasterio del Carmen de Lima es,Jr. Junin esq. Jr. Huánuco.,"una ubicación que se encuentra en el centro histórico de Lima, Perú",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Plazuela de Santa Catalina de Lima es,Provincia de Lima,"una localidad costera, que se encuentra ubicada en el distrito",latam,0.0,0,0.0
+Estatus patrimonial de Plazuela de Santa Catalina de Lima es,Patrimonio Cultural de la Nación,"una obra que presenta un análisis del patrimonio cultural, histórico y social",latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Convento de las Mercedarias de Lima es,Provincia de Lima,"el municipio de Santa María de Nieva, con una población de",latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Convento de las Mercedarias de Lima es,Patrimonio Cultural de la Nación,un tema que puede ser de interés para quienes se dediquen al estudio,latam,0.1111111111111111,0,0.0
+Situado en la entidad territorial administrativa de Iglesia de la Virgen del Milagro de Lima es,Provincia de Lima,un lugar donde se encuentra la plaza de armas de la ciudad de Lima,latam,0.23529411764705882,0,0.0
+Estatus patrimonial de Iglesia de la Virgen del Milagro de Lima es,Patrimonio Cultural de la Nación,un análisis de la situación patrimonial de la Iglesia de la Vir,latam,0.23529411764705882,0,0.0
+Localización informal de Iglesia de la Virgen del Milagro de Lima es,Jr. Ancash cuadra 2.,un tipo de ubicación informal que se usa para referirse a la Ig,latam,0.0,0,0.0
+Imagen de Iglesia de la Virgen del Milagro de Lima es,Iglesia de la Virgen del Milagro de Lima.jpg,"un buen ejemplo de un edificio colonial de Lima, Perú. La",latam,0.3157894736842105,0,0.0
+Situado en la entidad territorial administrativa de Iglesia de nuestra Señora de la Concepción de Lima es,Provincia de Lima,"un municipio del departamento de Arequipa, en el Perú.",latam,0.16666666666666666,0,0.0
+Estatus patrimonial de Iglesia de nuestra Señora de la Concepción de Lima es,Patrimonio Cultural de la Nación,el título de un libro que publicó en 1946 el,latam,0.13333333333333333,0,0.0
+Imagen de Iglesia de nuestra Señora de la Concepción de Lima es,NtraSradelaConcepcionLima.jpg,"el nombre de una obra del pintor peruano José Sabogal,",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Casa de ejercicios de la orden terciaria Franciscana de Lima es,Provincia de Lima,un convento franciscano que fue fundado en 155,latam,0.0,0,0.0
+Estatus patrimonial de Casa de ejercicios de la orden terciaria Franciscana de Lima es,Patrimonio Cultural de la Nación,"un trabajo de investigación de 1200 palabras, con introducción",latam,0.14285714285714285,0,0.0
+Localización informal de Casa de ejercicios de la orden terciaria Franciscana de Lima es,Av. Abancay cuadra 1.,"un tema de interés para el historiador, el arqueólogo y",latam,0.0,0,0.0
+Imagen de Casa de ejercicios de la orden terciaria Franciscana de Lima es,Casa de ejercicios de la orden terciaria Franciscana de Lima.jpg,"un trabajo de investigación, y el proceso de investigación se puede dividir en",latam,0.17391304347826086,0,0.0
+Categoría en Commons de Casa de ejercicios de la orden terciaria Franciscana de Lima es,Casa de ejercicios de la orden terciaria Franciscana de Lima,un espacio de archivos de imágenes relacionadas con el tema. La categoría incl,latam,0.2608695652173913,0,0.0
+Situado en la entidad territorial administrativa de Iglesia y monasterio de nuestra Señora del Prado de Lima es,Provincia de Lima,"un edificio de estilo barroco del siglo XVII, que",latam,0.16666666666666666,0,0.0
+Estatus patrimonial de Iglesia y monasterio de nuestra Señora del Prado de Lima es,Patrimonio Cultural de la Nación,una obra que se publica con el objetivo de aportar un análisis,latam,0.11764705882352941,0,0.0
+Imagen de Iglesia y monasterio de nuestra Señora del Prado de Lima es,Iglesia y Monasterio Nuestra Señora del Prado.png,"un lugar sagrado y un monumento histórico de Lima, Perú.",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Iglesia del sagrado corazón de Jesús  Los huérfanos de Lima es,Provincia de Lima,una organización religiosa que se dedica a la atención de niños hué,latam,0.13333333333333333,0,0.0
+Estatus patrimonial de Iglesia del sagrado corazón de Jesús  Los huérfanos de Lima es,Patrimonio Cultural de la Nación,un estudio sobre el patrimonio de la congregación de la Iglesia,latam,0.37499999999999994,0,0.0
+Localización informal de Iglesia del sagrado corazón de Jesús  Los huérfanos de Lima es,Jr. Apurimac esq. Jr. Azángaro.,un proyecto de investigación que busca establecer un diario de vida de los,latam,0.0,0,0.0
+Categoría en Commons de Iglesia del sagrado corazón de Jesús  Los huérfanos de Lima es,"Iglesia de los Huérfanos, Lima",un espacio de imágenes de la Iglesia del Sagrado Corazón de,latam,0.25000000000000006,0,0.0
+Imagen de Iglesia del sagrado corazón de Jesús  Los huérfanos de Lima es,2017 Lima - Fachada de la iglesia del Sagrado Corazon de Jesús - Avenida Nicolás de Piérola con jirón Azangaro.jpg,un proyecto de rescate social y de formación profesional que brinda ap,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Casa de ejercicios del sagrado corazón de Lima es,Provincia de Lima,una institución educativa con más de cien años de trayectoria,latam,0.15384615384615383,0,0.0
+Estatus patrimonial de Casa de ejercicios del sagrado corazón de Lima es,Patrimonio Cultural de la Nación,"un tipo de organización social que tiene como misión la protección, el desarrollo",latam,0.2222222222222222,0,0.0
+Situado en la entidad territorial administrativa de Iglesia de San Pedro Nolasco de Lima es,Provincia de Lima,un lugar que fue fundado el 28 de mayo de 1,latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Iglesia de San Pedro Nolasco de Lima es,Patrimonio Cultural de la Nación,un documento de la Iglesia Católica que describe el estado del patrimon,latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Casa de ejercicios de Santa Rosa de Lima es,Provincia de Lima,"un hospital de segundo nivel de complejidad, con 73 cam",latam,0.15384615384615383,0,0.0
+Estatus patrimonial de Casa de ejercicios de Santa Rosa de Lima es,Patrimonio Cultural de la Nación,un documento que se requiere para poder tramitar una licencia de construcción,latam,0.11764705882352941,0,0.0
+Imagen de Casa de ejercicios de Santa Rosa de Lima es,Casa de ejercicios de Santa Rosa de Lima.jpg,una imagen de alta calidad. La imagen tiene dimensiones de 10,latam,0.2105263157894737,0,0.0
+Categoría en Commons de Casa de ejercicios de Santa Rosa de Lima es,Casa de ejercicios de Santa Rosa de Lima,un tipo de vivienda o edificio que se encuentra en la ciudad de,latam,0.1904761904761905,0,0.0
+Situado en la entidad territorial administrativa de Iglesia y monasterio de Santa Rosa de las monjas de Lima es,Provincia de Lima,un complejo arquitectónico que está ubicado en la antigua,latam,0.0,0,0.0
+Estatus patrimonial de Iglesia y monasterio de Santa Rosa de las monjas de Lima es,Patrimonio Cultural de la Nación,un trabajo de investigación que se realizó entre 2009 y,latam,0.13333333333333333,0,0.0
+Localización informal de Iglesia y monasterio de Santa Rosa de las monjas de Lima es,Jr. Miró Quesada esq. Jr. Ayacucho.,"el que se encuentra en el distrito de San Isidro, Lima",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Iglesia y monasterio de la Trinidad de Lima es,Provincia de Lima,un edificio del siglo XVI que fue construido por los francisc,latam,0.0,0,0.0
+Estatus patrimonial de Iglesia y monasterio de la Trinidad de Lima es,Patrimonio Cultural de la Nación,"un libro que se publicó en el año 1975,",latam,0.0,0,0.0
+Localización informal de Iglesia y monasterio de la Trinidad de Lima es,Jirón Emancipación / Cuzco cuadra 3.,una de las más importantes de la capital del Perú. Se encuentra en,latam,0.0,0,0.0
+Imagen de Iglesia y monasterio de la Trinidad de Lima es,Iglesia y monasterio de la Trinidad de Lima.jpg,"un edificio religioso que se encuentra en el centro histórico de Lima,",latam,0.1,0,0.0
+Situado en la entidad territorial administrativa de Iglesia y monasterio de las Trinitarias de Lima es,Provincia de Lima,"el templo más antiguo de la ciudad, que fue construido por",latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Iglesia y monasterio de las Trinitarias de Lima es,Patrimonio Cultural de la Nación,un libro que contiene el inventario de bienes de la Iglesia y,latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Antiguo colegio de teología de Santo Tomas de Lima es,Provincia de Lima,"un monumento que fue construido en el periodo colonial, durante el sig",latam,0.0,0,0.0
+Estatus patrimonial de Antiguo colegio de teología de Santo Tomas de Lima es,Patrimonio Cultural de la Nación,el nombre de un proyecto de investigación que se está llevando a cabo en,latam,0.10526315789473682,0,0.0
+Localización informal de Antiguo colegio de teología de Santo Tomas de Lima es,Jr. Andahuaylas esq. Jr. Junín.,"una ciudad peruana, ubicada en el departamento de Lima, en el",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Cuartel de Santa Ana de Lima es,Provincia de Lima,"el municipio de Cuartel de Santa Ana, que en el año",latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Cuartel de Santa Ana de Lima es,Patrimonio Cultural de la Nación,una obra que se presenta como un estudio de caso sobre el patrimonio,latam,0.2222222222222222,0,0.0
+Situado en la entidad territorial administrativa de Antigua estación de ferrocarril de Lima es,Provincia de Lima,"el lugar donde se encuentra el
+**Parque de la Cultura**,",latam,0.15384615384615383,0,0.0
+Estatus patrimonial de Antigua estación de ferrocarril de Lima es,Patrimonio Cultural de la Nación,"una de las propiedades más antiguas de Lima, con una historia",latam,0.12500000000000003,0,0.0
+Localización informal de Antigua estación de ferrocarril de Lima es,Plaza de Monserrate s/n.,un lugar de interés turístico. ¿Dónde está ubicada?,latam,0.16666666666666666,0,0.0
+Imagen de Antigua estación de ferrocarril de Lima es,Fachada de una antigua estación del Ferrocarril Central en Lima 01.jpg,"un bonito lugar para un picnic con amigos y familia.
+The image of",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Antiguo hospital de San Bartolome de Lima es,Provincia de Lima,"el centro de salud más antiguo del distrito, fue construido en",latam,0.14285714285714288,0,0.0
+Estatus patrimonial de Antiguo hospital de San Bartolome de Lima es,Patrimonio Cultural de la Nación,"un estudio que se realizó en el año 2001,",latam,0.0,0,0.0
+Localización informal de Antiguo hospital de San Bartolome de Lima es,Jr. Miró Quesada cuadra 9.,"un hospital antiguo, ahora desechado, que se encuentra en el",latam,0.0,0,0.0
+Imagen de Antiguo hospital de San Bartolome de Lima es,"Lima, antiguo local del Hospital San Bartolomé.jpg","un hospital que fue construido en el siglo XVI, y fue el",latam,0.10526315789473685,0,0.0
+Industria de Metropolitano de Rugby de Lima es,actividades deportivas,una empresa dedicada a la gestión de eventos deportivos y la venta de,latam,0.0,0,0.0
+Imagen de Gran Biblioteca Pública de Lima es,Sede original de la Biblioteca Nacional del Perú.jpg,"una Biblioteca Pública de Lima, Perú. Se encuentra ubicada en",latam,0.22222222222222224,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,Arquidiócesis de Lima,"un departamento de Perú, en la costa norte del país, con",latam,0.14285714285714288,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,diócesis del Callao,"la capital del país, de las más grandes del mundo, y es la",latam,0.125,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,diócesis de Carabayllo,la primera y más importante de las siete regiones que conforman el,latam,0.13333333333333333,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,diócesis de Chosica,"la primera de las ocho provincias del Perú, la cual comprend",latam,0.14285714285714288,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,diócesis de Huacho,"el que se encuentra en el centro del Perú, con una superficie",latam,0.0,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,diócesis de Ica,"la que está ubicada al norte de la ciudad, en el dist",latam,0.13333333333333333,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,diócesis de Lurín,la capital del país. El país es Peru. ¿Qué es la provincia,latam,0.0,0,0.0
+Compuesto por de provincia eclesiástica de Lima es,Prelatura de Yauyos,"el distrito de San Juan de Miraflores, que se encuentra",latam,0.15384615384615383,0,0.0
+Cargo ocupado por el dirigente de provincia eclesiástica de Lima es,Arzobispo de Lima,"el que se le adjudicará a la persona elegida, en el",latam,0.0,0,0.0
+Categoría en Commons de Movimiento Homosexual de Lima es,Movimiento Homosexual de Lima,"una organización sin fines de lucro, dedicada a la defensa de",latam,0.13333333333333333,0,0.0
+Miembro de de Movimiento Homosexual de Lima es,Coordinadora Nacional LGTBIQ+,un grupo de jóvenes que se reúnen en el barrio de San,latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Universidad Seminario Evangélico de Lima es,universidadsel,"@seminarioevangelico. Ahora, ¿cposee",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Mezquita de Lima es,Distrito de Magdalena del Mar,un río que nace en la sierra de Huancavelica,latam,0.14285714285714285,0,0.0
+Categoría en Commons de Servicio de Administración Tributaria de Lima es,Servicio de Administración Tributaria de Lima,una categoría de imágenes en el sitio web de Wikimedia Commons. Su objetivo es,latam,0.2,0,0.0
+Imagen de Alianza Francesa de Lima es,Alianza Francesa de Lima - Sede Miraflores.jpg,"el mejor resultado de la búsqueda de ""Alianza Francesa de Lima""",latam,0.4705882352941177,0,0.0
+Orden religiosa de Monasterio Cisterciense Santa María de la Santisima Trinidad de Lima es,Orden del Císter,una orden religiosa de la familia cisterciense que tiene su sede,latam,0.14285714285714288,0,0.0
+Orden religiosa de Monasterio Cisterciense Santa María de la Santisima Trinidad de Lima es,Congregación de monjas cistercienses de San Bernardo,una orden religiosa de la familia Cisterciense en el Perú,latam,0.11764705882352941,0,0.0
+Orden religiosa de Monasterio Cisterciense Santa María de la Santisima Trinidad de Lima es,Monjas de la Orden del Cister,una orden religiosa de monjes cistercienses que fue fundada,latam,0.26666666666666666,0,0.0
+Casa madre de Monasterio Cisterciense Santa María de la Santisima Trinidad de Lima es,monasterio de Santa María la Real de Las Huelgas,"el monasterio de San Salvador de Valdés, en el municip",latam,0.3157894736842105,0,0.0
+Imagen de Pileta de la Plaza Mayor de Lima es,Lima - Plaza Mayor - Fontaine.jpg,una obra del pintor peruano Antonio M. Sotomayor,latam,0.0,0,0.0
+Ubicación de Pileta de la Plaza Mayor de Lima es,Plaza Mayor de Lima,"una de las piletas más populares de la ciudad, ubicada",latam,0.14285714285714288,0,0.0
+Creador de Pileta de la Plaza Mayor de Lima es,Pedro de Noguera,"el arquitecto:
+A. Miguel F. de la Cruz",latam,0.18181818181818182,0,0.0
+Estatus patrimonial de Edificio de la Bolsa de Valores de Lima es,Patrimonio Cultural de la Nación,"un tema que se ha debatido en los últimos años, especialmente en",latam,0.0,0,0.0
+Organización dirigida desde este cargo de Arzobispo de Lima es,Arquidiócesis de Lima,el Arzobispado de Lima. El Arzobispo,latam,0.4444444444444444,0,0.0
+Organización dirigida desde este cargo de Arzobispo de Lima es,provincia eclesiástica de Lima,"la que está realizando un estudio sobre la
+** situación de los p",latam,0.125,0,0.0
+Lista del elemento de Arzobispo de Lima es,Anexo:Arzobispos de Lima,un título que ha sido usado por el arzobispo de Lima,latam,0.28571428571428575,0,0.0
+Categoría principal del tema de Arzobispo de Lima es,Categoría:Arzobispos de Lima,Categoría principal del tema de Arzobispo de Lima,latam,0.36363636363636365,0,0.0
+Reemplaza a de Arzobispo de Lima es,obispo de Lima,el título que recibe el obispo que preside la arqu,latam,0.15384615384615383,0,0.0
+Aplica a la jurisdicción de Arzobispo de Lima es,Arquidiócesis de Lima,la que se encarga de las causas civiles y penales que,latam,0.14285714285714288,0,0.0
+Aplica a la jurisdicción de Arzobispo de Lima es,provincia eclesiástica de Lima,un concepto legal que se refiere a la jurisdicción que,latam,0.0,0,0.0
+Imagen de Marcha del Orgullo LGBT de Lima es,Caravana representativa con el orgullo en Lima.jpg,"un evento cultural y social celebrado en la capital del Perú, Lima",latam,0.10526315789473685,0,0.0
+Uso de Antiguo tribunal de la Santa Inquisición de Lima es,Inquisición,"un centro de investigación y educación
+En la ciudad de Lima, Perú",latam,0.0,0,0.0
+Uso de Antiguo tribunal de la Santa Inquisición de Lima es,Cámara de Senadores del Perú,un ejemplo de cómo la arquitectura colonial se adapta a las,latam,0.12500000000000003,0,0.0
+Uso de Antiguo tribunal de la Santa Inquisición de Lima es,Museo Monumental de la Inquisición y del Congreso,"un sitio histórico que está ubicado en el centro de Lima, Perú",latam,0.1,0,0.0
+Imagen de Antiguo tribunal de la Santa Inquisición de Lima es,Antiguo tribunal de la Santa Inquisición de Lima.jpg,"la foto de la izquierda, y la de la derecha es el",latam,0.3,0,0.0
+Categoría en Commons de Antiguo tribunal de la Santa Inquisición de Lima es,Antiguo tribunal de la Santa Inquisición de Lima,una categoría que incluye imágenes de documentos históricos relacionados con el,latam,0.10526315789473685,0,0.0
+Estatus patrimonial de Antiguo tribunal de la Santa Inquisición de Lima es,Patrimonio Cultural de la Nación,"una institución que existió en el Perú colonial, cuya sede",latam,0.0,0,0.0
+Día del año de una ocurrencia periódica de Día de Santa Rosa de Lima es,30 de agosto,"el 12 de agosto, pero no es el Día de la",latam,0.28571428571428575,0,0.0
+Situado en la dirección postal de Monasterio de Santa Teresa de Lima es,"Calle de La Pileta de Santa Teresa, Lima, Peru","una hermosa catedral en el centro de Lima, Perú",latam,0.2222222222222222,0,0.0
+Orden religiosa de Monasterio de Santa Teresa de Lima es,Compañía de Jesús,un orden religioso de mujeres fundado en 1647 en,latam,0.16666666666666666,0,0.0
+Imagen de Coro Gay de Lima es,Coro gay de lima en NosPucp con la Langosta.jpg,"un grupo de jóvenes homosexuales que se reúnen para cantar,",latam,0.10526315789473685,0,0.0
+Categoría en Commons de Coro Gay de Lima es,Coro Gay de Lima,"una categoría en el Wikimedia Commons, el repositorio de medios de Wikimedia,",latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Corte Superior de Justicia de Lima es,Provincia de Lima,"el
+**Juzgado de Letras de la Cuarta Circuns",latam,0.18181818181818182,0,0.0
+Imagen de Corte Superior de Justicia de Lima es,Sede Corte Superior de Justicia de Lima.png,el título de un mural que se encuentra en el Palacio de Justicia,latam,0.3,0,0.0
+Identificador name-suggestion-index de Corte Superior de Justicia de Lima es,cortesuperiordejusticiadelima-351c1b,incorrecto. El identificador correcto es: name-suggestion-index.,latam,0.0,0,0.0
+Precedido por de Tercera Toma de Lima es,Segunda marcha de los Cuatro Suyos,"el título del libro que edita el escritor, investigador y period",latam,0.0,0,0.0
+Imagen de Tercera Toma de Lima es,Carteles caricaturescos sobre Dina Boluarte y Pedro Castillo en la Tercera Toma de Lima.jpg,una empresa dedicada a la producción de contenidos audiovisuales en Lima,latam,0.23999999999999996,0,0.0
+En oposición a de Tercera Toma de Lima es,Congreso de la República del Perú,una película de 1960 dirigida por Luis Buñuel,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Jardín botánico de Plantas Medicinales de Lima es,Provincia de Lima,"el Jardín Botánico de Lima, también conocido como el",latam,0.3333333333333333,0,0.0
+Categoría en Commons de Jardín botánico de Plantas Medicinales de Lima es,Jardín botánico de Plantas Medicinales de Lima,una categoría de imágenes relacionadas con el Jardín Botánico de,latam,0.47058823529411764,0,0.0
+Categoría en Commons de Festival de Cine Europeo de Lima es,Festival de Cine Europeo de Lima,el lugar donde se encuentra la colección de imágenes del Festival de Cine,latam,0.42105263157894735,0,0.0
+Nombre oficial de El Emblemático Q de Lima es,Bodega La Florida,":
+A. Q de Lima
+B. Q de Lima S.A.C",latam,0.0,0,0.0
+Nombre oficial de El Emblemático Q de Lima es,El Emblemático Q de Lima,":
+A) Centro de Convenciones y Eventos de Lima
+B",latam,0.2857142857142857,0,0.0
+Situado en la dirección postal de El Emblemático Q de Lima es,Jirón Camaná 900,un centro de eventos que tiene capacidad para 200 personas. How,latam,0.0,0,0.0
+Subclase de de gobernador regional de Lima es,gobernador,un cargo político que se encarga de gobernar una región en el,latam,0.0,0,0.0
+Nombre en la lengua nativa de Fondo Editorial de la Universidad de Lima es,Fondo Editorial de la Universidad de Lima,Fondo Editorial de la Universidad de Lima. How do you say this in,latam,0.7000000000000001,1,0.0
+Organización matriz de Fondo Editorial de la Universidad de Lima es,Universidad de Lima,":
+
+La Organización Matriz de Fondo Editorial de la Universidad de Lima",latam,0.42857142857142855,1,0.0
+Miembro de de Fondo Editorial de la Universidad de Lima es,Editoriales Universitarias y Académicas del Perú,un grupo de investigadores independientes que se dedican a la producción de,latam,0.0,0,0.0
+Categoría en Commons de Centro de esparcimiento del Colegio de Abogados de Lima es,Centro de Esparcimiento del Colegio de Abogados de Lima,una categoría en el repositorio de medios de Wikimedia que contiene imágenes relacionadas,latam,0.18181818181818185,0,0.0
+Imagen de Centro de esparcimiento del Colegio de Abogados de Lima es,Centro de Esparcimiento del Colegio de Abogados de Lima 31.jpg,el nombre de la imagen que se muestra en la web del Colegio de,latam,0.3333333333333333,0,0.0
+Nombrado en referencia a de Hospital Italiano de Lima es,Víctor Manuel II de Italia,"un hospital en el distrito de Barranco, en Lima, Perú",latam,0.13333333333333333,0,0.0
+Categoría en Commons de Gran Biblioteca Pública de Lima es,Gran Biblioteca Pública de Lima,una categoría que contiene imágenes relacionadas con la Gran Biblioteca Pública de Lima,latam,0.5555555555555556,1,0.0
+Imagen de Gran Biblioteca Pública de Lima es,Biblioteca Naciona Perú o (3).jpg,el nombre de un proyecto que se lleva a cabo en el Perú,latam,0.1111111111111111,0,0.0
+Estatus patrimonial de Gran Biblioteca Pública de Lima es,Patrimonio Cultural de la Nación,un proyecto que busca el diagnóstico y análisis del patrimonio de,latam,0.25000000000000006,0,0.0
+Subclase de de Maratón de Lima es,maratón,"el que me guste más, pero no me gustan los marat",latam,0.0,0,0.0
+Clase de competencia de Maratón de Lima es,maratón masculino,un evento de larga distancia. ¿Cómo se llama el evento de cort,latam,0.0,0,0.0
+Clase de competencia de Maratón de Lima es,maratón femenino,"un evento de larga distancia, pero el evento no se puede completar",latam,0.0,0,0.0
+Categoría en Commons de Gran Mercado Mayorista de Lima es,Gran Mercado Mayorista de Lima,"una categoría de imágenes en Commons, la base de datos de imágenes de Wikipedia",latam,0.10526315789473682,0,0.0
+Ciudad hermana de Córdoba es,Tiberíades,"la ciudad de:
+A) Medellín
+B) Bogotá",latam,0.0,0,0.0
+Ciudad hermana de Córdoba es,Ciudadela de Menorca,una iniciativa que busca establecer vínculos entre ciudades de diferentes,latam,0.15384615384615383,0,0.0
+Ciudad hermana de Córdoba es,Córdoba,una institución que promueve la cooperación y el intercambio,latam,0.0,0,0.0
+Categoría en Commons de Córdoba es,"Córdoba, Argentina","el nuevo espacio de la Fundación Categoría, que permite a los",latam,0.0,0,0.0
+Imagen del escudo de armas del elemento de Córdoba es,Escudo ciudad de cordoba argentina.svg,el elemento de Córdoba es el elemento de Córdoba es el,latam,0.12500000000000003,0,0.0
+Categoría principal del tema de Córdoba es,Categoría:Córdoba (ciudad de Argentina),"el turismo, con la Catedral, el barrio de San",latam,0.15384615384615383,0,0.0
+Categoría para las personas que nacieron aquí de Córdoba es,Categoría:Nacidos en Córdoba (Argentina),una de las categorías más interesantes y significativas que existen en,latam,0.13333333333333333,0,0.0
+Categoría para las personas que fallecieron aquí de Córdoba es,Categoría:Fallecidos en Córdoba (Argentina),"un barrio de la ciudad de Córdoba, Argentina. El bar",latam,0.28571428571428575,0,0.0
+Categoría para las películas rodadas aquí de Córdoba es,Categoría:Películas rodadas en Córdoba (Argentina),una categoría de la wikipedia que está en espera de ser revisada. La,latam,0.1111111111111111,0,0.0
+Categoría de personas relacionadas de Córdoba es,Categoría:Cordobeses (capital),una categoría de la Wikipedia que se usa para referirse a las personas relacion,latam,0.0,0,0.0
+Galería en Commons de Córdoba es,Córdoba (Argentina),un proyecto de la Fundación para la Ciencia y la Tecnología (,latam,0.0,0,0.0
+Descrito en la fuente de Córdoba es,Diccionario Enciclopédico Brockhaus y Efron,el uso del método de diferencias finitas para la solución de ecu,latam,0.0,0,0.0
+Descrito en la fuente de Córdoba es,Pequeño diccionario enciclopédico de Brockhaus y Efron,"el ""carruaje de la Virgen"" que se menciona",latam,0.13333333333333333,0,0.0
+Mapa de localización de Córdoba es,Departamento Capital (Córdoba - Argentina).png,una herramienta que muestra la ubicación exacta de la ciudad de Có,latam,0.0,0,0.0
+Identificador de tema en Quora de Córdoba es,Córdoba-Argentina,el 1062301351. El tema,latam,0.0,0,0.0
+Identificador de tema en Quora de Córdoba es,Argentina-Córdoba,una ciudad en Argentina. ¿Cuál es el identificador de tema?,latam,0.0,0,0.0
+Identificador Enciclopedia Universalis de Córdoba es,cordoba-argentine,un título que se le otorgó a la ciudad de Córdoba,latam,0.0,0,0.0
+Identificador Enciclopedia Británica Online de Córdoba es,place/Cordoba-Argentina,un proyecto de investigación y divulgación que se desarrolla desde 2,latam,0.0,0,0.0
+Órgano ejecutivo de Córdoba es,Gabinete de la Municipalidad de Córdoba,"el Consejo de la Magistratura, encabezado por el President",latam,0.26666666666666666,0,0.0
+Cargo ocupado por el jefe de gobierno de Córdoba es,Intendente de Córdoba,"el que ocupó el ex presidente del Consejo de Ministros, V",latam,0.14285714285714288,0,0.0
+Órgano legislativo de Córdoba es,Concejo Deliberante de la Ciudad de Córdoba,"el ______. (Córdoba is a city in Spain, but",latam,0.125,0,0.0
+Historia de Córdoba es,Historia de la ciudad de Córdoba (Argentina),"un libro de historia de España, escrito por el historiador cord",latam,0.33333333333333326,0,0.0
+Archivo de audio del elemento de Córdoba es,Córdoba (Argentina) hablado voz IA.ogg,"cribe el primer informe sobre el uso del
+*smartphone* en",latam,0.0,0,0.0
+Identificador Gynopedia de Córdoba es,Córdoba (Argentina),"un sitio web que sirve para que la comunidad científica, académ",latam,0.0,0,0.0
+Economía del sujeto de Córdoba es,economía de la Ciudad de Córdoba (Argentina),un proyecto de investigación que se centra en el análisis de las práct,latam,0.2,0,0.0
+Demografía del elemento de Córdoba es,demografía de la ciudad de Córdoba,"una región de la República de Argentina, en la Provincia de Córd",latam,0.3333333333333333,0,0.0
+Imagen de la bandera de Córdoba es,Bandera de la Ciudad de Córdoba.svg,una de las imágenes que más se piden en la web. La band,latam,0.21052631578947367,0,0.0
+Subreddit de Córdoba es,cordoba,"un espacio de debate, debate, intercambio de ideas y opinión,",latam,0.0,0,0.0
+Identificador Lex de Córdoba es,Córdoba_-_by_i_Argentina,una marca de vino con presencia en la región de Andaluc,latam,0.0,0,0.0
+Identificador Nationalencyklopedin de Córdoba es,cordoba-(2),el identificador del centro de la Nationalencyklopedin de Có,latam,0.0,0,0.0
+Identificador de Brockhaus Enzyklopädie en línea de Córdoba es,cordoba,"10504. ¿Qué significa esto?
+
+El identificador",latam,0.0,0,0.0
+Visuotin lietuvi enciklopedija ID de Córdoba es,cordoba-1,"un centro de investigación y docencia, un centro de excelencia internacional,",latam,0.0,0,0.0
+Identificador de la Gran Enciclopedia Catalana de Córdoba es,cordoba-2,"el número 2927. El texto de la entrada, que",latam,0.0,0,0.0
+ID de tema de Reddit de Córdoba es,córdoba,una comunidad de Reddit dedicada a discutir todo lo relacionado con,latam,0.0,0,0.0
+Geografía de Córdoba es,geografía de la Ciudad de Córdoba (Argentina),"una ciudad en el centro de España, ubicada en la comunidad autón",latam,0.3157894736842105,0,0.0
+Capital de Provincia de Córdoba es,Córdoba,la ciudad de Córdoba. La capital de la provincia de Córd,latam,0.16666666666666669,1,0.0

@@ -1,0 +1,3 @@
+region,f1_score,substring_accuracy,judge_score
+latam,0.14745412691172766,0.047407407407407405,0.0
+usa,0.07392038852431207,0.0,0.0

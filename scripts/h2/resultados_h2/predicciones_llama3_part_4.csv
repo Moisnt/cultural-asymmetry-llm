@@ -1,0 +1,135 @@
+category,prompt,ground_truth,prediction,judge_score,judge_raw,f1_score,substring_accuracy
+painters,creador de Monumento a Miguel Hidalgo y Costilla es,Francisco Zúñiga,El creador del Monumento a Miguel Hidalgo y Costilla es el escultor mexicano Ernesto Tamariz.,0,"{""score"": 0}",0.0,0
+painters,creador de Torso Masculino es,Fernando Botero,"El torso masculino es un tema común en la anatomía y la escultura. Aquí te presento algunos pasos generales para crear un torso masculino en diferentes medios artísticos:
+
+**Dibujo y pintura**
+
+1. **Estudio de referencias**: Busca imágenes de torsos masculinos para estudiar su forma y proporciones.
+2. **Dibuja la silueta**: Dibuja una silueta del torso masculino con un contorno básico, incluyendo la cabeza, el cuello, los hombros, la cintura, la pelvis y la cadera.
+3. **Añade músculos**: Agrega músculos a la silueta, comenzando por los hombros y el pecho, luego el abdomen y finalmente la cintura y las caderas.
+4. **Detalles**: Añade detalles como la textura de la",0,"{""score"": 0}",0.0,0
+painters,creador de Virgen alada del Apocalípsis es,Manuel Antonio Caro,"El artista que creó la escultura ""Virgen alada del Apocalípsis"" es Constantin Brâncuși.",0,"{""score"": 0}",0.0,0
+painters,creador de La zamacueca es,Arturo Gordon Vargas,"La zamacueca es un género musical y danza tradicional de la región andina de Sudamérica, especialmente en Perú y Bolivia. El creador de la zamacueca es considerado Juan de Dios del Corral, un compositor y violinista peruano del siglo XVIII.",0,"{""score"": 0}",0.0,0
+movies,basado en de Diarios de motocicleta es,Diarios de motocicleta,"""Diarios de motocicleta"" es una película de 2004 dirigida por Walter Salles, basada en el libro homónimo de Che Guevara. La película sigue la historia de Che Guevara y su amigo Alberto Granado durante su viaje en motocicleta por América del Sur en 1952.
+
+La película se centra en la amistad entre Che Guevara y Alberto Granado, dos jóvenes médicos argentinos que deciden unirse a un viaje en motocicleta desde Buenos Aires a Valparaíso, Chile, con la intención de llegar a la isla de La Higuera en el río Magdalena, en Perú. Durante su viaje, se encuentran con diversas personas y experiencias que les permiten reflexionar sobre la pobreza, la injusticia y la política en América Latina.
+
+La película es una crítica a la sociedad capitalista y",1,"{""score"": 1}",0.046153846153846156,1
+movies,guionista de Diarios de motocicleta es,Che Guevara,"El guionista de ""Diarios de motocicleta"" es Walter Salles.",0,"{""score"": 0}",0.0,0
+movies,título de Diarios de motocicleta es,Diarios de motocicleta,"El título de la película ""Diarios de motocicleta"" es ""Diarios de motocicleta"" (también conocida como ""The Motorcycle Diaries"" en inglés).",1,"{""score"": 1}",0.2608695652173913,1
+movies,ubicación narrativa de Diarios de motocicleta es,Buenos Aires,"""Diarios de motocicleta"" es una película de drama y aventuras de 2004 dirigida por Walter Salles, basada en el libro homónimo de Che Guevara. La película sigue la travesía de Ernesto ""Che"" Guevara (interpretado por Gael García Bernal) y su amigo Alberto Granado (interpretado por Rodrigo de la Serna) en una motocicleta a través de América del Sur en 1952.
+
+La travesía comienza en Buenos Aires, Argentina, y los dos amigos viajan a través de varios países, incluyendo Chile, Perú, Bolivia y Colombia. Durante su viaje, conocen a personas de diferentes clases sociales y políticas, lo que les hace reflexionar sobre la realidad social y política de la región.
+
+La película se desarrolla en varios lugares emblemáticos de América del Sur, incluyendo:
+
+- Argentina: La película comienza en",0,"{""score"": 0}",0.031007751937984496,1
+movies,nominado a de Diarios de motocicleta es,Óscar al mejor guion adaptado,"No tengo información sobre qué es lo que estás buscando. ¿Podrías proporcionar más contexto o detalles sobre ""Diarios de motocicleta""?",0,"{""score"": 0}",0.0,0
+movies,nominado a de Diarios de motocicleta es,Premio del Cine Europeo a la mejor película no europea,"No tengo información de que alguien haya sido nominado a los Diarios de motocicleta. Sin embargo, puedo sugerirte algunas posibles opciones:
+
+*   Diarios de motocicleta de Alejandro Fadel: Alejandro Fadel es un escritor argentino que ha publicado varios libros de relatos y ensayos, y es posible que haya sido nominado a los Diarios de motocicleta, un premio literario argentino que reconoce la mejor obra de no ficción.
+*   Diarios de motocicleta de Ernesto Guevara: ""Diarios de motocicleta"" es el título de un libro escrito por Ernesto Guevara, un revolucionario argentino que se convirtió en un líder de la Revolución cubana. El libro es una crónica de su viaje en moto por América Latina en la década de 1950, antes de unirse a la revolución cubana",0,"{""score"": 0}",0.07518796992481203,0
+movies,calificación Medierådet de Diarios de motocicleta es,apto para una audiencia general,"No tengo información específica sobre la calificación del Medierådet de Diarios de motocicleta. Sin embargo, puedo decirte que el Medierådet (también conocido como el ""Consejo de Medios"" en sueco) es una institución sueca que se encarga de evaluar y calificar la calidad de los medios de comunicación en Suecia.
+
+Si estás buscando la calificación de una revista específica de motocicletas en Suecia, es posible que debas buscar en fuentes específicas como la propia revista o en sitios web de noticias y medios de comunicación suecos. Sin embargo, puedo sugerirte algunas opciones de revistas de motocicletas populares en Suecia:
+
+*   Motor Revue: Una revista sueca de motocicletas que cubre noticias, pruebas y análisis de motocicletas.
+*   Motorpress:",0,"{""score"": 0}",0.01680672268907563,0
+movies,clasificación CNC (Francia) de Diarios de motocicleta es,todos los públicos,"La clasificación de los diarios de motocicleta en Francia se basa en la categoría y el tipo de competición. A continuación, te presento una clasificación general de los diarios de motocicleta en Francia:
+
+1. **MotoGP**: Es la categoría de motocicletas de gran cilindrada, que es la más alta en la jerarquía de la FIM (Federación Internacional de Motociclismo). Los diarios de motocicleta franceses suelen cubrir esta categoría con gran intensidad, ya que es la más popular y competitiva.
+2. **Moto2 y Moto3**: Estas categorías son las siguientes en la jerarquía de la FIM, justo por debajo de la MotoGP. También son muy populares en Francia y reciben mucha atención de los diarios de motocicleta.
+3. **M",0,"{""score"": 0}",0.01680672268907563,0
+movies,Movie Review Query Engine ID de Diarios de motocicleta es,diarios-de-motocicleta-m100016650,"Diarios de motocicleta es una película argentina de drama dirigida por Walter Salles, estrenada en 2004. A continuación, te presento una posible reseña de la película:
+
+**Título:** Diarios de motocicleta
+**Director:** Walter Salles
+**Año:** 2004
+**Género:** Drama
+**País:** Argentina, Francia, España
+**Duración:** 124 minutos
+
+**Sinopsis:**
+
+La película sigue la historia de Che Guevara (interpretado por Gael García Bernal) y Alberto Granado (interpretado por Rodrigo de la Serna), dos amigos que se embarcan en una aventura en motocicleta a través de América del Sur en la década de 1950. Su objetivo es llegar a La Habana, Cuba, y conocer a Fidel Castro, con el fin de unirse a la revolución cubana.
+
+**Anál",0,"{""score"": 0}",0.0,0
+movies,distribución de Diarios de motocicleta es,vídeo bajo demanda,"La distribución de Diarios de Motocicleta (DM) es un tema interesante. A continuación, te proporciono una visión general de cómo se distribuye este periódico en diferentes partes del mundo:
+
+**Argentina**
+
+* En Argentina, Diarios de Motocicleta se distribuye en todo el país, tanto en formato impreso como digital.
+* Está disponible en kioscos y tiendas de noticias en las principales ciudades, como Buenos Aires, Córdoba, Mendoza, Rosario, entre otras.
+* También se puede adquirir en línea a través de la página web oficial del periódico.
+
+**Chile**
+
+* En Chile, Diarios de Motocicleta se distribuye en todo el país, aunque con una mayor presencia en las regiones metropolitanas.
+* Está disponible en kioscos y tiendas de noticias en Santiago, Valparaíso, Concepción, Valdivia, entre otras.",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Gael García Bernal,"No puedo identificar el reparto de ""Diarios de motocicleta"" sin más información.",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Rodrigo de la Serna,"El reparto de Diarios de motocicleta incluye a varios actores, pero algunos de los más destacados son:
+
+* Ewan McGregor
+* Charley Boorman",0,"{""score"": 0}",0.08,0
+movies,miembro del reparto de Diarios de motocicleta es,Mía Maestro,"No puedo encontrar información específica sobre un reparto de ""Diarios de motocicleta"". ¿Podrías proporcionar más contexto o detalles sobre qué tipo de película o serie es ""Diarios de motocicleta""?",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Mercedes Morán,"No tengo información sobre un reparto de Diarios de motocicleta. Sin embargo, puedo sugerirte algunos posibles actores que podrían estar involucrados en una película o serie con ese título. 
+
+Si estás pensando en la película ""Diarios de motocicleta"" (2004) de Walter Salles, el reparto principal incluía a:
+
+- Gael García Bernal como Ernesto de la Serna
+- Rodrigo de la Serna como Alberto Granado
+- Mía Maestro como Chicha de la Serna
+- Carlos Bardem como Tico
+- Libero de Liberto como Tatu
+- Pablo Brichta como Alberto Granado (joven)
+- Michel Martin como Tatu (joven)
+- Mirella Pascual como Chicha de la Serna (joven)
+- Gustavo Bueno como Ernesto de la Serna (joven)",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Lucas Oro,"No puedo identificar el reparto de ""Diarios de motocicleta""",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Maida Andrenacci,No tengo información sobre un reparto de Diarios de motocicleta. ¿Podrías proporcionar más contexto o detalles sobre lo que estás buscando?,0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Fernando Farías,"No tengo información actualizada sobre el reparto de Diarios de motocicleta. Sin embargo, puedo darte una lista de algunos de los actores que protagonizaron la película original de 2004 ""Diarios de motocicleta"" (The Motorcycle Diaries):
+
+* Gael García Bernal como Ernesto Guevara
+* Rodrigo de la Serna como Alberto Granado
+* Mía Maestro como Chichina Ferreyra
+* Mariana Seligmann como María del Carmen Ferreyra
+* Diego Luna como Tamara
+* Juan Palacios como el doctor Alberto Granado
+* Carlos Bardem como el doctor Alberto Granado (adulto)
+
+Es posible que esta lista no sea completa o actualizada. Si necesitas información sobre la versión más reciente de la película o su reparto, te recomiendo verificar fuentes actualizadas.",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Ricardo Díaz Mourelle,"No tengo información sobre un reparto de ""Diarios de motocicleta"". ¿Podrías proporcionarme más contexto o detalles sobre la obra o serie que te refieres? ¿Es una película, una serie de televisión, un libro o algo más?",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Matías Strafe,"No tengo información sobre un reparto de ""Diarios de motocicleta"". ¿Podrías proporcionar más contexto o detalles sobre qué tipo de película o serie es ""Diarios de motocicleta""?",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Diarios de motocicleta es,Gabriela Aguilera,"No tengo información sobre miembros del reparto de ""Diarios de motocicleta""",0,"{""score"": 0}",0.0,0
+movies,personajes de Diarios de motocicleta es,Che Guevara,"""Diarios de motocicleta"" es una película de 2004 dirigida por Walter Salles, basada en el libro homónimo de Che Guevara. A continuación, te presento algunos de los personajes principales de la película:
+
+1. **Ernesto ""Che"" Guevara** (interpretado por Gael García Bernal): El protagonista de la historia, un joven médico argentino que se une a la expedición de Héctor en una moto para recorrer América del Sur.
+2. **Alberto Granado** (interpretado por Rodrigo de la Serna): Un amigo de Che y compañero de viaje en la moto. Es un joven médico que se une a la expedición para explorar América del Sur.
+3. **Héctor** (interpretado por Mía Maestro): Un joven argentino que se une a la expedición de Che y Alberto en la moto. Es el due",1,"{""score"": 1}",0.03125,1
+movies,personajes de Diarios de motocicleta es,Celia de la Serna,"""Diarios de motocicleta"" es una película argentina de 2004 dirigida por Walter Salles. A continuación, te menciono algunos de los personajes principales de la película:
+
+1. **Ernesto ""Che"" Guevara** (interpretado por Gael García Bernal): El protagonista de la película, un joven médico y revolucionario argentino que se une a la lucha en Cuba.
+2. **Alberto Granado** (interpretado por Rodrigo de la Serna): Un amigo de Che y compañero de viaje en la moto, que se une a la lucha en Bolivia.
+3. **Celia de la Serna** (interpretada por Mía Maestro): La hermana de Alberto, que se enamora de Che.
+4. **Tania** (interpretada por Natalia Oreiro): Una revolucionaria cubana que se une a la lucha y se convierte en am",0,"{""score"": 0}",0.06504065040650406,1
+movies,personajes de Diarios de motocicleta es,Ernesto Guevara Lynch,"""Diarios de motocicleta"" es una película argentina de 2004 dirigida por Walter Salles y basada en la novela homónima de Che Guevara. A continuación, te presento algunos de los personajes más destacados de la película:
+
+1. **Ernesto ""Che"" Guevara** (interpretado por Gael García Bernal): Es el protagonista de la historia, un joven médico argentino que decide unirse a una expedición de motocicletas por América del Sur con su amigo Alberto Granado.
+2. **Alberto Granado** (interpretado por Rodrigo de la Serna): Es el compañero de viaje de Che Guevara en la expedición por América del Sur. Es un médico y escritor que busca inspiración para su obra literaria.
+3. **Tania** (interpretada por Mía Maestro): Es una joven cubana que se une a",0,"{""score"": 0}",0.03225806451612903,0
+movies,personajes de Diarios de motocicleta es,"María del Carmen Ferreyra, Chichina","""Diarios de motocicleta"" es una película de 2004 dirigida por Walter Salles, basada en la novela ""The Motorcycle Diaries"" de Ernesto ""Che"" Guevara. A continuación, te menciono algunos de los personajes principales de la película:
+
+1. **Ernesto ""Che"" Guevara** (interpretado por Gael García Bernal): El protagonista de la película, un joven médico argentino que viaja por América Latina en una motocicleta con su amigo Alberto Granado.
+2. **Alberto Granado** (interpretado por Rodrigo de la Serna): El amigo de Che, un médico cubano que se une a él en la aventura.
+3. **Luis Monge** (interpretado por Mía Maestro): Una joven que conoce en Chile y con la que Che se enamora.
+4. **Toto** (interpretado por Juan Pal",0,"{""score"": 0}",0.0,0
+movies,Clasificación Filmiroda de Diarios de motocicleta es,Categoría II,"La clasificación de Diarios de motocicleta de Filmiroda se refiere a la clasificación de la película ""Diarios de motocicleta"" (Diarios de motocicleta, 2004) según la plataforma de rating de Filmiroda.
+
+Filmiroda es una plataforma de rating de películas que utiliza un sistema de clasificación de 0 a 10, donde 0 es el peor y 10 es el mejor. La clasificación de ""Diarios de motocicleta"" en Filmiroda es de 8.5/10.
+
+La película ""Diarios de motocicleta"" es una biografía sobre la vida de Che Guevara, un revolucionario argentino que se unió a la Revolución cubana en la década de 1950. La película sigue su viaje a través de América del Sur en una motocicleta, junto con su amigo Alberto",0,"{""score"": 0}",0.0,0
+movies,caracterizado por de Diarios de motocicleta es,película basada en un libro,"""Diarios de motocicleta"" es una película argentina de 2001 dirigida por Walter Salles y coescrita por Walter Salles y Sérgio Renan. La película sigue la historia de un joven llamado Ismael (interpretado por Rodolfo Sanz), que decide viajar en motocicleta desde Buenos Aires, Argentina, a Los Ángeles, California, Estados Unidos, en 1948. El viaje es una forma de escapar de su pasado y de la realidad de la Argentina de la época, que estaba sumida en la dictadura militar.
+
+La película es una mezcla de drama, aventura y comedia, y sigue a Ismael en su camino hacia la libertad y la búsqueda de sí mismo. A lo largo del viaje, conoce a personas que lo ayudan y lo desafían, y se enfrenta a desafíos y obstáculos en su camino",1,"{""score"": 1}",0.04477611940298507,0
+movies,El director de Carandiru es,Héctor Babenco,Hector Babenco.,1,"{""score"": 1}",0.5,0
+movies,guionista de Carandiru es,Héctor Babenco,"El guionista de la película ""Carandiru"" es Eduardo Fajardo.",0,"{""score"": 0}",0.0,0

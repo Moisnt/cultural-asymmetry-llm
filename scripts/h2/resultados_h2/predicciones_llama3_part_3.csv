@@ -1,0 +1,80 @@
+category,prompt,ground_truth,prediction,judge_score,judge_raw,f1_score,substring_accuracy
+dances,imagen de Carnavalito es,Carnavalito en Humahuaca.jpg,"La imagen del Carnavalito es una representación cultural y artística que se asocia con la celebración del Carnaval, especialmente en países de América Latina y otros lugares de América. A continuación, te presento algunas de las imágenes y elementos que se asocian con el Carnavalito:
+
+1. **Disfrazes y máscaras**: Las personas que participan en el Carnavalito suelen usar disfraces y máscaras coloridas y creativas, que pueden ser elaboradas con papel maché, cartón, plumas, telas y otros materiales.
+2. **Ritmos y música**: La música es un elemento fundamental del Carnavalito. Los ritmos y géneros musicales típicos incluyen el merengue, el salsa, el vallenato, el cumbia y otros estilos musicales que se originan en la región.
+3. **Danzas y bailes**: Los",0,"{""score"": 0}",0.032786885245901634,0
+dances,caracterizado por de zamba es,tradición musical,"No puedo encontrar información sobre ""caracterizado por de zamba"". ¿Puedes proporcionarme más contexto o detalles sobre qué te refieres con eso? ¿Es un personaje, un lugar, un tema o algo más?",0,"{""score"": 0}",0.0,0
+dances,forma artística de El cosechero es,Rasguido doble,"La forma artística de ""El Cosechero"" puede variar dependiendo del contexto y la interpretación, pero aquí te presento algunas posibles formas artísticas que podrían adaptarse a este tema:
+
+1. **Pintura**: Un cuadro que muestra a un campesino recolectando frutas o verduras en un campo, con un fondo de colores cálidos y naturales que reflejen la belleza de la naturaleza.
+2. **Escultura**: Una escultura que represente a un campesino con una mochila llena de frutas o verduras, con detalles realistas y texturas que simulan la textura de la ropa y la vegetación.
+3. **Cine**: Un cortometraje que sigue la historia de un campesino que se levanta temprano para cosechar sus frutas o verduras, con un ritmo lento y contemplativo que ref",0,"{""score"": 0}",0.0,0
+dances,categoría principal del tema de Cumbia chilena es,Categoría:Cumbia chilena,"La categoría principal del tema de Cumbia chilena es la música folclórica y popular de Chile, que se originó en la década de 1950 y se caracteriza por sus ritmos y melodías tradicionales, fusionados con elementos de la música tropical y la salsa.",0,"{""score"": 0}",0.04444444444444444,0
+dances,categoría principal del tema de música folclórica de Chile es,Categoría:Música folclórica de Chile,"La música folclórica de Chile es muy diversa y tiene varias categorías, pero algunas de las categorías principales son:
+
+1. **Vallenato chileno**: es una forma de música folclórica que se originó en la región de La Araucanía y es similar al vallenato colombiano, con un ritmo rápido y una melodía alegre.
+2. **Tonada**: es una forma de música folclórica que se caracteriza por ser una canción lírica y melódica, a menudo con un ritmo lento y una letra que cuenta historias o reflexiona sobre la vida.
+3. **Huaso**: es un tipo de canción folclórica que se canta en el sur de Chile, especialmente en la región de La Araucanía, y se caracteriza por ser una canción de amor o de desamor.
+4. **Cueca**: es",1,"{""score"": 1}",0.04687499999999999,0
+dances,categoría principal del tema de cumbia amazónica es,Categoría:Cumbia amazónica,"La categoría principal del tema de la cumbia amazónica es la música folklórica y popular de la región amazónica, que se caracteriza por su ritmo lento y melancólico, con influencias de la música afroamericana, indígena y española. La cumbia amazónica es un estilo musical que se originó en la región amazónica de América del Sur, particularmente en países como Colombia, Perú y Ecuador.",1,"{""score"": 1}",0.03076923076923077,0
+dances,categoría principal del tema de cumbia peruana es,Categoría:Cumbia peruana,"La categoría principal del tema de la cumbia peruana es la música folklórica y la música tropical, con influencias de ritmos africanos, españoles y otros estilos musicales.",0,"{""score"": 0}",0.06896551724137931,0
+dances,imagen de Chiriwanos es,XX Encuentro de Chiriwanos de Huancané 2025 - 8.jpg,"No tengo información sobre una persona o cosa llamada ""Chiriwanos"". ¿Podrías proporcionarme más contexto o detalles sobre a quién o qué se refiere ""Chiriwanos""?",0,"{""score"": 0}",0.0625,0
+painters,patrocinador de Caminito es,Benito Quinquela Martín,"No tengo información sobre un patrocinador específico del ""Caminito"". Sin embargo, puedo sugerir algunas posibles opciones:
+
+1.  **Fundación del Caminito del Rey**: Es posible que la fundación que gestiona el Caminito del Rey sea su principal patrocinador o colaborador.
+2.  **Ministerio de Cultura y Deporte de España**: Como una atracción turística importante en España, el Caminito del Rey podría recibir patrocinio o financiamiento del Ministerio de Cultura y Deporte para su conservación y promoción.
+3.  **Ayuntamiento de Málaga**: El ayuntamiento de Málaga, la provincia donde se encuentra el Caminito del Rey, podría ser un patrocinador local o colaborador en la gestión y conservación del sitio.
+4.  **Empresas privadas**: Es posible que empresas privadas locales o nacionales",0,"{""score"": 0}",0.0,0
+painters,patrocinador de Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín es,Benito Quinquela Martín,"El patrocinador del Museo de Bellas Artes de La Boca, de Artistas Argentinos Benito Quinquela Martín, es Benito Quinquela Martín.",1,"{""score"": 1}",0.2608695652173913,1
+painters,nombrado en referencia a de Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín es,Benito Quinquela Martín,"El museo que estás refiriéndote es el Museo Benito Quinquela Martín, que se encuentra en La Boca, en la ciudad de Buenos Aires, Argentina.",1,"{""score"": 1}",0.2222222222222222,1
+painters,patrocinador de Teatro de la Ribera es,Benito Quinquela Martín,No tengo información actualizada sobre el patrocinador actual del Teatro de la Ribera.,0,"{""score"": 0}",0.0,0
+painters,representa a de Benito Quinquela Martín es,Benito Quinquela Martín,"Benito Quinquela Martín (1890-1977) fue un pintor argentino de origen español, conocido por sus obras que reflejaban la vida de la clase trabajadora y la identidad argentina. Nació en Buenos Aires, Argentina, en una familia de inmigrantes españoles. A continuación, te presento algunos aspectos importantes de su vida y obra:
+
+**Infancia y formación**
+
+Benito Quinquela Martín nació en el barrio de La Boca, en Buenos Aires, en una familia de inmigrantes españoles. Su padre era un trabajador ferroviario y su madre era una costurera. Desde joven, Quinquela mostró un gran interés por la pintura y se autodidacta en el arte. Comenzó a trabajar en la fábrica de su padre, pero pronto se dedicó por completo a la pintura.
+
+**Estilo",1,"{""score"": 1}",0.049180327868852465,1
+painters,material empleado de Benito Quinquela Martín es,hormigón,"Benito Quinquela Martín fue un pintor argentino conocido por sus obras realistas y expresionistas que reflejaban la vida de la clase trabajadora en la ciudad de Buenos Aires. Algunos de los materiales que empleó en sus obras incluyen:
+
+1.  **Óleos**: Quinquela Martín utilizó óleos como medio principal para crear sus pinturas. Los óleos son una mezcla de aceites vegetales y pigmentos que se pueden mezclar y aplicar a una superficie para crear una amplia gama de tonos y texturas.
+2.  **Pinturas acrílicas**: Aunque no se sabe con certeza, algunas fuentes indican que también utilizó pinturas acrílicas, especialmente en sus obras posteriores. Las pinturas acrílicas son un tipo de pintura líquida que se seca rápidamente y es fácil de limpiar",0,"{""score"": 0}",0.0,0
+painters,ubicación de Benito Quinquela Martín es,Paseo Diputado Nacional Carlos Bello,"Benito Quinquela Martín es un barrio ubicado en la ciudad de Buenos Aires, Argentina.",0,"{""score"": 0}",0.0,0
+painters,situado en la entidad territorial administrativa de Benito Quinquela Martín es,Buenos Aires,"No puedo encontrar información sobre una entidad territorial administrativa llamada ""Benito Quinquela Martín"". Es posible que sea un municipio o localidad menor en Argentina, ya que ""Benito Quinquela Martín"" es un nombre que se asocia a un artista argentino. ¿Puedes proporcionar más contexto o detalles sobre la ubicación de Benito Quinquela Martín?",0,"{""score"": 0}",0.0,0
+painters,imagen de Benito Quinquela Martín es,"2018-10-19 La Boca, Buenos Aires, Argentina (Martin Rulsch) 07.jpg","Benito Quinquela Martín (1890-1977) fue un pintor argentino de origen español, considerado uno de los exponentes más importantes del realismo social y del expresionismo en la pintura argentina. Nació en Buenos Aires, Argentina, en el barrio de Barracas.
+
+Benito Quinquela Martín es conocido por sus obras que reflejan la vida de la clase trabajadora y la pobreza en la Argentina de principios del siglo XX. Sus pinturas a menudo presentan escenas de la vida cotidiana en los barrios populares, con un enfoque en la realidad social y la emoción.
+
+Algunas de sus obras más famosas incluyen ""La estación de ferrocarril de Barracas"" y ""El Puerto de Buenos Aires"". Su estilo se caracteriza por la utilización de colores fuertes y expresivos, y una fuerte carga",0,"{""score"": 0}",0.06015037593984962,0
+painters,creador de José Quiñones es,Benito Quinquela Martín,El creador de José Quiñones es el dibujante peruano Carlos Ruvalcaba.,0,"{""score"": 0}",0.0,0
+painters,creador de Día del Trabajo es,Benito Quinquela Martín,"El Día del Trabajo es una celebración laboral que se celebra en muchos países, pero su origen y creador varían según la nación. Sin embargo, hay dos versiones principales de cómo se originó esta celebración.
+
+**En Estados Unidos:**
+
+El Día del Trabajo en Estados Unidos se conoce como Labor Day y se celebra el primer lunes de septiembre. Fue creado por Matthew Maguire, un secretario de la Federación Americana de Trabajadores del Ferrocarril (American Federation of Labor, AFL), en 1882. Sin embargo, hay una versión alternativa que sugiere que Peter J. McGuire, otro líder sindical, fue el verdadero creador de la celebración.
+
+**En otros países:**
+
+En otros países, como Alemania, Italia, Francia y Canadá, el Día del Trabajo se conoce como ""Fiesta del Trabajo"" o ""Día",0,"{""score"": 0}",0.0,0
+painters,arquitecto de Quinta presidencial de Olivos es,Prilidiano Pueyrredón,El Arquitecto de la Quinta Presidencial de Olivos en Argentina es Mario Roberto Álvarez.,0,"{""score"": 0}",0.0,0
+painters,creador de Pirámide de Mayo es,Prilidiano Pueyrredón,El creador de la Pirámide de Mayo es el escultor italiano Pietro Tenerani.,0,"{""score"": 0}",0.0,0
+painters,nombrado en referencia a de Viejo Puente Pueyrredón es,Prilidiano Pueyrredón,"No tengo suficiente información para determinar qué estás refiriéndote. Puede que estés haciendo referencia a un lugar, una persona o algo más. ¿Podrías proporcionar más contexto o detalles sobre ""Viejo Puente Pueyrredón""?",0,"{""score"": 0}",0.058823529411764705,0
+painters,diseñador de Viejo Puente Pueyrredón es,Prilidiano Pueyrredón,"El diseño del Puente Pueyrredón en Buenos Aires, Argentina, es obra del ingeniero civil español Alberto Prebisch.",0,"{""score"": 0}",0.10526315789473684,0
+painters,creador de Los capataces es,Prilidiano Pueyrredón,"El creador de ""Los Capataces"" es Roberto Gómez Bolaños, más conocido como Chespirito.",0,"{""score"": 0}",0.0,0
+painters,nombrado en referencia a de Museo Kosice es,Gyula Kosice,"Me parece que estás haciendo referencia al ""Museo de Arte Moderno de Košice"" en Eslovaquia. ¿Es eso correcto?",0,"{""score"": 0}",0.0,0
+painters,creador de Homenaje a la Democracia es,Gyula Kosice,"El ""Homenaje a la Democracia"" es una composición musical escrita por el compositor español Joaquín Rodrigo en 1943.",0,"{""score"": 0}",0.0,0
+painters,autor de Cosmogonía del agua es,Gyula Kosice,"El autor de ""Cosmogonía del agua"" es José María Arguedas.",0,"{""score"": 0}",0.0,0
+painters,autor de Sin Titulo es,Gyula Kosice,"No tengo suficiente información para identificar el título de la obra que estás refiriendo. ¿Podrías proporcionar más contexto o detalles sobre ""Sin Título""? ¿Es una película, un libro, una canción o algo más?",0,"{""score"": 0}",0.0,0
+painters,creador de Historia de Concepción es,Gregorio de la Fuente,"La ciudad de Concepción es una ciudad ubicada en la Región del Bío-Bío, en el centro-sur de Chile. Su fundador es Pedro de Valdivia, un conquistador español que llegó a Chile en 1540. Sin embargo, la historia de Concepción es un poco más compleja.
+
+La ciudad fue fundada originalmente en 1550 por Pedro de Valdivia, quien la llamó ""La Concepción"", en honor a la Concepción de la Virgen María. Sin embargo, la ciudad fue destruida por un terremoto en 1570 y no se reconstruyó hasta 1605.
+
+En 1605, el gobernador de Chile, Alonso de Sotomayor, decidió refundar la ciudad en un lugar más seguro, cerca del río Bío-Bío, y la llamó ""Concepción de la Concepción"". La ciudad creció lentamente y se conv",0,"{""score"": 0}",0.031746031746031744,0
+painters,creador de Historia de La Serena es,Gregorio de la Fuente,"La Serena es una ciudad ubicada en la Región de Coquimbo, en la costa norte de Chile. La historia de La Serena se remonta a la época prehispánica, cuando en el lugar donde se encuentra la ciudad actual habitaban los pueblos indígenas Huasco y Chango.
+
+La fundación de La Serena se atribuye a Diego de Almagro, un conquistador español, en 1544. Sin embargo, fue Juan Bohórquez, un conquistador español, quien estableció la ciudad en 1549 y le dio el nombre de ""La Serena"" en honor a la ciudad española de Serón de los Infantes, en la provincia de Jaén, España.
+
+La Serena creció lentamente en la época colonial, y se convirtió en un importante centro comercial y religioso en la región. La ciudad fue centro de la misiones jesuitas y se estable",0,"{""score"": 0}",0.029411764705882356,0
+painters,miembro del reparto de El artista es,León Ferrari,"No tengo suficiente información sobre el reparto de ""El artista"". ¿Podrías proporcionarme más detalles sobre la obra o el contexto en el que se estrenó? De esta manera, puedo darte una respuesta más precisa.",0,"{""score"": 0}",0.0,0
+painters,creador de Cabildo abierto del 22 de mayo de 1810 es,Pedro Subercaseaux,"El Creador del Cabildo Abierto del 22 de mayo de 1810 fue el Cabildo de Buenos Aires, que era el órgano de gobierno de la ciudad de Buenos Aires en ese momento.",0,"{""score"": 0}",0.0,0

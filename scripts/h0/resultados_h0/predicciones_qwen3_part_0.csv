@@ -1,0 +1,1282 @@
+prompt,ground_truth,prediction,region,f1_score,substring_accuracy,judge_score
+Idioma de la película o programa de televisión de Cantata de Chile es,español,":  La película o programa de televisión ""Cantata de Chile",latam,0.0,0,0.0
+Miembro del reparto de Cantata de Chile es,Leonardo Perucci,"un programa de TV que se transmite en Chile, se estrenó",latam,0.0,0,0.0
+Director de fotografí­a de Cantata de Chile es,Jorge Herrera (músico),el director de fotografí­a de la película de 200,latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Gabriel García Márquez,un reconocimiento otorgado por el Ministerio de Cultura y De,latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Salvador Allende,un grupo de artistas que se formó en 2008,latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Fidel Castro,un grupo musical chileno de rock formado en 198,latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Ricardo Lagos,"un personaje que participa en el programa Acta general de Chile,",latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Acta general de Chile es,español,":
+El idioma de la película o programa de televisión de **Act",latam,0.0,0,0.0
+Emisora original de Algo habrán hecho por la historia de Chile es,Televisión Nacional de Chile,"el canal 13 de Televisión Nacional de Chile, que se enc",latam,0.5333333333333333,1,0.0
+Subclase de de música folclórica de Chile es,música de Chile,"el llamado ""Cueca Chilena"", que se caracteriza",latam,0.0,0,0.0
+Subclase de de Jazz de Chile es,música de Chile,"el jazz de Chile, que es un estilo de jazz que se desarrolló",latam,0.25,0,0.0
+Subclase de de Rock de Chile es,música de Chile,: a) Rock and roll b) Rock alternativo c) Rock pro,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Cuencas fronterizas entre salares Atacama y Socompa de Chile es,Región de Antofagasta,el parque nacional El Arrayán. La zona es de gran importancia,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca República de Chile es,Provincia de San Luis,"un espacio de acceso libre, con el objetivo de dar a conocer y dif",latam,0.11111111111111112,0,0.0
+Situado en la entidad territorial administrativa de Estación Cadetes de Chile es,Departamento La Paz,"un municipio de la Provincia de Talca, Región del Ma",latam,0.15384615384615383,0,0.0
+Estado de uso de Estación Cadetes de Chile es,clausurado,un buen ejemplo de la integración de los valores de la empresa en el,latam,0.0,0,0.0
+Línea de ferrocarril de Estación Cadetes de Chile es,Ramal Justo Daract-La Paz,una línea de ferrocarril que conecta la estación de tren,latam,0.0,0,0.0
+Estación adyacente de Estación Cadetes de Chile es,Estación Pirguita,La estación adyacente a la Estación Cadetes de Chile,latam,0.1818181818181818,0,0.0
+Estación adyacente de Estación Cadetes de Chile es,Estación Maquinista Levet,":
+
+La estación adyacente a **Estación Cadetes de Chile",latam,0.18181818181818182,0,0.0
+Categoría principal del tema de Ejército Unido Libertador de Chile es,Categoría:Ejército Unido Libertador de Chile,": 
+
+A) Ciencia y tecnología  
+B) Historia  
+C",latam,0.0,0,0.0
+Ciudad asociada de Chile es,Buenos Aires,":
+A) San Antonio
+B) Valdivia
+C) Tem",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Chile es,Buenos Aires,"un lugar donde se encuentra la capital del país, también es el centro de",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Plaza República de Chile es,Buenos Aires,"un municipio del departamento de La Paz, Bolivia, es un municipio",latam,0.0,0,0.0
+Categoría en Commons de Plaza República de Chile es,Plaza República de Chile (Buenos Aires),un espacio de imágenes con licencia libre. Cada imagen tiene un atrib,latam,0.1111111111111111,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca República de Chile es,Provincia de San Luis,"una biblioteca pública que ofrece servicios a la comunidad en forma gratuita, con",latam,0.0,0,0.0
+Situado en la dirección postal de Biblioteca República de Chile es,Avda Fuerza Aérea 3051,el lugar de reunión de la Asociación de Amigos de la,latam,0.0,0,0.0
+Categoría en Commons de Chile es,"Calle Chile, Buenos Aires","un proyecto de la Fundación Wikimedia Chile, que busca organizar la información",latam,0.125,0,0.0
+Ejemplo de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,Colegio de la Preciosa Sangre,":
+
+En Wikidata, las propiedades se utilizan para describir características",latam,0.0,0,0.0
+Ejemplo de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,Colegio Nuestra Señora de Andacollo,: [https://www.wikidata.org/wiki/Q60401,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,restricción de valor único,"el siguiente: 
+""Q25869102""",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,restricción de valor singular,Q27525523. ¿Qué significa esto?,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,restricción de formato,":
+
+Restricción de propiedad de Wikidata de identificador de colegios",latam,0.3333333333333333,0,0.0
+Restricción de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,restricción de tipo de entidad permitido,"un recurso de datos de tipo ""Colegio"" que se encuentra en",latam,0.3529411764705882,0,0.0
+Restricción de propiedad de Wikidata de identificador de colegios del Ministerio de Educación de Chile es,campo de aplicación,"el siguiente:
+
+""El identificador de colegios del Ministerio de Educación",latam,0.15384615384615383,0,0.0
+Valor «­­afirmado en» aplicable de identificador de colegios del Ministerio de Educación de Chile es,"Más información, mejor educación","el siguiente: 
+
+El valor «afirmado en» (o «",latam,0.0,0,0.0
+Ejemplo de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,El Marino,"el siguiente:
+
+P1955
+
+Pero, ¿cómo",latam,0.28571428571428575,0,0.0
+Propiedad relacionada de número de catálogo de la Biblioteca Nacional de Chile es,identificador CCAB,"el catálogo de la Biblioteca Nacional de Chile, que es el",latam,0.0,0,0.0
+Propiedad relacionada de número de catálogo de la Biblioteca Nacional de Chile es,identificador de la Biblioteca Nacional de Chile,"el siguiente: ""La Biblioteca Nacional de Chile, con el fin de",latam,0.6666666666666665,0,0.0
+Restricción de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,restricción de formato,un número de catálogo de la Biblioteca Nacional de Chile. La,latam,0.14285714285714288,0,0.0
+Restricción de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,restricción de valor único,":
+
+La restricción de propiedad de Wikidata para el número de cat",latam,0.26666666666666666,0,0.0
+Restricción de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,restricción de valor singular,"""PCL"" (por ejemplo, PCL 1234",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,restricción de conflicto con,de tipo P195. ¿Qué es P195?,latam,0.2,0,0.0
+Restricción de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,restricción de tipo de entidad permitido,"incorrecta
+
+El error que mencionas se refiere a que la",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de número de catálogo de la Biblioteca Nacional de Chile es,campo de aplicación,un campo de tipo 'string' y se debe rellenar con el,latam,0.28571428571428575,0,0.0
+Valor «­­afirmado en» aplicable de número de catálogo de la Biblioteca Nacional de Chile es,Catálogo Bibliográfico de la Biblioteca Nacional de Chile,el siguiente: 5501471. Este es el,latam,0.0,0,0.0
+País de Santiago de Chile es,Capitanía General de Chile,el país con más cantidad de personas con discapacidad que se ha comprom,latam,0.11764705882352941,0,0.0
+Categoría en Commons de Santiago de Chile es,Santiago de Chile,un proyecto del grupo de trabajo de la categoría en Commons de la Wikimedia Foundation,latam,0.1111111111111111,0,0.0
+Imagen de Santiago de Chile es,Santiago en invierno.jpg,"la capital de Chile, ubicada en la Región Metropolitana",latam,0.16666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Santiago de Chile es,Región Metropolitana de Santiago,una comuna que se encuentra ubicada en la región Metropolitana,latam,0.28571428571428575,0,0.0
+Situado en la entidad territorial administrativa de Santiago de Chile es,provincia de Santiago,el lugar más alto de la capital. Se encuentra a 556,latam,0.14285714285714288,0,0.0
+Ciudad hermana de Santiago de Chile es,Santiago de Querétaro,": 
+
+a) Mendoza
+
+b) Córdoba
+
+c)",latam,0.0,0,0.0
+Ciudad hermana de Santiago de Chile es,Buenos Aires,"la ciudad de :
+A) Toronto, Canada
+B) Madrid, España",latam,0.0,0,0.0
+Ciudad hermana de Santiago de Chile es,Plasencia,: ¿Cuál es la respuesta correcta?  La ciudad hermana,latam,0.0,0,0.0
+Ciudad hermana de Santiago de Chile es,Ciudad de México,: ¿Cuál es la respuesta? La ciudad hermana de Santiago de,latam,0.30769230769230765,0,0.0
+Categoría principal del tema de Santiago de Chile es,Categoría:Santiago de Chile,"la siguiente: ""Santiago de Chile, la capital del país, es",latam,0.30769230769230765,0,0.0
+Categoría para las personas que nacieron aquí de Santiago de Chile es,Categoría:Nacidos en Santiago de Chile,"una categoría de Wikimedia que se encuentra en el estado de ""revisión pend",latam,0.2222222222222222,0,0.0
+Categoría para las personas que fallecieron aquí de Santiago de Chile es,Categoría:Fallecidos en Santiago de Chile,":
+A) 33
+B) 18
+C)",latam,0.0,0,0.0
+Categoría de personas relacionadas de Santiago de Chile es,Categoría:Personas de Santiago de Chile,el nombre de una categoría de la Wikipedia en español que reúne a,latam,0.2222222222222222,0,0.0
+Capital de de Santiago de Chile es,Región Metropolitana de Santiago,la capital de Chile. La capital de Chile es Santiago. La capital de,latam,0.23529411764705882,0,0.0
+Capital de de Santiago de Chile es,Provincia de Santiago,"un país de América del Sur, ubicado en la costa del océ",latam,0.13333333333333333,0,0.0
+Capital de de Santiago de Chile es,provincia de Santiago,la capital de Chile. La capital de Chile es Santiago de Chile. La,latam,0.25,0,0.0
+Capital de de Santiago de Chile es,Departamento de Santiago,"la capital de Chile, y es una de las ciudades más importantes del",latam,0.125,0,0.0
+Capital de de Santiago de Chile es,Capitanía General de Chile,"un país de América del Sur, conocido por su riqueza cultural",latam,0.13333333333333333,0,0.0
+Capital de de Santiago de Chile es,Intendencia de Santiago de Chile,"la capital de Chile, y está ubicada en la Región Metropol",latam,0.25000000000000006,0,0.0
+Galería en Commons de Santiago de Chile es,Santiago de Chile,una galería de fotos en la red que se encuentra en la web de,latam,0.11764705882352941,0,0.0
+Imagen del escudo de armas del elemento de Santiago de Chile es,Escudo de Santiago (Chile).svg,"el escudo de armas del reino de Chile, el cual tiene",latam,0.26666666666666666,0,0.0
+Vista nocturna de Santiago de Chile es,Santiago nocturno 2013.jpg,un cuadro de estilo neorrealista de 1969,latam,0.0,0,0.0
+Nombre en la lengua nativa de Santiago de Chile es,Santiago de Chile,": Santiago de Chile, pero en que lengua? La lengua oficial",latam,0.4615384615384615,1,0.0
+Nombre oficial de Santiago de Chile es,Santiago de Chile,":
+A. Santiago de Chile
+B. Santiago
+C. Santiago de",latam,0.5,1,0.0
+Descrito en la fuente de Santiago de Chile es,Diccionario Enciclopédico Brockhaus y Efron,"una ciudad que está ubicada en el centro del país, en el val",latam,0.0,0,0.0
+Descrito en la fuente de Santiago de Chile es,Pequeño diccionario enciclopédico de Brockhaus y Efron,"una de las principales de Chile, y está ubicada en la comuna",latam,0.2105263157894737,0,0.0
+Descrito en la fuente de Santiago de Chile es,Encyclopædia Britannica (11ª edición),"una plaza, muy antigua, que se encuentra en la zona del centro",latam,0.0,0,0.0
+Identificador Enciclopedia Británica Online de Santiago de Chile es,place/Santiago-Chile,un sitio web que ofrece acceso a la Enciclopedia Británica Online,latam,0.0,0,0.0
+Historia de Santiago de Chile es,historia de Santiago de Chile,una obra que abarca desde la fundación de la ciudad hasta la,latam,0.11764705882352941,0,0.0
+Fundador de Santiago de Chile es,Pedro de Valdivia,"el general José María de la Cruz, ¿verdadero o falso",latam,0.15384615384615383,0,0.0
+Fotomontaje de Santiago de Chile es,Montaje de Santiago de Chile (202103220).jpg,una obra que recoge la historia de Santiago de Chile a través de imágenes,latam,0.4,0,0.0
+Nombrado en referencia a de Santiago de Chile es,Santiago el Mayor,el nombre del río que atraviesa el centro de la capital ch,latam,0.13333333333333333,0,0.0
+Economía del sujeto de Santiago de Chile es,economía de Santiago de Chile,un libro que fue publicado en 1965 por el econom,latam,0.0,0,0.0
+Identificador Store norske leksikon de Santiago de Chile es,Santiago_de_Chile,un establecimiento de ventas que se encuentra en la plaza de la Constitución,latam,0.0,0,0.0
+Identificador Lex de Santiago de Chile es,Santiago_de_Chile,un proyecto de investigación interdisciplinario que busca investigar y anal,latam,0.0,0,0.0
+Lista de interés para el proyecto Wikimedia de Santiago de Chile es,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,"un espacio que permite a los usuarios de Wikipedia en español de Chile, así",latam,0.2727272727272727,0,0.0
+Comparte fronteras con de Santiago de Chile es,Cordón de Chacabuco,"con el país de:
+
+Comparte fronteras con Santiago de Chile",latam,0.15384615384615383,0,0.0
+Idioma oficial de Santiago de Chile es,español,"el español. How do you say this in Spanish?
+El idioma oficial",latam,0.15384615384615385,1,0.0
+Discusión de propuesta de propiedad de identificador Aves de Chile es,https://www.wikidata.org/wiki/Wikidata:Property_proposal/Aves_de_Chile_ID,"un proyecto que se inició en 2016, con el",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador Aves de Chile es,restricción de valor único,: 1265259-7. ¿Qué significa,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador Aves de Chile es,restricción de valor singular,un grupo de aves que se encuentran en Chile. Esta lista incl,latam,0.125,0,0.0
+Restricción de propiedad de Wikidata de identificador Aves de Chile es,campo de aplicación,la propiedad de Wikidata que identifica la especie de ave. Por,latam,0.14285714285714288,0,0.0
+Restricción de propiedad de Wikidata de identificador Aves de Chile es,restricción de tipo de entidad permitido,la propiedad que se usa para indicar la identificación de la especie,latam,0.1111111111111111,0,0.0
+Restricción de propiedad de Wikidata de identificador Aves de Chile es,restricción de clase de sujeto,"una categoría de Wikidata. La categoría está vacía.
+Parece",latam,0.14285714285714285,0,0.0
+Discusión de propuesta de propiedad de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,https://www.wikidata.org/wiki/Wikidata:Property_proposal/Reseñas_Biográficas_(Biblioteca_del_Congreso_Nacional_de_Chile),"una propuesta que se está desarrollando en Chile, donde el objetivo es",latam,0.0,0,0.0
+Grado de completitud de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,puede llegar a completarse en el futuro,"85%.
+Categoría: Identificadores de Rese",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,restricción de valor singular,: 1000000000000,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,restricción de valor único,Q36752544. ¿Qué significa esto?,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,restricción de formato,: http://id.loc.gov/authorities/bibframes/12,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,restricción de clase de sujeto,"""P156"" o ""P157""? La propiedad",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,restricción de tipo de entidad permitido,:  ¿Cómo se llama el identificador de reses? La pregunta,latam,0.13333333333333333,0,0.0
+Restricción de propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,campo de aplicación,: 1.0.0.0.0.0.0,latam,0.0,0,0.0
+Categoría de una propiedad de Wikidata de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,Categoría:Páginas usando la propiedad P5442 de Wikidata,el valor de la propiedad P1651. La propiedad P1,latam,0.375,0,0.0
+Emitido por de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,Biblioteca del Congreso Nacional de Chile,"el 16 de abril de 2021.
+The work",latam,0.14285714285714288,0,0.0
+Caracterizado por de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,título de página MediaWiki,"el primero en la historia del país, el libro fue publicado en",latam,0.0,0,0.0
+Valor «­­afirmado en» aplicable de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,Reseñas BCN,el siguiente: «El identificador de Reseñas Biográficas de,latam,0.2,0,0.0
+Estabilidad del valor de la propiedad de identificador de Reseñas Biográficas de la Biblioteca del Congreso Nacional de Chile es,nunca cambia,"un proyecto que se propone a investigar, a través de los recursos",latam,0.0,0,0.0
+Propiedad relacionada de identificador de la Biblioteca Nacional de Chile es,número de catálogo de la Biblioteca Nacional de Chile,la que establece que el identificador de un elemento es único en el,latam,0.18181818181818185,0,0.0
+Propiedad relacionada de identificador de la Biblioteca Nacional de Chile es,identificador CCAB,la propiedad de identificador de la Biblioteca Nacional de Chile. La propiedad,latam,0.14285714285714285,0,0.0
+Restricción de propiedad de Wikidata de identificador de la Biblioteca Nacional de Chile es,restricción de valor singular,": Q25343179. 
+
+¿Qué significa",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de la Biblioteca Nacional de Chile es,restricción de valor único,: https://www.wikidata.org/wiki/Q110448,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de la Biblioteca Nacional de Chile es,restricción de formato,"un [QID] o un [P350]?
+
+En",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de la Biblioteca Nacional de Chile es,restricción de declaración requerida,: [https://www.wikidata.org/wiki/Q22913,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de la Biblioteca Nacional de Chile es,restricción de tipo de entidad permitido,: https://www.wikidata.org/wiki/Q159345,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de la Biblioteca Nacional de Chile es,campo de aplicación,: 1000000000000,latam,0.0,0,0.0
+Valor «­­afirmado en» aplicable de identificador de la Biblioteca Nacional de Chile es,Catálogo Colectivo de Autoridades Bibliográficas de Chile,":  ¿Qué significa este mensaje y cómo se soluciona?
+
+El",latam,0.0,0,0.0
+Mantenido por el wikiproyecto de identificador de la Biblioteca Nacional de Chile es,Wikiproyecto de control de autoridades,"el sitio web de la Biblioteca Nacional de Chile, que tiene como mis",latam,0.2222222222222222,0,0.0
+Emitido por de identificador de la Biblioteca Nacional de Chile es,Biblioteca Nacional de Chile,el número de registro de la obra en el sistema de la Biblioteca Nacional,latam,0.3333333333333333,0,0.0
+Moneda de Chile es,peso,"el peso chileno, que se abrevia con la letra """,latam,0.19999999999999998,1,0.0
+Moneda de Chile es,escudo,el peso chileno (CLP). La moneda de curso legal,latam,0.0,0,0.0
+Categoría de personas relacionadas de Chile es,Categoría:Chilenos,una categoría de la Wikipedia que se usa para agrupar a personas de,latam,0.0,0,0.0
+Geografía de Chile es,geografía de Chile,"un tema de interés general, ya que es un país con una gran ext",latam,0.11764705882352941,0,0.0
+Cargo ocupado por el jefe de gobierno de Chile es,presidente de Chile,"un cargo que requiere una alta responsabilidad, por lo tanto, se",latam,0.0,0,0.0
+Caracterizado por de Chile es,país libre,"un país que se encuentra en el sur de América del Sur, con una",latam,0.125,0,0.0
+Relación diplomática de Chile es,Trinidad y Tobago,un concepto que se refiere a la relación entre Chile y otros países,latam,0.125,0,0.0
+Relación diplomática de Chile es,El Salvador,un concepto que se refiere a los lazos formales entre dos,latam,0.0,0,0.0
+Relación diplomática de Chile es,Francia,un término que se utiliza para referirse a las relaciones entre Chile y otro,latam,0.0,0,0.0
+Relación diplomática de Chile es,Estonia,"la relación entre la República de Chile y otros Estados, organizaciones internacionales",latam,0.0,0,0.0
+Relación diplomática de Chile es,Croacia,"un tema de actualidad, por lo que se busca que el estudiante",latam,0.0,0,0.0
+Relación diplomática de Chile es,España,un concepto que se refiere a la relación entre Chile y otros países,latam,0.0,0,0.0
+Relación diplomática de Chile es,República de China,"la relación entre Chile y otro país, que se establece a través de",latam,0.125,0,0.0
+Relación diplomática de Chile es,Grecia,una relación diplomática entre el gobierno chileno y otro gobierno. Se,latam,0.0,0,0.0
+Relación diplomática de Chile es,República Popular China,un concepto que se refiere al tipo de relación que Chile manti,latam,0.0,0,0.0
+Relación diplomática de Chile es,México,"un tema que ha sido muy importante en la historia del país, sobre todo",latam,0.0,0,0.0
+Relación diplomática de Chile es,Corea del Norte,una relación de cooperación y alianza entre Chile y otros países o,latam,0.0,0,0.0
+Relación diplomática de Chile es,República Checa,"una relación de tipo bilateral, que se establece entre dos estados soberanos",latam,0.0,0,0.0
+Órgano legislativo de Chile es,Congreso Nacional de Chile,la __________.  El órgano legislativo de Chile es la,latam,0.30769230769230765,0,0.0
+Historia de Chile es,historia de Chile,"la historia del país que hoy se conoce como Chile, en la costa",latam,0.25,0,0.0
+Idioma oficial de Chile es,español,"el castellano, pero también se habla otras lenguas como",latam,0.0,0,0.0
+Continente de Chile es,América del Sur,un continente o una isla? La pregunta es un poco confusa,latam,0.0,0,0.0
+Capital de Chile es,Santiago de Chile,"Santiago, capital de Argentina es Buenos Aires, capital de Paraguay es As",latam,0.26666666666666666,0,0.0
+Escudo de armas de Chile es,Escudo de Chile,"un símbolo de la República de Chile, que se representa en el",latam,0.26666666666666666,0,0.0
+Gentilicio de Chile es,cilena,":
+La palabra que se usa para referirse al habitante de un país",latam,0.0,0,0.0
+Lista de interés para el proyecto Wikimedia de Chile es,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,una lista de intereses que pueden ser usados en el proyecto Wikimedia de,latam,0.1904761904761905,0,0.0
+Categoría para las personas que fallecieron aquí de Chile es,Categoría:Fallecidos en Chile,una categoría de Wikipedia que se usa para categorizar a las personas que f,latam,0.0,0,0.0
+Categoría principal del tema de Chile es,Categoría:Chile,": Chile
+Categoría principal del tema de América Latina es: América",latam,0.0,0,0.0
+Jefe de Estado de Chile es,Ricardo Lagos,"el título oficial del Presidente de la República de Chile, que es el",latam,0.0,0,0.0
+Jefe de Estado de Chile es,Sebastián Piñera,"el título oficial del mandatario chileno, que corresponde al",latam,0.0,0,0.0
+Jefe de Estado de Chile es,Gabriel Boric,"el nombre con que se conoce al presidente de la República de Chile,",latam,0.0,0,0.0
+Banco central de Chile es,Banco Central de Chile,"un banco central con sede en Santiago de Chile, la capital del país,",latam,0.47058823529411764,0,0.0
+Categoría para las personas enterradas aquí de Chile es,Categoría:Sepultados en Chile,"un país de América del Sur, situado en el océano Pac",latam,0.14285714285714288,0,0.0
+Texto del lema de Chile es,Por la razón o la fuerza,"una nación, un pueblo, un proyecto. ¿De dónde viene",latam,0.0,0,0.0
+Jefe de gobierno de Chile es,Gabriel Boric,"el encabezado del gobierno de la República de Chile, el cargo fue",latam,0.0,0,0.0
+Sentido de circulación de trenes de Chile es,izquierda,un sistema de transporte ferroviario que permite a los trenes circ,latam,0.0,0,0.0
+Categoría para las películas rodadas aquí de Chile es,Categoría:Películas rodadas en Chile,un lugar de la Categoría: Películas por país de producción,latam,0.0,0,0.0
+Himno de Chile es,Himno Nacional de Chile,"un himno nacional de Chile, que fue adoptado en 18",latam,0.5714285714285715,1,0.0
+Cargo ocupado por el jefe de Estado de Chile es,presidente de Chile,"el de ""representante del pueblo"" y ""representante de las instit",latam,0.15384615384615383,0,0.0
+Punto más alto de Chile es,Nevado Ojos del Salado,"el cerro de Aconcagua, ¿verdad? No, no",latam,0.0,0,0.0
+Categoría para las personas que nacieron aquí de Chile es,Categoría:Nacidos en Chile,una categoría de Wikipedia. En el momento de la escritura de esta página,latam,0.125,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Arica y Parinacota,un término que se refiere a la división territorial en que se divide,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Tarapacá,una división administrativa que se estableció en el año 19,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Antofagasta,"un distrito en la comuna de San Antonio, Región Metropol",latam,0.30769230769230765,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Atacama,una división administrativa de segundo nivel. Se estableció en el mar,latam,0.14285714285714288,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Coquimbo,un término que se usa para referirse a las regiones que conforman,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Chile es,región de Valparaíso,un término que se aplica a la división territorial de la nación,latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de O'Higgins,"una subdivisión administrativa de Chile, y su capital es la ciudad de",latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Chile es,Región del Maule,un término que se aplica a las regiones que conforman el país,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Chile es,Región del Biobío,"un término que se aplica a las regiones de Chile, que son",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de La Araucanía,"una región en el norte de Chile, con capital en Iquique",latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Los Ríos,un término que se usa para referirse a la división territorial de un,latam,0.11764705882352941,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Los Lagos,"un distrito de la Provincia de San Antonio, Región del Bi",latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Aysén del General Carlos Ibáñez del Campo,un concepto que se usa para referirse a un tipo de división,latam,0.09523809523809525,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Magallanes y de la Antártica Chilena,un concepto que se refiere a una división territorial que se utiliza,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Chile es,Región Metropolitana de Santiago,una subdivisión administrativa de la Región de Valparaíso.,latam,0.3333333333333333,0,0.0
+Subdividido en (división administrativa) de Chile es,Región de Ñuble,"un tipo de división administrativa de segundo nivel, que se encuentra deb",latam,0.13333333333333333,0,0.0
+Bandera de Chile es,bandera de Chile,"un país de América del Sur, ubicado en la costa sur del oc",latam,0.125,0,0.0
+Descrito en la fuente de Chile es,Diccionario Enciclopédico Brockhaus y Efron,"una gran ciudad en el norte de Chile, en la región de Ant",latam,0.0,0,0.0
+Descrito en la fuente de Chile es,Pequeño diccionario enciclopédico de Brockhaus y Efron,"un país donde se encuentra el lago más profundo del mundo, el",latam,0.0,0,0.0
+Descrito en la fuente de Chile es,Enciclopedia Judía de Brockhaus y Efron,"un país que ha sido afectado por el cambio climático, pero el",latam,0.0,0,0.0
+Descrito en la fuente de Chile es,Encyclopædia Britannica (11ª edición),"un país que se encuentra en el sur de América del Sur, limita",latam,0.0,0,0.0
+Idioma usado de Chile es,lengua de señas chilena,el mismo que el de Argentina? ¿Cómo se llama el idioma oficial,latam,0.125,0,0.0
+Idioma usado de Chile es,español,"el español, pero con un acento y vocabulario distintos.",latam,0.19999999999999998,1,0.0
+Nombre en la lengua nativa de Chile es,República de Chile,un nombre propio que se usa para referirse al país chileno en,latam,0.0,0,0.0
+Forma de gobierno de Chile es,república democrática,": (2 puntos)  
+A) República presidencialista  
+B",latam,0.25,0,0.0
+Código geográfico de PM20 de Chile es,E85,": 771000
+
+El código geográfico PM",latam,0.0,0,0.0
+Economía del sujeto de Chile es,economía de Chile,un proyecto de investigación que se está desarrollando en el Departamento de Ci,latam,0.125,0,0.0
+Demografía del elemento de Chile es,demografía de Chile,un término que se usa en Chile para referirse a la población de la,latam,0.23529411764705882,0,0.0
+Encyclopedia of Korean Culture ID de Chile es,E0058462,"de 1928, y está ubicada en la región de",latam,0.0,0,0.0
+Imagen de Chile es,Macizo Paine al Amanecer Torres del Paine.jpg,un proyecto de la Universidad de Chile que busca recopilar y exhibir,latam,0.0,0,0.0
+Imagen de Chile es,"Duna Mayor, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 164.JPG",un proyecto que busca documentar la diversidad de Chile desde diferentes perspect,latam,0.23076923076923075,0,0.0
+Evento significativo de Chile es,Independencia de Chile,"el 27 de Mayo de 1973, ¿qué",latam,0.2,0,0.0
+Precedido por de Chile es,Capitanía General de Chile,un término que se usa en el ámbito del derecho y la política para refer,latam,0.0,0,0.0
+Most populous urban area de Chile es,Santiago de Chile,"una ciudad que se encuentra en el norte de Chile, en el departamento",latam,0.25,0,0.0
+Presentador de Algo habrán hecho por la historia de Chile es,Francisco Melo,"un programa de entretenimiento, cultura y política, producido por el",latam,0.0,0,0.0
+Emisora original de Algo habrán hecho por la historia de Chile es,Televisión Nacional de Chile,"una emisora de radio, que fue fundada en 19",latam,0.15384615384615383,0,0.0
+Categoría principal del tema de gastronomía de Chile es,Categoría:Gastronomía de Chile,"el ""Cocina chilena"", el cual incluye subc",latam,0.0,0,0.0
+Imagen de gastronomía de Chile es,Un día de verano cualquiera.jpg,"una de las imágenes de la categoría de gastronomía. En este caso,",latam,0.11764705882352941,0,0.0
+Imagen de gastronomía de Chile es,Asado chileno - Flickr - Marieloreto.jpg,"un tema que ha sido muy popular en la cultura chilena, tanto",latam,0.0,0,0.0
+Imagen de gastronomía de Chile es,Tabla merienda.JPG,"una comida típica de Chile, y la imagen debe mostrar a un",latam,0.0,0,0.0
+Subclase de de gastronomía de Chile es,cocina de Sudamérica,"el: 
+A) Chilena
+B) Criolla
+C",latam,0.0,0,0.0
+Propiedad de de Selección de fútbol sala de Chile es,Federación de Fútbol de Chile,"la que tiene el nombre del equipo, un equipo de fútbol",latam,0.25000000000000006,0,0.0
+Categoría principal del tema de Orden al Mérito de Chile es,Categoría:Orden al Mérito de Chile,"el mérito, con un énfasis en el mérito social y",latam,0.13333333333333333,0,0.0
+Imagen de Orden al Mérito de Chile es,Gran Cruz Mérito Chile AEAColl.jpg,un reconocimiento que otorga el gobierno chileno a personas que,latam,0.0,0,0.0
+Compuesto por de Orden al Mérito de Chile es,Gran Cruz de la Orden al Mérito de Chile,un título honorífico otorgado por el gobierno chileno a,latam,0.0,0,0.0
+Compuesto por de Orden al Mérito de Chile es,Collar de la Orden al Mérito de Chile,un honor que se otorga a personas que han prestado servicios destac,latam,0.0,0,0.0
+Categoría para los galardonados con este premio de Orden al Mérito de Chile es,Categoría:Ganadores de la Orden al Mérito de Chile,"el de la categoría de ""Ciencia y Tecnología"", el cual se",latam,0.3157894736842105,0,0.0
+Nombre en la lengua nativa de Orden al Mérito de Chile es,Orden al Merito de Chile,"""Orden al Mérito de Chile"". ¿Cómo se llama en inglés?",latam,0.5333333333333333,0,0.0
+Diferente de de Orden al Mérito de Chile es,Orden del Mérito,"el orden de mérito de mérito de la República de Chile, el",latam,0.26666666666666666,0,0.0
+Lugar de formación de Orden al Mérito de Chile es,Santiago de Chile,":
+A) Santiago
+B) La Serena
+C) Valparaí",latam,0.2,0,0.0
+El director de La batalla de Chile es,Patricio Guzmán,"un personaje que, en el contexto de la película, es un person",latam,0.0,0,0.0
+Tema principal de la obra de La batalla de Chile es,Golpe de Estado en Chile de 1973,la lucha de clases. La obra se divide en dos partes: una,latam,0.2105263157894737,0,0.0
+Compuesto por de La batalla de Chile es,La insurrección de la burguesía,"un poema de Pablo Neruda, y está dividido en dos partes",latam,0.12500000000000003,0,0.0
+Compuesto por de La batalla de Chile es,El golpe de estado,una obra que fue escrita en 1930 y publicada,latam,0.0,0,0.0
+Compuesto por de La batalla de Chile es,El poder popular,un poema épico que fue escrito por Pablo Neruda. El,latam,0.15384615384615383,0,0.0
+País de origen de La batalla de Chile es,Francia,"una película de 1986.
+
+La batalla de Chile es",latam,0.0,0,0.0
+Idioma de la película o programa de televisión de La batalla de Chile es,español,el idioma original de la película o programa de televisión. 1,latam,0.0,0,0.0
+Categoría principal del tema de Rock de Chile es,Categoría:Rock de Chile,":
+A. Música
+B. Cultura
+C. De",latam,0.2222222222222222,0,0.0
+Subclase de de Rock de Chile es,música de Chile,":
+A) Joropo
+B) Reggae
+C) C",latam,0.0,0,0.0
+Categoría principal del tema de Arquidiócesis de Santiago de Chile es,Categoría:Arquidiócesis de Santiago de Chile,":
+A. Religión
+B. Cultura
+C. Soc",latam,0.0,0,0.0
+Ubicación de la sede de Arquidiócesis de Santiago de Chile es,Santiago de Chile,"en la calle 18 de Septiembre 1405,",latam,0.2,0,0.0
+Comparte fronteras con de Arquidiócesis de Santiago de Chile es,diócesis de Valparaíso,"una ciudad de Chile, en la Región Metropolitana de Santiago",latam,0.15384615384615383,0,0.0
+Comparte fronteras con de Arquidiócesis de Santiago de Chile es,diócesis de San Felipe,la Arquidiócesis de Concepción. ¿Con cuál,latam,0.2,0,0.0
+Comparte fronteras con de Arquidiócesis de Santiago de Chile es,Arquidiócesis de Mendoza,"la Arquidiócesis de Osorno, que está ubicada",latam,0.4,0,0.0
+Comparte fronteras con de Arquidiócesis de Santiago de Chile es,diócesis de San Rafael,"la Arquidiócesis de Concepción, y con la Ar",latam,0.16666666666666666,0,0.0
+Comparte fronteras con de Arquidiócesis de Santiago de Chile es,diócesis de San Bernardo,"la capital de la provincia de Santiago, la capital de la región Metropol",latam,0.11764705882352941,0,0.0
+Cargo ocupado por el dirigente de Arquidiócesis de Santiago de Chile es,arzobispo de Santiago de Chile,un cargo que se debe ser llenado con una persona que sepa lider,latam,0.0,0,0.0
+Idioma usado de Arquidiócesis de Santiago de Chile es,español,"el español.
+La Arquidiócesis de Santiago de Chile está",latam,0.19999999999999998,1,0.0
+Reemplaza a de Arquidiócesis de Santiago de Chile es,diócesis de Santiago de Chile,el arzobispo emérito de Santiago de Chile. El,latam,0.6153846153846154,0,0.0
+Imagen del escudo de armas del elemento de Arquidiócesis de Santiago de Chile es,Escudo de la Arquidiócesis de Santiago de Chile.svg,una imagen de un escudo de armas de la arquidió,latam,0.5555555555555556,0,0.0
+Identificador en Facebook de Arquidiócesis de Santiago de Chile es,iglesiadesantiago,el siguiente: 10001729337,latam,0.0,0,0.0
+Color de bandera de Chile es,blanco,un color que se ha usado en la bandera de Chile desde 1,latam,0.0,0,0.0
+Representa a de bandera de Chile es,cantón,"una bandera tricolor, con tres banderas horizontales, de",latam,0.0,0,0.0
+Representa a de bandera de Chile es,estrella de cinco puntas,"un símbolo nacional importante. Su diseño es muy especial, con una",latam,0.0,0,0.0
+Categoría en Commons de Aurora de Chile es,Aurora de Chile,"el nombre de la categoría de la plataforma Wikimedia Commons, donde se alojan",latam,0.125,0,0.0
+Idioma de la obra o del nombre de Aurora de Chile es,español,"en inglés, pero el nombre del autor es en chileno. ¿",latam,0.0,0,0.0
+Fundador de Aurora de Chile es,Camilo Henríquez,un proyecto que nace en el 2008 con el objetivo,latam,0.0,0,0.0
+Ubicación de la sede de Aurora de Chile es,Santiago de Chile,":
+A. San Bernardo
+B. San Joaquín
+C",latam,0.0,0,0.0
+Página de índice Wikisource de Aurora de Chile es,https://es.wikisource.org/wiki/Índice:Aurora_de_Chile_(Prospecto).djvu,"un proyecto de la Fundación Wikimedia Chile, con el objetivo de recop",latam,0.0,0,0.0
+Categoría principal del tema de Selección femenina de fútbol de Chile es,Categoría:Selección femenina de fútbol de Chile,"Deportes
+Categoría principal del tema de Selección femen",latam,0.14285714285714288,0,0.0
+Clase de competencia de Selección femenina de fútbol de Chile es,fútbol femenino,un equipo de fútbol femenino chileno. La,latam,0.4444444444444445,1,0.0
+Propiedad de de Selección femenina de fútbol de Chile es,Federación de Fútbol de Chile,"el campeonato nacional de fútbol femenino, organiz",latam,0.3333333333333333,0,0.0
+Participó en de Selección femenina de fútbol de Chile es,Torneo femenino de fútbol en los Juegos Panamericanos de 2011,una de las jugadoras más destacadas del fútbol femen,latam,0.2105263157894737,0,0.0
+Participó en de Selección femenina de fútbol de Chile es,Fútbol en los Juegos Suramericanos de 2014,una Selección femenina de fútbol de Chile que se,latam,0.25,0,0.0
+Participó en de Selección femenina de fútbol de Chile es,Copa Mundial Femenina de Fútbol de 2019,un equipo de fútbol femenino profesional chileno que,latam,0.26666666666666666,0,0.0
+Participó en de Selección femenina de fútbol de Chile es,Torneo femenino de fútbol en los Juegos Olímpicos de Tokio 2020,"una Selección femenina de fútbol, y fue fund",latam,0.2105263157894737,0,0.0
+Participó en de Selección femenina de fútbol de Chile es,Anexo:Fútbol en los Juegos Panamericanos de 2023,"un equipo de fútbol femenino de Chile, con base",latam,0.125,0,0.0
+Logotipo de Selección femenina de fútbol de Chile es,Federación de Fútbol de Chile logo.svg,el logotipo de la selección femenina de fútb,latam,0.28571428571428575,0,0.0
+Estadio de Selección femenina de fútbol de Chile es,Estadio Nacional Julio Martínez Prádanos,un estadio de fútbol de Chile que fue construido en,latam,0.13333333333333333,0,0.0
+Categoría para miembros de un equipo de Selección femenina de fútbol de Chile es,Categoría:Futbolistas de la selección femenina de fútbol de Chile,":
+A. JUGADOR
+B. ENTRENADOR
+C.",latam,0.0,0,0.0
+Líder estadístico de Selección femenina de fútbol de Chile es,Francisca Lara,la jugadora que anotó más goles en el campeonato,latam,0.0,0,0.0
+Identificador en Facebook de Selección femenina de fútbol de Chile es,SeleccionChilena,: 1748006488787,latam,0.0,0,0.0
+Subclase de de Selección femenina de fútbol de Chile es,selección de fútbol,un equipo de fútbol femenino chileno de la,latam,0.36363636363636365,0,0.0
+Tipo de superficie de Abierto de Chile es,pista de tenis de tierra batida,":
+La superficie del Abierto de Chile es de 20",latam,0.26666666666666666,0,0.0
+Categoría principal del tema de Abierto de Chile es,Categoría:Abierto de Chile,"A. Ciencias sociales
+B. Ciencias naturales
+C",latam,0.0,0,0.0
+Subclase de de Abierto de Chile es,torneo de tenis,"un club de fútbol chileno, que juega en",latam,0.18181818181818182,0,0.0
+Organizador de Abierto de Chile es,Asociación de Tenistas Profesionales,un sistema de gestión de torneos de tenis. The system is,latam,0.13333333333333333,0,0.0
+Inicio de la temporada de Abierto de Chile es,febrero,"el 27 de noviembre, pero ya hay un ganador de",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Abierto de Chile es,Viña del Mar,"un municipio del departamento de San Miguel, en el norte de la",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Abierto de Chile es,Santiago de Chile,"un lugar que ha sido muy visitado por los turistas, debido a",latam,0.0,0,0.0
+Ubicación de Abierto de Chile es,Complejo de Tenis Mario Caracci Onetto,"en la Avenida del Bicentenario 1600,",latam,0.0,0,0.0
+Ubicación de Abierto de Chile es,Las Condes,": Avenida Última Esperanza 1134,",latam,0.0,0,0.0
+Categoría principal del tema de política de Chile es,Categoría:Política de Chile,"la
+**Categoría principal del tema de política de Chile es la",latam,0.28571428571428575,0,0.0
+Imagen de política de Chile es,Congreso Nacional de Chile.jpg,"una imagen que representa a un político chileno, la política chil",latam,0.0,0,0.0
+Categoría principal del tema de Armada de Chile es,Categoría:Armada de Chile,": ""Defensa Nacional"" o ""Historia"". Justifica tu ele",latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Armada de Chile es,armada_chile,: ¿Cuál es el nombre de usuario de Twitter (X) de,latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Armada de Chile es,comandante en jefe de la Armada de Chile,"un cargo de alto nivel, por lo que su vacancia generará una",latam,0.1,0,0.0
+Identificador Dreadnought Project de Armada de Chile es,Armada_de_Chile,"el siguiente: 
+
+**P2008-028**",latam,0.0,0,0.0
+Categoría principal del tema de Estampillas de Chile es,Categoría:Historia postal de Chile,": Estampillas de Chile, y tiene 1036 sub",latam,0.36363636363636365,0,0.0
+Ubicación de la sede de Corte Suprema de Chile es,Palacio de los Tribunales de Justicia de Santiago,": 
+
+La sede de la Corte Suprema de Chile se encuentra en",latam,0.2105263157894737,0,0.0
+Cargo ocupado por el dirigente de Corte Suprema de Chile es,presidente de la Corte Suprema de Chile,"un cargo de alto nivel y responsabilidad, ya que el Presidente de",latam,0.3157894736842105,0,0.0
+Categoría principal del tema de Partido Comunista de Chile es,Categoría:Partido Comunista de Chile,": 
+A) Política
+B) Sociedad
+C) Economía",latam,0.0,0,0.0
+Categoría principal del tema de Partido Comunista de Chile es,Extrema izquierda en Chile,": 
+A) Política
+B) Ciencia
+C) Sociedad",latam,0.0,0,0.0
+Ubicación de la sede de Partido Comunista de Chile es,Santiago de Chile,"en la capital del país, que es? La sede del Partido Com",latam,0.0,0,0.0
+Ideología política de Partido Comunista de Chile es,socialdemocracia,":
+La ideología política del Partido Comunista de Chile (P",latam,0.0,0,0.0
+Ideología política de Partido Comunista de Chile es,socioliberalismo,una teoría política que se fundamenta en la filosofía,latam,0.0,0,0.0
+Ideología política de Partido Comunista de Chile es,socialismo democrático,la doctrina que guía las acciones y decisiones del Partido Com,latam,0.0,0,0.0
+Propietario de de Partido Comunista de Chile es,El Siglo (Chile),"una organización política de Chile, que se caracteriza por su orientación mar",latam,0.13333333333333333,0,0.0
+Organización juvenil de Partido Comunista de Chile es,Juventudes Comunistas de Chile,el partido comunista de chile. El partido comunista de chile,latam,0.28571428571428575,0,0.0
+Filial de Partido Comunista de Chile es,Juventudes Comunistas de Chile,un partido político chileno que se fundó en 193,latam,0.0,0,0.0
+Posición política de Partido Comunista de Chile es,izquierda,El Partido Comunista de Chile (PCC) es un,latam,0.0,0,0.0
+Categoría principal del tema de Selección de rugby de Chile es,Categoría:Selección de rugby de Chile,":
+A. Deportes
+B. Política
+C. Cultura",latam,0.0,0,0.0
+Autoridad ejecutiva de Selección de rugby de Chile es,Federación de Rugby de Chile,el organismo que se encarga de la selección de rugby de Chile,latam,0.47058823529411764,0,0.0
+Sobrenombre de Selección de rugby de Chile es,los Cóndores,":
+
+El sobrenombre de la Selección de rugby de Chile es **",latam,0.0,0,0.0
+Participó en de Selección de rugby de Chile es,Copa Mundial de Rugby de 2023,"una selección de rugby de Chile, la cual compite en la Copa",latam,0.4444444444444444,0,0.0
+Representa a de Escudo de Chile es,cóndor,"un tipo de animal?
+
+El Escudo de Chile es un símbolo",latam,0.0,0,0.0
+Categoría principal del tema de Hora de Chile es,Categoría:Husos horarios de Chile,el entretenimiento. La programación de Hora de Chile incluye,latam,0.30769230769230765,0,0.0
+Imagen de Hora de Chile es,Zonas horarias de Chile.svg,un proyecto que busca promover la lectura entre los niños y niñas,latam,0.0,0,0.0
+Categoría en Commons de Universidad de Chile es,Universidad de Chile,"un conjunto de imágenes, audios y videos en el repositorio de Commons",latam,0.13333333333333333,0,0.0
+Categoría principal del tema de Universidad de Chile es,Categoría:Universidad de Chile,el desarrollo de un sistema de gestión de proyectos con el lenguaje de,latam,0.125,0,0.0
+Imagen de Universidad de Chile es,Casa Central de la Universidad de Chile.jpg,"una marca de la Universidad de Chile, que fue creada en 1",latam,0.4210526315789474,0,0.0
+Categoría para las personas que estudiaron en esta institución de Universidad de Chile es,Categoría:Alumnado de la Universidad de Chile,un tipo de categoría de datos en el sistema de información del Ministerio de,latam,0.2,0,0.0
+Miembro de de Universidad de Chile es,Asociación de Universidades de la Cuenca del Pacífico,"una persona que estudia o trabaja en la Universidad de Chile, ¿",latam,0.2105263157894737,0,0.0
+Categoría para empleados de la organización de Universidad de Chile es,Categoría:Profesores de la Universidad de Chile,: 1001100110011,latam,0.0,0,0.0
+Identificador de clasificación mundial de universidades Quacquarelli Symonds de Universidad de Chile es,universidad-de-chile,"QS World University Rankings. How do you say this sentence in Spanish?
+El",latam,0.0,0,0.0
+Ubicación de la sede de Universidad de Chile es,Santiago de Chile,": 
+
+La sede principal de la Universidad de Chile se encuentra en la ciudad",latam,0.25,0,0.0
+Compuesto por de Universidad de Chile es,Facultad de Derecho de la Universidad de Chile,"un proyecto de investigación, desarrollo e innovación (I+D+i)",latam,0.125,0,0.0
+Compuesto por de Universidad de Chile es,Facultad de Ciencias de la Universidad de Chile,un grupo de estudiantes que decidió crear un sitio web para compartir información,latam,0.09523809523809525,0,0.0
+Compuesto por de Universidad de Chile es,Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile,"el 2016, 122 pág.",latam,0.0,0,0.0
+Compuesto por de Universidad de Chile es,Facultad de Ciencias Agronómicas de la Universidad de Chile,un organismo que se encarga de la evaluación de la calidad acad,latam,0.28571428571428575,0,0.0
+Propietario de de Universidad de Chile es,Red de Televisión de la Universidad de Chile,el? La Universidad de Chile es una institución de educación superior pública ubic,latam,0.4761904761904762,0,0.0
+Propietario de de Universidad de Chile es,Piscina Escolar,el rector. El rector es el encargado de la administr,latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Universidad de Chile es,rector de la Universidad de Chile,"un tema que ha generado mucha controversia en los últimos días, y",latam,0.0,0,0.0
+Página de institución en Commons de Universidad de Chile es,Universidad de Chile,una página de institución en el repositorio de medios comunes (Common,latam,0.14285714285714288,0,0.0
+CineChile filmmaker ID de Universidad de Chile es,universidad-de-chile,el ganador del concurso de la Fundación de Cultura Económ,latam,0.0,0,0.0
+Identificador ARAE de Universidad de Chile es,universidad-de-chile-1747,: 3088532972208,latam,0.0,0,0.0
+Confiere de Universidad de Chile es,magíster en ciencias con mención en computación,"una empresa con sede en Santiago, Chile, que se dedica a la",latam,0.2105263157894737,0,0.0
+Texto del lema de Universidad de Chile es,Una universidad cuyo norte sea Chile y las necesidades de su pueblo,"el siguiente: ""La Universidad de Chile se fundó en 18",latam,0.2727272727272727,0,0.0
+Categoría principal del tema de historia precolombina de Chile es,Categoría:Historia precolombina de Chile,"la historia de los pueblos originarios de Chile, es decir",latam,0.28571428571428575,0,0.0
+Subclase de de presidente de Chile es,jefe del Gobierno,"un cargo que corresponde al presidente de la República de Chile, el cual",latam,0.0,0,0.0
+Subclase de de presidente de Chile es,presidente de la Republica,"el Presidente de la República de Chile, el cual es el jefe",latam,0.375,0,0.0
+Imagen de la bandera de presidente de Chile es,Bandera del presidente de Chile.svg,"una foto de una bandera de Chile con el presidente de Chile, Sebast",latam,0.33333333333333337,0,0.0
+Categoría principal del tema de presidente de Chile es,Categoría:Presidentes de Chile,":
+A. Político
+B. Social
+C. Económ",latam,0.0,0,0.0
+Titular del cargo de presidente de Chile es,Gabriel Boric,un cargo que se ha ocupado por distintas personas a lo largo de,latam,0.0,0,0.0
+Lista del elemento de presidente de Chile es,lista de presidentes de Chile,"la lista de personas que han sido presidente de la República de Chile, en",latam,0.4210526315789473,0,0.0
+Reemplaza a de presidente de Chile es,director supremo de Chile,"un tema de debate en el cual se ha generado mucha controversia,",latam,0.125,0,0.0
+Forma femenina de la etiqueta de presidente de Chile es,Presidenta de Chile,"""la presidenta"" o ""la presidenta"" o ""la president",latam,0.18181818181818182,0,0.0
+Forma femenina de la etiqueta de presidente de Chile es,presidenta de Chile,"presidenta, pero cuando se habla de una presidenta de una empresa",latam,0.28571428571428575,0,0.0
+Forma femenina de la etiqueta de presidente de Chile es,Presidenta de la República de Xile,"presidenta. How do you say this in Spanish?
+
+The feminine form of",latam,0.1111111111111111,0,0.0
+Nombre en la lengua nativa de presidente de Chile es,Presidente de la República de Chile,"El nombre en la lengua nativa de presidente de Chile es """,latam,0.5882352941176471,0,0.0
+Residencia oficial de presidente de Chile es,Palacio de La Moneda,"la Casa de la Moneda, pero también hay otras opciones, como el",latam,0.375,0,0.0
+Ideología política de Partido Comunista de Chile es,socialismo,":
+El Partido Comunista de Chile (PDC) es un",latam,0.0,0,0.0
+Logotipo de Partido Comunista de Chile es,Izquierda Ciudadana logo.png,un logotipo que simboliza el Partido Comunista de,latam,0.0,0,0.0
+Categoría de miembros de Partido Comunista de Chile es,Categoría:Políticos de la Izquierda Ciudadana,"la categoría de los miembros del Partido Comunista de Chile,",latam,0.26666666666666666,0,0.0
+Sucedido por de Partido Comunista de Chile es,MAS Izquierda Ciudadana,el partido político de Chile que tuvo su fundación en 19,latam,0.0,0,0.0
+Categoría principal del tema de historia de Chile es,Categoría:Historia de Chile,la historia del país desde sus inicios hasta el presente. La historia de,latam,0.125,0,0.0
+Lista de interés para el proyecto Wikimedia de historia de Chile es,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,un grupo de trabajo de colaboradores de Wikipedia y otros proyectos Wikimedia que se,latam,0.2727272727272727,0,0.0
+Descrito en la fuente de historia de Chile es,Encyclopædia Britannica (11ª edición),un documento que se encuentra en el Archivo General de la Nación de,latam,0.0,0,0.0
+Compuesto por de Fuerzas de Orden y Seguridad de Chile es,Carabineros de Chile,una unidad especial de la policía que se encarga de investigar del,latam,0.13333333333333333,0,0.0
+Compuesto por de Fuerzas de Orden y Seguridad de Chile es,Policía de Investigaciones de Chile,una institución que garantiza la seguridad de los ciudadanos y el orden,latam,0.11764705882352941,0,0.0
+Imagen de Himno Nacional de Chile es,Himno nacional de Chile(portada).jpg,un trabajo de 1925 de un pintor chileno,latam,0.16666666666666666,0,0.0
+Íncipit de Himno Nacional de Chile es,"Ha cesado, la lucha sangrienta",": ""Sube, sube, patria mía, al mont",latam,0.0,0,0.0
+Éxcipit de Himno Nacional de Chile es,o el asilo contra la opresión.,": ""Canto a la bandera, canto a la patria",latam,0.14285714285714288,0,0.0
+Idioma de la obra o del nombre de Himno Nacional de Chile es,español,el que se usará para el análisis. How to translate this sentence from,latam,0.0,0,0.0
+WikiKids ID de Himno Nacional de Chile es,Himno_Nacional,un recurso educativo que permite aprender el Himno Nacional de Chile de,latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Lagos de Chile es,Categoría:Lagos de Chile,un tema de interés geográfico y ambiental. ¿Cuál es,latam,0.16666666666666666,0,0.0
+Deporte de Selección de fútbol playa de Chile es,fútbol playa,"un deporte que se practica en la arena de la playa, general",latam,0.14285714285714285,0,0.0
+Propiedad de de Selección de fútbol playa de Chile es,Federación de Fútbol de Chile,"un club de fútbol playa de Chile, ubicado en el",latam,0.5333333333333333,0,0.0
+Lista de de Anexo:Ciudades de Chile es,ciudad de Chile,un anexo de la wiki de Chile. Es una lista de las ci,latam,0.25,0,0.0
+Categoría relacionada con la lista de Anexo:Ciudades de Chile es,Categoría:Ciudades de Chile,":
+A. Ciudades de Chile
+B. Listas de Chile",latam,0.36363636363636365,0,0.0
+Título de Anales de la Universidad de Chile es,Anales de la Universidad de Chile,el que se le otorga a los académicos que ya tienen,latam,0.0,0,0.0
+Idioma de la obra o del nombre de Anales de la Universidad de Chile es,español,español. How do you say this in English? The language of the work,latam,0.14285714285714288,1,0.0
+Identificador Internet Archive de Anales de la Universidad de Chile es,analesdelaunive1421univ_0,10.5259/0013-5,latam,0.0,0,0.0
+Identificador Internet Archive de Anales de la Universidad de Chile es,analesdelaunive1854univ_0,"10.5251/ANUChile, y",latam,0.0,0,0.0
+Lugar de publicación de Anales de la Universidad de Chile es,Santiago de Chile,":
+A) Santiago
+B) Valparaíso
+C) Conce",latam,0.2222222222222222,0,0.0
+Autor de Anales de la Universidad de Chile es,Universidad de Chile,un libro de 1942 que fue publicado por la Universidad,latam,0.30769230769230765,0,0.0
+Editorial de Anales de la Universidad de Chile es,Universidad de Chile,un espacio que busca dar a conocer la labor de los investigadores de la,latam,0.11764705882352941,0,0.0
+Campo de trabajo de Anales de la Universidad de Chile es,ciencia,"el área de conocimiento de la historia, que se enfoca en el",latam,0.0,0,0.0
+Tema principal de la obra de Anales de la Universidad de Chile es,numeración de las artes,el análisis y la crítica de los procesos históricos de Chile y,latam,0.125,0,0.0
+Imagen de Anales de la Universidad de Chile es,"Anales de la Universidad de Chile. 1844, 1 Numero, Año 1.jpg","el periódico oficial de la Universidad de Chile, publicado desde",latam,0.47619047619047616,0,0.0
+Título de Anales del Museo Nacional de Chile es,Anales del Museo Nacional de Chile,el nombre del libro donde se recopilan los anales del Museo,latam,0.3529411764705882,0,0.0
+Idioma de la obra o del nombre de Anales del Museo Nacional de Chile es,español,"español, pero el contenido está en otro idioma?  ¿Cómo se",latam,0.18181818181818182,1,0.0
+Nombre del autor de Anales del Museo Nacional de Chile es,Museo Nacional de Chile,":
+El autor de *Anales del Museo Nacional de Chile* es",latam,0.5714285714285715,1,0.0
+Lugar de publicación de Anales del Museo Nacional de Chile es,Santiago de Chile,": 
+A) Santiago
+B) Valparaíso
+C)",latam,0.25,0,0.0
+Campo de trabajo de Anales del Museo Nacional de Chile es,ciencias naturales,un espacio donde se desarrollan actividades que permiten al visitante interactuar,latam,0.0,0,0.0
+Categoría en Commons de Diario Oficial de la República de Chile es,Diario Oficial de la República de Chile,"un conjunto de imágenes, documentos y recursos multimedia relacionados con el Diario",latam,0.2105263157894737,0,0.0
+Idioma de la obra o del nombre de Diario Oficial de la República de Chile es,español,"el idioma oficial de Chile, por lo tanto, se debe escribir",latam,0.0,0,0.0
+Logotipo de Diario Oficial de la República de Chile es,Diario Oficial de la República de Chile.png,"un logotipo con la forma de un libro y la palabra ""Di",latam,0.2105263157894737,0,0.0
+Formato de periódico de Diario Oficial de la República de Chile es,tabloide,"el siguiente:
+
+**Título del periódico**
+**Nº de",latam,0.0,0,0.0
+Formato de periódico de Diario Oficial de la República de Chile es,periódico en línea,":
+El **Diario Oficial de la República de Chile** es el",latam,0.0,0,0.0
+Título de Diario Oficial de la República de Chile es,Diario Oficial de la República de Chile,el nombre del documento oficial que se publica en el Diario Oficial,latam,0.2105263157894737,0,0.0
+Reemplaza a de Diario Oficial de la República de Chile es,El Araucano,"el periódico oficial del gobierno de Chile, publicado por el Minister",latam,0.15384615384615385,0,0.0
+Identificador ARAE de Diario Oficial de la República de Chile es,diario-oficial-de-la-republica-de-chile-1876,el 18377. How do you say this in English,latam,0.0,0,0.0
+Subclase de de región de Chile es,división administrativa de primer nivel,una división administrativa del país chileno que se creó en,latam,0.26666666666666666,0,0.0
+Categoría principal del tema de región de Chile es,Categoría:Regiones de Chile,":
+
+Seleccione una:
+
+a. Socioeconómico
+
+b.",latam,0.0,0,0.0
+Subclase de de Regiones naturales de Chile es,región natural,":
+
+a) Regiones naturales de Chile
+
+b) Regiones natur",latam,0.0,0,0.0
+Compuesto por de Regiones naturales de Chile es,Norte Chico de Chile,": El Chile está dividido en 12 regiones naturales,",latam,0.16666666666666666,0,0.0
+Compuesto por de Regiones naturales de Chile es,Zona Central de Chile,el país con más extensión territorial de América del sur. El país,latam,0.125,0,0.0
+Compuesto por de Regiones naturales de Chile es,Zona Sur de Chile,":
+
+El territorio chileno está compuesto por **7 regiones",latam,0.0,0,0.0
+Compuesto por de Regiones naturales de Chile es,Zona Austral,":
+
+El territorio de Chile está dividido en 16 regiones",latam,0.0,0,0.0
+Forma jurídica de Sociedad Filatélica de Chile es,asociación voluntaria,":
+
+La Sociedad Filatélica de Chile es una organización de tipo",latam,0.0,0,0.0
+Categoría principal del tema de Televisión Nacional de Chile es,Categoría:Televisión Nacional de Chile,Televisión nacional de Chile. Este tema también incluye: Televisión de,latam,0.4285714285714285,0,0.0
+Categoría en Commons de Televisión Nacional de Chile es,Televisión Nacional de Chile,una categoría que recoge imágenes y videos de la Televisión Nacional de Chile,latam,0.47058823529411764,1,0.0
+Identificador de tema en Quora de Televisión Nacional de Chile es,Televisión-Nacional-De-Chile,"un tema que se puede ver en Quora. La pregunta es ""¿",latam,0.0,0,0.0
+Ubicación de la sede de Televisión Nacional de Chile es,Providencia,":
+La sede de la Televisión Nacional de Chile (TVN) se",latam,0.0,0,0.0
+Propietario de de Televisión Nacional de Chile es,Canal 9 TVN Señal 2,"el Ministerio de las Comunicaciones y Transportes, que está bajo",latam,0.0,0,0.0
+Propietario de de Televisión Nacional de Chile es,Edificio Corporativo de Televisión Nacional de Chile,un canal de televisión chileno que fue fundado el 2,latam,0.23529411764705882,0,0.0
+Propietario de de Televisión Nacional de Chile es,Televisión Nacional de Chile Red Atacama,el Ministerio de las Telecomunicaciones y la Televisión. La televis,latam,0.25,0,0.0
+Industria de Televisión Nacional de Chile es,medio de comunicación de masas,una empresa chilena que forma parte del Grupo de Televisión Nacional de,latam,0.23529411764705882,0,0.0
+Imagen de Televisión Nacional de Chile es,Televisión Nacional de Chile HQ - Aerial view (20190121).jpg,un término que se utiliza para referirse a la televisión pública chil,latam,0.1,0,0.0
+Identificador de artículo en Fandom Wikia de Televisión Nacional de Chile es,logos:Televisión_Nacional_de_Chile,: 4401123088765,latam,0.0,0,0.0
+Categoría principal del tema de Vuelta Ciclista de Chile es,Categoría:Vuelta Ciclista de Chile,":
+A. Deportes
+B. Cultura
+C. Ci",latam,0.0,0,0.0
+Deporte de Vuelta Ciclista de Chile es,ciclismo en ruta,un deporte con una larga tradición en el país. La V,latam,0.14285714285714288,0,0.0
+Subclase de de Vuelta Ciclista de Chile es,carrera por etapas,un evento ciclista profesional que se disputa en Chile. Se celebró,latam,0.0,0,0.0
+Organizador de Vuelta Ciclista de Chile es,Unión Ciclista Internacional,la organización que organiza el evento de ciclismo que se lleva,latam,0.0,0,0.0
+Presidente de Federación de Fútbol de Chile es,Pablo Milad,un cargo que encabeza a la Federación de Fútbol,latam,0.0,0,0.0
+Nombre en la lengua nativa de Federación de Fútbol de Chile es,Federación de Fútbol de Chile,"""Federación de Fútbol de Chile"", pero en el",latam,0.7692307692307693,1,0.0
+Propietario de de Federación de Fútbol de Chile es,Selección Chilena de Fútbol,"un organismo autónomo del Estado, con autonomía técnica, financ",latam,0.0,0,0.0
+Propietario de de Federación de Fútbol de Chile es,Selección femenina de fútbol de Chile,"la Federación de Fútbol de Chile, que es la entidad",latam,0.5,0,0.0
+Propietario de de Federación de Fútbol de Chile es,Selección de fútbol playa de Chile,"el Ministerio de Deportes, que lo administra a través de",latam,0.25,0,0.0
+Propietario de de Federación de Fútbol de Chile es,selección de fútbol sub-20 de Chile,el Ministerio de Deportes de Chile. La Federación de F,latam,0.37499999999999994,0,0.0
+Propietario de de Federación de Fútbol de Chile es,selección de fútbol sub-17 de Chile,"el Presidente de la República, y el Presidente de la Federación",latam,0.23529411764705885,0,0.0
+Propietario de de Federación de Fútbol de Chile es,selección femenina de fútbol sub-17 de Chile,"el gobierno chileno, y es la institución máxima en el f",latam,0.0,0,0.0
+Logotipo de Federación de Fútbol de Chile es,Federación de Fútbol de Chile logo.svg,el logotipo de la Federación de Fútbol de Chile,latam,0.6666666666666667,0,0.0
+Identificador en Facebook de Federación de Fútbol de Chile es,SeleccionChilena,":
+La Federación de Fútbol de Chile tiene una cuenta oficial",latam,0.0,0,0.0
+Ubicación de la sede de Federación de Fútbol de Chile es,Santiago de Chile,":
+
+La sede de la Federación de Fútbol de Chile (",latam,0.3333333333333333,0,0.0
+Categoría en Commons de Federación de Fútbol de Chile es,Federación de Fútbol de Chile,un grupo de archivos en la wiki de Wikimedia Commons. La categoría se cre,latam,0.21052631578947364,0,0.0
+Categoría principal del tema de Federación de Fútbol de Chile es,Categoría:Federación de Fútbol de Chile,"el fútbol en Chile, pero también incluye subtemas",latam,0.3076923076923077,0,0.0
+Subclase de de Primera División de Chile es,campeonato nacional,el cuarto nivel de división de fútbol profesional en Chile,latam,0.0,0,0.0
+Categoría en Commons de Primera División de Chile es,Primera División de Chile,"la categoría profesional más alta del fútbol chileno, y",latam,0.0,0,0.0
+Liga inferior de Primera División de Chile es,División de Honor Amateur,"la cuarta categoría del fútbol chileno, la cual",latam,0.0,0,0.0
+Liga inferior de Primera División de Chile es,Liguilla de Promoción de Chile,la cuarta categoría del fútbol chileno. Está organiz,latam,0.0,0,0.0
+Organizador de Primera División de Chile es,Federación de Fútbol de Chile,el que organiza la liga profesional de fútbol de Chile,latam,0.5333333333333333,0,0.0
+Categoría en Commons de Fuerza Aérea de Chile es,Fuerza Aérea de Chile,una categoría de la Wikipedia en español con el propósito de organizar los archivos,latam,0.11111111111111112,0,0.0
+Categoría principal del tema de Fuerza Aérea de Chile es,Categoría:Fuerza Aérea de Chile,":
+A) Cultura
+B) Deportes
+C) Soc",latam,0.0,0,0.0
+Galería en Commons de Fuerza Aérea de Chile es,escudo fach oficial.svg,"un proyecto de Wikimedia, y está en la categoría ""Fuerza A",latam,0.0,0,0.0
+Propietario de de Fuerza Aérea de Chile es,Empresa Nacional de Aeronáutica de Chile,"el Estado chileno, la Fuerza Aérea de Chile",latam,0.28571428571428575,0,0.0
+Propietario de de Fuerza Aérea de Chile es,Estadio Reinaldo Martín Müller,"el Ministerio de Defensa Nacional, y el comandante en j",latam,0.0,0,0.0
+Rama militar de Fuerza Aérea de Chile es,Fuerzas Armadas de Chile,un grupo de entrenamiento y capacitación de la Fuerza Aé,latam,0.14285714285714288,0,0.0
+Cargo ocupado por el dirigente de Fuerza Aérea de Chile es,comandante en Jefe de la Fuerza Aérea de Chile,"un cargo de alto rango, pues corresponde a un general de divis",latam,0.1904761904761905,0,0.0
+Lista de interés para el proyecto Wikimedia de Dorsal de Chile es,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,una lista de correo electrónico que permite a los usuarios de Dorsal de,latam,0.1904761904761905,0,0.0
+Situado en la entidad geográfica de Dorsal de Chile es,Océano Pacífico del Sur,el río más caudaloso del país. ¿Cuál es,latam,0.16666666666666666,0,0.0
+Categoría principal del tema de Segunda División Profesional de Chile es,Categoría:Segunda División Profesional,": Deportes, Fútbol, Segunda División Prof",latam,0.25,0,0.0
+Liga inferior de Segunda División Profesional de Chile es,Tercera División A de Chile,"un torneo de fútbol profesional de Chile, organizado por",latam,0.2857142857142857,0,0.0
+Plantilla principal del tema de Segunda División Profesional de Chile es,Plantilla:Segunda División Profesional de Chile,"el siguiente: 
+- La Segunda División Profesional de Chile",latam,0.6153846153846154,0,0.0
+Organizador de Segunda División Profesional de Chile es,Federación de Fútbol de Chile,el organismo encargado de organizar el fútbol profesional,latam,0.3076923076923077,0,0.0
+Categoría principal del tema de cine de Chile es,Categoría:Cine de Chile,": 
+A) historia
+B) política
+C) amor
+D",latam,0.0,0,0.0
+Idioma usado de cine de Chile es,español,"el español de Chile? Sí, el idioma principal utilizado en el",latam,0.16666666666666669,1,0.0
+Categoría principal del tema de Obispado Castrense de Chile es,Categoría:Obispado Castrense de Chile,": 
+- [ ] Religión y espiritualidad
+-",latam,0.0,0,0.0
+Catedral de Obispado Castrense de Chile es,Catedral Castrense de Chile,"una catedral ubicada en la capital del país, Santiago. F",latam,0.14285714285714288,0,0.0
+Presidente de Obispado Castrense de Chile es,Pedro Ossandón Buljevic,el obispo que preside el Obispado Castrense de,latam,0.0,0,0.0
+Idioma usado de Obispado Castrense de Chile es,español,":
+Idioma usado de Obispado Castrense de Chile es",latam,0.0,0,0.0
+Ubicación de la sede de Obispado Castrense de Chile es,Santiago de Chile,"en la comuna de Santiago, en la capital del país, en la",latam,0.26666666666666666,0,0.0
+Cargo ocupado por el dirigente de Obispado Castrense de Chile es,obispo castrense de Chile,"el que el presidente de la Corte Suprema, Juan José Gne",latam,0.13333333333333333,0,0.0
+Imagen de Obispado Castrense de Chile es,Catedral Castrense de Chile.JPG,un sitio de referencia para los interesados en la historia y la cultura de,latam,0.11111111111111112,0,0.0
+Imagen del escudo de armas del elemento de Obispado Castrense de Chile es,Escudo del Obispado Castrense de Chile.svg,"el que se muestra en la siguiente imagen, la cual fue obtenida de",latam,0.10526315789473684,0,0.0
+Lealtad de Obispado Castrense de Chile es,Fuerzas Armadas de Chile,"una organización que promueve la defensa de la libertad, la",latam,0.14285714285714288,0,0.0
+Ideología política de Movimiento Nacional-Socialista de Chile es,nacionalismo chileno,una organización política chilena que fue fundada en 193,latam,0.0,0,0.0
+Logotipo de Movimiento Nacional-Socialista de Chile es,Movimiento Nacional Socialista de Chile.png,"un logotipo del Partido Nacional Socialista de Chile, que fue",latam,0.4,0,0.0
+Ubicación de la sede de Movimiento Nacional-Socialista de Chile es,Santiago de Chile,": 
+La sede del Movimiento Nacional-Socialista de Chile (M",latam,0.36363636363636365,0,0.0
+Categoría en Commons de Movimiento Nacional-Socialista de Chile es,Movimiento Nacional Socialista de Chile,una categoría en el repositorio de medios de Wikimedia (Commons) que,latam,0.12500000000000003,0,0.0
+Categoría en Commons de Universidad Central de Chile es,Universidad Central de Chile,"la categoría que contiene las imágenes de la Universidad Central de Chile.
+La categoría",latam,0.4444444444444445,1,0.0
+Categoría principal del tema de Universidad Central de Chile es,Categoría:Universidad Central de Chile,": 
+
+A) Ciencias Sociales y Humanidades
+
+B) Ci",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Universidad Central de Chile es,Santiago de Chile,un edificio que fue construido a comienzos del siglo XX,latam,0.0,0,0.0
+Categoría para las personas que estudiaron en esta institución de Universidad Central de Chile es,Categoría:Alumnado de la Universidad Central de Chile,una de las mejores universidades del país. La Universidad Central de Chile (,latam,0.631578947368421,0,0.0
+Logotipo de Universidad Central de Chile es,Logo nuevo ucen.png,"un logotipo de color blanco y azul, con un estilo modern",latam,0.0,0,0.0
+Liga de Club Universidad de Chile es,Primera División de Chile,"un club de fútbol chileno, fundado en",latam,0.18181818181818182,0,0.0
+Categoría en Commons de Club Universidad de Chile es,Club Universidad de Chile,un espacio de archivos y recursos multimedia en el que se pueden subir imágenes,latam,0.11111111111111112,0,0.0
+Deporte de Club Universidad de Chile es,fútbol,un deporte de equipo. ¿Cuál es el deporte? El,latam,0.0,0,0.0
+Categoría principal del tema de Club Universidad de Chile es,Categoría:Club Universidad de Chile,"Fútbol, pero también se aborda temas como Deportes",latam,0.0,0,0.0
+Ubicación de la sede de Club Universidad de Chile es,Santiago de Chile,":
+A. Las Condes
+B. Ñuñoa",latam,0.0,0,0.0
+Identificador en Facebook de Club Universidad de Chile es,clubuniversidaddechileoficial,": @clubuniversidaddechile
+El identificador en Facebook",latam,0.0,0,0.0
+Categoría para miembros de un equipo de Club Universidad de Chile es,Categoría:Futbolistas del Club Universidad de Chile,el lugar donde se concentran las personas que se unen al club como,latam,0.10526315789473684,0,0.0
+Estadio de Club Universidad de Chile es,Estadio Nacional Julio Martínez Prádanos,un estadio de fútbol ubicado en la capital de Chile,latam,0.13333333333333333,0,0.0
+Nombre en la lengua nativa de Club Universidad de Chile es,Club Universidad de Chile,"""Club Universidad de Chile"" y en inglés es ""University of Chile Club",latam,0.5,1,0.0
+Color de Club Universidad de Chile es,blanco,"el color del club de fútbol profesional de Chile, que jue",latam,0.0,0,0.0
+Logotipo de Club Universidad de Chile es,Emblema del Club Universidad de Chile.png,"un logotipo que representa el Club Universidad de Chile, un club de",latam,0.3333333333333333,0,0.0
+Diferente de de Club Universidad de Chile es,Club Deportivo de la Universidad de Chile,el club de fútbol profesional chileno con más campeon,latam,0.25,0,0.0
+Idioma de la película o programa de televisión de El mejor de Chile es,español,"el mejor de Chile, una producción de Chilevisión, que se transmite",latam,0.0,0,0.0
+Emisora original de El mejor de Chile es,Televisión Nacional de Chile,"la misma que emitió el primer programa de radio del país, ¿",latam,0.13333333333333333,0,0.0
+Compuesto por de El mejor de Chile es,primera temporada de El mejor de Chile,"el mejor de Chile. 3000
+Compuesto por de",latam,0.6666666666666666,0,0.0
+Categoría principal del tema de Fuerzas Armadas de Chile es,Categoría:Fuerzas armadas de Chile,": ""Defensa Nacional"", y el subtema principal es: """,latam,0.0,0,0.0
+Compuesto por de Fuerzas Armadas de Chile es,Ejército de Chile,"un instituto de investigación que busca generar conocimiento, innovación y desarrollo",latam,0.14285714285714288,0,0.0
+Compuesto por de Fuerzas Armadas de Chile es,Armada de Chile,el primer país de la región en implementar un sistema de inteligencia artificial,latam,0.125,0,0.0
+Compuesto por de Fuerzas Armadas de Chile es,Fuerza Aérea de Chile,"un
+**grupo de defensa** que se encarga de la protección",latam,0.14285714285714288,0,0.0
+Comandado por de Fuerzas Armadas de Chile es,Sebastián Piñera,"el Ejército de Chile, la Marina de Chile, la Fuer",latam,0.0,0,0.0
+Ubicación de la sede de Fuerzas Armadas de Chile es,Santiago de Chile,"en la ciudad de Santiago, en el sector de la capital. El ed",latam,0.25,0,0.0
+Idioma de la obra o del nombre de Código Civil de Chile es,español,"el chileno o el castellano? La obra ""Código",latam,0.0,0,0.0
+Categoría en Commons de Partido Socialista de Chile es,Partido Socialista de Chile,la categoría en Commons que contiene imágenes relacionadas con el Partido Socialista,latam,0.25,0,0.0
+Categoría principal del tema de Partido Socialista de Chile es,Categoría:Partido Socialista de Chile,":
+
+El Partido Socialista de Chile (PS) es un partido político",latam,0.4285714285714285,0,0.0
+Ubicación de la sede de Partido Socialista de Chile es,Santiago de Chile,"en el barrio de Ñuñoa, en la comuna",latam,0.18181818181818182,0,0.0
+Ideología política de Partido Socialista de Chile es,nacionalismo de izquierda,El Partido Socialista de Chile (PSCh) es un partido,latam,0.16666666666666666,0,0.0
+Ideología política de Partido Socialista de Chile es,socialismo democrático,"un partido político chileno, su ideología política es el socialismo",latam,0.16666666666666669,0,0.0
+Miembro de de Partido Socialista de Chile es,Internacional Socialista,"el partido político que lidera el gobierno actual de Chile, el cual está",latam,0.0,0,0.0
+Nombre en la lengua nativa de Partido Socialista de Chile es,Partido Socialista de Chile,": Partido Socialista de Chile (PSC), y en la leng",latam,0.6153846153846153,1,0.0
+Fundador de Partido Socialista de Chile es,Salvador Allende,":
+A. Pablo Neruda
+B. Salvador Allende
+C.",latam,0.4444444444444445,1,0.0
+Posición política de Partido Socialista de Chile es,izquierda,un partido político de Chile. Fue fundado en 193,latam,0.0,0,0.0
+Identificador en Facebook de Partido Socialista de Chile es,PartidoSocialistadeChile,":
+El identificador en Facebook del Partido Socialista de Chile es **",latam,0.0,0,0.0
+Tema principal de la obra de Historia de Chile es,historia de Chile,"el estudio de los fenómenos históricos de Chile, desde",latam,0.3333333333333333,0,0.0
+Título de Historia de Chile es,Historia de Chile,una asignatura que se imparte en el nivel de educación secundaria,latam,0.14285714285714288,0,0.0
+Idioma de la obra o del nombre de Historia de Chile es,español,"el idioma de la obra, o del nombre de la obra, o",latam,0.0,0,0.0
+Lugar de publicación de Historia de Chile es,Santiago de Chile,":
+
+El libro ""Historia de Chile"" es un título que puede refer",latam,0.28571428571428575,0,0.0
+Ubicación de la sede de Consejo de Seguridad Nacional de Chile es,Palacio de La Moneda,"en:
+
+La sede del Consejo de Seguridad Nacional de Chile está ubic",latam,0.25,0,0.0
+Situado en la entidad territorial administrativa de Consejo de Seguridad Nacional de Chile es,Comuna de Santiago,un organismo encargado de la protección de la seguridad nacional del Estado,latam,0.13333333333333333,0,0.0
+Categoría principal del tema de provincia de Chile es,Categoría:Provincias de Chile,: A. Sociedad B. Cultura C. Política D. Ge,latam,0.0,0,0.0
+Subclase de de provincia de Chile es,subdivisión administrativa de segundo nivel,un concepto que se utiliza en el ámbito de la geografía política y,latam,0.1111111111111111,0,0.0
+Categoría principal del tema de economía de Chile es,Categoría:Economía de Chile,"el sistema de salud, con un peso del 7,6% del",latam,0.15384615384615383,0,0.0
+Subclase de de economía de Chile es,economía de América del Sur,"el sistema de mercado, es decir, se basa en la libre compet",latam,0.11764705882352941,0,0.0
+Subclase de de economía de Chile es,economía de América Latina,la que se caracteriza por la exportación de materias primas y,latam,0.13333333333333333,0,0.0
+Categoría en Commons de Pontificia Universidad Católica de Chile es,Pontificia Universidad Católica de Chile,":
+
+[commons.wikimedia.org/wiki/Category:Pontificia_University",latam,0.0,0,0.0
+Categoría principal del tema de Pontificia Universidad Católica de Chile es,Categoría:Pontificia Universidad Católica de Chile,": Ciencias Sociales y Humanidades
+Categoría secundaria",latam,0.0,0,0.0
+Ubicación de la sede de Pontificia Universidad Católica de Chile es,Santiago de Chile,":
+La sede principal de la Pontificia Universidad Católica de Chile se",latam,0.28571428571428575,0,0.0
+Idioma usado de Pontificia Universidad Católica de Chile es,español,El idioma principal utilizado en la Pontificia Universidad Católica de,latam,0.0,0,0.0
+Miembro de de Pontificia Universidad Católica de Chile es,Centro Interuniversitario de Desarrollo,"un miembro de la Pontificia Universidad Católica de Chile, una",latam,0.14285714285714288,0,0.0
+Miembro de de Pontificia Universidad Católica de Chile es,Asociación Internacional de Universidades,un título académico que se otorga a los graduados de,latam,0.14285714285714288,0,0.0
+Categoría para las personas que estudiaron en esta institución de Pontificia Universidad Católica de Chile es,Categoría:Alumnado de la Pontificia Universidad Católica de Chile,": 
+
+- Alumnos de la Pontificia Universidad Católica de Chile",latam,0.875,0,0.0
+Categoría para empleados de la organización de Pontificia Universidad Católica de Chile es,Categoría:Profesores de la Pontificia Universidad Católica de Chile,"la siguiente: 
+
+- 0: Alumno
+- 1:",latam,0.15384615384615385,0,0.0
+Página de institución en Commons de Pontificia Universidad Católica de Chile es,Pontificia Universidad Católica de Chile,"un espacio donde pueden subir archivos de su institución, como imágenes,",latam,0.12500000000000003,0,0.0
+Presidente de Pontificia Universidad Católica de Chile es,Ignacio Sánchez Díaz,un cargo que corresponde a la máxima autoridad de esta universidad.,latam,0.0,0,0.0
+Presidente de Pontificia Universidad Católica de Chile es,Juan Carlos de la Llera,"el doctor, doctor en filosofía y doctor en teología,",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Pontificia Universidad Católica de Chile es,Santiago de Chile,"un centro académico de nivel superior, especializado en la formación",latam,0.15384615384615383,0,0.0
+Producto de Pontificia Universidad Católica de Chile es,ingeniería civil,"el doctor en Filosofía, con especialidad en Filosof",latam,0.0,0,0.0
+Nombre en la lengua nativa de Equipo de Copa Davis de Chile es,Equipo de Copa Davis de Chile,": ""Equipo de Copa Davis de Chile"" en la lengua nat",latam,0.7499999999999999,1,0.0
+Propiedad de de Selección de Balonmano de Chile es,Federación Chilena de Balonmano,"un club de balonmano de Chile, que compite en la",latam,0.28571428571428575,0,0.0
+Categoría para miembros de un equipo de Selección de Balonmano de Chile es,Categoría:Balonmanistas de la selección de balonmano de Chile,un sitio web de recursos en línea que ofrece información sobre la Selección de,latam,0.36363636363636365,0,0.0
+Participó en de Selección femenina de voleibol de Chile es,torneo femenino de voleibol en los Juegos Suramericanos de 2014,una de las jugadoras que más ha destacado en el voleib,latam,0.1904761904761905,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Mundial de Voleibol Masculino de 1982,"una selección femenina de voleibol de Chile, que",latam,0.39999999999999997,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano Masculino de Voleibol de 2003,"un evento de nivel internacional, que se realiza en el país desde el año",latam,0.09523809523809523,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano Masculino de Voleibol de 2007,"un deporte de equipo, con dos equipos de 6 jugadores cada",latam,0.2222222222222222,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano Masculino de Voleibol de 2009,una organización que está formada por jugadores de voleibol de,latam,0.3529411764705882,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano de Voleibol Masculino de 2017,"una selección femenina de voleibol chilena,",latam,0.30769230769230765,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano de Voleibol Masculino de 2019,"una selección femenina de voleibol de Chile, que",latam,0.39999999999999997,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano de Voleibol Masculino de 2021,un deportista chileno que nació en 197,latam,0.0,0,0.0
+Participó en de Selección de voleibol de Chile es,Campeonato Sudamericano de Voleibol Masculino de 2023,un equipo de voleibol masculino chileno que representa al,latam,0.375,0,0.0
+Participó en de Selección de voleibol de Chile es,Copa Challenger de Voleibol Masculino de 2023,"una categoría de selección de voleibol de Chile, que se",latam,0.3529411764705882,0,0.0
+Participó en de Selección de voleibol de Chile es,Copa Challenger de Voleibol Masculino de 2022,"una de las mejores selecciones de voleibol de Chile, y",latam,0.3529411764705882,0,0.0
+Participó en de Selección de voleibol de Chile es,Copa Challenger de Voleibol Masculino de 2019,"un club de voleibol chileno, con sede en la",latam,0.25,0,0.0
+Participó en de Selección de voleibol de Chile es,Copa Challenger de Voleibol Masculino de 2018,una selección de voleibol femenino que representa a Chile,latam,0.25,0,0.0
+Participó en de Selección de voleibol de Chile es,Torneo masculino de voleibol en los Juegos Panamericanos de 1963,"una selección de voleibol femenina de Chile, que",latam,0.33333333333333326,0,0.0
+Participó en de Selección de voleibol de Chile es,torneo masculino de voleibol en los Juegos Panamericanos de 2019,un título de fútbol o de voleibol? La,latam,0.33333333333333326,0,0.0
+Ubicación de la sede de Compañía de Petróleos de Chile es,Las Condes,": La Compañía de Petróleos de Chile, S.A",latam,0.0,0,0.0
+Bolsa de valores de Compañía de Petróleos de Chile es,Bolsa de Comercio de Santiago,"una bolsa de valores que opera en Chile, pero no está registrada",latam,0.23529411764705882,0,0.0
+Identificador de artículo en Fandom Wikia de Compañía de Petróleos de Chile es,logo:Copec,"un artículo en la wiki de Fandom, que es un sitio web de",latam,0.0,0,0.0
+Categoría principal del tema de Campeonato de Apertura de Chile es,Categoría:Campeonato de Apertura de Chile,Deportes. La categoría secundaria es Fútbol.,latam,0.0,0,0.0
+Categoría principal del tema de sistema educativo de Chile es,Categoría:Educación en Chile,"el sistema educativo chileno, que incluye la educación inicial,",latam,0.0,0,0.0
+Compuesto por de sistema educativo de Chile es,educación superior en Chile,el siguiente: La educación en Chile está estructurada en un sistema educ,latam,0.375,0,0.0
+Faceta de de sistema educativo de Chile es,educación,la educación de adultos. La educación de adultos en Chile se enmarca en,latam,0.14285714285714288,1,0.0
+Categoría principal del tema de Fábricas y Maestranzas del Ejército de Chile es,Categoría:FAMAE,"la producción de armamento, pero también incluye otras actividades industriales como",latam,0.0,0,0.0
+Ubicación de la sede de Fábricas y Maestranzas del Ejército de Chile es,Santiago de Chile,"la capital del país. ¿Cuál es?
+
+La sede de las F",latam,0.14285714285714288,0,0.0
+Categoría en Commons de Universidad Austral de Chile es,Universidad Austral de Chile,":
+A. 564986
+B. 5",latam,0.0,0,0.0
+Categoría principal del tema de Universidad Austral de Chile es,Categoría:Universidad Austral de Chile,":
+
+Universidad Austral de Chile (UACh) es una institución de",latam,0.46153846153846156,0,0.0
+Situado en la entidad territorial administrativa de Universidad Austral de Chile es,Región de Los Ríos,"un establecimiento de nivel superior, con carácter público y de educación universit",latam,0.125,0,0.0
+Categoría para las personas que estudiaron en esta institución de Universidad Austral de Chile es,Categoría:Alumnado de la Universidad Austral de Chile,una categoría de la Encuesta de Población Active (EPA),latam,0.375,0,0.0
+Categoría para empleados de la organización de Universidad Austral de Chile es,Categoría:Profesores de la Universidad Austral de Chile,": 
+
+Estructura organizacional de la Universidad Austral de Chile
+
+La",latam,0.75,0,0.0
+Identificador de clasificación mundial de universidades Quacquarelli Symonds de Universidad Austral de Chile es,universidad-austral-de-chile,":
+La Universidad Austral de Chile tiene un ranking QS World University Rankings. El",latam,0.0,0,0.0
+Nombre de usuario de Instagram de Universidad Austral de Chile es,universidadaustraldechile,":
+El nombre de usuario de Instagram de la Universidad Austral de Chile es **",latam,0.0,0,0.0
+Identificador del ARWU de Universidad Austral de Chile es,universidad-austral-de-chile,49001017. How to get this number,latam,0.0,0,0.0
+Lugar de formación de Los Cuatro de Chile es,Santiago de Chile,":
+La Escuela de Ingenieros del Ejército de Chile.",latam,0.36363636363636365,0,0.0
+Identificador Lyrics Translate de Los Cuatro de Chile es,los-cuatro-de-chile-lyrics.html,un grupo musical chileno de rock que se formó en 1,latam,0.0,0,0.0
+Identificador Rate Your Music de artista de Los Peores de Chile es,los_peores_de_chile,": 3207472
+
+Okay, so I need",latam,0.0,0,0.0
+Identificador en Facebook de Los Peores de Chile es,los.p.dechile,: 1000000000000,latam,0.0,0,0.0
+Categoría principal del tema de geografía de Chile es,Categoría:Geografía de Chile,la geografía física y la geografía humana. La geografía física,latam,0.0,0,0.0
+Subclase de de geografía de Chile es,geografía de América del Sur,"la que estudia las características de la población, su distribución, su",latam,0.12500000000000003,0,0.0
+Lista del elemento de geografía de Chile es,Anexo:Puntos extremos de Chile,"el siguiente:
+
+1. **Límites geográficos de Chile**:",latam,0.36363636363636365,0,0.0
+Ubicación de la sede de Empresa Nacional de Aeronáutica de Chile es,Base Aérea El Bosque,":
+La sede de la Empresa Nacional de Aeronáutica de Chile",latam,0.0,0,0.0
+Logotipo de Empresa Nacional de Aeronáutica de Chile es,Logo-enaer.png,un logotipo que representa a la Empresa Nacional de Aeronáut,latam,0.0,0,0.0
+Propiedad de de Empresa Nacional de Aeronáutica de Chile es,Fuerza Aérea de Chile,una empresa de Chile que se especializa en la fabricación de aviones,latam,0.25,0,0.0
+Categoría en Commons de Empresa Nacional de Aeronáutica de Chile es,ENAER,la categoría de imágenes de la Empresa Nacional de Aeronáutica de,latam,0.0,0,0.0
+Identificador Crunchbase de una organización de Empresa Nacional de Aeronáutica de Chile es,enaer,":
+El identificador Crunchbase de una organización como **Empresa Nacional de A",latam,0.0,0,0.0
+Industria de Empresa Nacional de Aeronáutica de Chile es,industria aeroespacial,"una empresa que está ubicada en la comuna de San Antonio, Reg",latam,0.0,0,0.0
+Categoría en Commons de Universidad de Santiago de Chile es,Universidad de Santiago de Chile,"la categoría de imágenes de la Universidad de Santiago de Chile, en el repos",latam,0.5263157894736842,1,0.0
+Situado en la entidad territorial administrativa de Universidad de Santiago de Chile es,Santiago de Chile,"el campus que más estudiantes tiene, con 14.000",latam,0.0,0,0.0
+Categoría para las personas que estudiaron en esta institución de Universidad de Santiago de Chile es,Categoría:Alumnado de la Universidad de Santiago de Chile,"el siguiente:
+
+Categoría: Estudiantes de la Universidad de Santiago de",latam,0.6666666666666665,0,0.0
+Categoría para empleados de la organización de Universidad de Santiago de Chile es,Categoría:Académicos de la Universidad de Santiago de Chile,": 
+
+1. Catedrático (docente investigador)
+2",latam,0.0,0,0.0
+Identificador de clasificación mundial de universidades Quacquarelli Symonds de Universidad de Santiago de Chile es,universidad-de-santiago-de-chile-usach,"QS World University Rankings 2022, el cual fue publicado",latam,0.0,0,0.0
+Imagen del escudo de armas del elemento de Universidad de Santiago de Chile es,Escudo de la Universidad de Santiago-4.svg,una imagen de un escudo de armas. El escudo de arm,latam,0.3529411764705882,0,0.0
+Imagen de la bandera de Universidad de Santiago de Chile es,Bandera de la Universidad de Santiago.svg,"el logotipo de la Universidad de Santiago de Chile, el cual está",latam,0.4444444444444444,0,0.0
+Identificador en Facebook de Universidad de Santiago de Chile es,universidaddesantiago,un string con el cual se puede identificar a la universidad en Facebook,latam,0.0,0,0.0
+Compuesto por de Universidad de Santiago de Chile es,Facultad Tecnológica de Universidad de Santiago de Chile,"un programa de postgrado de 12 meses de duración,",latam,0.35294117647058826,0,0.0
+Compuesto por de Universidad de Santiago de Chile es,"Departamento de Investigaciones Científicas y Tecnológicas, Universidad de Santiago de Chile",el primer centro de investigación en el mundo en el desarrollo de un nuevo sistema,latam,0.15384615384615383,0,0.0
+Cargo ocupado por el dirigente de Universidad de Santiago de Chile es,rector de la Universidad de Santiago de Chile,el que se encuentra vacante. El reemplazante del doctor en,latam,0.0,0,0.0
+Identificador del ARWU de Universidad de Santiago de Chile es,universidad-de-santiago-de-chile,08571137. ¿Cual es el,latam,0.0,0,0.0
+Subclase de de entidad territorial administrativa de Chile es,entidad territorial administrativa de un país particular,":
+A) Región
+B) Comuna
+C) Provincia",latam,0.0,0,0.0
+Categoría principal del tema de entidad territorial administrativa de Chile es,Categoría:Organización territorial de Chile,"el territorio, en el cual se incluyen los siguientes subtemas",latam,0.0,0,0.0
+Identificador en Facebook de Orquesta Sinfónica de Chile es,OrquestaSinfonicadeChile,: 1021130442041,latam,0.0,0,0.0
+Lugar de formación de Orquesta Sinfónica de Chile es,Santiago de Chile,"en el Conservatorio de música de Chile, que fue fundado en",latam,0.28571428571428575,0,0.0
+Categoría principal del tema de música folclórica de Chile es,Categoría:Música folclórica de Chile,"la música popular chilena, que es un tipo de música popular que",latam,0.125,0,0.0
+Subclase de de música folclórica de Chile es,música folclórica latinoamericana,la que se basa en el uso de instrumentos de viento y,latam,0.0,0,0.0
+Subclase de de música folclórica de Chile es,música de Chile,"el folclore de la zona central del país, que se desarrolla",latam,0.14285714285714288,0,0.0
+Categoría principal del tema de Vino de Chile es,Categoría:Vino de Chile,"el vino, pero en esta sección se enfocan temas específ",latam,0.0,0,0.0
+Compuesto por de Congreso Nacional de Chile es,Cámara de Diputadas y Diputados de Chile,un organismo del Estado chileno que forma parte del Poder Leg,latam,0.0,0,0.0
+Compuesto por de Congreso Nacional de Chile es,Senado de Chile,el poder legislativo del país. El Congreso está compuesto por,latam,0.0,0,0.0
+Categoría principal del tema de Congreso Nacional de Chile es,Categoría:Congreso Nacional de Chile,"el ""Derecho a la Educación"" y se dividió en",latam,0.0,0,0.0
+Imagen de Congreso Nacional de Chile es,21-05-2012 Cuenta Pública.jpg,una de las imágenes que se han tomado en el transcurso del tiempo,latam,0.0,0,0.0
+Diferente de de Congreso Nacional de Chile es,Congreso Nacional,"el Congreso de la Unión, que se reúne en el",latam,0.16666666666666669,0,0.0
+Categoría principal del tema de comuna de Chile es,Categoría:Comunas de Chile,"la política, y como tal, la comuna es una institución política",latam,0.0,0,0.0
+Subclase de de comuna de Chile es,subdivisión administrativa de tercer nivel,"una subdivisión administrativa de la comuna, y está compuesta por",latam,0.4,0,0.0
+Lista del elemento de comuna de Chile es,Anexo:Comunas de Chile,un listado de elementos que conforman la estructura del municipio ch,latam,0.14285714285714288,0,0.0
+Lista de de Anexo:Islas de Chile es,islas de Chile,"un país de América del Sur, y es el segundo país más al sur",latam,0.11764705882352941,0,0.0
+Lista de de Anexo:Universidades de Chile es,universidad,una lista de universidades en Chile. Se pueden ordenar por ubicación,latam,0.0,1,0.0
+Categoría relacionada con la lista de Anexo:Universidades de Chile es,Categoría:Universidades de Chile,":
+
+La categoría relacionada con la lista de ""Anexo:Universidades",latam,0.18181818181818182,0,0.0
+Lista de de Anexo:Códigos postales de Chile es,código postal,"un anexo de la Wikipedia en español, que contiene una lista de c",latam,0.0,0,0.0
+Bandera de República Socialista de Chile es,bandera de Chile,el nombre que se le da a la bandera que representó a Chile,latam,0.25,0,0.0
+Escudo de armas de República Socialista de Chile es,Escudo de Chile,el escudo de armas que representa a la República Socialista de Chile,latam,0.4,0,0.0
+Capital de República Socialista de Chile es,Santiago de Chile,":
+La capital de la República Socialista de Chile es **Santiago de",latam,0.42857142857142855,0,0.0
+Forma de gobierno de República Socialista de Chile es,república,: La República Socialista de Chile es una forma de gobierno que se bas,latam,0.14285714285714288,1,0.0
+Idioma oficial de República Socialista de Chile es,español,"el español, pero también se hablan otros idiomas como el mapuche",latam,0.16666666666666669,1,0.0
+Continente de República Socialista de Chile es,América del Sur,"un continente? No, el ""Continente de República Socialista de",latam,0.0,0,0.0
+Nombre en la lengua nativa de República Socialista de Chile es,República Socialista de Chile,"el nombre oficial del país en la lengua mapuche, que es el",latam,0.0,0,0.0
+Himno de República Socialista de Chile es,Himno Nacional de Chile,el himno nacional de Chile entre 1971 y 1,latam,0.6153846153846153,1,0.0
+Idioma usado de República Socialista de Chile es,español,":
+A) Inglés
+B) Español
+C) Portugu",latam,0.2857142857142857,1,0.0
+Ubicación de la sede de Juventudes Comunistas de Chile es,Santiago de Chile,":
+A. Plaza de Armas
+B. Plaza de la Dign",latam,0.16666666666666666,0,0.0
+Miembro de de Juventudes Comunistas de Chile es,Federación Mundial de la Juventud Democrática,"una organización de izquierda chilena, fundada en 19",latam,0.14285714285714288,0,0.0
+Nombre oficial de Juventudes Comunistas de Chile es,Juventudes Comunistas de Chile,":
+A) Juventudes Comunistas de Chile
+B) Ju",latam,0.7272727272727273,1,0.0
+Categoría en Commons de Juventudes Comunistas de Chile es,Juventudes Comunistas de Chile,una categoría que contiene imágenes que se relacionan con Juventudes Comunist,latam,0.13333333333333333,0,0.0
+Categoría relacionada con la lista de Anexo:Empresas de Chile es,Categoría:Empresas de Chile,: La lista de empresas de Chile se encuentra en el anexo de la,latam,0.25,0,0.0
+Categoría en Commons de Carabineros de Chile es,Carabineros de Chile,una categoría que permite almacenar imágenes y videos relacionados con la institución,latam,0.0,0,0.0
+Logotipo de Carabineros de Chile es,Roundel of Carabineros de Chile.svg,"un logotipo que representa a Carabineros de Chile, la polic",latam,0.26666666666666666,0,0.0
+Texto del lema de Carabineros de Chile es,Orden y Patria,"""La Justicia en la Vía Pública"". ¿Cómo se le dice",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Carabineros de Chile es,General director de Carabineros de Chile,"un cargo de mando y dirección, no un cargo de gestión, y",latam,0.2222222222222222,0,0.0
+Nombre de usuario de Twitter (X) de Carabineros de Chile es,Carabdechile,@carabineroschile. El nombre de usuario de Twitter (X,latam,0.0,0,0.0
+Ubicación de la sede de Carabineros de Chile es,Comuna de Santiago,"en la ciudad de Santiago, específicamente en la Avenida del Ejérc",latam,0.28571428571428575,0,0.0
+Organización matriz de Carabineros de Chile es,Ministerio de Defensa Nacional de Chile,una estructura que permite al cuerpo de policía de Chile funcionar ef,latam,0.3333333333333333,0,0.0
+Identificador name-suggestion-index de Carabineros de Chile es,carabinerosdechile-2e4672,un índice de sugerencias de nombres que se utiliza para el registro de personas,latam,0.0,0,0.0
+Identificador Enciclopedia Británica Online de Zona Central de Chile es,place/Zona-Central,un sistema de información geográfica (SIG) que permite acceder a,latam,0.0,0,0.0
+Ubicación de la sede de Partido Ecologista Verde de Chile es,Concepción,":
+La sede del Partido Ecologista Verde de Chile (PEV",latam,0.0,0,0.0
+Ideología política de Partido Ecologista Verde de Chile es,política verde,El Partido Ecologista Verde (PEV) de Chile es,latam,0.2,0,0.0
+Ideología política de Alianza Democrática de Chile es,radicalismo,el partido político chileno que fue fundado en 197,latam,0.0,0,0.0
+Categoría principal del tema de demografía de Chile es,Categoría:Demografía de Chile,": 
+A. El impacto del turismo en la población
+B",latam,0.0,0,0.0
+Censo de la población de demografía de Chile es,Censo chileno de 1907,una base de datos de población que contiene la información de la población de Chile,latam,0.10526315789473685,0,0.0
+Subclase de de demografía de Chile es,demografía de América del Sur,la que estudia la distribución de la población en el territorio nacional,latam,0.11764705882352941,0,0.0
+Clase de competencia de selección de fútbol sub-20 de Chile es,fútbol masculino sub-20,un espacio de aprendizaje y desarrollo de jugadores jóvenes. Este tipo,latam,0.0,0,0.0
+Propiedad de de selección de fútbol sub-20 de Chile es,Federación de Fútbol de Chile,el club que representa al país en el torneo juvenil de la Copa,latam,0.1111111111111111,0,0.0
+Logotipo de selección de fútbol sub-20 de Chile es,FederacionChilenaDeFutbol-Logo.png,"un logotipo que representa a los jugadores más jóvenes de Chile,",latam,0.0,0,0.0
+Entrenador de selección de fútbol sub-20 de Chile es,Mario Salas,el que acaba de ser nombrado por la FIFA. El presidente,latam,0.0,0,0.0
+Compuesto por de Senado de Chile es,senador de Chile,"el órgano legislativo del país, y está compuesto por",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Senado de Chile es,presidente del Senado de Chile,el cargo de presidente de la Cámara de Diputados. El President,latam,0.25000000000000006,0,0.0
+Representación esquemática de Senado de Chile es,Senado de Chile elección 2017.svg,"quema del Senado de Chile, con los distintos sectores que",latam,0.4,0,0.0
+Nombre en la lengua nativa de Senado de Chile es,Senado de la República de Chile,"""Senado de la República"" o ""Senado de Chile""? ¿",latam,0.8571428571428571,0,0.0
+Compuesto por de Cámara de Diputadas y Diputados de Chile es,diputado de Chile,un organismo que tiene como función principal la redacción de las leyes,latam,0.13333333333333333,0,0.0
+Cargo ocupado por el dirigente de Cámara de Diputadas y Diputados de Chile es,presidente de la Cámara de Diputadas y Diputados de Chile,un cargo de alto nivel y es una figura clave dentro del sistema político ch,latam,0.16,0,0.0
+Representación esquemática de Cámara de Diputadas y Diputados de Chile es,Diputados Chile.svg,quema con dos partes: la parte superior muestra la Cámara de Dip,latam,0.0,0,0.0
+Imagen del escudo de armas del elemento de Cámara de Diputadas y Diputados de Chile es,Cámara de Diputadas y Diputados de Chile.png,"el que se muestra en la imagen, que es un escudo con un",latam,0.0,0,0.0
+Industria de Administradoras de Fondos de Pensiones de Chile es,pensión,una asociación gremial que representa a las administradoras de fondos,latam,0.0,0,0.0
+Categoría principal del tema de Consejo de Estado de Chile es,Categoría:Consejos de Estado de Chile,":
+A. Ciencia
+B. Justicia
+C. Educación",latam,0.0,0,0.0
+Lista de de Anexo:Montañas de Chile es,montaña,"un documento que se encuentra en la web de la Universidad de Chile, el",latam,0.0,0,0.0
+Ubicación de la sede de Comité Olímpico de Chile es,Santiago de Chile,":
+La sede del Comité Olímpico de Chile se encuentra en",latam,0.30769230769230765,0,0.0
+Deporte de Comité Olímpico de Chile es,deporte olímpico,el deporte que organiza el Comité Olímpico de Chile,latam,0.3636363636363636,0,0.0
+Ubicación de la sede de Partido Radical de Chile es,Santiago de Chile,":
+La sede del Partido Radical de Chile, también conocido como el",latam,0.28571428571428575,0,0.0
+Ideología política de Partido Radical de Chile es,socioliberalismo,":
+El Partido Radical de Chile, fundado en 193",latam,0.0,0,0.0
+Ideología política de Partido Radical de Chile es,radicalismo,El Partido Radical de Chile es un partido político chileno que,latam,0.0,0,0.0
+Ideología política de Partido Radical de Chile es,socialdemocracia,":
+El Partido Radical de Chile, también conocido como el Partido",latam,0.0,0,0.0
+Miembro de de Partido Radical de Chile es,Internacional Socialista,un cargo que se puede ocupar en la República de Chile. Se trata,latam,0.0,0,0.0
+Categoría en Commons de Partido Radical de Chile es,Partido Radical Socialdemócrata,"una categoría en el repositorio de medios Wikimedia Commons, que contiene imágenes y",latam,0.0,0,0.0
+Categoría de miembros de Partido Radical de Chile es,Categoría:Políticos del Partido Radical Socialdemócrata,una categoría de la Wikipedia que reúne a todos los miembros de,latam,0.0,0,0.0
+Logotipo de Partido Radical de Chile es,Partido Radical Socialdemócrata logo.jpg,"un partido político de Chile, fundado en 1930 y",latam,0.15384615384615383,0,0.0
+Serie de primera temporada de El mejor de Chile es,El mejor de Chile,"...
+La primera temporada de la serie ""El mejor de Chile es..."" se",latam,0.5,1,0.0
+Liga de Club Deportivo Ferroviarios de Chile es,Cuarta División de Chile,una liga de fútbol chilena que se juega,latam,0.16666666666666666,0,0.0
+Estadio de Club Deportivo Ferroviarios de Chile es,Estadio Los Nogales de Estación Central,un estadio de fútbol ubicado en la ciudad de Tal,latam,0.25,0,0.0
+Categoría principal del tema de Club Deportivo Ferroviarios de Chile es,Categoría:Club Deportivo Ferroviarios de Chile,"Deportes, y subcategorías son Fútbol.",latam,0.0,0,0.0
+Ubicación de la sede de Club Deportivo Ferroviarios de Chile es,Estación Central,"el barrio de San Joaquín, en la comuna de Santiago",latam,0.0,0,0.0
+Categoría en Commons de Club Deportivo Ferroviarios de Chile es,Club Deportivo Ferroviarios de Chile,"una categoría en el repositorio de imágenes Wikimedia Commons, con el objetivo de",latam,0.1111111111111111,0,0.0
+Categoría para miembros de un equipo de Club Deportivo Ferroviarios de Chile es,Categoría:Futbolistas del Club Deportivo Ferroviarios de Chile,"un equipo de fútbol profesional chileno, fundado el",latam,0.13333333333333333,0,0.0
+Identificador en Facebook de Club Deportivo Ferroviarios de Chile es,CDFerroviarios,":
+El identificador en Facebook del Club Deportivo Ferroviarios",latam,0.0,0,0.0
+Categoría principal del tema de Cultura de Chile es,Categoría:Cultura de Chile,": Cultura de Chile
+
+Categoría secundaria: Cultura",latam,0.4444444444444444,0,0.0
+Subclase de de Cultura de Chile es,cultura de la Tierra,"un grupo musical chileno de rock, formado en 19",latam,0.15384615384615383,0,0.0
+Categoría relacionada con la lista de Partidos políticos de Chile es,Categoría:Partidos políticos de Chile,":
+A. Sociedad
+B. Ciencia
+C. Deport",latam,0.0,0,0.0
+Categoría principal del tema de Partidos políticos de Chile es,Categoría:Partidos políticos de Chile,":
+La categoría principal del tema de **Partidos políticos de Chile**",latam,0.4285714285714285,0,0.0
+Ubicación de la sede de Central Única de Trabajadores de Chile es,Santiago de Chile,"en la ciudad de Santiago, en la Avenida del Ejército,",latam,0.30769230769230765,0,0.0
+Imagen de Central Única de Trabajadores de Chile es,Central Única de Trabajadores de Chile.png,el título de la exposición que se presenta en el Museo de Arte,latam,0.21052631578947367,0,0.0
+CineChile filmmaker ID de Central Única de Trabajadores de Chile es,central-única-de-trabajadores-cut,el director de la cinta “La Voz de los Silencios,latam,0.0,0,0.0
+Reemplazado por de Central Única de Trabajadores de Chile es,Central Unitaria de Trabajadores de Chile,el nuevo sindicato de la empresa. How do you say this sentence,latam,0.1111111111111111,0,0.0
+Categoría principal del tema de Literatura de Chile es,Categoría:Literatura de Chile,": ""Literatura de Chile"" y subcategorías son: """,latam,0.4444444444444444,0,0.0
+Categoría principal del tema de Selección de baloncesto de Chile es,Categoría:Selección de baloncesto de Chile,Deportes. ¿Cuál es la categoría de subtema?,latam,0.16666666666666666,0,0.0
+Deporte de Selección de baloncesto de Chile es,baloncesto,un deporte de equipo que se juega con un balón y se,latam,0.0,0,0.0
+Clase de competencia de Selección de baloncesto de Chile es,baloncesto masculino,la que se encuentra en la 2016 FIBA Americas,latam,0.0,0,0.0
+Categoría principal del tema de Banco Central de Chile es,Categoría:Banco Central de Chile,":
+A) Economía
+B) Política
+C) Ciencia",latam,0.0,0,0.0
+Ubicación de la sede de Banco Central de Chile es,Santiago de Chile,en: La sede del Banco Central de Chile se encuentra ubicada en la,latam,0.25,0,0.0
+Logotipo de Banco Central de Chile es,Banco Central de Chile 2021.png,"un icono que representa al Banco Central de Chile, un organismo gubern",latam,0.47058823529411764,0,0.0
+Identificador de usuario Flickr de Banco Central de Chile es,bancocentraldechile,": 29671117
+Ejemplo:",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Banco Central de Chile es,presidente del Banco Central de Chile,"un cargo de alto impacto, ya que se encarga de la política",latam,0.1111111111111111,0,0.0
+Moneda de Banco Central de Chile es,peso,"el banco central de Chile, que fue establecido en 192",latam,0.0,0,0.0
+Categoría principal del tema de Ejército de Chile es,Categoría:Ejército de Chile,":
+A) Política
+B) Sociedad
+C) Ciencia y",latam,0.0,0,0.0
+Himno de Ejército de Chile es,Los viejos estandartes,"el himno oficial del Ejército de Chile, instituido en",latam,0.0,0,0.0
+Compuesto por de Ejército de Chile es,división militar,"un instituto de formación militar y de seguridad nacional, con base en",latam,0.14285714285714285,0,0.0
+Compuesto por de Ejército de Chile es,regimiento ligero acorazado,"un organismo de defensa nacional, y está compuesto por el President",latam,0.0,0,0.0
+Compuesto por de Ejército de Chile es,regimiento de caballería hipomóvil,un término que se refiere a la formación de las unidades del Ej,latam,0.11764705882352941,0,0.0
+Compuesto por de Ejército de Chile es,regimiento de caballería aérea,un ejército de tierra de la Fuerza Armada de,latam,0.15384615384615383,0,0.0
+Compuesto por de Ejército de Chile es,regimiento de infantería motorizada,"el que se encarga de la defensa del territorio nacional, de",latam,0.13333333333333333,0,0.0
+Compuesto por de Ejército de Chile es,regimiento de montaña,"un servicio de inteligencia, el cual está bajo la dependencia del Minister",latam,0.13333333333333333,0,0.0
+Compuesto por de Ejército de Chile es,regimiento de infantería,"el que está al frente del Ejército de Chile, es el general",latam,0.13333333333333333,0,0.0
+Compuesto por de Ejército de Chile es,grupo de artillería de campaña,el que le da al país un poder militar. How do you say this,latam,0.0,0,0.0
+Elemento operado de Ejército de Chile es,cañón automático de 20 mm,una herramienta de apoyo al personal de las Fuerzas Armadas,latam,0.13333333333333333,0,0.0
+Identificador en Facebook de Ejército de Chile es,ejercitochile,: 1442883071605,latam,0.0,0,0.0
+Nombre de usuario de Instagram de Ejército de Chile es,ejercito_chile,: ? El nombre de usuario de Instagram del Ejército de Chile es,latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Ejército de Chile es,Ejercito_Chile,"@chilemilitar, y en el perfil se muestra que fue",latam,0.0,0,0.0
+Rama militar de Ejército de Chile es,Fuerzas Armadas de Chile,"la que le da apoyo a la presidenta Bachelet, pero",latam,0.0,0,0.0
+Santo patrón de Ejército de Chile es,Virgen del Carmen de Chile,"San Miguel Arcángel, ¿verdad? Sí, es correct",latam,0.0,0,0.0
+Texto del lema de Ejército de Chile es,"Siempre vencedor, jamás vencido","""Por el honor, por la patria, por la libertad,",latam,0.0,0,0.0
+Día del año de una ocurrencia periódica de Ejército de Chile es,7 de junio,el 11 de septiembre. La fecha está relacionada con el,latam,0.15384615384615383,0,0.0
+Día del año de una ocurrencia periódica de Ejército de Chile es,5 de septiembre,el 15 de mayo. La celebración se conoce como el,latam,0.15384615384615383,0,0.0
+Día del año de una ocurrencia periódica de Ejército de Chile es,Día de las Glorias del Ejército de Chile,el 11 de julio. Esta fecha conmemora el,latam,0.125,0,0.0
+Cargo ocupado por el dirigente de Ejército de Chile es,comandante en Jefe del Ejército de Chile,el de Jefe de Estado Mayor del Ejército (JEME,latam,0.5,0,0.0
+Campo de trabajo de Ejército de Chile es,fuerzas armadas,"un campo de trabajo, que fue construido en 1889",latam,0.0,0,0.0
+Orden de batalla de Ejército de Chile es,Anexo:Organización del Ejército de Chile,"una organización de los efectivos militares del Ejército de Chile,",latam,0.5333333333333333,0,0.0
+Categoría en Commons de Edificio del ex Congreso Nacional de Chile es,Palacio del ex Congreso Nacional de Chile,un espacio donde se pueden subir imágenes del Edificio del ex Congreso,latam,0.3157894736842105,0,0.0
+Imagen de Edificio del ex Congreso Nacional de Chile es,Palacio del ex Congreso Nacional de Chile - 2020 - 03.jpg,un proyecto de restauración y adaptación del edificio del ex Congreso,latam,0.39999999999999997,0,0.0
+Estatus patrimonial de Edificio del ex Congreso Nacional de Chile es,Monumento Nacional de Chile,el título de un trabajo de investigación que se realizó en el año,latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Edificio del ex Congreso Nacional de Chile es,Comuna de Santiago,"el Museo Nacional de Historia Natural, con el objetivo de foment",latam,0.14285714285714288,0,0.0
+Estilo arquitectónico de Edificio del ex Congreso Nacional de Chile es,arquitectura neoclásica,":
+
+El edificio del Ex Congreso Nacional de Chile, ubicado en",latam,0.0,0,0.0
+Subclase de de Abierto de Chile es,torneo de golf,un tipo de competencia de fútbol que se juega en,latam,0.15384615384615383,0,0.0
+Ubicación de Abierto de Chile es,Santiago de Chile,una empresa dedicada a la distribución de productos de salud y bienestar,latam,0.13333333333333333,0,0.0
+Categoría relacionada con la lista de Anexo:Ríos de Chile es,Categoría:Ríos de Chile,"una categoría que no existe en Wikipedia. ¿Cómo se puede crear?
+
+Para",latam,0.0,0,0.0
+Lista de de Misiones diplomáticas de Chile es,misión diplomática,"un listado de misiones diplomáticas de Chile, es decir,",latam,0.0,0,0.0
+Categoría relacionada con la lista de Misiones diplomáticas de Chile es,Categoría:Misiones diplomáticas de Chile,":
+
+A) Lista de embajadas de Chile
+B) Lista de",latam,0.30769230769230765,0,0.0
+Opuesto a de Misiones diplomáticas de Chile es,Anexo:Misiones diplomáticas en Chile,: A) De Misiones diplomáticas de Chile B) De M,latam,0.30769230769230765,0,0.0
+Categoría principal del tema de Misiones diplomáticas de Chile es,Categoría:Misiones diplomáticas de Chile,":
+
+A) Política internacional
+
+B) Relaciones internacionales
+
+C)",latam,0.0,0,0.0
+Categoría principal del tema de Primera División de fútbol femenino de Chile es,Categoría:Primera División de fútbol femenino de Chile,": 
+
+Deportes, Fútbol, Fútbol",latam,0.2,0,0.0
+Clase de competencia de Primera División de fútbol femenino de Chile es,fútbol femenino,el máximo nivel del fútbol femenino chileno.,latam,0.4444444444444445,1,0.0
+Liga inferior de Primera División de fútbol femenino de Chile es,Primera B de Fútbol Femenino de Chile,una división de fútbol femenino de Chile. La,latam,0.6666666666666666,0,0.0
+Faceta de de Cronología de la historia de Chile es,historia de Chile,la que se encarga de estudiar la historia de Chile a través de,latam,0.375,1,0.0
+Reemplazado por de Código de Procedimiento Penal de Chile es,Código Procesal Penal de Chile,"el que se aplica al proceso penal chileno, que es el",latam,0.12500000000000003,0,0.0
+Idioma de la obra o del nombre de Código de Procedimiento Penal de Chile es,español,": 
+
+El idioma de la obra o del nombre de ""Código",latam,0.0,0,0.0
+Autor de Código de Procedimiento Penal de Chile es,Manuel Ballesteros Ríos,":
+A. El Presidente de la República
+B. El Presidente",latam,0.0,0,0.0
+Legislado por de Código de Procedimiento Penal de Chile es,Congreso Nacional de Chile,"el procedimiento que se inicia con la denuncia de una persona,",latam,0.13333333333333333,0,0.0
+Idioma de la obra o del nombre de Ley de Organización y Atribuciones de los Tribunales de Chile es,español,"el chileno. How do you say this sentence in English?
+
+The",latam,0.0,0,0.0
+Imagen de Hotel Marriott Santiago de Chile es,"Santiago Marriott Hotel, Las Condes, Santiago 20230326.jpg","un hotel de 5 estrellas en el centro de Santiago, a solo",latam,0.2105263157894737,0,0.0
+Estrellas de un hotel de Hotel Marriott Santiago de Chile es,hotel de 5 estrellas,un lugar donde los viajeros pueden disfrutar de una estancia rel,latam,0.13333333333333333,0,0.0
+Deporte de Rama de Básquetbol de la Universidad de Chile es,baloncesto,"el siguiente, en el cual se juega con un balón de cu",latam,0.0,0,0.0
+Ubicación de la sede de Rama de Básquetbol de la Universidad de Chile es,Santiago de Chile,"en el Complejo Deportivo del Campus San Joaquín, en",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Colegio Médico de Chile es,Santiago de Chile,"un Colegio Médico con una larga trayectoria, que ha",latam,0.0,0,0.0
+Ubicación de la sede de Colegio Médico de Chile es,Santiago de Chile,":
+
+La sede del Colegio Médico de Chile se encuentra ubicada en",latam,0.28571428571428575,0,0.0
+Miembro de de Colegio Médico de Chile es,Asociación Médica Mundial,"un título que se puede obtener en la universidad, pero no es un",latam,0.0,0,0.0
+Imagen de Biblioteca Nacional de Chile es,Biblioteca nacional 1.JPG,un proyecto de desarrollo de software que busca crear una biblioteca digital de libros,latam,0.11764705882352941,0,0.0
+Categoría principal del tema de Biblioteca Nacional de Chile es,Categoría:Biblioteca Nacional de Chile,: 1. Literatura y Literatura 2. Historia y,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca Nacional de Chile es,Santiago de Chile,"el espacio físico que permite el acceso a los documentos, servicios y recursos de",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca Nacional de Chile es,Comuna de Santiago,"un instituto encargado de la gestión, conservación, preserv",latam,0.18181818181818182,0,0.0
+Categoría en Commons de Biblioteca Nacional de Chile es,Biblioteca Nacional de Chile,una categoría en Wikimedia Commons que permite organizar imágenes relacionadas con la Bibli,latam,0.0,0,0.0
+Miembro de de Biblioteca Nacional de Chile es,Asociación de Estados Iberoamericanos para el Desarrollo de las Bibliotecas Nacionales de Iberoamérica,un título que se otorga a quienes contribuyen con donaciones importantes,latam,0.0,0,0.0
+Página de institución en Commons de Biblioteca Nacional de Chile es,Biblioteca Nacional de Chile,un sitio web de la Biblioteca Nacional de Chile que contiene imágenes de libros,latam,0.4444444444444445,1,0.0
+Ubicación de Biblioteca Nacional de Chile es,Santiago de Chile,"una pregunta que muchos usuarios han hecho, y por eso en esta página vamos",latam,0.0,0,0.0
+Propiedad asociada de Wikidata de Biblioteca Nacional de Chile es,identificador de la Biblioteca Nacional de Chile,":
+Q28250296
+La propiedad Q2",latam,0.18181818181818182,0,0.0
+Identificador ARAE de Biblioteca Nacional de Chile es,biblioteca-nacional-de-chile-1813,un dato que se puede solicitar a la Biblioteca Nacional de Chile.,latam,0.0,0,0.0
+Ubicación de la sede de Biblioteca Nacional de Chile es,Santiago de Chile,"en la comuna de Santiago, en el barrio de Lastarria",latam,0.30769230769230765,0,0.0
+Imagen de la bandera de comandante en Jefe del Ejército de Chile es,Bandera Comandante en Jefe Ejército de Chile.png,un símbolo de autoridad y respeto. La bandera,latam,0.26666666666666666,0,0.0
+Subclase de de comandante en Jefe del Ejército de Chile es,comandante en jefe,un rango militar que se otorga a un oficial de alto r,latam,0.0,0,0.0
+Organización dirigida desde este cargo de comandante en Jefe del Ejército de Chile es,Ejército de Chile,la que está actualmente en la guerra contra los rebeldes en el,latam,0.0,0,0.0
+Idioma de la película o programa de televisión de La familia más loca de Chile es,español,":
+El idioma de la película o programa de televisión ""La familia",latam,0.0,0,0.0
+Organización matriz de Subsecretaría de Justicia de Chile es,Ministerio de Justicia y Derechos Humanos de Chile,la siguiente: la Subsecretaría de Justicia es la dependencia enc,latam,0.22222222222222224,0,0.0
+Bolsa de valores de Banco de Chile es,Bolsa de Comercio de Santiago,"una institución financiera que opera en Chile, con el objetivo de facilit",latam,0.11764705882352941,0,0.0
+Categoría en Commons de Banco de Chile es,Banco de Chile,una categoría que agrupa imágenes de la empresa. La categoría incluye imágenes,latam,0.13333333333333333,0,0.0
+Ubicación de la sede de Banco de Chile es,Santiago de Chile,":
+A. San Joaquín
+B. Santiago
+C. Las",latam,0.2,0,0.0
+Forma jurídica de Banco de Chile es,empresa de capital abierto,":
+
+A) Sociedad Anónima
+
+B) Sociedad Civil",latam,0.0,0,0.0
+Imagen de Banco de Chile es,"Casa matriz del Banco de Chile, Santiago 20230521.jpg","la primera en la lista, pero se le sigue con un grupo de",latam,0.09523809523809525,0,0.0
+Propiedad de de Banco de Chile es,Quiñenco,"el banco de Chile, con sede en Santiago, Chile, el cual fue",latam,0.0,0,0.0
+Industria de Banco de Chile es,servicios financieros,una de las empresas más importantes de Chile y está entre las 10,latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Banco de Chile es,bancodechile,: El Banco de Chile en Twitter (X) utiliza el nombre de usuario,latam,0.0,0,0.0
+Nombre de usuario de Instagram de Banco de Chile es,bancodechile,...? El nombre de usuario de Instagram de Banco de Chile es **@,latam,0.0,0,0.0
+Categoría principal del tema de Policía de Investigaciones de Chile es,Categoría:Policía de Investigaciones de Chile,":
+A. Justicia
+B. Seguridad
+C. Defensa",latam,0.0,0,0.0
+Texto del lema de Policía de Investigaciones de Chile es,"Honor, disciplina y lealtad",": ""La verdad y el orden son la base de la justicia"".",latam,0.13333333333333333,0,0.0
+Logotipo de Policía de Investigaciones de Chile es,Policía de Investigaciones de Chile (PDI) 01.jpg,"el logo de la policía de investigación de chile, que es un",latam,0.4210526315789474,0,0.0
+Ubicación de la sede de Policía de Investigaciones de Chile es,Comuna de Santiago,en la comuna de Santiago. ¿Cuál es la dirección exacta,latam,0.4615384615384615,1,0.0
+Campo de trabajo de Policía de Investigaciones de Chile es,investigación criminal,un ente autónomo de la administración pública. Su misión,latam,0.0,0,0.0
+Nombre oficial de Policía de Investigaciones de Chile es,Policía de Investigaciones de Chile,"la policía de Investigaciones de Chile, o PDI, es una",latam,0.6666666666666666,1,0.0
+Compuesto por de Policía de Investigaciones de Chile es,Brigada de Investigación Criminal,un organismo que se encarga de investigar delitos que involuc,latam,0.14285714285714288,0,0.0
+Cargo ocupado por el dirigente de Policía de Investigaciones de Chile es,Director General de la Policía de Investigaciones de Chile,"la vacante del
+**Ministro de Justicia**. El j",latam,0.23529411764705882,0,0.0
+Nombre en la lengua nativa de Policía de Investigaciones de Chile es,Policía de Investigaciones de Chile,: ¿Qué? La policía de investigación de Chile se llama en leng,latam,0.5000000000000001,0,0.0
+Imagen de Policía de Investigaciones de Chile es,"Cuartel General de la PDI, Santiago 20220619 04.jpg","la institución que se encarga del control de la seguridad ciudadana,",latam,0.2105263157894737,0,0.0
+Categoría en Commons de Policía de Investigaciones de Chile es,Policía de Investigaciones de Chile,el conjunto de imágenes y archivos relacionados con la Policía de Investigaciones,latam,0.47058823529411764,0,0.0
+Lista de de Anexo:Puntos extremos de Chile es,punto extremo,un documento del Ministerio de Defensa de Chile que contiene información sobre los,latam,0.0,0,0.0
+Faceta de de Anexo:Puntos extremos de Chile es,geografía de Chile,"un mapa que muestra los puntos extremos del país, con coordenadas ge",latam,0.0,0,0.0
+Lista de de Anexo:Puentes de Chile es,puente,un documento oficial del Ministerio de Obras Públicas de Chile que rec,latam,0.0,0,0.0
+Categoría principal del tema de ministro de Estado de Chile es,Categoría:Ministros de Estado de Chile,":  
+Ministro de Estado de Chile
+
+La categoría principal del tema """,latam,0.5333333333333333,0,0.0
+Categoría principal del tema de Lenguas de Chile es,Categoría:Lenguas de Chile,":
+A) Ciencias sociales
+B) Ciencias naturales
+C",latam,0.0,0,0.0
+Subclase de de Lenguas de Chile es,lenguas de la Tierra,una subclase de lenguas que se estableció en el año,latam,0.28571428571428575,0,0.0
+Lista de de Anexo:Periódicos de Chile es,periódico,un catálogo que recopila información de periódicos de Chile,latam,0.0,1,0.0
+Lista de de Anexo:Partidos de la selección de fútbol de Chile es,competición,un listado de los jugadores que han formado parte del combinado,latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Faros de Chile es,Categoría:Faros de Chile,la que se menciona en el siguiente enlace: [1]. ¿,latam,0.0,0,0.0
+Ubicación de la sede de Instituto Nacional de Estadísticas de Chile es,Santiago de Chile,La sede del Instituto Nacional de Estadísticas de Chile (INE),latam,0.30769230769230765,0,0.0
+Imagen de Instituto Nacional de Estadísticas de Chile es,Edificio del Instituto Nacional de Estadísticas (INE) 01.JPG,el lugar de registro de la población de Chile. El Instituto Nacional de Est,latam,0.2727272727272727,0,0.0
+Nombre oficial de Instituto Nacional de Estadísticas de Chile es,Instituto Nacional de Estadísticas,INE. ¿Cómo se llama el Instituto Nacional de Estadísticas de,latam,0.5714285714285715,1,0.0
+Diferente de de Instituto Nacional de Estadísticas de Chile es,Instituto Nacional de Estadística,el INE (Instituto Nacional de Estadísticas) de México,latam,0.5,1,0.0
+Organización matriz de Instituto Nacional de Estadísticas de Chile es,"Ministerio de Economía, Fomento y Turismo de Chile",": 
+A. Un modelo de organización centralizado.
+B. Un modelo",latam,0.11764705882352941,0,0.0
+Título de Boletin del Museo Nacional de Chile es,Boletín del Museo Nacional de Chile,una de las mejores obras de la pintora chilena **Eug,latam,0.125,0,0.0
+Nombre del autor de Boletin del Museo Nacional de Chile es,Museo Nacional de Chile,":
+El autor del **Boletín del Museo Nacional de Chile**",latam,0.6153846153846153,1,0.0
+Lugar de publicación de Boletin del Museo Nacional de Chile es,Santiago de Chile,:  A) Santiago B) Valparaíso C) Concepción,latam,0.2222222222222222,0,0.0
+Reemplazado por de Boletin del Museo Nacional de Chile es,"Boletin del Museo Nacional, Santiago de Chile","la primera parte del artículo, y el segundo parte es el resumen.",latam,0.10526315789473685,0,0.0
+Idioma de la obra o del nombre de Boletin del Museo Nacional de Chile es,español,el idioma de la obra o del nombre de Boletin del Muse,latam,0.0,0,0.0
+Categoría en Commons de Boletin del Museo Nacional de Chile es,Boletín del Museo Nacional de Chile,"una categoría de Commons, la base de datos de imágenes libres de derechos",latam,0.10526315789473684,0,0.0
+Título de Boletín de Biodiversidad de Chile es,Boletín de Biodiversidad de Chile,"un título de boletín de biodiversidad de Chile, como un",latam,0.6666666666666666,1,0.0
+Título de Boletín de Biodiversidad de Chile es,Boletín de biodiversidad de Chile,el nombre del boletín de la Sociedad Chilena de Ci,latam,0.4,0,0.0
+Licencia de Boletín de Biodiversidad de Chile es,Creative Commons Atribución/Reconocimiento-NoComercial,una aplicación para visualizar y descargarse datos de biodiversidad de,latam,0.0,0,0.0
+Editorial de Boletín de Biodiversidad de Chile es,Centro de Estudios en Biodiversidad,una organización sin fines de lucro y está integrada por profesionales y,latam,0.11764705882352941,0,0.0
+Idioma de la obra o del nombre de Boletín del Museo Nacional de Historia Natural de Chile es,español,"el español, por lo tanto, el idioma de la obra es el",latam,0.15384615384615385,1,0.0
+Campo de trabajo de Boletín del Museo Nacional de Historia Natural de Chile es,botánica,"un programa de divulgación científica, que nace con el objetivo",latam,0.0,0,0.0
+Título de Boletín del Museo Nacional de Historia Natural de Chile es,"Boletin del Museo Nacional de Historia Natural, Santiago de Chile",una publicación periódica que se edita desde 193,latam,0.0,0,0.0
+Título de Boletín del Museo Nacional de Historia Natural de Chile es,Boletín del Museo Nacional de Historia Natural,"la palabra ""Boletín"" o ""Boletín del Museo",latam,0.42857142857142855,0,0.0
+Reemplaza a de Boletín del Museo Nacional de Historia Natural de Chile es,"Boletin del Museo Nacional, Santiago de Chile",el nuevo director del Museo de la Naturaleza y el Hombre (,latam,0.33333333333333326,0,0.0
+"Título de Boletin del Museo Nacional, Santiago de Chile es","Boletin del Museo Nacional, Santiago de Chile","el título del boletín del Museo Nacional, Santiago de Chile,",latam,0.7058823529411764,0,0.0
+"Título de Boletin del Museo Nacional, Santiago de Chile es",Boletín del Museo Nacional,"""Boletín del Museo Nacional"" y el número de la edición",latam,0.5714285714285715,1,0.0
+"Reemplaza a de Boletin del Museo Nacional, Santiago de Chile es",Boletin del Museo Nacional de Chile,"un boletín informativo del Museo Nacional de Chile, publicado",latam,0.6666666666666667,0,0.0
+"Reemplazado por de Boletin del Museo Nacional, Santiago de Chile es",Boletín del Museo Nacional de Historia Natural de Chile,el título del libro de poesía de un autor chileno.,latam,0.3157894736842105,0,0.0
+"Idioma de la obra o del nombre de Boletin del Museo Nacional, Santiago de Chile es",español,"el idioma original de la obra, y el idioma del nombre del",latam,0.0,0,0.0
+Idioma de la obra o del nombre de La Voz de Chile es,español,": 
+La Voz de Chile es un periódico chileno",latam,0.0,0,0.0
+Miembro de de Federación de Tenis de Chile es,Confederación Sudamericana de Tenis,el título que recibe un jugador que ha completado el proceso de form,latam,0.11764705882352941,0,0.0
+Nombre en la lengua nativa de Federación de Tenis de Chile es,Federación de Tenis de Chile,"""Federación de Tenis de Chile"", pero si se refiere",latam,0.7142857142857143,1,0.0
+Bolsa de valores de Sociedad Química y Minera de Chile es,Bolsa de Comercio de Santiago,"el nombre del mercado bursátil chileno, que opera bajo",latam,0.0,0,0.0
+Ubicación de la sede de Sociedad Química y Minera de Chile es,Santiago de Chile,": 
+
+La sede de la Sociedad Química y Minera de",latam,0.16666666666666666,0,0.0
+Forma jurídica de Sociedad Química y Minera de Chile es,sociedad anónima,":
+
+La forma jurídica de la Sociedad Química y Min",latam,0.1818181818181818,0,0.0
+Categoría en Commons de Sociedad Química y Minera de Chile es,Sociedad Quimica y Minera de Chile,un espacio de publicación de contenido en el que se pueden subir documentos,latam,0.10526315789473684,0,0.0
+Identificador Crunchbase de una organización de Sociedad Química y Minera de Chile es,sociedad-quimica-y-minera-sqm,": 
+
+¿Cuál es el identificador Crunchbase de la Sociedad",latam,0.0,0,0.0
+Propiedad de de Selección femenina de balonmano de Chile es,Federación Chilena de Balonmano,"un equipo de balonmano femenino profesional chileno,",latam,0.36363636363636365,0,0.0
+Categoría en Commons de Gendarmería de Chile es,Gendarmería de Chile,una categoría en el sitio Wikimedia Commons para imágenes de la Gendarmería,latam,0.26666666666666666,0,0.0
+Categoría principal del tema de Gendarmería de Chile es,Categoría:Gendarmería de Chile,":
+A. Seguridad nacional y defensa
+B. Seguridad pública",latam,0.0,0,0.0
+Ubicación de la sede de Gendarmería de Chile es,Santiago de Chile,"en la Avenida del Ejército, 247, Reg",latam,0.0,0,0.0
+Lealtad de Gendarmería de Chile es,Ministerio de Justicia y Derechos Humanos de Chile,un libro de historia de Chile que aborda el tema de la institución,latam,0.2857142857142857,0,0.0
+Logotipo de Gendarmería de Chile es,Escudo Gendarmería de Chile 2019.png,un logotipo que representa a la institución. El logotipo,latam,0.0,0,0.0
+Nombre oficial de Gendarmería de Chile es,Gendarmería de Chile,"la Policía de Investigaciones, también conocida como PDI. La",latam,0.16666666666666666,0,0.0
+Texto del lema de Gendarmería de Chile es," Labor Omnia Vincit Improbus (El trabajo constante todo lo vence) (lema vigente)   Deus Patria Lex (Dios, Patria, Ley) (lema original)",":
+""La Gendarmería Nacional es un organismo militar de la",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Gendarmería de Chile es,Director Nacional de Gendarmería de Chile,"vacante desde 2017, cuando se lo retiró del",latam,0.0,0,0.0
+Imagen de Gendarmería de Chile es,"Dirección Nacional de Gendarmería, Santiago 20231020.jpg",la palabra que buscaba. ¿Me puede dar algunas imágenes de esa instit,latam,0.1111111111111111,0,0.0
+Categoría principal del tema de Ministerio de Educación de Chile es,Categoría:Ministerio de Educación de Chile,":
+
+A) Formación de docentes
+B) Educación superior
+C",latam,0.3076923076923077,0,0.0
+Situado en la entidad territorial administrativa de Ministerio de Educación de Chile es,Santiago de Chile,"un organismo de carácter público, descentralizado, autónomo,",latam,0.2,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Educación de Chile es,ministro de Educación de Chile,el cargo que está vacante desde 2018. La vac,latam,0.0,0,0.0
+Ubicación de la sede de Ministerio de Educación de Chile es,Comuna de Santiago,"en la capital del país, que es Santiago.  La sede está ubic",latam,0.13333333333333333,0,0.0
+Filial de Ministerio de Educación de Chile es,Consejo de Monumentos Nacionales,"una organización dedicada a la educación de jóvenes, adultos y adultos mayores.",latam,0.125,0,0.0
+Filial de Ministerio de Educación de Chile es,Subsecretaría de Educación de Chile,un proyecto de aprendizaje basado en el desarrollo del pensamiento cr,latam,0.12500000000000003,0,0.0
+Filial de Ministerio de Educación de Chile es,Subsecretaría de Educación Superior de Chile,un organismo encargado de la supervisión de la educación básica y,latam,0.3529411764705882,0,0.0
+Filial de Ministerio de Educación de Chile es,Subsecretaría de Educación Parvularia,"el Ministerio de Educación de Chile, con base en Santiago, Chile.",latam,0.26666666666666666,0,0.0
+Filial de Ministerio de Educación de Chile es,Junta Nacional de Auxilio Escolar y Becas,un sistema de gestión de información educativa que permite a los usuarios gestionar,latam,0.1,0,0.0
+Filial de Ministerio de Educación de Chile es,Superintendencia de Educación,una institución educativa con un enfoque en el desarrollo integral de,latam,0.14285714285714288,0,0.0
+Filial de Ministerio de Educación de Chile es,Superintendencia de Educación Superior,un ministerio encargado de la educación en Chile. En el caso,latam,0.26666666666666666,0,0.0
+Identificador name-suggestion-index de Ministerio de Educación de Chile es,ministeriodeeducacion-5e33f0,10000000110315,latam,0.0,0,0.0
+"Imagen de Mandarin Oriental, Santiago de Chile es","Mandarin Oriental, Las Condes, Santiago 20230305 01.jpg",el destino elegido para celebrar el 20 aniversario de,latam,0.0,0,0.0
+"Categoría en Commons de Mandarin Oriental, Santiago de Chile es","Mandarin Oriental, Santiago de Chile","un hotel de lujo ubicado en la capital de Chile, Santiago.",latam,0.37499999999999994,0,0.0
+"Estrellas de un hotel de Mandarin Oriental, Santiago de Chile es",hotel de 5 estrellas,un hotel de lujo que ofrece una experiencia única en el corazón de la,latam,0.22222222222222224,0,0.0
+"Situado en la dirección postal de Mandarin Oriental, Santiago de Chile es","Avenida Presidente Kennedy 4601, 7560994 Las Condes, Santiago",el hotel más emblemático de la capital chilena. Es un hotel,latam,0.0,0,0.0
+Imagen de Hospital Clínico de la Universidad de Chile es,"Hospital Clínico de la Universidad de Chile, Independencia, Santiago 20230817 06.jpg","un hospital de referencia nacional e internacional, que ofrece servicios de alta complej",latam,0.24999999999999994,0,0.0
+Situado en la entidad territorial administrativa de Hospital Clínico de la Universidad de Chile es,Santiago de Chile,el primer hospital de enseñanza del país y uno de los más importantes,latam,0.125,0,0.0
+Afiliación de Hospital Clínico de la Universidad de Chile es,Universidad de Chile,"el Hospital Clínico de la Universidad de Chile, que es un hospital",latam,0.4,1,0.0
+Categoría en Commons de Hospital Clínico de la Universidad de Chile es,Hospital Clínico de la Universidad de Chile,"una categoría de la base de datos de imágenes de Wikipedia, el cual está",latam,0.2857142857142857,0,0.0
+Propiedad de de selección de fútbol sub-17 de Chile es,Federación de Fútbol de Chile,el fútbol de la selección de fútbol sub,latam,0.4615384615384615,0,0.0
+Logotipo de selección de fútbol sub-17 de Chile es,Federación de Fútbol de Chile logo.svg,el símbolo de la selección de fútbol sub-,latam,0.42857142857142855,0,0.0
+Deporte de Selección femenina de baloncesto de Chile es,baloncesto,"la selección femenina de baloncesto de Chile, que representa",latam,0.19999999999999998,1,0.0
+Categoría principal del tema de Sendero de Chile es,Categoría:Senderismo en Chile,":
+A. Geografía física
+B. Geografía humana
+C",latam,0.0,0,0.0
+Categoría en Commons de Universidad Adventista de Chile es,Universidad Adventista de Chile,"un espacio que permite compartir recursos educativos y de investigación, en el que",latam,0.11764705882352941,0,0.0
+Imagen de Universidad Adventista de Chile es,Casino Universidad Adventista de Chile.jpg,"una institución educativa con sede en Santiago, Chile. Su misión",latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Universidad Adventista de Chile es,unachaldia,"@unadventista. La Universidad Adventista de Chile, también conoc",latam,0.0,0,0.0
+Categoría principal del tema de pueblos indígenas de Chile es,Categoría:Pueblos indígenas de Chile,Categoría principal del tema de pueblos indígen,latam,0.18181818181818182,0,0.0
+Subclase de de pueblos indígenas de Chile es,pueblos indígenas de Sudamérica,"el llamado ""Mapuche"", cuya lengua es el ""Map",latam,0.0,0,0.0
+Imagen de Universidad de Chile es,Combinación Lineas 1 y 3.jpg,"la primera institución del país en recibir el sello de ""Sosten",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Universidad de Chile es,Comuna de Santiago,un edificio de 3 pisos construido en el año 1,latam,0.15384615384615383,0,0.0
+Línea de ferrocarril de Universidad de Chile es,línea 1 del Metro de Santiago,una línea de la Red de Ferrocarriles de Santiago que conecta,latam,0.3529411764705882,0,0.0
+Línea de ferrocarril de Universidad de Chile es,línea 3 del Metro de Santiago,un proyecto de construcción de una línea de ferrocarril en la capital,latam,0.2222222222222222,0,0.0
+Nombrado en referencia a de Universidad de Chile es,Universidad de Chile,"el siguiente: 1. El ""Fútbol Universitario",latam,0.0,0,0.0
+Logotipo de Universidad de Chile es,Metro Universidad de Chile.png,"un logotipo de color azul y blanco, que representa una est",latam,0.13333333333333333,0,0.0
+Logotipo de Universidad de Chile es,Cenefa antigua Metro Universidad de Chile.png,"un logotipo que representa a la Universidad de Chile, que es una",latam,0.2222222222222222,0,0.0
+Logotipo de Universidad de Chile es,Cenefa Metro Universidad de Chile.png,"un logotipo que representa a la Universidad de Chile, una institución",latam,0.25000000000000006,0,0.0
+Logotipo de Universidad de Chile es,Cenefa Metro Universidad de Chile L3.png,"un logotipo de color azul, con una forma de un cu",latam,0.11764705882352942,0,0.0
+Estación adyacente de Universidad de Chile es,La Moneda,La estación de metro más cercana a la Universidad de Chile es,latam,0.14285714285714285,0,0.0
+Estación adyacente de Universidad de Chile es,Santa Lucía,la estación de metro de la línea 2 (L2) que,latam,0.0,0,0.0
+Estación adyacente de Universidad de Chile es,Plaza de Armas,"la Estación Central, que está en el centro de la ciudad. How",latam,0.13333333333333333,0,0.0
+Estado de uso de Universidad de Chile es,en funcionamiento,un buen ejemplo de cómo un lugar puede ser un espacio de aprendizaje,latam,0.0,0,0.0
+Red de transporte de Universidad de Chile es,Metro de Santiago,un sistema de transporte urbano que cubre la ciudad de Santiago y el,latam,0.25,0,0.0
+Idioma de la obra o del nombre de Revista médica de Chile es,español,el idioma de la publicación. The Spanish version of the title is,latam,0.0,0,0.0
+Título de Revista médica de Chile es,Revista Médica de Chile,"una revista médica que se publica desde 1920,",latam,0.3333333333333333,0,0.0
+Editorial de Revista médica de Chile es,Sociedad Médica de Santiago,"una revista médica de acceso abierto, publicada por la Sociedad",latam,0.4285714285714285,0,0.0
+Categoría relacionada con la lista de Anexo:Futbolistas de la selección de fútbol de Chile es,Categoría:Futbolistas de la selección de fútbol de Chile,": 
+
+A) Deportes
+B) Deportes - F",latam,0.0,0,0.0
+Deporte de Federación de Básquetbol de Chile es,baloncesto,un deporte de equipo que se practica en una cancha de bal,latam,0.0,0,0.0
+Miembro de de Federación de Rugby de Chile es,Sudamérica Rugby,el organismo que regula el rugby en Chile. La Federación de,latam,0.15384615384615385,0,0.0
+Ubicación de la sede de Federación de Rugby de Chile es,Santiago de Chile,":
+La Federación de Rugby de Chile está ubicada en la ciudad de",latam,0.26666666666666666,0,0.0
+Nombre oficial de Federación de Rugby de Chile es,Federación de Rugby de Chile,: La Federación de Rugby de Chile (FRC) es la entidad,latam,0.6666666666666666,1,0.0
+Título de Boletin epidemiologico de Chile es,Boletín epidemiológico de Chile,"""Boletín Epidemiológico de Chile"" y su código es ""BO",latam,0.6153846153846153,1,0.0
+Idioma de la obra o del nombre de Boletin epidemiologico de Chile es,español,"el español, por lo tanto el idioma de la entrada debe ser el",latam,0.14285714285714288,1,0.0
+Título de Archivos de la Sociedad de Cirujanos de Chile es,Archivos de la Sociedad de Cirujanos de Chile,un título que se otorga a quienes obtengan el título de Cir,latam,0.1,0,0.0
+Idioma de la obra o del nombre de Archivos de la Sociedad de Cirujanos de Chile es,español,":
+Idioma de la obra o del nombre de Archivos de la",latam,0.0,0,0.0
+"Título de Archivos. Sociedad de Cirujanos de Hospital, Santiago de Chile es","Archivos. Sociedad de Cirujanos de Hospital, Santiago de Chile",el título de un artículo. ¿Qué significa cada parte? El título de,latam,0.1904761904761905,0,0.0
+"Título de Archivos. Sociedad de Cirujanos de Hospital, Santiago de Chile es",Archivos de la Sociedad de Cirujanos de Hospital,el título de un archivo. ¿Qué significa cada parte del título? El,latam,0.1,0,0.0
+"Idioma de la obra o del nombre de Archivos. Sociedad de Cirujanos de Hospital, Santiago de Chile es",español,el idioma original de la obra. El nombre de Archivos. Soc,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Facultad de Gobierno de la Universidad de Chile es,Santiago de Chile,un espacio de desarrollo y aprendizaje de la ciudadanía y el,latam,0.14285714285714288,0,0.0
+Imagen de Facultad de Gobierno de la Universidad de Chile es,"Facultad de Gobierno Universidad de Chile, Santiago 20230417.jpg","la imagen de la Facultad de Gobierno de la Universidad de Chile,",latam,0.6,0,0.0
+Categoría en Commons de Facultad de Gobierno de la Universidad de Chile es,"Facultad de Gobierno, Universidad de Chile","un espacio de contenido libre y de dominio público, con material que se",latam,0.21052631578947367,0,0.0
+Imagen de Norte Chico de Chile es,La Serena Coquimbo 2011.jpg,"el nombre de una empresa de Chile, la cual se dedica a la",latam,0.11764705882352941,0,0.0
+Imagen de Sublevación de la Escuadra de Chile es,Bombardeo de Coquimbo 1931.jpg,un mural que se encuentra en la Plaza de la Constitución (Plaza,latam,0.125,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Minería de Chile es,ministro de Minería de Chile,el de presidente de la Comisión de Asuntos Mineros del Consejo,latam,0.25000000000000006,0,0.0
+Filial de Ministerio de Minería de Chile es,Servicio Nacional de Geología y Minería de Chile,un instituto de investigación que se encarga de estudiar y promover,latam,0.3157894736842105,0,0.0
+Situado en la entidad territorial administrativa de Ministerio de Minería de Chile es,Comuna de Santiago,un organismo encargado de velar por el cumplimiento de las,latam,0.15384615384615383,0,0.0
+Organización matriz de Ministerio de Salud de Chile es,Gobierno de Chile,": a) 24 regiones, 35 comisar",latam,0.0,0,0.0
+Filial de Ministerio de Salud de Chile es,Instituto Nacional del Tórax,"un hospital de nivel 2, que atiende la zona de la",latam,0.0,0,0.0
+Filial de Ministerio de Salud de Chile es,Subsecretaría de Redes Asistenciales de Chile,una organización sin fines de lucro que busca promover el bienestar de,latam,0.2222222222222222,0,0.0
+Filial de Ministerio de Salud de Chile es,Subsecretaría de Salud Pública de Chile,"un instituto de investigación en salud, que tiene como objetivo principal investigar",latam,0.2222222222222222,0,0.0
+Filial de Ministerio de Salud de Chile es,Central de Abastecimiento del Sistema Nacional de Servicios de Salud,"el lugar donde se puede obtener información sobre el sistema de salud del país,",latam,0.3333333333333333,0,0.0
+Filial de Ministerio de Salud de Chile es,Instituto de Salud Pública de Chile,un sitio web que ofrece información sobre la salud. Su sitio web está en,latam,0.1,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Salud de Chile es,ministro de Salud de Chile,el que se encuentra en la búsqueda de un nuevo director. El cargo de,latam,0.21052631578947364,0,0.0
+Ubicación de la sede de Ministerio de Salud de Chile es,Comuna de Santiago,"en: 
+
+La sede del Ministerio de Salud de Chile se encuentra",latam,0.14285714285714288,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Defensa Nacional de Chile es,ministro de Defensa Nacional de Chile,el que se encuentra en la actualidad en el cargo de Presidente del,latam,0.10526315789473684,0,0.0
+Filial de Ministerio de Defensa Nacional de Chile es,Subsecretaría de Defensa de Chile,"el Ministerio de Defensa Nacional de Chile, que es responsable de la",latam,0.47058823529411764,0,0.0
+Filial de Ministerio de Defensa Nacional de Chile es,Subsecretaría de Investigaciones de Chile,"el Ministerio de Defensa Nacional de Chile, el cual se encarga",latam,0.37499999999999994,0,0.0
+Filial de Ministerio de Defensa Nacional de Chile es,Subsecretaría de Carabineros de Chile,"el Ministerio de Defensa Nacional de Chile, que fue creado el",latam,0.37499999999999994,0,0.0
+Filial de Ministerio de Defensa Nacional de Chile es,Estado Mayor Conjunto de la Defensa de Chile,"el órgano encargado de la administración, organización y operación",latam,0.23529411764705882,0,0.0
+Imagen de Ministerio de Defensa Nacional de Chile es,"Edificio del Ministerio de Defensa Nacional, Santiago 20220625.jpg",el título de una obra de arte de un artista chileno contempor,latam,0.1,0,0.0
+Imagen de la bandera de Ministerio de Defensa Nacional de Chile es,Bandera del ministro de Defensa de Chile.svg,"la bandera del Ministerio de Defensa Nacional de Chile, es un",latam,0.5555555555555556,0,0.0
+Identificador LinkedIn de empresa de Ministerio de Defensa Nacional de Chile es,ministerio-de-defensa-nacional---chile,": 
+
+El identificador de LinkedIn de la **Ministerio de Def",latam,0.0,0,0.0
+Ubicación de la sede de Ministerio de Obras Públicas de Chile es,Comuna de Santiago,":
+
+La sede del Ministerio de Obras Públicas de Chile está ubic",latam,0.14285714285714288,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Obras Públicas de Chile es,ministro de Obras Públicas de Chile,"el que busca cubrir el exministro de Hacienda, José",latam,0.13333333333333333,0,0.0
+Filial de Ministerio de Obras Públicas de Chile es,Subsecretaría de Obras Públicas de Chile,el encargado de la infraestructura de transporte del país. El,latam,0.25,0,0.0
+Identificador en Facebook de Ministerio de Obras Públicas de Chile es,MinisteriodeObrasPublicasChile,: 1103787730377,latam,0.0,0,0.0
+Identificador LinkedIn de empresa de Ministerio de Obras Públicas de Chile es,ministerioobraspublicas,: 1000013700111,latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Transportes y Telecomunicaciones de Chile es,ministro de Transportes y Telecomunicaciones de Chile,el que se encuentra en el centro de la atención de la sociedad chil,latam,0.19047619047619047,0,0.0
+Filial de Ministerio de Transportes y Telecomunicaciones de Chile es,Subsecretaría de Telecomunicaciones de Chile,un organismo público encargado de la regulación y control del sector,latam,0.12500000000000003,0,0.0
+Filial de Ministerio de Transportes y Telecomunicaciones de Chile es,Subsecretaría de Transportes de Chile,un organismo encargado de regular la actividad de los transportes ter,latam,0.37499999999999994,0,0.0
+Filial de Ministerio de Transportes y Telecomunicaciones de Chile es,Junta de Aeronáutica Civil,un organismo encargado de regular y supervisar el sector de,latam,0.14285714285714288,0,0.0
+Filial de Ministerio de Transportes y Telecomunicaciones de Chile es,Empresa de los Ferrocarriles del Estado,una institución que se encarga de la supervisión de la infraestruct,latam,0.11764705882352942,0,0.0
+Filial de Ministerio de Transportes y Telecomunicaciones de Chile es,Metro de Santiago,un organismo encargado de regular y supervisar el sector de,latam,0.15384615384615383,0,0.0
+Filial de Ministerio de Transportes y Telecomunicaciones de Chile es,Comisión Nacional de Seguridad de Tránsito,"una empresa pública que ofrece servicios de transporte aéreo, marítimo",latam,0.125,0,0.0
+Imagen de Ministerio de Transportes y Telecomunicaciones de Chile es,"Edificio del Ministerio de Transportes y Telecomunicaciones, Santiago 20230521.jpg",el lugar donde se encuentra el edificio del ministerio. El ministerio,latam,0.3,0,0.0
+Categoría principal del tema de clima de Chile es,Categoría:Clima de Chile,"la variabilidad climática. How do you say this in Spanish?
+
+La",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Hacienda de Chile es,ministro de Hacienda de Chile,"el de:
+A. Ministro de Hacienda
+B. President",latam,0.6153846153846154,0,0.0
+Logotipo de Ministerio de Hacienda de Chile es,LogoHacienda.png,"un logotipo de color azul, con el texto ""Minister",latam,0.0,0,0.0
+Ubicación de la sede de Ministerio de Hacienda de Chile es,Comuna de Santiago,"en la Avenida del Ejército, 1000,",latam,0.0,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Dirección de Presupuestos de Chile,un tipo de documento que puede ser solicitado por cualquier ciudadano chil,latam,0.11764705882352941,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Subsecretaría de Hacienda de Chile,un organismo encargado de la administración y control del sistema de,latam,0.25000000000000006,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Superintendencia de Bancos e Instituciones Financieras de Chile,un organismo encargado de la administración del sistema de pensiones,latam,0.22222222222222224,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Servicio de Impuestos Internos,una empresa que se dedica a la producción y comercialización de productos de,latam,0.11764705882352941,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Servicio Nacional de Aduanas,"un portal que ofrece información sobre el sistema tributario de Chile, y",latam,0.125,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Tesorería General de la República,una organización sin fines de lucro que apoya la implementación de polít,latam,0.23529411764705882,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Unidad de Análisis Financiero,"una empresa dedicada a la producción, distribución y comercialización de productos",latam,0.13333333333333333,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Banco del Estado de Chile,el responsable de la administración y ejecución del presupuesto del Estado ch,latam,0.35294117647058826,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Superintendencia de Valores y Seguros de Chile,un portal web de información tributaria que ofrece información general sobre el sistema,latam,0.1,0,0.0
+Filial de Ministerio de Hacienda de Chile es,Comisión para el Mercado Financiero,un centro de investigación y análisis económico que se encarga de estudiar y,latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Ministerio de Hacienda de Chile es,Min_Hacienda,@HaciendaChile. ¿Cuál es el nombre de usuario,latam,0.0,0,0.0
+Imagen de Ministerio de Hacienda de Chile es,"Ministerio de Hacienda, Santiago 20200306 01.jpg",la que se utiliza para este proyecto. No se permite el uso comercial de,latam,0.1,0,0.0
+Nombre de usuario de Instagram de Ministerio de Hacienda de Chile es,ministeriodehacienda,": MinisterioHaciendaChile
+El nombre de usuario de Instagram",latam,0.0,0,0.0
+Identificador en Facebook de Ministerio de Hacienda de Chile es,Hacienda.cl,el siguiente: 10005617799,latam,0.0,0,0.0
+"Situado en la entidad territorial administrativa de Ministerio de Economía, Fomento y Turismo de Chile es",Santiago de Chile,una empresa pública con el rol de operar y administrar el sistema de,latam,0.125,0,0.0
+"Cargo ocupado por el dirigente de Ministerio de Economía, Fomento y Turismo de Chile es","ministro de Economía, Fomento y Turismo de Chile","el cargo de Presidente del Consejo de Ministros, el cual está",latam,0.2105263157894737,0,0.0
+"Filial de Ministerio de Economía, Fomento y Turismo de Chile es",Servicio Nacional de Pesca y Acuicultura,"un ministerio que se encarga del desarrollo económico, promoción del",latam,0.0,0,0.0
+"Filial de Ministerio de Economía, Fomento y Turismo de Chile es",Corporación de Fomento de la Producción.,un organismo encargado de la gestión de los recursos del Estado para,latam,0.3333333333333333,0,0.0
+Categoría principal del tema de Ministerio de Relaciones Exteriores de Chile es,Categoría:Ministerio de Relaciones Exteriores de Chile,": Ministerio de Relaciones Exteriores de Chile
+
+La categorización",latam,0.7142857142857143,0,0.0
+Logotipo de Ministerio de Relaciones Exteriores de Chile es,LogoRelacionesExteriores.png,el logotipo del Ministerio de Relaciones Exteriores de Chile,latam,0.0,0,0.0
+Imagen de Ministerio de Relaciones Exteriores de Chile es,"Edificio José Miguel Carrera, Santiago 20200306 02.jpg","la foto del día de hoy, que nos muestra un poco de lo que",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Relaciones Exteriores de Chile es,ministro de Relaciones Exteriores de Chile,de alto nivel y su cargo se llama...? El cargo ocupado por,latam,0.1111111111111111,0,0.0
+Ubicación de la sede de Ministerio de Relaciones Exteriores de Chile es,Comuna de Santiago,"en:
+La sede del Ministerio de Relaciones Exteriores de Chile",latam,0.15384615384615383,0,0.0
+Filial de Ministerio de Relaciones Exteriores de Chile es,Dirección Nacional de Fronteras y Límites del Estado,el organismo encargado de la representación diplomática y consular,latam,0.23529411764705882,0,0.0
+Categoría principal del tema de música de Chile es,Categoría:Música de Chile,"el género de la música chilena, incluyendo la música popular",latam,0.15384615384615383,0,0.0
+Subclase de de música de Chile es,Música de América del Sur,"un proyecto de música de Chile, con sede en Santiago, Chile, form",latam,0.23529411764705882,0,0.0
+Faceta de de música de Chile es,Cultura de Chile,un proyecto de investigación que busca explorar las distintas manifestaciones de la,latam,0.13333333333333333,0,0.0
+Mantenido por el wikiproyecto de música de Chile es,Wikiproyecto:Música latina,un proyecto que busca mejorar la información sobre la música de Chile en Wikipedia.,latam,0.0,0,0.0
+Ubicación de la sede de Partido Liberal de Chile es,Santiago de Chile,"en la ciudad de Santiago, en el barrio de Lastarria,",latam,0.30769230769230765,0,0.0
+Identificador en Facebook de Partido Liberal de Chile es,PartidoLiberaldeChile,":
+El Partido Liberal de Chile no tiene un identificador oficial en Facebook",latam,0.0,0,0.0
+Diferente de de Partido Liberal de Chile es,"Partido Liberal (Chile, 1988-1994)","el Partido Liberal de Colombia, que fue fundado en 18",latam,0.28571428571428575,0,0.0
+Categoría en Commons de Partido Liberal de Chile es,Partido Liberal de Chile,una categoría en el sitio web de medios de comunicación y contenido libre de Wikimedia,latam,0.10526315789473685,0,0.0
+Deporte de selección olímpica de fútbol de Chile es,fútbol,"un tema que no tiene una respuesta clara, ya que hay diferentes pers",latam,0.0,0,0.0
+Clase de competencia de selección olímpica de fútbol de Chile es,Fútbol masculino sub-23,el lugar donde se desarrollan los partidos de la selección olí,latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Acta general de Chile es,español,":
+La película o programa de televisión ""Acta general de Chile""",latam,0.0,0,0.0
+Tema musical de Acta general de Chile es,Ángel Parra,un tema musical que fue compuesto por el compositor y violinista ch,latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Salvador Allende,un grupo de artistas que representan el folclor chileno,latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Fidel Castro,"el que se le asigna a un ciudadano chileno, con",latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Gabriel García Márquez,"un título que recibieron algunos ciudadanos chilenos que, en la",latam,0.0,0,0.0
+Miembro del reparto de Acta general de Chile es,Ricardo Lagos,"un título académico que otorga la Universidad de Chile, en",latam,0.0,0,0.0
+Título de Acta general de Chile es,Acta general de Chile,una revista de divulgación científica y tecnológica que se public,latam,0.14285714285714288,0,0.0
+Título de Recado de Chile es,Recado de Chile,una organización no gubernamental chilena que se dedica a la def,latam,0.0,0,0.0
+Identificador Letterboxd de película de Recado de Chile es,recado-de-chile,"El identificador de Letterboxd de la película **""Recado",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Centro de Extensión Artística y Cultural de la Universidad de Chile es,Santiago de Chile,un espacio que nace como respuesta a las necesidades de la comunidad en,latam,0.125,0,0.0
+Lista de de Anexo:Aeropuertos de Chile es,aeropuerto,"el artículo que enumera los aeropuertos de Chile, incluy",latam,0.0,1,0.0
+Categoría relacionada con la lista de Anexo:Aeropuertos de Chile es,Categoría:Aeropuertos de Chile,":
+A. Aeropuertos de Chile
+B. Aeropu",latam,0.4444444444444444,0,0.0
+Categoría en Commons de Facultad de Artes de la Universidad de Chile es,"Facultad de Artes, Universidad de Chile",una categoría que engloba los archivos relacionados con la Facultad,latam,0.125,0,0.0
+Imagen de Facultad de Artes de la Universidad de Chile es,"Sede Alfonso Letelier Llona, Facultad de Artes, Universidad de Chile, Santiago 20230521.jpg","una organización que busca fomentar la creación artística, la investigación",latam,0.0,0,0.0
+Deporte de Asociación Nacional de Fútbol Profesional de Chile es,fútbol,"el fútbol profesional de Chile, que se juega en la",latam,0.18181818181818182,1,0.0
+Imagen de Asociación Nacional de Fútbol Profesional de Chile es,"Sede de la ANFP, 20190220.jpg",el logotipo del fútbol profesional chileno. La,latam,0.16666666666666666,0,0.0
+Categoría en Commons de Asociación Nacional de Fútbol Profesional de Chile es,Asociación Nacional de Fútbol Profesional,"la categoría profesional de fútbol en Chile, la cual se divide",latam,0.37499999999999994,0,0.0
+Organización dirigida desde este cargo de arzobispo de Santiago de Chile es,Arquidiócesis de Santiago de Chile,"el Consejo de la Iglesia en Chile, el cual tiene como final",latam,0.23529411764705882,0,0.0
+Organización dirigida desde este cargo de arzobispo de Santiago de Chile es,provincia eclesiástica de Santiago de Chile,la que ha estado al frente del proceso de creación de la dió,latam,0.21052631578947367,0,0.0
+Lista del elemento de arzobispo de Santiago de Chile es,Anexo:Arzobispos de Santiago de Chile,una lista de los arzobispos de Santiago de Chile. El,latam,0.5333333333333333,0,0.0
+Categoría principal del tema de arzobispo de Santiago de Chile es,Categoría:Arzobispos de Santiago de Chile,": 1. Historia, 2. Personajes, 3",latam,0.0,0,0.0
+Diferente de de arzobispo de Santiago de Chile es,Arzobispo de Santiago,"la iglesia de la Catedral de Santiago de Compostela,",latam,0.3333333333333333,0,0.0
+Reemplaza a de arzobispo de Santiago de Chile es,obispo de Santiago de Chile,"el título del arzobispo de Santiago de Chile, y el",latam,0.5333333333333333,1,0.0

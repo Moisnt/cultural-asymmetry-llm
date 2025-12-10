@@ -1,0 +1,1125 @@
+prompt,ground_truth,prediction,region,f1_score,substring_accuracy,judge_score
+Propiedad de de Museo de La Plata es,Universidad Nacional de La Plata,"el Museo de Ciencias Naturales, que se encuentra en la ciudad",latam,0.25000000000000006,0,0.0
+Título de Revista del Museo de La Plata es,Revista del Museo de La Plata,un libro que reúne las publicaciones científicas del Museo de,latam,0.37499999999999994,0,0.0
+Idioma de la obra o del nombre de Revista del Museo de La Plata es,español,"el castellano, pero el texto se encuentra en inglés. How to",latam,0.0,0,0.0
+Diferente de de Revista del Museo de La Plata es,Revista del Museo de La Plata,"la revista ""Científica"" (1938-",latam,0.4,0,0.0
+Diferente de de Revista del Museo de La Plata es,Revista del Museo de La Plata. Nueva Serie,"la revista
+**Museo**, publicada por el Museo",latam,0.39999999999999997,0,0.0
+Imagen de Revista del Museo de La Plata es,"Portada Revista del Museo de La Plata, Serie antigua Tomo 1 1890.jpg",un proyecto de desarrollo de software para la gestión de imágenes de revistas de,latam,0.15384615384615383,0,0.0
+Categoría en Commons de Revista del Museo de La Plata es,Revista del Museo de La Plata,"una categoría de archivos de la Wikipedia en español, que incluye imágenes",latam,0.2222222222222222,0,0.0
+Idioma de la obra o del nombre de Revista de la Facultad de Agronomía; Universidad Nacional de La Plata es,español,":  Spanish
+Spanish
+
+Idioma de la obra o del nombre",latam,0.0,0,0.0
+Título de Revista de la Facultad de Agronomía; Universidad Nacional de La Plata es,Revista de la Facultad de Agronomía,un título académico otorgado por la Facultad de Agr,latam,0.4,0,0.0
+Diferente de de Revista de la Facultad de Agronomía; Universidad Nacional de La Plata es,"Revista de la Facultad de Agronomía, Universidad Central de Venezuela",la Revista de la Facultad de Agronomía; Universidad Nacional de,latam,0.8000000000000002,0,0.0
+Diferente de de Revista de la Facultad de Agronomía; Universidad Nacional de La Plata es,Revista de la Facultad de Agronomía,"una publicación de acceso abierto, con revisión por pares,",latam,0.13333333333333333,0,0.0
+Tema principal de la obra de Revista de la Facultad de Agronomía; Universidad Nacional de La Plata es,ciencias agrarias,"la agricultura, la ganadería, la silvicultura,",latam,0.0,0,0.0
+Tema principal de la obra de Revista de la Facultad de Agronomía; Universidad Nacional de La Plata es,ciencias forestales,": Ciencias agrarias, incluyendo la agronomía, la agricult",latam,0.22222222222222224,0,0.0
+Título de Revista de la Sociedad Odontologica de La Plata es,Revista de la Sociedad Odontologica de La Plata,un título de revista de la Sociedad Odontológica de La Pl,latam,0.631578947368421,0,0.0
+Título de Revista de la Sociedad Odontologica de La Plata es,Revista de la Sociedad Odontológica de La Plata,el título de la revista científica que edita la Sociedad Od,latam,0.5263157894736842,0,0.0
+Idioma de la obra o del nombre de Revista de la Sociedad Odontologica de La Plata es,español,"español, y el idioma del sitio web es inglés. How do I",latam,0.15384615384615385,1,0.0
+Fichero digitalizado en Wikimedia Commons de La Plata es,La Plata - Santiago Estrada.pdf,"el lugar donde se encuentra la ciudad de La Plata, la capital de",latam,0.23529411764705882,0,0.0
+Idioma de la obra o del nombre de La Plata es,español,un título que se le da a un tipo de película de ciencia fic,latam,0.0,0,0.0
+Lugar de publicación de La Plata es,Buenos Aires,"la capital de la provincia de Buenos Aires, Argentina. La Plata es",latam,0.2857142857142857,1,0.0
+Fichero digitalizado en Wikimedia Commons de La Plata es,La Plata - Eduardo Saenz.pdf,"la capital de la provincia de Buenos Aires, Argentina, en el centro-o",latam,0.125,0,0.0
+Autor de Profesionales que intervinieron en la fundación de La Plata es,Gobierno de la Provincia de Buenos Aires,":
+A) Raúl Prebisch
+B) Juan Baut",latam,0.0,0,0.0
+Idioma de la obra o del nombre de Profesionales que intervinieron en la fundación de La Plata es,español,el idioma de la obra o del nombre de profesionales que intervin,latam,0.0,0,0.0
+Fichero digitalizado en Wikimedia Commons de Profesionales que intervinieron en la fundación de La Plata es,Profesionales que intervinieron en la fundación de La Plata.pdf,un proyecto de la Wikimedia Argentina que tiene como objetivo digitalizar y hacer acces,latam,0.2608695652173913,0,0.0
+Título de Profesionales que intervinieron en la fundación de La Plata es,Profesionales que intervinieron en la fundación de La Plata,"un error, ya que el título de profesional es una creación moderna",latam,0.1904761904761905,0,0.0
+Deporte de Club Universitario de La Plata es,natación,"el fútbol, y su equipo femenino se llama La",latam,0.0,0,0.0
+Color de Club Universitario de La Plata es,blanco,": 
+El Club Universitario de La Plata es un equipo de",latam,0.0,0,0.0
+Afiliación de Club Universitario de La Plata es,Unión de Rugby de Buenos Aires,un club de fútbol argentino de la ciudad de La Pl,latam,0.23529411764705885,0,0.0
+Afiliación de Club Universitario de La Plata es,Asociación de Hockey de Buenos Aires,"una empresa de servicios de comunicación, publicidad y marketing. El club fue",latam,0.2222222222222222,0,0.0
+Situado en la entidad territorial administrativa de Club Universitario de La Plata es,Manuel Bernardo Gonnet,un club de fútbol argentino de la ciudad de La Pl,latam,0.0,0,0.0
+Tema principal de la obra de Revista del Museo de La Plata es,antropología,"el estudio de la naturaleza y la vida, con especial énfasis",latam,0.0,0,0.0
+Tema principal de la obra de Revista del Museo de La Plata es,botánica,"el estudio de los fósiles, y cómo estos pueden ayudarnos",latam,0.0,0,0.0
+Tema principal de la obra de Revista del Museo de La Plata es,ecología,la conservación y el estudio de la fauna y la flora de la Argentina,latam,0.0,0,0.0
+Tema principal de la obra de Revista del Museo de La Plata es,geología,"la naturaleza y el ser humano, con un enfoque interdisc",latam,0.0,0,0.0
+Tema principal de la obra de Revista del Museo de La Plata es,paleontología,"el estudio del desarrollo del conocimiento científico en la Argentina, con especial é",latam,0.0,0,0.0
+Editorial de Revista del Museo de La Plata es,Universidad Nacional de La Plata,un proyecto de investigación de la Universidad Nacional de La Plata (UNLP,latam,0.5882352941176471,1,0.0
+Estatus de los derechos de autor de Revista del Museo de La Plata es,bajo derechos de autor,":
+- No se permite la reproducción de cualquier parte de esta publicación",latam,0.13333333333333333,0,0.0
+Imagen de Revista del Museo de La Plata es,Portada Revista del Museo de La Plata versión impresa 2016.jpg,una empresa que se dedica a la comercialización de imágenes de museos,latam,0.1818181818181818,0,0.0
+Título de Anales de la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional de La Plata es,Anales de la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional de La Plata,un libro de 200 páginas con un índice de 2,latam,0.15384615384615385,0,0.0
+Idioma de la obra o del nombre de Anales de la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional de La Plata es,español,"español. How do you say this sentence in English?
+
+The language of the",latam,0.14285714285714288,1,0.0
+Estatus de los derechos de autor de Anales de la Facultad de Ciencias Jurídicas y Sociales de la Universidad Nacional de La Plata es,bajo derechos de autor,el siguiente: el derecho de autor pertenece al autor y se encuentra,latam,0.25,0,0.0
+Idioma de la obra o del nombre de El Argentino de La Plata es,español,"el título de una novela de Eduardo Galeano, publicada en",latam,0.0,0,0.0
+Imagen de El Argentino de La Plata es,Diario El Argentino de La Plata 01.jpg,un proyecto que busca revalorizar la historia y el patrimonio de,latam,0.33333333333333326,0,0.0
+Fundador de El Argentino de La Plata es,García,"el periodista y escritor argentino
+**Héctor Luis Z",latam,0.0,0,0.0
+Categoría en Commons de El Argentino de La Plata es,El Argentino de La Plata,"un medio de comunicación independiente, con sede en La Plata, Argentina",latam,0.37499999999999994,0,0.0
+Título de Anales del Museo de La Plata es,Anales del Museo de La Plata,"el texto que se le da a una publicación de la institución,",latam,0.2222222222222222,0,0.0
+Idioma de la obra o del nombre de Anales del Museo de La Plata es,español,"el idioma del autor? La obra ""Anales del Museo de",latam,0.0,0,0.0
+Editorial de Anales del Museo de La Plata es,Museo de La Plata,el órgano de publicación de la institución que se encarga de,latam,0.26666666666666666,0,0.0
+Tema principal de la obra de Anales del Museo de La Plata es,ciencias naturales,la historia de la ciencia y tecnología en la Argentina. How do you,latam,0.0,0,0.0
+Imagen de Anales del Museo de La Plata es,Logo Anales del Museo.png,una web de divulgación científica que presenta imágenes de los fondos,latam,0.0,0,0.0
+Idioma de la obra o del nombre de Notas Preliminares del Museo de La Plata es,español,"el idioma original de la obra, que puede no ser el idioma",latam,0.0,0,0.0
+Título de Notas Preliminares del Museo de La Plata es,Notas Preliminares del Museo de La Plata,el nombre de la pieza que se encuentra en el Museo de La,latam,0.3,0,0.0
+Tema principal de la obra de Notas Preliminares del Museo de La Plata es,ciencias naturales,"el arte contemporáneo, con un énfasis en las práct",latam,0.0,0,0.0
+Editorial de Notas Preliminares del Museo de La Plata es,Imprenta y Casa Editora Coni,una revista de arte y cultura que se publica desde el año,latam,0.11764705882352941,0,0.0
+Propiedad de de Notas Preliminares del Museo de La Plata es,Facultad de Ciencias Naturales y Museo (UNLP),"un museo de historia natural en Argentina, con una gran cantidad de espec",latam,0.2,0,0.0
+Imagen de Cementerio de La Plata es,Fachada del Acceso al Cementerio de La Plata 2.JPG,"el título de un álbum de estudio del cantautor argentino
+**F",latam,0.19999999999999998,0,0.0
+Situado en la entidad territorial administrativa de Cementerio de La Plata es,Provincia de Buenos Aires,"un barrio de la ciudad de La Plata, Provincia de Buenos",latam,0.39999999999999997,0,0.0
+Título de Notas del Museo de La Plata es,Notas del Museo de La Plata,el título de un trabajo que se realizó en el Museo de La,latam,0.3157894736842105,0,0.0
+Idioma de la obra o del nombre de Notas del Museo de La Plata es,español,un libro de ensayos de 1942 de Gabriel García,latam,0.0,0,0.0
+Nombre corto de Notas del Museo de La Plata es,Notas mus La Plata,":
+A) NMLP
+B) MNL
+C) M",latam,0.0,0,0.0
+Propiedad de de Notas del Museo de La Plata es,Museo de La Plata,"el museo de ciencias naturales de La Plata, Argentina.",latam,0.6153846153846153,0,0.0
+Editorial de Notas del Museo de La Plata es,Imprenta y Casa Editora Coni,"el periódico oficial del Museo de La Plata, publicado",latam,0.0,0,0.0
+Estatus patrimonial de Comisaría 5a. de La Plata es,Sitio de memoria en la Argentina,el tema central de la audiencia virtual que se realizó este lunes,latam,0.2222222222222222,0,0.0
+Categoría principal del tema de Entrenadores del Club Estudiantes de La Plata es,Categoría:Entrenadores del Club Estudiantes de La Plata,"el fútbol, con un enfoque en la historia del",latam,0.25,0,0.0
+Categoría en Commons de Entrenadores del Club Estudiantes de La Plata es,Coaches of Estudiantes de La Plata,una categoría que se creó en el año 2009.,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Hipódromo de La Plata es,Partido de La Plata,"un lugar que se encuentra al este del barrio de La Plata,",latam,0.375,0,0.0
+Categoría en Commons de Hipódromo de La Plata es,Hipódromo de La Plata,un tipo de categoría que se utiliza para organizar imágenes relacionadas con el,latam,0.11764705882352941,0,0.0
+Propiedad de de Hipódromo de La Plata es,Provincia de Buenos Aires,un complejo de 16 hectáreas con 32 can,latam,0.16666666666666666,0,0.0
+Categoría en Commons de Jardín zoológico y botánico de La Plata es,Zoo de la Plata,"un espacio que recopila imágenes de la Plata, Argentina, relacion",latam,0.4285714285714285,0,0.0
+Imagen de Jardín zoológico y botánico de La Plata es,La Plata Zoo and Botanical Garden.jpg,una imagen de un jardín zoológico y botánico,latam,0.0,0,0.0
+Clase de competencia de La Hazaña de La Plata es,fútbol masculino,una competencia de fútbol argentino que se desarrolla en,latam,0.1818181818181818,0,0.0
+Imagen de Museo de Arte Contemporáneo Latinoamericano de La Plata es,Pasaje Dardo Rocha-La Plata-1.jpg,una imagen de museo de arte contemporáneo latinoamericano de,latam,0.0,0,0.0
+Situado en la dirección postal de Museo de Arte Contemporáneo Latinoamericano de La Plata es,50 E/ 6 y 7 Pasaje Dardo Rocha,el Museo de Arte Contemporáneo Latinoamericano de La,latam,0.0,0,0.0
+Categoría en Commons de Museo de Arte Contemporáneo Latinoamericano de La Plata es,Museo de Arte Contemporáneo Latinoamericano de La Plata,un proyecto que se está desarrollando desde el año 2011,latam,0.0,0,0.0
+Categoría principal del tema de Presidentes de Estudiantes de La Plata es,Categoría:Presidentes del Club Estudiantes de La Plata,": 
+Presidencia de Estudiantes de La Plata
+
+Categor",latam,0.5714285714285714,0,0.0
+Categoría principal del tema de Turismo en el Partido de La Plata es,Categoría:Turismo en el partido de La Plata,"el turismo de la región, con enfoque en la historia,",latam,0.47058823529411764,0,0.0
+Situado en la entidad territorial administrativa de Aeropuerto de La Plata es,Provincia de Buenos Aires,"un aeropuerto de uso civil, con una infraestructura que",latam,0.15384615384615383,0,0.0
+Categoría en Commons de Aeropuerto de La Plata es,La Plata Airport,"la categoría de archivos en Commons, el repositorio de medios de Wikimedia,",latam,0.13333333333333333,0,0.0
+Imagen de Aeropuerto de La Plata es,Aeropuerto de La Plata junio de 2023 - BugWarp.jpg,"un aeropuerto en la ciudad de La Plata, provincia de",latam,0.5555555555555556,0,0.0
+Se encuentra en el huso horario de Aeropuerto de La Plata es,America/Argentina/Buenos_Aires,"el huso horario de Argentina, que está en el horario de",latam,0.0,0,0.0
+Categoría en Commons de Palacio Municipal de La Plata es,Palacio Municipal de La Plata,un archivo de la categoría de Commons. La categoría tiene 176,latam,0.25000000000000006,0,0.0
+Imagen de Palacio Municipal de La Plata es,Municipalidad de La Plata.jpg,"una imagen de la Plaza Principal de la ciudad de La Plata, Argentina",latam,0.23529411764705882,0,0.0
+Categoría en Commons de Teatro Argentino de La Plata es,Teatro Argentino de La Plata,una categoría que contiene imágenes de teatro argentino de la ciudad de La,latam,0.4444444444444444,0,0.0
+Categoría en Commons de historia del Club Estudiantes de La Plata es,History of Estudiantes de La Plata,una categoría que engloba imágenes relacionadas con la historia del Club Est,latam,0.1111111111111111,0,0.0
+Faceta de de historia del Club Estudiantes de La Plata es,Club Estudiantes de La Plata,"una de las más interesantes. Por una parte, su historia está lig",latam,0.11764705882352941,0,0.0
+Imagen de Edificio Rectorado de la Universidad Nacional de La Plata es,Universidad nacional - panoramio.jpg,"una foto de un edificio en La Plata, Argentina. El ed",latam,0.0,0,0.0
+Categoría en Commons de Edificio Rectorado de la Universidad Nacional de La Plata es,Rectorado UNLP,una categoría de archivos de Commons que contiene imágenes del Rectorado de la,latam,0.13333333333333336,0,0.0
+Situado en la entidad territorial administrativa de Edificio Rectorado de la Universidad Nacional de La Plata es,Partido de La Plata,"un espacio de trabajo en el que se desarrollan actividades de investigación, doc",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Arroyo Maldonado de La Plata es,Provincia de Buenos Aires,"un municipio de la Provincia de Buenos Aires, Argentina, con",latam,0.5714285714285715,1,0.0
+Cuenca hidrográfica de Arroyo Maldonado de La Plata es,cuenca hidrográfica del Plata,"una cuenca muy pequeña, con un área de 2,2",latam,0.15384615384615383,0,0.0
+Desembocadura del curso de agua de Arroyo Maldonado de La Plata es,Delta del río Santiago,el río de La Plata. How do you say this sentence in,latam,0.125,0,0.0
+Imagen de Tribunales Federales de La Plata es,Juzgados Federales-La Plata-1.jpg,la empresa que se encarga de la instalación y mantenimiento de sal,latam,0.0,0,0.0
+Categoría en Commons de Tribunales Federales de La Plata es,Tribunales Federales de La Plata,un grupo de imágenes de los Tribunales Federales de La Pl,latam,0.5000000000000001,0,0.0
+Imagen de Palacio Arzobispal de La Plata es,Palacio arzobispal de la plata (palacio d'amico).JPG,una imágen de un edificio que se encuentra en la ciudad de,latam,0.2105263157894737,0,0.0
+Uso de Palacio Arzobispal de La Plata es,palacio arzobispal,"una obra de arte, la cual se encuentra en el centro de la ciudad",latam,0.0,0,0.0
+Categoría en Commons de Palacio de Justicia de La Plata es,"Palacio de Justicia, La Plata",un grupo de imágenes de archivos del Palacio de Justicia de La Pl,latam,0.4444444444444444,0,0.0
+Imagen de Palacio de Justicia de La Plata es,Palacio de Justicia 2..JPG,el título de un artículo del diario El Clarín del 12,latam,0.13333333333333333,0,0.0
+Imagen de Museo de Arte Municipal de La Plata es,Pasaje Dardo Rocha-La Plata-1.jpg,"un museo de arte ubicado en la ciudad de La Plata,",latam,0.0,0,0.0
+Imagen de Museo de Arte Municipal de La Plata es,Fachada de la sala del MUMART.jpg,"la institución que alberga el arte de la ciudad, con una",latam,0.23529411764705885,0,0.0
+Situado en la dirección postal de Museo de Arte Municipal de La Plata es,"Calle 50 575, Casco Urbano, La Plata, Provincia de Buenos Aires, Argentina (B1900ASW)","un museo que se encuentra dentro del edificio del Palacio Municipal,",latam,0.0,0,0.0
+Categoría en Commons de Museo de Arte Municipal de La Plata es,Museo de Arte Municipal de La Plata (MUMART),una categoría en Commons para imágenes de la colección del Museo de Arte,latam,0.4761904761904762,0,0.0
+Categoría en Commons de Tren Universitario de La Plata es,Tren Universitario de La Plata,una categoría en Wikimedia Commons que contiene imágenes del Tren Universitario de,latam,0.35294117647058826,0,0.0
+Operador de Tren Universitario de La Plata es,Trenes Argentinos Operaciones,una empresa que brinda servicios de transporte en la provincia de Buenos Aires.,latam,0.0,0,0.0
+Estado de uso de Tren Universitario de La Plata es,en funcionamiento,"un desastre, y el gobierno provincial quiere reemplazarlo por",latam,0.0,0,0.0
+Término (objeto) de Tren Universitario de La Plata es,Estación La Plata Roca,el punto donde el tren de La Plata comienza su recorrido,latam,0.26666666666666666,0,0.0
+Término (objeto) de Tren Universitario de La Plata es,Parada Hospital San Juan de Dios,"un término municipal que forma parte del municipio de La Plata, en",latam,0.1111111111111111,0,0.0
+Red de transporte de Tren Universitario de La Plata es,trenes Metropolitanos de Buenos Aires,una empresa que transporta pasajeros en el área metropolitana,latam,0.0,0,0.0
+Color hexadecimal sRGB de Tren Universitario de La Plata es,211E1E,el siguiente: #008080. Este es un color,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Tren Universitario de La Plata es,Partido de La Plata,un transporte colectivo de pasajeros que opera en la ciudad de,latam,0.26666666666666666,0,0.0
+Organización matriz de Biblioteca Pública de la Universidad Nacional de La Plata es,Universidad Nacional de La Plata,"la siguiente:
+La Biblioteca Pública de la Universidad Nacional de La Plata",latam,0.5882352941176471,1,0.0
+Imagen de Biblioteca Pública de la Universidad Nacional de La Plata es,Biblioteca Publica de la UNLP.JPG,una institución dedicada a la promoción de la lectura y,latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Biblioteca Pública de la Universidad Nacional de La Plata es,Provincia de Buenos Aires,"un espacio de lectura, estudio y trabajo con recursos bibliográficos y",latam,0.13333333333333333,0,0.0
+Logotipo de Biblioteca Pública de la Universidad Nacional de La Plata es,Logo UNLP - Biblioteca.jpg,un logotipo que representa la biblioteca pública de la universidad.,latam,0.0,0,0.0
+Categoría en Commons de Biblioteca Pública de la Universidad Nacional de La Plata es,Biblioteca Pública de la Universidad Nacional de La Plata,"un conjunto de imágenes, audios y videos digitales que forman parte",latam,0.09999999999999999,0,0.0
+Gerente/director de Biblioteca Pública de la Universidad Nacional de La Plata es,Marcela Fushimi,el cargo que ocupa el Dr. Daniel Sánchez. El Dr.,latam,0.0,0,0.0
+Página de institución en Commons de Biblioteca Pública de la Universidad Nacional de La Plata es,Biblioteca Pública de la Universidad Nacional de La Plata,"una página de institución en Commons, un repositorio de medios libres",latam,0.19999999999999998,0,0.0
+Compuesto por de provincia eclesiástica de La Plata es,Arquidiócesis de La Plata,"el departamento de La Plata, en la provincia de Buenos Aires, Argentina",latam,0.375,0,0.0
+Cargo ocupado por el dirigente de provincia eclesiástica de La Plata es,arzobispo de La Plata (Argentina),el de secretario general del Consejo de la Iglesia (CIC,latam,0.26666666666666666,0,0.0
+Categoría principal del tema de provincia eclesiástica de La Plata es,Categoría:Provincia eclesiástica de La Plata,el estudio de la historia de la Iglesia en la provincia eclesiást,latam,0.23529411764705882,0,0.0
+Imagen de Jardín Botánico de La Plata es,"Mapa del Jardín Botánico de La Plata ""Carlos Spegazzini"".JPG",un jardín botánico de la Universidad Nacional de La Plata,latam,0.5263157894736842,0,0.0
+Categoría en Commons de Jardín Botánico de La Plata es,"Jardín Botánico y Arboretum ""Carlos Spegazzini""","un sitio de contenido libre, con imágenes de dominio público, en la",latam,0.0,0,0.0
+Imagen de línea Universitaria de La Plata es,Micro universitario en el bim 3.jpg,un proyecto de investigación que se propone desarrollar una red de instituciones,latam,0.0,0,0.0
+Operador de línea Universitaria de La Plata es,Unión Platense S.R.L.,"un operador de línea aérea con sede en La Plata,",latam,0.0,0,0.0
+Operador de línea Universitaria de La Plata es,Empresa Línea Siete,una empresa con 40 años de trayectoria y 20,latam,0.16666666666666666,0,0.0
+Red de transporte de línea Universitaria de La Plata es,Colectivos de Buenos Aires,el nombre con el que se conoce al sistema de transporte urbano de,latam,0.11764705882352941,0,0.0
+Imagen de Obelisco de La Plata es,Obelisco de La Plata.jpg,una foto de 2017 de un obelisco en la,latam,0.46153846153846156,0,0.0
+Idioma de la obra o del nombre de Obra del Cincuentenario del Museo de La Plata es,español,"en español. El nombre de la obra es ""La Plata 1",latam,0.16666666666666669,1,0.0
+Campo de trabajo de Obra del Cincuentenario del Museo de La Plata es,botánica,"el Museo de la Plata, ubicado en la ciudad de La",latam,0.0,0,0.0
+Campo de trabajo de Obra del Cincuentenario del Museo de La Plata es,paleontología,"el Museo de Ciencias Naturales de La Plata, en la",latam,0.0,0,0.0
+Título de Obra del Cincuentenario del Museo de La Plata es,Obra del Cincuentenario del Museo de La Plata,el título de la exposición que se realizará en el Museo de,latam,0.3,0,0.0
+Imagen de Planetario de La Plata es,Planetario de La Plata.jpg,un proyecto que se lanzó en el año 2008 con,latam,0.0,0,0.0
+Instalaciones de Terminal de Ómnibus de La Plata es,baño público,un proyecto de infraestructura de transporte que se está construyendo en,latam,0.0,0,0.0
+Servicio de conexión de Terminal de Ómnibus de La Plata es,línea 338,un servicio que brinda conexión entre Terminal de Ómnibus de La,latam,0.0,0,0.0
+Servicio de conexión de Terminal de Ómnibus de La Plata es,línea 195,un servicio de conexión que permite a los pasajeros de los ómn,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Terminal de Ómnibus de La Plata es,Provincia de Buenos Aires,"una instalación de tipo lineal de 1,2 km de longitud",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de La Plata es,Buenos Aires,el municipio más grande del país y el segundo en extensión territorial,latam,0.0,0,0.0
+Operador de S.U.T. de la Ciudad de La Plata es,Unión Platense S.R.L.,"un trabajo de 20 horas semanales, que ofrece un salario de",latam,0.0,0,0.0
+Operador de S.U.T. de la Ciudad de La Plata es,Nueve de Julio S.A.T.,el operador de S.U.T. que atiende al sector de,latam,0.15384615384615383,0,0.0
+Operador de S.U.T. de la Ciudad de La Plata es,Empresa Línea Siete,un trabajo que puede ofrecer un salario de 20000,latam,0.0,0,0.0
+Elemento operado de S.U.T. de la Ciudad de La Plata es,línea Este (La Plata),"el que se encuentra en el sector de la Plaza San Martín, entre",latam,0.11764705882352941,0,0.0
+Elemento operado de S.U.T. de la Ciudad de La Plata es,línea Oeste (La Plata),"el que se le pide que lo opere, pero el operador",latam,0.0,0,0.0
+Elemento operado de S.U.T. de la Ciudad de La Plata es,línea Sur (La Plata),el que se encarga de atender al ciudadano en la zona de,latam,0.125,0,0.0
+Aplica a la jurisdicción de Intendente de La Plata es,Partido de La Plata,el tema de la competencia de la jurisdicción de Intend,latam,0.28571428571428575,0,0.0
+Aplica a la jurisdicción de Bandera de La Plata es,Partido de La Plata,"una empresa de servicios jurídicos con sede en La Plata, Buenos",latam,0.39999999999999997,0,0.0
+Periodo histórico de Masacre de La Plata es,Proceso de Reorganización Nacional,"un evento que ocurrió en el año 1912, en",latam,0.0,0,0.0
+Estatus patrimonial de Unidad Penal 9 de La Plata es,Sitio de memoria en la Argentina,"un tema que ha generado mucha controversia, especialmente en el ámbito político",latam,0.1111111111111111,0,0.0
+Uso de Unidad Penal 9 de La Plata es,centro clandestino de detención y tortura,"una decisión política, no judicial, dijo el abogado de la def",latam,0.11764705882352942,0,0.0
+Periodo histórico de Unidad Penal 9 de La Plata es,Proceso de Reorganización Nacional,"un distrito judicial de la República Argentina, con sede en la ciudad de",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de La Plata es,Provincia de Buenos Aires,"un museo de arte moderno, con una colección de más de",latam,0.13333333333333333,0,0.0
+Aplica a la jurisdicción de Gabinete de la Municipalidad de La Plata es,Partido de La Plata,"el órgano encargado de la administración de la municipalidad,",latam,0.30769230769230765,0,0.0
+Compuesto por de Gabinete de la Municipalidad de La Plata es,Intendente de La Plata,la organización que tiene como finalidad fomentar la participación ciudadana en,latam,0.13333333333333333,0,0.0
+Subclase de de Gabinete de la Municipalidad de La Plata es,consejo de ministros,el órgano que se encarga de la administración del patrimonio,latam,0.15384615384615383,0,0.0
+Aplica a la jurisdicción de concejo deliberante de la Municipalidad de La Plata es,Partido de La Plata,la ley de Responsabilidad Social Corporativa (RSC) en el ámbito,latam,0.28571428571428575,0,0.0
+Compuesto por de concejo deliberante de la Municipalidad de La Plata es,concejal del partido de La Plata,"una institución que se encarga de legislar, fiscalizar y control",latam,0.125,0,0.0
+Subclase de de concejal del partido de La Plata es,concejal,"un partido de fútbol de Argentina, y la subclase",latam,0.0,0,0.0
+Aplica a la jurisdicción de concejal del partido de La Plata es,Partido de La Plata,"una ciudad argentina, pero no estoy seguro de si es correcto o",latam,0.125,0,0.0
+Estatus patrimonial de Casco urbano fundacional de la Ciudad de La Plata es,Lugar o Sitio Histórico Nacional,"un proyecto de investigación que pretende analizar, desde el punto de vista",latam,0.0,0,0.0
+Fundador de Editorial de la Universidad Nacional de La Plata es,Universidad Nacional de La Plata,"el Dr. Carlos R. Sánchez, en 1961",latam,0.0,0,0.0
+Nombre corto de Editorial de la Universidad Nacional de La Plata es,EDULP,"UNLP Ediciones, pero en el sitio web de la UNLP dice",latam,0.0,0,0.0
+Categoría en Commons de Editorial de la Universidad Nacional de La Plata es,Editorial de la Universidad Nacional de La Plata,una categoría que permite organizar imágenes en Commons por su relación con la editorial,latam,0.18181818181818182,0,0.0
+Miembro de de Editorial de la Universidad Nacional de La Plata es,Red de Editoriales de Universidades Nacionales de la Argentina,"un miembro de la editorial de la universidad, y como tal,",latam,0.3,0,0.0
+Descrito en la fuente de Editorial de la Universidad Nacional de La Plata es,Ulibros,un texto que describe un proceso de formación de un grupo de trabajo de,latam,0.0,0,0.0
+Organización matriz de Editorial de la Universidad Nacional de La Plata es,Universidad Nacional de La Plata,un modelo de organización que se basa en la estructura de la organización,latam,0.2222222222222222,0,0.0
+Propiedad de de Museo del Club Estudiantes de La Plata es,Club Estudiantes de La Plata,un museo dedicado a la historia del Club Estudiantes de La Pl,latam,0.47058823529411764,0,0.0
+Organización dirigida desde este cargo de Presidente de la Universidad Nacional de La Plata es,Universidad Nacional de La Plata,la que ha decidido rechazar la propuesta del gobierno provincial de,latam,0.25000000000000006,0,0.0
+Categoría principal del tema de Presidente de la Universidad Nacional de La Plata es,Categoría:Presidentes de la Universidad Nacional de La Plata,: 4.1.1.1.1.1.1,latam,0.0,0,0.0
+Reemplazado por de diócesis de La Plata es,Arquidiócesis de La Plata,el segundo de los tres niveles de gobierno local en Argentina. El nivel,latam,0.11764705882352941,0,0.0
+Aplica a la jurisdicción de Concejo Deliberante de La Plata es,Partido de La Plata,"decir al Concejo Deliberante de la ciudad de La Plata,",latam,0.4285714285714285,0,0.0
+Categoría en Commons de Equipo de Wikimedistas de la Universidad Nacional de La Plata es,Wikimedistas de la Universidad Nacional de La Plata,la categoría en Commons que se crea cuando un usuario de Wikimedia Foundation (como,latam,0.18181818181818182,0,0.0
+Ubicación de la sede de Banco Frances del Río de La Plata es,Buenos Aires,"en la calle 34 de la Avenida 9 de Julio,",latam,0.0,0,0.0
+Gerente/director de División Ficología del Museo de La Plata es,Silvia Estela Sala,"el título que me gustaría tener, pero me gustaría tener un título",latam,0.0,0,0.0
+Aplica a la jurisdicción de División Ficología del Museo de La Plata es,Museo de La Plata,un lugar de exposición de objetos que se hallan en el museo,latam,0.25,0,0.0
+Campo de trabajo de División Ficología del Museo de La Plata es,ficología,un trabajo de investigación que se desarrolla desde el año 200,latam,0.0,0,0.0
+Gerente/director de División Micología del Museo de La Plata es,Sebastián Alberto Pelizza,"un cargo que ha tenido varios titulares desde su creación, siendo",latam,0.0,0,0.0
+Aplica a la jurisdicción de División Micología del Museo de La Plata es,Museo de La Plata,"el estudio de los hongos, incluyendo su morfología",latam,0.16666666666666666,0,0.0
+Campo de trabajo de División Micología del Museo de La Plata es,micología,el área de estudio de hongos. Su objetivo es la clasificación,latam,0.0,0,0.0
+Gerente/director de División Entolomogía del Museo de La Plata es,Pablo Matías Dellapé,"el cargo que ocupa el doctor en biología, especializado en ent",latam,0.0,0,0.0
+Aplica a la jurisdicción de División Entolomogía del Museo de La Plata es,Museo de La Plata,"una institución de ciencia y tecnología, de carácter público, dependiente",latam,0.14285714285714288,0,0.0
+Campo de trabajo de División Entolomogía del Museo de La Plata es,entomología,el primer laboratorio de su tipo en el mundo. Con el apoyo,latam,0.0,0,0.0
+Campo de trabajo de División Zoología Vertebrados del Museo de La Plata es,zoología de vertebrados,el área de investigación en la que se desarrolla la actividad de la Div,latam,0.11764705882352941,0,0.0
+Aplica a la jurisdicción de División Zoología Vertebrados del Museo de La Plata es,Museo de La Plata,la institución de referencia en el estudio de los vertebrados del Con,latam,0.25,0,0.0
+Campo de trabajo de División Paleovertebrados del Museo de La Plata es,paleontología,"un espacio de investigación interdisciplinaria y cooperativa, con el",latam,0.0,0,0.0
+Campo de trabajo de División Paleovertebrados del Museo de La Plata es,paleontología de vertebrados,un espacio de aprendizaje activo para estudiantes de distintos niveles,latam,0.15384615384615383,0,0.0
+Aplica a la jurisdicción de División Paleovertebrados del Museo de La Plata es,Museo de La Plata,"una institución que se encuentra en la ciudad de La Plata, Pro",latam,0.375,0,0.0
+Campo de trabajo de División Paleoinvertebrados del Museo de La Plata es,paleontología,un proyecto de investigación que se desarrolla en el Museo de La Pl,latam,0.0,0,0.0
+Campo de trabajo de División Paleoinvertebrados del Museo de La Plata es,paleontología de invertebrados,un proyecto de divulgación científica que busca acercar a la,latam,0.15384615384615383,0,0.0
+Campo de trabajo de División Paleoinvertebrados del Museo de La Plata es,bioestratigrafía,"un sitio de investigación, en donde se encuentran los fósiles de",latam,0.0,0,0.0
+Campo de trabajo de División Paleoinvertebrados del Museo de La Plata es,malacología,un área de 1200 m2 que alberga una,latam,0.0,0,0.0
+Aplica a la jurisdicción de División Paleoinvertebrados del Museo de La Plata es,Museo de La Plata,una de las más importantes del mundo dedicada al estudio de los fós,latam,0.11764705882352941,0,0.0
+Campo de trabajo de División Zoología Invertebrados del Museo de La Plata es,zoología de invertebrados,"un espacio de intercambio, reflexión y debate sobre la Zoología",latam,0.30769230769230765,0,0.0
+Campo de trabajo de División Zoología Invertebrados del Museo de La Plata es,malacología,"el Museo de La Plata, que está ubicado en la ciudad",latam,0.0,0,0.0
+Campo de trabajo de División Zoología Invertebrados del Museo de La Plata es,aracnología,"un espacio de formación interdisciplinaria, en el cual se",latam,0.0,0,0.0
+Campo de trabajo de División Zoología Invertebrados del Museo de La Plata es,carcinología,el primer estudio de este tipo en el mundo que caracteriza a las espec,latam,0.0,0,0.0
+Campo de trabajo de División Zoología Invertebrados del Museo de La Plata es,miriapodología,"un espacio de interacción entre el Museo y la comunidad, con el",latam,0.0,0,0.0
+Gerente/director de División Zoología Invertebrados del Museo de La Plata es,María Cristina Damborenea,"el Dr. Pablo D. Sánchez, quien a su vez es el",latam,0.0,0,0.0
+Aplica a la jurisdicción de División Zoología Invertebrados del Museo de La Plata es,Museo de La Plata,la responsable de la conservación y estudio de la diversidad de inverte,latam,0.25,0,0.0
+Campo de trabajo de División Paleobotánica del Museo de La Plata es,paleontología,"la región de La Plata, Buenos Aires, Argentina, con un área",latam,0.0,0,0.0
+Campo de trabajo de División Paleobotánica del Museo de La Plata es,paleobotánica,"el área del mundo que se encuentra en el sector de los Andes,",latam,0.0,0,0.0
+Aplica a la jurisdicción de División Paleobotánica del Museo de La Plata es,Museo de La Plata,"una institución dedicada a la investigación y conservación de plantas,",latam,0.28571428571428575,0,0.0
+Nombre oficial de Fundación del Museo de La Plata es,Fundación del Museo de La Plata Francisco Pascasio Moreno,": ""Museo Provincial de Ciencias Naturales ""Dr. José",latam,0.25,0,0.0
+Campo de trabajo de Fundación del Museo de La Plata es,divulgación científica,un espacio que reúne las acciones que se vienen desarrollando desde,latam,0.0,0,0.0
+Forma jurídica de Fundación del Museo de La Plata es,Fundacion,":
+La forma jurídica de la Fundación del Museo de La",latam,0.0,0,0.0
+Imagen de Fundación del Museo de La Plata es,Seee Fundación del Museo de La Plata.jpg,"un museo que se encuentra en la ciudad de La Plata, Argentina",latam,0.3157894736842105,0,0.0
+Nombre de usuario de Instagram de Fundación del Museo de La Plata es,fundacionmuseodelaplata,":
+
+El nombre de usuario de Instagram de la Fundación del Museo de",latam,0.0,0,0.0
+Aplica a la jurisdicción de División Etnografía del Museo de La Plata es,Museo de La Plata,un proyecto de investigación que se desarrolló entre 2013 y,latam,0.14285714285714288,0,0.0
+Campo de trabajo de División Etnografía del Museo de La Plata es,migración humana,una iniciativa de investigación y producción de conocimiento sobre el trabajo y el,latam,0.0,0,0.0
+Campo de trabajo de División Etnografía del Museo de La Plata es,antropología visual,un espacio donde se exponen objetos y documentos que representan el conoc,latam,0.0,0,0.0
+Campo de trabajo de División Etnografía del Museo de La Plata es,Antropología Social y Cultural,el Museo de La Plata. El Museo de La Plata,latam,0.0,0,0.0
+Gerente/director de División Etnografía del Museo de La Plata es,María Marta Reca,el cargo que ocupa desde 2006. Es doctor en,latam,0.0,0,0.0
+Aplica a la jurisdicción de División Arqueología del Museo de La Plata es,Museo de La Plata,la responsabilidad de la División Arqueología del Museo de La,latam,0.4285714285714285,0,0.0
+Gerente/director de División Arqueología del Museo de La Plata es,Laura Lucía Miotti,un cargo que se encuentra dentro del área de investigación. La División Ar,latam,0.0,0,0.0
+Situado en la dirección postal de División Arqueología del Museo de La Plata es,Paseo del Bosque S/N,el lugar donde se encuentra el Laboratorio de Análisis Químico,latam,0.0,0,0.0
+Campo de trabajo de División Arqueología del Museo de La Plata es,arqueología,un área de investigación que se desarrolla con la finalidad de integrar,latam,0.0,0,0.0
+Aplica a la jurisdicción de División Plantas Vasculares del Museo de La Plata es,Museo de La Plata,la responsable del estudio de las plantas vasculares (helechos,latam,0.30769230769230765,0,0.0
+Cargo ocupado por el dirigente de División Antropología del Museo de La Plata es,Gustavo Barrientos,un tema de discusión entre el sindicato de la Universidad Nacional,latam,0.0,0,0.0
+Gerente/director de División Antropología del Museo de La Plata es,Gustavo Barrientos,un cargo que no se puede desempeñar por un funcionario,latam,0.0,0,0.0
+Aplica a la jurisdicción de División Antropología del Museo de La Plata es,Museo de La Plata,"la responsable de la conservación, estudio, investigación y divulgación de",latam,0.28571428571428575,0,0.0
+Situado en la dirección postal de División Antropología del Museo de La Plata es,Paseo del Bosque S/N,"el primer museo de antropología del mundo, y el segundo en",latam,0.13333333333333333,0,0.0
+Campo de trabajo de División Antropología del Museo de La Plata es,antropología física,"un espacio donde se desarrollan proyectos de investigación, formación y divulg",latam,0.0,0,0.0
+Campo de trabajo de División Antropología del Museo de La Plata es,evolución humana,el primer laboratorio de antropología de la Argentina y del cono,latam,0.0,0,0.0
+Campo de trabajo de División Antropología del Museo de La Plata es,variabilidad genética,la primera en Argentina en tener una colección de esqueletos human,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Morro de La Plata es,región de Valparaíso,"un municipio de Colombia, con una población de 10,0",latam,0.16666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Sierra de La Plata es,Región de Atacama,"el municipio de San Gregorio, que se encuentra en el departamento de",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Cerro de La Plata es,Región de Atacama,"un municipio de la región central del país, a 12 km",latam,0.28571428571428575,0,0.0
+Situado en la entidad territorial administrativa de La Plata es,Región de Coquimbo,"un barrio de la ciudad de La Plata, Argentina, que se",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de La Plata es,Región Metropolitana de Santiago,"un municipio del departamento de La Plata, en la provincia de Buenos",latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Checo de La Plata es,Región de Atacama,un municipio que está en el departamento de La Plata en el estado,latam,0.125,0,0.0
+Saros de Eclipse solar del 2 de julio de 2019 es,Solar Saros 127,el séptimo de la serie de eclipses solares que ocurre,latam,0.0,0,0.0
+Ubicación de Juegos Suramericanos de Playa de 2019 es,Rosario,"en la ciudad de __________. (1 punto)
+Seleccione una:
+
+A",latam,0.0,0,0.0
+Temporada deportiva de de Juegos Suramericanos de Playa de 2019 es,Juegos Suramericanos de Playa,"la temporada deportiva de la región de Suramérica, que comienza",latam,0.14285714285714288,0,0.0
+Imagen de Juegos Suramericanos de Playa de 2019 es,Pebetero Rosario 2019 01.jpg,el tema de la portada de la revista de la FIFA de oct,latam,0.0,0,0.0
+Inaugurado oficialmente por de Juegos Suramericanos de Playa de 2019 es,Mauricio Macri,"el nuevo complejo deportivo del Club Atlético San Luis, en la",latam,0.0,0,0.0
+Precedido por de elecciones presidenciales de Argentina de 2019 es,elecciones presidenciales de Argentina de 2015,"el candidato del Frente de Todos, Alberto Fernández, que se",latam,0.125,0,0.0
+Cargo que elige de elecciones presidenciales de Argentina de 2019 es,presidente de la Nación Argentina,"el de la izquierda, con el candidato de Juntos por el",latam,0.25000000000000006,0,0.0
+Sucedido por de elecciones presidenciales de Argentina de 2019 es,Elecciones presidenciales de Argentina de 2023,un evento que se llevó a cabo el 27 de octubre,latam,0.11764705882352942,0,0.0
+Candidato de elecciones presidenciales de Argentina de 2019 es,Mauricio Macri,un candidato de la lista de candidatos de las elecciones presid,latam,0.0,0,0.0
+Candidato de elecciones presidenciales de Argentina de 2019 es,Nicolás del Caño,"el candidato del Frente de Todos, el partido de la Presidente",latam,0.14285714285714288,0,0.0
+Candidato de elecciones presidenciales de Argentina de 2019 es,Juan José Gómez Centurión,"el político argentino y ex presidente de la Nación, que fue re",latam,0.0,0,0.0
+Categoría en Commons de elecciones presidenciales de Argentina de 2019 es,2019 Argentine general election,"incorrecta, ya que la elección se realizó en 20",latam,0.0,0,0.0
+Precedido por de elecciones legislativas de Argentina de 2019 es,elecciones legislativas de Argentina de 2017,un evento de elecciones que se celebró el domingo 14 de,latam,0.3529411764705882,0,0.0
+Cargo que elige de elecciones legislativas de Argentina de 2019 es,diputado de Argentina,"la candidatura a presidente del Frente de Todos, que encabeza",latam,0.15384615384615383,0,0.0
+Cargo que elige de elecciones legislativas de Argentina de 2019 es,senador de Argentina,"el que se debe mantener, pero hay que reforzar las herramientas",latam,0.0,0,0.0
+Sucedido por de elecciones legislativas de Argentina de 2019 es,Elecciones legislativas de Argentina de 2021,"el gobierno del presidente argentino Mauricio Macri, que fue electo",latam,0.0,0,0.0
+Precedido por de elecciones provinciales en Argentina de 2019 es,elecciones provinciales de Argentina de 2017,"el periodo electoral de 2020, en el cual se llevar",latam,0.125,0,0.0
+Participó en de Argentina en los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,"un jugador de fútbol, y es delantero. ¿",latam,0.18181818181818182,0,0.0
+Precedido por de Liga Femenina de voleibol argentino de 2019 es,Liga Femenina de Voleibol Argentino 2018,el torneo de voleibol femenino de la Liga F,latam,0.4,0,0.0
+Sucedido por de Liga Femenina de voleibol argentino de 2019 es,Liga Femenina de voleibol argentino de 2020,un torneo de voleibol femenino profesional argentino.,latam,0.42857142857142855,0,0.0
+Equipo participante de Liga Femenina de voleibol argentino de 2019 es,Club Atlético Villa Dora,"el que está participando en la presente temporada, el club está ubicado",latam,0.125,0,0.0
+Temporada deportiva de de Liga Femenina de voleibol argentino de 2019 es,Liga Femenina de Voleibol Argentino,"la 10.º edición de la competición, con participación de",latam,0.14285714285714285,0,0.0
+Participó en de Argentina en la Copa Mundial Femenina de Fútbol de 2019 es,Copa Mundial Femenina de Fútbol de 2019,el nombre de un equipo de fútbol femenino de Argentina,latam,0.3529411764705882,0,0.0
+Precedido por de Fútbol playa en los Juegos Suramericanos de Playa de 2019 es,Fútbol playa en los Juegos Suramericanos de Playa de 2014,el evento más importante del fútbol playa de la región. El,latam,0.28571428571428564,0,0.0
+Situado en la entidad territorial administrativa de Rally de Argentina de 2019 es,Provincia de Córdoba,un evento del Campeonato Mundial de Rallyes de la FIA,latam,0.15384615384615383,0,0.0
+Lugar de finalización de Rally de Argentina de 2019 es,Cerro El Cóndor,"en...?
+El Rally de Argentina de 2019 se celebr",latam,0.16666666666666666,0,0.0
+Temporada deportiva de de Rally de Argentina de 2019 es,Rally de Argentina,la cuadragésima séptima temporada del Rally de Argentina.,latam,0.5454545454545454,1,0.0
+Precedido por de Rally de Argentina de 2019 es,Rally de Argentina de 2018,"el Rally de Argentina de 2020, que se disputó",latam,0.5714285714285714,0,0.0
+Pole position de Gran Premio de Argentina de Motociclismo de 2019 es,Marc Márquez,el tercer Gran Premio de la temporada 2019 de Mot,latam,0.0,0,0.0
+Vuelta más rápida de Gran Premio de Argentina de Motociclismo de 2019 es,Marc Márquez,"de la piloto que se retiró en la primera carrera del año,",latam,0.0,0,0.0
+Nombre oficial de Gran Premio de Argentina de Motociclismo de 2019 es,Gran Premio Motul de la República Argentina,":
+El nombre oficial del Gran Premio de Argentina de Motociclismo",latam,0.47058823529411764,0,0.0
+Imagen de Apagón eléctrico de América del Sur de 2019 es,Apagón en el Obelisco.png,una imagen de la tormenta tropical Ida que se formó en el,latam,0.25,0,0.0
+Investigado por de Apagón eléctrico de América del Sur de 2019 es,Ente Nacional Regulador de la Electricidad,el segundo año consecutivo que la Comisión Nacional de Energía (C,latam,0.3529411764705882,0,0.0
+Participó en de Argentina en el Campeonato Mundial de Natación de 2019 es,Campeonato Mundial de Natación de 2019,"una frase correcta? ""Participó en de Argentina en el Cam",latam,0.125,0,0.0
+Deporte de Argentina en el Campeonato Mundial de Natación de 2019 es,deporte acuático,una obra de teatro que se presentó en el Teatro Colón,latam,0.0,0,0.0
+Participó en de Argentina en el Campeonato Mundial de Atletismo de 2019 es,Campeonato Mundial de Atletismo de 2019,"el que se celebró en el atletismo de Doha, Qatar",latam,0.25,0,0.0
+Precedido por de debates presidenciales de Argentina de 2019 es,debates presidenciales de Argentina en 2015,el tema de las elecciones presidenciales de Argentina de 2,latam,0.37499999999999994,0,0.0
+Subclase de de debates presidenciales de Argentina de 2019 es,debates presidenciales en Argentina,"un tema de debate sobre el futuro de Argentina, con los candidatos a",latam,0.11764705882352941,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Catamarca de 2019 es,Provincia de Catamarca,el proceso electoral en el que se realizó la elección de autoridades,latam,0.13333333333333333,0,0.0
+Sucedido por de elecciones provinciales del Neuquén de 2019 es,Elecciones provinciales del Neuquén de 2023,un evento que se desarrolló el 25 de noviembre de,latam,0.125,0,0.0
+Aplica a la jurisdicción de elecciones provinciales del Chubut de 2019 es,Provincia de Chubut,"decir, en la provincia de Chubut, Argentina, en 2",latam,0.5,1,0.0
+Sucedido por de elecciones provinciales del Chubut de 2019 es,Elecciones provinciales del Chubut de 2023,"el gobernador del Chubut, Argentina, desde el 1",latam,0.28571428571428575,0,0.0
+Aplica a la jurisdicción de elecciones provinciales del Chaco de 2019 es,Provincia de Chaco,"un tema que se ha generado en el contexto de la política argentina,",latam,0.125,0,0.0
+Sucedido por de elecciones provinciales del Chaco de 2019 es,Elecciones provinciales del Chaco de 2023,un proceso electoral en el que se eligen a las autoridades provinciales,latam,0.1111111111111111,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Tierra del Fuego de 2019 es,"Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",el título de un libro que acaba de publicarse. ¿Es ci,latam,0.09090909090909091,0,0.0
+Precedido por de elecciones provinciales de Tierra del Fuego de 2019 es,Elecciones en la provincia de Tierra del Fuego de 2015,"el primer gran evento electoral de la Argentina en 2020,",latam,0.3,0,0.0
+Sucedido por de elecciones provinciales de Tierra del Fuego de 2019 es,Elecciones provinciales de Tierra del Fuego de 2023,"el gobierno provincial de la provincia de Tierra del Fuego, Antá",latam,0.5263157894736842,0,0.0
+Compuesto por de elecciones de la Ciudad Autónoma de Buenos Aires de 2019 es,elecciones a la Legislatura Porteña de 2019,el conjunto de elecciones que se celebraron el 27 de oct,latam,0.2222222222222222,0,0.0
+Sucedido por de elecciones de la Ciudad Autónoma de Buenos Aires de 2019 es,Elecciones de la Ciudad Autónoma de Buenos Aires de 2023,el proceso electoral que se llevó a cabo en la Ciudad Autónoma,latam,0.2727272727272727,0,0.0
+Cargo que elige de Elecciones municipales de La Matanza de 2019 es,concejal,un partido que no ha tenido una buena relación con el sindicato,latam,0.0,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Buenos Aires de 2019 es,Provincia de Buenos Aires,as nuevas reglas de voto. ¿Qué sucedería? ¿,latam,0.18181818181818182,0,0.0
+Cargo que elige de elecciones provinciales de Buenos Aires de 2019 es,diputado de la provincia de Buenos Aires,"una elección que se está desarrollando en la provincia de Buenos Aires,",latam,0.5263157894736842,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Santa Fe de 2019 es,Provincia de Santa Fe,as reglas de la ley de protección de datos personales. ¿Cómo,latam,0.13333333333333333,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Santa Cruz de 2019 es,Provincia de Santa Cruz,"decir, la que se llevó a cabo en febrero de ese año",latam,0.125,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de San Luis de 2019 es,Provincia de San Luis,"decir, la elección de diputados nacionales y senadores,",latam,0.16666666666666666,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Salta de 2019 es,Provincia de Salta,as condiciones que mencionas.  ¿Qué implicaría en términ,latam,0.0,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Mendoza de 2019 es,Provincia de Mendoza,"as ideas y métodos, y explica cómo se podría aplicar.",latam,0.0,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de La Pampa de 2019 es,Provincia de La Pampa,el tema que se analiza en el informe del Consejo de la,latam,0.25,0,0.0
+Aplica a la jurisdicción de elecciones provinciales de Entre Ríos de 2019 es,Provincia de Entre Ríos,"decir, el caso de la provincia de Entre Ríos, donde se",latam,0.5333333333333333,1,0.0
+Aplica a la jurisdicción de elecciones provinciales de Córdoba de 2019 es,Provincia de Córdoba,"decir, la provincia de Córdoba, Argentina, la ley 2",latam,0.5,1,0.0
+Precedido por de elecciones provinciales de Córdoba de 2019 es,elecciones provinciales de Córdoba de 2015,una de las figuras más importantes del kirchnerismo en el interior del,latam,0.1111111111111111,0,0.0
+Cargo que elige de elecciones provinciales de Córdoba de 2019 es,Gobernador de la Provincia de Córdoba,"un
+**gobierno provincial de izquierda**, con un **gobierno",latam,0.14285714285714288,0,0.0
+Sucedido por de elecciones provinciales de Córdoba de 2019 es,Elecciones provinciales de Córdoba de 2023,"un evento político que se dio en la provincia de Córdoba, Argentina",latam,0.2222222222222222,0,0.0
+Cargo que elige de elecciones a la Legislatura Porteña de 2019 es,legislador de la Ciudad de Buenos Aires,"el que se tiene que mantener. Y si no, se va a generar",latam,0.0,0,0.0
+Aplica a la jurisdicción de elecciones a la Legislatura Porteña de 2019 es,Buenos Aires,"el tema del nuevo episodio de
+**""Voces de",latam,0.0,0,0.0
+Sucedido por de Elecciones provinciales de La Rioja (Argentina) de 2019 es,Elecciones provinciales de La Rioja (Argentina) de 2023,"el proceso electoral que se realizó en la provincia de La Rioja,",latam,0.3,0,0.0
+Competición deportiva participada de Argentina en la Copa Mundial de Rugby de 2019 es,Copa Mundial de Rugby de 2019,"el siguiente:
+
+La selección argentina de rugby, conocida como la",latam,0.25,0,0.0
+Nombre en la lengua nativa de Anexo:Premios VOS de 2019 es,6.ª ceremonia de los premios VOS,: Anexo:Premios VOS de 2019,latam,0.4,0,0.0
+Situado en la entidad territorial administrativa de Anexo:Premios VOS de 2019 es,Villa Carlos Paz,un premio otorgado por el colectivo de periodistas de,latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Anexo:Premios VOS de 2019 es,español,":
+A. Inglés
+B. Francés
+C. Portug",latam,0.0,0,0.0
+Idioma de la obra o del nombre de Anexo:Premios VOS de 2019 es,español,el título de un anexo de la Wikipedia en español. El idioma,latam,0.15384615384615385,1,0.0
+Precedido por de Anexo:Premios Konex de Platino de 2019 es,Anexo:Premios Konex de Platino de 2018,un anexo que recoge los Premios Konex de Platino de,latam,0.5,0,0.0
+Precedido por de elecciones primarias de Argentina de 2019 es,elecciones primarias de Argentina de 2017,un evento electoral que se celebró en Argentina el 27 de oct,latam,0.2222222222222222,0,0.0
+Categoría en Commons de Consulta ciudadana de Chile de 2019 es,Consulta ciudadana de Chile de 2019,"una categoría de contenido que se encuentra en el repositorio de archivos multimedia,",latam,0.21052631578947367,0,0.0
+Organizador de Consulta ciudadana de Chile de 2019 es,Asociación Chilena de Municipalidades,un evento que se realizará el 17 de octubre de,latam,0.14285714285714288,0,0.0
+Categoría principal del tema de Campeonato Sudamericano de Fútbol Sub-20 de 2019 es,Categoría:Campeonato Sudamericano de Fútbol Sub-20 de 2019,":
+A. Deportes
+B. Cultura
+C. Ci",latam,0.0,0,0.0
+Ganador de Campeonato Sudamericano de Fútbol Sub-20 de 2019 es,selección de fútbol sub-20 del Ecuador,"el mejor del mundo, ¿a qué se refiere el pronombre """,latam,0.125,0,0.0
+Temporada deportiva de de Campeonato Sudamericano de Fútbol Sub-20 de 2019 es,Campeonato Sudamericano de Fútbol Sub-20,la 24.ª edición del Campeonato Sudamericano,latam,0.3636363636363636,0,0.0
+Sucedido por de Campeonato Sudamericano de Fútbol Sub-20 de 2019 es,Campeonato Sudamericano de Fútbol Sub-20 de 2023,el torneo de fútbol sub-20 que se celebr,latam,0.39999999999999997,0,0.0
+Logotipo de Campeonato Sudamericano de Fútbol Sub-20 de 2019 es,Sudamericano Sub 20 Chile 2019.png,un logotipo que se utilizó para el Campeonato Sudam,latam,0.0,0,0.0
+Participó en de Chile en los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,"una frase incompleta. ¿Cómo se puede completar?
+
+La frase",latam,0.0,0,0.0
+Ubicación de Campeonato FIBA Américas Femenino Sub-16 de 2019 es,Puerto Aysén,"en:
+La ubicación del Campeonato FIBA Américas",latam,0.0,0,0.0
+Deporte de Campeonato FIBA Américas Femenino Sub-16 de 2019 es,baloncesto,un deporte de equipo que se juega con dos equipos de 1,latam,0.0,0,0.0
+Participó en de Chile en el Campeonato Mundial de Natación de 2019 es,Campeonato Mundial de Natación de 2019,"un evento que se celebró en qué lugar?
+
+Participó en de",latam,0.11764705882352942,0,0.0
+Deporte de Chile en el Campeonato Mundial de Natación de 2019 es,deporte acuático,un artículo que habla sobre el desempeño del país en el,latam,0.0,0,0.0
+Organizador de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Confederación Sudamericana de Voleibol,"un evento que se realizó en el año 2019,",latam,0.0,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección de voleibol de Brasil,el equipo que representó a la República Dominicana en el Campeonato,latam,0.0,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección masculina de vóley de Argentina,el equipo de voleibol de la selección de Paraguay.,latam,0.4,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección de voleibol de Chile,"el equipo de voleibol de qué país?
+
+El equipo participante",latam,0.4,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección de voleibol de Venezuela,"el equipo del Paraguay, el cual está compuesto por: 1",latam,0.0,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,selección masculina de voleibol del Perú,el equipo de voleibol de la selección nacional de Paraguay,latam,0.37499999999999994,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección masculina de voleibol de Colombia,"el equipo de voleibol de la selección de Paraguay,",latam,0.5333333333333333,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección de voleibol de Ecuador,"el equipo de voleibol de la selección de Paraguay,",latam,0.5714285714285714,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Selección masculina de voleibol de Bolivia,"el equipo de voleibol de la selección de Paraguay,",latam,0.5333333333333333,0,0.0
+Ubicación de Campeonato Sudamericano de Voleibol Masculino de 2019 es,Santiago de Chile,:  ¿Cuál es el país anfitrión del Campeon,latam,0.0,0,0.0
+Participó en de Chile en el Campeonato Mundial de Atletismo de 2019 es,Campeonato Mundial de Atletismo de 2019,"un atleta chileno, en la categoría de 800",latam,0.14285714285714288,0,0.0
+Participó en de Chile en los Juegos Parapanamericanos de 2019 es,Juegos Parapanamericanos de 2019,"un jugador de fútbol, y también es entrenador del club",latam,0.14285714285714288,0,0.0
+Serie de Chile en los Juegos Parapanamericanos de 2019 es,Chile en los Juegos Parapanamericanos,el título de un artículo que describe el desempeño de la deleg,latam,0.0,0,0.0
+Precedido por de Campeonato Sudamericano de Baloncesto Sub-17 de 2019 es,Campeonato Sudamericano de Baloncesto Sub-17 de 2017,un torneo de baloncesto juvenil que se celebrará en el,latam,0.23529411764705882,0,0.0
+Deporte de Campeonato Sudamericano de Baloncesto Sub-17 de 2019 es,baloncesto,un evento de baloncesto juvenil organizado por la FIBA,latam,0.19999999999999998,1,0.0
+Lugar de inicio de Accidente del Lockheed C-130 de la FACh de 2019 es,Aeropuerto Internacional Presidente Carlos Ibáñez del Campo,":
+El lugar de inicio del accidente del Lockheed C-130",latam,0.125,0,0.0
+Ubicación de Accidente del Lockheed C-130 de la FACh de 2019 es,Mar de Hoces,el lugar donde un Lockheed C-130 Hercules de la Fuer,latam,0.15384615384615383,0,0.0
+Operador de Accidente del Lockheed C-130 de la FACh de 2019 es,Fuerza Aérea de Chile,un videojuego de simulación de vuelo desarrollado por el equipo,latam,0.14285714285714288,0,0.0
+Imagen de Accidente del Lockheed C-130 de la FACh de 2019 es,Participación de la Armada Argentina en la busqueda del C130 chileno mapa.jpg,un artículo de Wikipedia sobre el accidente del Lockheed C-130,latam,0.2727272727272727,0,0.0
+Temporada deportiva de de Juegos Deportivos Nacionales de Chile de 2019 es,Juegos Deportivos Nacionales de Chile,la que se desarrolló entre el 22 de septiembre al,latam,0.13333333333333333,0,0.0
+Ubicación de Juegos Deportivos Nacionales de Chile de 2019 es,Región Metropolitana de Santiago,una de las mejores opciones para encontrar información sobre los eventos deportivos de Chile,latam,0.11111111111111112,0,0.0
+Serie de Anexo:Copihue de Oro de 2019 es,Copihue de Oro,una serie de sellos emitidos por Chile en el año 20,latam,0.14285714285714288,0,0.0
+Categoría principal del tema de Juegos Panamericanos de 2019 es,Categoría:Juegos Panamericanos de 2019,"Deportes de equipo, con un total de 12 deportes",latam,0.15384615384615383,0,0.0
+Identificador en Facebook de Juegos Panamericanos de 2019 es,Lima2019Juegos,":
+A) #PanAms2019
+B) #",latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Juegos Panamericanos de 2019 es,Lima2019Juegos,":
+
+El nombre de usuario de Twitter (X) de los Juegos Pan",latam,0.0,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Atletismo en los Juegos Panamericanos de 2019,"un evento de alto nivel, con más de 7,000",latam,0.125,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Bádminton en los Juegos Panamericanos de 2019,"un evento de 17 días, en la capital del estado de Chile",latam,0.2105263157894737,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Baloncesto en los Juegos Panamericanos de 2019,"el más grande de los Juegos Panamericanos, con 6,",latam,0.5,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Baloncesto 3x3 en los Juegos Panamericanos de 2019,"un evento deportivo que se celebrará en Lima, Perú. El",latam,0.11111111111111112,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Balonmano en los Juegos Panamericanos de 2019,"un evento de alto nivel y tiene un amplio alcance, con participación",latam,0.10526315789473685,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Béisbol en los Juegos Panamericanos de 2019,un evento deportivo multideportivo que se celebrará en la ciudad,latam,0.11764705882352941,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Bolos en los Juegos Panamericanos de 2019,"un evento que se celebrará en Lima, Perú, en el mes",latam,0.1111111111111111,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,boxeo en los Juegos Panamericanos de 2019,"la 18.º edición de los Juegos Panamericanos,",latam,0.5714285714285714,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Clavados en los Juegos Panamericanos de 2019,"un evento de gran alcance y prestigio, en el que particip",latam,0.2222222222222222,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Nado sincronizado en los Juegos Panamericanos de 2019,el lugar de los Juegos Panamericanos de 2019,latam,0.625,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Natación en los Juegos Panamericanos de 2019,un juego de simulación que permite a los usuarios vivir la experiencia de,latam,0.2,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Waterpolo en los Juegos Panamericanos de 2019,el más grande y espectacular evento multideportivo del continente.,latam,0.0,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Equitación en los Juegos Panamericanos de 2019,"un evento deportivo internacional que se celebró en Lima, Perú,",latam,0.11764705882352941,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Hockey sobre césped en los Juegos Panamericanos de 2019,"el más grande de la historia y está ubicado en Lima, Perú",latam,0.1904761904761905,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Yudo en los Juegos Panamericanos de 2019,"un evento que se celebrará en la ciudad de Lima, Perú del",latam,0.2105263157894737,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Karate en los Juegos Panamericanos de 2019,la sede de los Juegos Panamericanos de 2019,latam,0.6666666666666666,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,halterofilia en los Juegos Panamericanos de 2019,"un evento de alto nivel, que se lleva a cabo en la capital",latam,0.2,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Lucha en los Juegos Panamericanos de 2019,un evento que se celebra en el país desde 1959,latam,0.11764705882352941,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Patinaje en los Juegos Panamericanos de 2019,una institución sin fines de lucro que se enfoca en el desarrollo,latam,0.2105263157894737,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Pentatlón moderno en los Juegos Panamericanos de 2019,"un evento de 15 días, en la ciudad de Lima, Per",latam,0.2105263157894737,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Paleta frontón en los Juegos Panamericanos de 2019,un evento deportivo multideportivo que se realizó en la ciudad,latam,0.11111111111111112,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Rugby 7 en los Juegos Panamericanos de 2019,"un evento que se celebrará en el 2019, en",latam,0.23529411764705882,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Sóftbol en los Juegos Panamericanos de 2019,"un evento de alto nivel, que se celebrará en la ciudad de Lima",latam,0.2,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Squash en los Juegos Panamericanos de 2019,"un equipo de fútbol de la ciudad de Lima, Perú",latam,0.11764705882352941,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Surf en los Juegos Panamericanos de 2019,"un evento que se celebró en la ciudad de Lima, Perú,",latam,0.2222222222222222,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Taekwondo en los Juegos Panamericanos de 2019,"una de las ciudades más importantes de la región, así como un destino",latam,0.1,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Tenis en los Juegos Panamericanos de 2019,"el que se celebró en Lima, Perú, del 26",latam,0.125,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Tenis de mesa en los Juegos Panamericanos de 2019,un evento de alto nivel en el que se reúnen atletas,latam,0.19999999999999998,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Tiro con arco en los Juegos Panamericanos de 2019,"el evento más importante de la región, con el cual se busca que los",latam,0.2608695652173913,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Tiro en los Juegos Panamericanos de 2019,"un evento que se celebrará en la capital de Chile, la ciudad de",latam,0.2,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Triatlón en los Juegos Panamericanos de 2019,"un evento que se celebró en Lima, Perú, del 2",latam,0.11764705882352941,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Vela en los Juegos Panamericanos de 2019,un evento deportivo multideportivo que se celebró en la ciudad,latam,0.11764705882352941,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Voleibol en los Juegos Panamericanos de 2019,un evento de la Copa Mundial de Fútbol Americano,latam,0.125,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Voleibol de playa en los Juegos Panamericanos de 2019,el más importante de los eventos deportivos de la región. La competencia,latam,0.28571428571428575,0,0.0
+Compuesto por de Juegos Panamericanos de 2019 es,Anexo:Ciclismo en los Juegos Panamericanos de 2019,"un videojuego que se lanzó en 2019,",latam,0.2857142857142857,0,0.0
+Organizador de Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un videojuego de estrategia de simulación de eventos olí,latam,0.0,0,0.0
+Identificador LinkedIn de empresa de Juegos Panamericanos de 2019 es,Lima2019Juegos,: 1467543310441,latam,0.0,0,0.0
+Logotipo de Juegos Panamericanos de 2019 es,Logotipo Oficial Juegos Panamericanos Lima 2019.png,un logotipo que representa la identidad visual del evento deportivo Pan,latam,0.11764705882352942,0,0.0
+Precedido por de Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2015,"un evento de la Serie Mundial de Judo, que se celebrará",latam,0.13333333333333333,0,0.0
+Sucedido por de Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2023,un evento internacional de atletismo que se celebró en el Estadio,latam,0.13333333333333333,0,0.0
+Categoría principal del tema de Juegos Parapanamericanos de 2019 es,Categoría:Juegos Parapanamericanos de 2019,": Deportes
+Juegos Parapanamericanos de 20",latam,0.4444444444444445,0,0.0
+Temporada deportiva de de Juegos Parapanamericanos de 2019 es,Juegos Parapanamericanos,"una temporada deportiva de los Juegos Parapanamericanos, que se",latam,0.3636363636363636,1,0.0
+Organizador de Anexo:Hockey sobre césped en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento multiesportivo que se celebrará en los Juegos Pan,latam,0.0,0,0.0
+Precedido por de Anexo:Hockey sobre césped en los Juegos Panamericanos de 2019 es,Anexo:Hockey sobre césped en los Juegos Panamericanos de 2015,un evento de los Juegos Panamericanos de 2019,latam,0.47058823529411764,0,0.0
+Temporada deportiva de de Anexo:Hockey sobre césped en los Juegos Panamericanos de 2019 es,hockey sobre césped en los Juegos Panamericanos,el ciclo de competencias que se desarrolló entre el 3 y el,latam,0.0,0,0.0
+Participó en de Perú en los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,un error. La frase está mal construida. La oración correcta,latam,0.0,0,0.0
+Ganador de Campeonato Sudamericano de Fútbol Sub-17 de 2019 es,selección de fútbol sub-17 de Argentina,un título de fútbol juvenil. El torneo se celebr,latam,0.26666666666666666,0,0.0
+Serie de Anexo:Sóftbol en los Juegos Panamericanos de 2019 es,sóftbol en los Juegos Panamericanos,una categoría de la categoría Sóftbol en los Juegos Panamerican,latam,0.5333333333333333,0,0.0
+Organizador de Anexo:Sóftbol en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organizar de anexo que presenta información sobre el sóftbol en,latam,0.0,0,0.0
+Compuesto por de Anexo:Sóftbol en los Juegos Panamericanos de 2019 es,Anexo:Sóftbol en los Juegos Panamericanos de 2019  Torneo masculino,un artículo que describe el evento de sóftbol en los Juegos Pan,latam,0.380952380952381,0,0.0
+Deporte de Anexo:Baloncesto en los Juegos Panamericanos de 2019 es,baloncesto,un libro que se publicó en 2019. El libro,latam,0.0,0,0.0
+Compuesto por de Anexo:Baloncesto en los Juegos Panamericanos de 2019 es,Anexo:Baloncesto en los Juegos Panamericanos de 2019  Torneo femenino,"un evento deportivo que se celebrará en la ciudad de Lima, Per",latam,0.1904761904761905,0,0.0
+Compuesto por de Anexo:Baloncesto en los Juegos Panamericanos de 2019 es,Anexo:Baloncesto en los Juegos Panamericanos de 2019  Torneo masculino,un evento deportivo en el cual participan equipos nacionales de los países,latam,0.28571428571428575,0,0.0
+Organizador de Anexo:Baloncesto en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un texto de 500 palabras que explica el baloncesto,latam,0.0,0,0.0
+Ganador de Rally Dakar de 2019 es,Francisco López Contardo,"el francés Stéphane Peterhansel, quien logró",latam,0.0,0,0.0
+Precedido por de Béisbol en los Juegos Panamericanos de 2019 es,Béisbol en los Juegos Panamericanos de 2015,un libro que recopila la historia del béisbol en los J,latam,0.33333333333333326,0,0.0
+Organizador de Béisbol en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento de béisbol que se celebró en los Juegos Pan,latam,0.0,0,0.0
+Compuesto por de Béisbol en los Juegos Panamericanos de 2019 es,Anexo:Béisbol en los Juegos Panamericanos de 2019  Torneo masculino,"un evento deportivo que se celebrará en la ciudad de Lima, Per",latam,0.1904761904761905,0,0.0
+Serie de Béisbol en los Juegos Panamericanos de 2019 es,Béisbol en los Juegos Panamericanos,la 15ª edición de la serie de béisbol en los,latam,0.4,0,0.0
+Precedido por de boxeo en los Juegos Panamericanos de 2019 es,Anexo:Boxeo en los Juegos Panamericanos de 2015,"un evento deportivo que se realizó en la ciudad de Lima, Per",latam,0.2105263157894737,0,0.0
+Organizador de boxeo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"el mexicano Luis Miguel Vazquez
+Luis Miguel Váz",latam,0.0,0,0.0
+Precedido por de Anexo:Waterpolo en los Juegos Panamericanos de 2019 es,Anexo:Waterpolo en los Juegos Panamericanos de 2015,"el artículo anterior, y seguido por de Anexo:Waterpolo",latam,0.26666666666666666,0,0.0
+Organizador de Anexo:Waterpolo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,el título del artículo. El objetivo del artículo es informar sobre el Water,latam,0.0,0,0.0
+Sucedido por de Anexo:Waterpolo en los Juegos Panamericanos de 2019 es,Anexo:Waterpolo en los Juegos Panamericanos de 2023,"una competencia olímpica, no hay un anexo sobre el",latam,0.0,0,0.0
+Precedido por de Anexo:Yudo en los Juegos Panamericanos de 2019 es,Anexo:Judo en los Juegos Panamericanos de 2015,una entrada que habla de los eventos de Yudo en los Juegos,latam,0.4210526315789474,0,0.0
+Organizador de Anexo:Yudo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un proyecto de investigación que busca analizar la participación del Yudo en los,latam,0.0,0,0.0
+Sucedido por de Anexo:Yudo en los Juegos Panamericanos de 2019 es,Anexo:Judo en los Juegos Panamericanos de 2023,un deporte olímpico que se juega con un kimono,latam,0.0,0,0.0
+Subclase de de Anexo:Yudo en los Juegos Panamericanos de 2019 es,judo en los Juegos Panamericanos,":
+A. Judo
+B. Judo
+C. Judo",latam,0.1818181818181818,0,0.0
+Precedido por de halterofilia en los Juegos Panamericanos de 2019 es,Anexo:Levantamiento de pesas en los Juegos Panamericanos de 2015,"un evento deportivo que se celebrará en la ciudad de Lima, Per",latam,0.1904761904761905,0,0.0
+Organizador de halterofilia en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento de alto nivel que combina el deporte y la cultura.,latam,0.0,0,0.0
+Sucedido por de halterofilia en los Juegos Panamericanos de 2019 es,Anexo:Levantamiento de pesas en los Juegos Panamericanos de 2023,el evento de halterofilia en los Juegos Panamericanos de,latam,0.6666666666666666,0,0.0
+Organizador de Anexo:Bolos en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organismo que se encarga de organizar eventos de boliche,latam,0.0,0,0.0
+Precedido por de Anexo:Bolos en los Juegos Panamericanos de 2019 es,Anexo:Bolos en los Juegos Panamericanos de 2015,el artículo que describe los eventos de bolo en los Juegos Panamerican,latam,0.4210526315789474,0,0.0
+Precedido por de Lucha en los Juegos Panamericanos de 2019 es,Anexo:Lucha en los Juegos Panamericanos de 2015,el título de la obra que se exhibe en el Museo de la,latam,0.2,0,0.0
+Organizador de Lucha en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un proyecto de investigación de la Facultad de Ciencias Sociales de,latam,0.0,0,0.0
+Sucedido por de Lucha en los Juegos Panamericanos de 2019 es,Anexo:Lucha en los Juegos Panamericanos de 2023,un evento de lucha libre profesional que se celebró el 27,latam,0.1111111111111111,0,0.0
+Organizador de Anexo:Karate en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un tema que está relacionado con el tema principal del texto, ya que",latam,0.0,0,0.0
+Sucedido por de Anexo:Karate en los Juegos Panamericanos de 2019 es,Anexo:Karate en los Juegos Panamericanos de 2023,un evento deportivo del Karate que se disputó en el marco,latam,0.1111111111111111,0,0.0
+Categoría principal del tema de Anexo:Vela en los Juegos Panamericanos de 2019 es,Categoría:Vela en los Juegos Panamericanos de 2019,: Deportes acuáticos. La categoría secundaria es,latam,0.0,0,0.0
+Organizador de Anexo:Vela en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un proyecto que permite a los usuarios organizar, gestionar y compartir información",latam,0.0,0,0.0
+Precedido por de Anexo:Vela en los Juegos Panamericanos de 2019 es,Anexo:Vela en los Juegos Panamericanos de 2015,el artículo de Vela en los Juegos Panamericanos de 2,latam,0.588235294117647,0,0.0
+Ubicación de Anexo:Vela en los Juegos Panamericanos de 2019 es,Paracas,un anexo del artículo sobre el atletismo en los Juegos Pan,latam,0.0,0,0.0
+Organizador de Anexo:Tiro en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un libro de 2019, escrito por el periodista",latam,0.0,0,0.0
+Precedido por de Anexo:Pentatlón moderno en los Juegos Panamericanos de 2019 es,Anexo:Pentatlón moderno en los Juegos Panamericanos de 2015,un artículo que habla sobre el pentatlón moderno en los J,latam,0.3157894736842105,0,0.0
+Deporte de Anexo:Pentatlón moderno en los Juegos Panamericanos de 2019 es,pentatlón moderno,"un evento que se celebrará en la ciudad de Lima, Perú,",latam,0.0,0,0.0
+Organizador de Anexo:Pentatlón moderno en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un anexo del artículo principal sobre el Pentatlón moderno en los,latam,0.0,0,0.0
+Deporte de Anexo:Esgrima en los Juegos Panamericanos de 2019 es,esgrima,grima en los Juegos Panamericanos de 2019,latam,0.0,0,0.0
+Precedido por de Anexo:Esgrima en los Juegos Panamericanos de 2019 es,Esgrima en los Juegos Panamericanos de 2015,grima en los Juegos Panamericanos de 2019,latam,0.7142857142857143,0,0.0
+Categoría principal del tema de Anexo:Esgrima en los Juegos Panamericanos de 2019 es,Categoría:Esgrima en los Juegos Panamericanos de 2019,Deportes. Categoría secundaria es Esgrima.,latam,0.0,0,0.0
+Organizador de Anexo:Esgrima en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,una aplicación web que permite a los usuarios organizar y visualizar información sobre,latam,0.0,0,0.0
+Organizador de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organizador de anexo que se utilizó en el torneo de,latam,0.0,0,0.0
+Precedido por de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Torneo masculino de fútbol en los Juegos Panamericanos de 2015,un artículo que describe la participación de la balonmano en los J,latam,0.2727272727272727,0,0.0
+Precedido por de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Anexo:Balonmano en los Juegos Panamericanos de 2015,un artículo sobre el balonmano en los Juegos Panamericanos,latam,0.5,0,0.0
+Compuesto por de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Anexo:Balonmano en los Juegos Panamericanos de 2019  Torneo femenino,un evento deportivo que se llevó a cabo en el marco de,latam,0.1904761904761905,0,0.0
+Compuesto por de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Anexo:Balonmano en los Juegos Panamericanos de 2019  Torneo masculino,un trabajo de investigación que se desarrolla como parte del trabajo de investigación de,latam,0.08695652173913043,0,0.0
+Serie de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Balonmano en los Juegos Panamericanos,el segundo de los tres anexos sobre el balonmano en,latam,0.4,0,0.0
+Categoría principal del tema de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Categoría:Balonmano en los Juegos Panamericanos de 2019,":
+A. Deportes de equipo
+B. Deportes individ",latam,0.14285714285714285,0,0.0
+Temporada deportiva de de Anexo:Balonmano en los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,la temporada deportiva de balonmano que tuvo lugar en los,latam,0.14285714285714288,0,0.0
+Organizador de Anexo:Taekwondo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un evento que se celebró en la ciudad de Lima, Perú,",latam,0.0,0,0.0
+Precedido por de Anexo:Taekwondo en los Juegos Panamericanos de 2019 es,Taekwondo en los Juegos Panamericanos de 2015,"un deporte olímpico, pero no está incluido en los",latam,0.25,0,0.0
+Organizador de Anexo:Rugby 7 en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento de los Juegos Panamericanos de 2019,latam,0.0,0,0.0
+Precedido por de Anexo:Rugby 7 en los Juegos Panamericanos de 2019 es,Anexo:Rugby 7 en los Juegos Panamericanos de 2015,el artículo sobre el rugby 7 en los Juegos Panamericanos de,latam,0.631578947368421,0,0.0
+Ubicación de Anexo:Rugby 7 en los Juegos Panamericanos de 2019 es,Villa María del Triunfo,un evento que se realizará en el estadio de rugby en el Par,latam,0.0,0,0.0
+Deporte de Fútbol en los Juegos Panamericanos de 2019 es,fútbol,"un evento deportivo que tuvo lugar en la ciudad de Lima, Per",latam,0.0,0,0.0
+Serie de Fútbol en los Juegos Panamericanos de 2019 es,Fútbol en los Juegos Panamericanos,una competición de fútbol que se celebró en los J,latam,0.4,0,0.0
+Categoría principal del tema de Fútbol en los Juegos Panamericanos de 2019 es,Categoría:Fútbol en los Juegos Panamericanos de 2019,":
+A. Deportes individuales
+B. Deportes co",latam,0.0,0,0.0
+Ubicación de Fútbol en los Juegos Panamericanos de 2019 es,Estadio de la Universidad Nacional Mayor de San Marcos,la pregunta que nos planteamos hoy. El fútbol es,latam,0.1111111111111111,0,0.0
+Precedido por de Anexo:Atletismo en los Juegos Panamericanos de 2019 es,Anexo:Atletismo en los Juegos Panamericanos de 2015,el artículo de Anexo:Atletismo en los Juegos Panamerican,latam,0.6666666666666666,0,0.0
+Sucedido por de Anexo:Atletismo en los Juegos Panamericanos de 2019 es,Anexo:Atletismo en los Juegos Panamericanos de 2023,el artículo sobre el atletismo en los Juegos Panamericanos de,latam,0.588235294117647,0,0.0
+Organizador de Anexo:Atletismo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un texto que describe el atletismo en los Juegos Panamericanos,latam,0.0,0,0.0
+Participante de Anexo:Atletismo en los Juegos Panamericanos de 2019 es,José Carlos Villarreal,"un evento que se celebrará en Lima, Perú. Se celebrará",latam,0.0,0,0.0
+Precedido por de Anexo:Equitación en los Juegos Panamericanos de 2019 es,Anexo:Equitación en los Juegos Panamericanos de 2015,el artículo sobre el evento de equitación de los Juegos Panamerican,latam,0.33333333333333326,0,0.0
+Deporte de Anexo:Equitación en los Juegos Panamericanos de 2019 es,deporte ecuestre,un artículo que está en proceso de redacción. Este artículo forma parte de,latam,0.0,0,0.0
+Organizador de Anexo:Equitación en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un tema que abarca desde la historia de la equitación en,latam,0.0,0,0.0
+Deporte de Anexo:Nado sincronizado en los Juegos Panamericanos de 2019 es,natación sincronizada,"un libro de la editorial Planeta, con la autora Nancy C.",latam,0.0,0,0.0
+Organizador de Anexo:Nado sincronizado en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento multideportivo que se celebró en los Juegos Pan,latam,0.0,0,0.0
+Precedido por de Anexo:Nado sincronizado en los Juegos Panamericanos de 2019 es,Anexo:Nado sincronizado en los Juegos Panamericanos de 2015,el artículo sobre el nado sincronizado en los Juegos Panamerican,latam,0.4444444444444445,0,0.0
+Precedido por de Anexo:Triatlón en los Juegos Panamericanos de 2019 es,Anexo:Triatlón en los Juegos Panamericanos de 2015,el artículo sobre el triatlón en los Juegos Panamericanos de,latam,0.588235294117647,0,0.0
+Categoría principal del tema de Anexo:Triatlón en los Juegos Panamericanos de 2019 es,Categoría:Triatlón en los Juegos Panamericanos de 2019,"""Deportes individuales"". How do you say this sentence in English",latam,0.0,0,0.0
+Organizador de Anexo:Triatlón en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un proyecto de aprendizaje en equipo, en el cual los estudiantes deben",latam,0.0,0,0.0
+Temporada deportiva de de Anexo:Triatlón en los Juegos Panamericanos de 2019 es,Triatlón en los Juegos Panamericanos,"la segunda edición de la disciplina en los Juegos Panamericanos,",latam,0.5333333333333333,0,0.0
+Categoría principal del tema de Anexo:Voleibol en los Juegos Panamericanos de 2019 es,Categoría:Voleibol en los Juegos Panamericanos de 2019,Deportes. Categoría principal del tema de Anexo:V,latam,0.14285714285714285,0,0.0
+Compuesto por de Anexo:Voleibol en los Juegos Panamericanos de 2019 es,torneo masculino de voleibol en los Juegos Panamericanos de 2019,"un texto informativo que describe el evento deportivo, el lugar donde se",latam,0.0,0,0.0
+Compuesto por de Anexo:Voleibol en los Juegos Panamericanos de 2019 es,torneo femenino de voleibol en los Juegos Panamericanos de 2019,un artículo sobre el voleibol en los Juegos Panamericanos,latam,0.5263157894736842,0,0.0
+Organizador de Anexo:Voleibol en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un sitio que organiza información sobre el voleibol en los J,latam,0.0,0,0.0
+Organizador de Anexo:Tiro con arco en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento de alto nivel. ¿Cuál es el país que organizó,latam,0.0,0,0.0
+Organizador de Anexo:Canotaje en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organismo internacional que organiza eventos de canotaje en los J,latam,0.0,0,0.0
+Deporte de Anexo:Ciclismo en los Juegos Panamericanos de 2019 es,ciclismo en ruta,el deporte de anexo de los Juegos Panamericanos de,latam,0.0,0,0.0
+Deporte de Anexo:Ciclismo en los Juegos Panamericanos de 2019 es,ciclismo de montaña,un evento que se llevó a cabo en el marco de los J,latam,0.125,0,0.0
+Deporte de Anexo:Ciclismo en los Juegos Panamericanos de 2019 es,ciclismo en pista,una página sobre el ciclismo en los Juegos Panamericanos de,latam,0.30769230769230765,0,0.0
+Precedido por de Anexo:Ciclismo en los Juegos Panamericanos de 2019 es,Anexo:Ciclismo en los Juegos Panamericanos de 2015,un artículo que describe el ciclismo en los Juegos Panamericanos,latam,0.47058823529411764,0,0.0
+Organizador de Anexo:Ciclismo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organizador de anexo que contiene información sobre el ciclismo en,latam,0.0,0,0.0
+Organizador de Anexo:Patinaje en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un documento que contiene información sobre el patinaje en los Juegos Pan,latam,0.0,0,0.0
+Organizador de Anexo:Surf en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"una guía para el anexo, con el objetivo de organizar los",latam,0.0,0,0.0
+Precedido por de Anexo:Bádminton en los Juegos Panamericanos de 2019 es,Bádminton en los Juegos Panamericanos de 2015,el artículo de la página de la edición de 2019 de,latam,0.1111111111111111,0,0.0
+Organizador de Anexo:Bádminton en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un espacio para organizar y presentar información sobre el bádminton,latam,0.0,0,0.0
+Sucedido por de Anexo:Bádminton en los Juegos Panamericanos de 2019 es,Anexo:Bádminton en los Juegos Panamericanos de 2023,el equipo masculino de bádminton de los Juegos Panamerican,latam,0.375,0,0.0
+Imagen de Aniegos de Lima de 2019 es,Aniego en San Juan de Lurigancho 2019.jpg,una imagen de los aniegos de Lima de 2019,latam,0.125,0,0.0
+Organizador de Anexo:Clavados en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organizador de anexo que permite filtrar y organizar los eventos,latam,0.0,0,0.0
+Precedido por de Anexo:Clavados en los Juegos Panamericanos de 2019 es,Anexo:Clavados en los Juegos Panamericanos de 2015,el penúltimo artículo del Anexo:Clavados en los,latam,0.42857142857142855,0,0.0
+Precedido por de Anexo:Squash en los Juegos Panamericanos de 2019 es,Anexo:Squash en los Juegos Panamericanos de 2015,el anexo del artículo Squash en los Juegos Panamericanos de,latam,0.588235294117647,0,0.0
+Categoría principal del tema de Anexo:Squash en los Juegos Panamericanos de 2019 es,Categoría:Anexo:Squash en los Juegos Panamericanos de 2019,"Deportes, pero no se puede crear una categoría con el mismo nombre",latam,0.0,0,0.0
+Organizador de Anexo:Gimnasia en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un anexo de la página principal. El anexo se divide en tres,latam,0.0,0,0.0
+Precedido por de Anexo:Gimnasia en los Juegos Panamericanos de 2019 es,Gimnasia en los Juegos Panamericanos de 2015,un artículo que describe la participación de la gimnasia en los Juegos,latam,0.5263157894736842,0,0.0
+Precedido por de Torneo de Promoción y Reserva de 2019 es,Torneo de Promoción y Reserva de 2018,el torneo de fútbol de la Primera División de,latam,0.375,0,0.0
+Temporada deportiva de de Torneo de Promoción y Reserva de 2019 es,Torneo de Promoción y Reserva,la edición del torneo de fútbol de 201,latam,0.3076923076923077,0,0.0
+Deporte de Anexo:Esquí acuático en los Juegos Panamericanos de 2019 es,esquí acuático,un artículo de Wikipedia que necesita ser revisado por un especialista en es,latam,0.0,0,0.0
+Organizador de Anexo:Esquí acuático en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un anexo de la Wikipedia, que contiene información sobre el esquí ac",latam,0.0,0,0.0
+Faceta de de Anexo:Viaje de la antorcha de los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,el anexo de la página web de la Oficina de Turismo de,latam,0.125,0,0.0
+Faceta de de Ceremonia de apertura de los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,la ceremonia de apertura de los Juegos Panamericanos de,latam,0.46153846153846156,0,0.0
+Opuesto a de Ceremonia de apertura de los Juegos Panamericanos de 2019 es,ceremonia de clausura de los Juegos Panamericanos de 2019,: A) La ceremonia de clausura de los Juegos Pan,latam,0.6666666666666666,0,0.0
+Ubicación de Ceremonia de apertura de los Juegos Panamericanos de 2019 es,Estadio Nacional del Perú,...? La ceremonia de apertura de los Juegos Panamericanos,latam,0.0,0,0.0
+Sucedido por de Ceremonia de apertura de los Juegos Panamericanos de 2019 es,Ceremonia de apertura de los Juegos Panamericanos de 2023,el evento donde se celebró la ceremonia de apertura de los J,latam,0.4761904761904762,0,0.0
+Faceta de de ceremonia de clausura de los Juegos Panamericanos de 2019 es,Juegos Panamericanos de 2019,el mejor ejemplo del uso de la tecnología en la celebración de eventos mas,latam,0.11111111111111112,0,0.0
+Opuesto a de ceremonia de clausura de los Juegos Panamericanos de 2019 es,Ceremonia de apertura de los Juegos Panamericanos de 2019,el evento que se lleva a cabo en el estadio Olímp,latam,0.0,0,0.0
+Ubicación de ceremonia de clausura de los Juegos Panamericanos de 2019 es,Estadio Nacional del Perú,"en:
+La ceremonia de clausura de los Juegos Panamerican",latam,0.0,0,0.0
+Organizador de Anexo:Tenis de mesa en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un anexo de información sobre el tenis de mesa en los Juegos,latam,0.0,0,0.0
+Precedido por de Anexo:Tenis de mesa en los Juegos Panamericanos de 2019 es,Anexo:Tenis de mesa en los Juegos Panamericanos de 2015,el artículo sobre el tenis de mesa en los Juegos Panamericanos,latam,0.6,0,0.0
+Sucedido por de Anexo:Tenis de mesa en los Juegos Panamericanos de 2019 es,Anexo:Tenis de mesa en los Juegos Panamericanos de 2023,la lista de los medallistas de tenis de mesa en los J,latam,0.4761904761904762,0,0.0
+Precedido por de Anexo:Remo en los Juegos Panamericanos de 2019 es,Anexo:Remo en los Juegos Panamericanos de 2015,el artículo sobre el remo en los Juegos Panamericanos de,latam,0.588235294117647,0,0.0
+Ubicación de Anexo:Remo en los Juegos Panamericanos de 2019 es,Área de conservación regional Albúfera Medio Mundo,un anexo de la ubicación de remo en los Juegos Pan,latam,0.1111111111111111,0,0.0
+Sucedido por de Anexo:Remo en los Juegos Panamericanos de 2019 es,Anexo:Remo en los Juegos Panamericanos de 2023,el artículo de la página de los Juegos Panamericanos de 2,latam,0.4444444444444444,0,0.0
+Organizador de Anexo:Remo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un anexo del artículo sobre Remo en los Juegos Panamericanos,latam,0.0,0,0.0
+Ubicación de Campeonato Sudamericano de Atletismo de 2019 es,Villa Deportiva Nacional,"en:
+La ubicación del Campeonato Sudamericano de At",latam,0.0,0,0.0
+Ubicación de Campeonato Sudamericano de Atletismo de 2019 es,Estadio Atlético de la Villa Deportiva Nacional,":
+La ubicación del Campeonato Sudamericano de Atlet",latam,0.2857142857142857,0,0.0
+País de Terremoto del Departamento de Loreto de 2019 es,Ecuador,el siguiente: La zona afectada se encuentra en el departamento de Loreto,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Terremoto del Departamento de Loreto de 2019 es,Departamento de Loreto,"un lugar muy interesante para visitar, es un lugar que tiene una",latam,0.0,0,0.0
+Ubicación de Terremoto del Departamento de Loreto de 2019 es,Distrito de Lagunas,un terremoto que ocurrió el 18 de noviembre de,latam,0.16666666666666666,0,0.0
+Escala de Mercalli de Terremoto del Departamento de Loreto de 2019 es,VIII en escala de Mercalli,una escala de intensidad de terremoto que se utilizó para,latam,0.26666666666666666,0,0.0
+Deporte de Anexo:Natación en los Juegos Panamericanos de 2019 es,natación,un artículo que describe la participación de la natación en los Juegos,latam,0.15384615384615385,1,0.0
+Organizador de Anexo:Natación en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento que se celebrará en el Complejo Acuático de la,latam,0.0,0,0.0
+Precedido por de Anexo:Natación en los Juegos Panamericanos de 2019 es,Anexo:Natación en los Juegos Panamericanos de 2015,el artículo de la natación en los Juegos Panamericanos de,latam,0.588235294117647,0,0.0
+Sucedido por de Anexo:Natación en los Juegos Panamericanos de 2019 es,Anexo:Natación en los Juegos Panamericanos de 2023,el evento de natación en los Juegos Panamericanos de,latam,0.6250000000000001,0,0.0
+Categoría principal del tema de Anexo:Voleibol de playa en los Juegos Panamericanos de 2019 es,Categoría:Voleibol de playa en los Juegos Panamericanos de 2019,":
+
+El tema principal del anexo ""Voleibol de playa en",latam,0.3333333333333333,0,0.0
+Compuesto por de Anexo:Voleibol de playa en los Juegos Panamericanos de 2019 es,Anexo:Voleibol de playa en los Juegos Panamericanos de 2019  Torneo masculino,una competencia que se celebró en el marco de los Juegos,latam,0.36363636363636365,0,0.0
+Compuesto por de Anexo:Voleibol de playa en los Juegos Panamericanos de 2019 es,Anexo:Voleibol de playa en los Juegos Panamericanos de 2019  Torneo femenino,un evento de competencia de voleibol de playa que se celebr,latam,0.2727272727272727,0,0.0
+Organizador de Anexo:Voleibol de playa en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un evento de tipo: Organizador de Anexo:Voleibol,latam,0.0,0,0.0
+Organizador de Anexo:Golf en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un proyecto de investigación que busca analizar el desarrollo del golf en los J,latam,0.0,0,0.0
+Organizador de Anexo:Raquetbol en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un anexo de la página principal de Wikipedia dedicada a los Juegos,latam,0.0,0,0.0
+Serie de Anexo:Raquetbol en los Juegos Panamericanos de 2019 es,Raquetbol en los Juegos Panamericanos,un evento deportivo de la modalidad de raquetbol que se celebr,latam,0.12500000000000003,0,0.0
+Organizador de Anexo:Fisicoculturismo en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"una aplicación web de tipo organizador de eventos, que permite a los usuarios",latam,0.0,0,0.0
+Organizador de Anexo:Paleta frontón en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,"un anexo de la categoría:
+Organizador de Anexo:Paleta",latam,0.0,0,0.0
+Categoría principal del tema de Anexo:Tenis en los Juegos Panamericanos de 2019 es,Categoría:Tenis en los Juegos Panamericanos de 2019,": Deportes en los Juegos Panamericanos, con subc",latam,0.5714285714285714,0,0.0
+Organizador de Anexo:Tenis en los Juegos Panamericanos de 2019 es,Organización Deportiva Panamericana,un organizador de anexo que se encarga de organizar y administr,latam,0.0,0,0.0
+Precedido por de Anexo:Tenis en los Juegos Panamericanos de 2019 es,Tenis en los Juegos Panamericanos de 2015,el título del artículo que describe el tenis en los Juegos Panamerican,latam,0.4210526315789474,0,0.0
+Organizador de Copa Panamericana de Voleibol Femenino de 2019 es,"Confederación de Norteamérica, Centroamérica y el Caribe de Voleibol",la Asociación de Voleibol de Panamá (AV,latam,0.375,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de los Estados Unidos,el equipo de la selección femenina de voleibol de,latam,0.5882352941176471,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de la República Dominicana,la selección femenina de voleibol de la República Dominic,latam,0.823529411764706,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Colombia,una de las imágenes que puede ver. El voleibol femen,latam,0.25,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Puerto Rico,"el:
+A) Cuba
+B) Argentina
+C) Brasil
+D",latam,0.0,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,selección femenina de voleibol de Argentina,el equipo mexicano de la selección femenil de vole,latam,0.4,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Canadá,un evento de la Federación Panamericana de Voleibol,latam,0.42857142857142855,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol del Perú,el equipo de la selección de Voleibol Femenino de,latam,0.4,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Cuba,"el equipo de la selección de Perú, en el cual participaron",latam,0.3529411764705882,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de México,"el equipo de:
+A. Colombia
+B. Ecuador
+C. Venezuela",latam,0.13333333333333333,0,0.0
+Equipo participante de Copa Panamericana de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Trinidad y Tobago,el equipo que representó a su país en la Copa Panamericana,latam,0.0,0,0.0
+Temporada deportiva de de Anexo:Baloncesto 3x3 en los Juegos Panamericanos de 2019 es,Baloncesto en los Juegos Panamericanos,el evento de baloncesto 3x3 que se celebró en,latam,0.2857142857142857,0,0.0
+Deporte de Anexo:Baloncesto 3x3 en los Juegos Panamericanos de 2019 es,baloncesto,el evento más reciente donde se jugó el baloncesto 3,latam,0.18181818181818182,1,0.0
+Deporte de Anexo:Tenis en silla de ruedas en los Juegos Parapanamericanos de 2019 es,tenis en silla de ruedas,un deporte que se practica con una silla de ruedas,latam,0.4,0,0.0
+Faceta de de Ceremonia de apertura de los Juegos Parapanamericanos de 2019 es,Juegos Parapanamericanos de 2019,"una fiesta de apertura de los Juegos Parapanamericanos,",latam,0.5,0,0.0
+Ubicación de Ceremonia de apertura de los Juegos Parapanamericanos de 2019 es,Estadio Nacional del Perú,"en el Estadio Olímpico de Lima, Perú, en",latam,0.3333333333333333,0,0.0
+Organizador de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Confederación Sudamericana de Voleibol,un evento que se celebrará en el país en el 201,latam,0.0,0,0.0
+Ubicación de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Cajamarca,":
+La ubicación del Campeonato Sudamericano de Vole",latam,0.0,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Brasil,el equipo de la selección de voleibol femenino de,latam,0.5333333333333333,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Colombia,"el equipo femenino de voleibol de Paraguay, con",latam,0.42857142857142855,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol del Perú,"el siguiente:
+- 1999: 1999",latam,0.0,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,selección femenina de voleibol de Argentina,el que se mostró en la ceremonia de apertura del Mundial,latam,0.11764705882352942,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Venezuela,"el equipo de voleibol femenino de Paraguay, que",latam,0.42857142857142855,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Bolivia,el equipo de la selección femenina de voleibol de,latam,0.6666666666666667,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Ecuador,el equipo de voleibol femenino de Paraguay. ¿,latam,0.4615384615384615,0,0.0
+Equipo participante de Campeonato Sudamericano de Voleibol Femenino de 2019 es,Selección femenina de voleibol de Uruguay,"una organización de voleibol femenino de Ecuador, fundada",latam,0.42857142857142855,0,0.0
+Deporte de Anexo:Baloncesto en silla de ruedas en los Juegos Parapanamericanos de 2019 es,baloncesto en silla de rueda,un deporte de anexo de los Juegos Parapanamericanos de,latam,0.14285714285714285,0,0.0
+Participó en de Perú en el Campeonato Mundial de Atletismo de 2019 es,Campeonato Mundial de Atletismo de 2019,un equipo que compite en la categoría de 4x400,latam,0.13333333333333333,0,0.0
+Ubicación de Ceremonia de clausura de los Juegos Parapanamericanos de 2019 es,Estadio Atlético de la Villa Deportiva Nacional,"en el estadio Olímpico de Lima, Perú. La",latam,0.39999999999999997,0,0.0
+Faceta de de Ceremonia de clausura de los Juegos Parapanamericanos de 2019 es,Juegos Parapanamericanos de 2019,"un evento que se celebró en la ciudad de Lima, Perú,",latam,0.13333333333333333,0,0.0
+Participó en de Perú en los Juegos Parapanamericanos de 2019 es,Juegos Parapanamericanos de 2019,"una oración correcta? ¿Cómo se debe corregir?
+
+La",latam,0.0,0,0.0
+Sucedido por de Perú en los Juegos Parapanamericanos de 2019 es,Perú en los Juegos Parapanamericanos de 2023,"el 10 de noviembre de 2019, ¿",latam,0.15384615384615383,0,0.0
+Ubicación de Incendios forestales de la selva amazónica de 2019 es,cuenca hidrográfica del Amazonas,una de las imágenes que puede ver en el sitio web del Programa de,latam,0.11111111111111112,0,0.0
+Causado por de Incendios forestales de la selva amazónica de 2019 es,deforestación,"un tema de gran importancia para el mundo, y en particular para el",latam,0.0,0,0.0
+Causado por de Incendios forestales de la selva amazónica de 2019 es,tala y quema,el segundo año consecutivo que se registra un aumento de la deforest,latam,0.0,0,0.0
+Causa de de Incendios forestales de la selva amazónica de 2019 es,Cumbre Presidencial por la Amazonía,"el aumento de la temperatura global, el cambio climático, y la def",latam,0.11764705882352941,0,0.0
+Sucedido por de Incendios forestales de la selva amazónica de 2019 es,Incendios forestales en Brasil de 2020,un incidente de incendios forestales que afectó a la Amazon,latam,0.37499999999999994,0,0.0
+Lista de interés para el proyecto Wikimedia de Incendios forestales de la selva amazónica de 2019 es,Wikiproyecto:Cambio climático,un listado de recursos y documentos de interés para el proyecto Wikimedia sobre el,latam,0.0,0,0.0
+Precedido por de Anexo:Judo en los Juegos Parapanamericanos de 2019 es,Anexo:Judo en los Juegos Parapanamericanos de 2015,un artículo que describe la participación del Judo en los Juegos Parapan,latam,0.3157894736842105,0,0.0
+Sucedido por de Anexo:Judo en los Juegos Parapanamericanos de 2019 es,Anexo:Judo en los Juegos Parapanamericanos de 2023,el artículo sobre el judo en los Juegos Parapanamericanos de,latam,0.588235294117647,0,0.0
+Ubicación de Crimen en SMP de 2019 es,San Martín de Porres,"un evento de la serie de eventos de Crimen en SMP, que tu",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Departamento Concepción,un área natural protegida (ANP) que se caracteriza por,latam,0.0,0,0.0
+Categoría en Commons de Concepción es,"Concepción, Corrientes",un concepto que describe cómo las personas y comunidades organizan y gestion,latam,0.0,0,0.0
+Imagen de Concepción es,Tamborcito de tacuari-imagen.jpg,"una iniciativa de colaboración entre el Ayuntamiento de Concepción,",latam,0.16666666666666666,0,0.0
+Categoría en Commons de Concepción es,"Concepción, Tucumán",un término que se refiere a la categorización de los archivos en el,latam,0.0,0,0.0
+Categoría principal del tema de Concepción es,Categoría:Concepción (Tucumán),":
+A. Categoría del sistema nervioso
+B. Categor",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Provincia de Catamarca,una de las principales ciudades de la región del Bío Bío y,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Departamento Capayán,un complejo de apartamentos que se encuentra ubicado en el sector de,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Provincia de San Juan,"un importante centro urbano del departamento de Antioquia, y uno de",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Valle de Concepción es,Provincia de Salta,"el municipio de San Vicente, el cual se encuentra ubicado en",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Misión Jesuítica de Concepción es,Provincia de Misiones,el más antiguo de los asentamientos humanos en la región.,latam,0.15384615384615383,0,0.0
+Estatus patrimonial de Misión Jesuítica de Concepción es,Lugar o Sitio Histórico Nacional,"una obra de investigación histórica, arqueológica y antropológica",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Provincia de Tucumán,un parque natural que se encuentra en el límite entre los departamentos,latam,0.0,0,0.0
+Aplica a la jurisdicción de Concejo Deliberante de Concepción es,Concepción,"una institución que se encarga de legislar en la ciudad, y",latam,0.0,0,0.0
+Categoría para las personas que nacieron aquí de Concepción es,Categoría:Nacidos en Concepción (Chile),"una de las más importantes. ¿Qué significa esto?
+
+La categoría para las",latam,0.0,0,0.0
+Banner de Wikiviajes de Concepción es,Concepción banner.jpg,"el lugar de nacimiento de la Virgen de los Remedios, la",latam,0.0,0,0.0
+Ciudad hermana de Concepción es,Monterrey,"la ciudad de **Puebla, México**. La relación entre Conce",latam,0.0,0,0.0
+Ciudad hermana de Concepción es,Cuenca,":
+A) San Salvador
+B) San José
+C) San Vic",latam,0.0,0,0.0
+Ciudad hermana de Concepción es,San Miguel de Tucumán,una de las ciudades con más población de la región. ¿Cuál,latam,0.13333333333333333,0,0.0
+Ciudad hermana de Concepción es,Rosario,"la ciudad de San Juan, Puerto Rico. ¿Cuál es la capital",latam,0.0,0,0.0
+Categoría en Commons de Concepción es,"Concepción, Chile","una categoría en el repositorio de medios libre Commons, donde se encuentran",latam,0.0,0,0.0
+Imagen del escudo de armas del elemento de Concepción es,Escudo de Concepción (Chile).svg,"la segunda ciudad del país, y su escudo de armas representa la",latam,0.25,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Concepción,"una zona de difícil acceso, por lo que la población la conforman personas",latam,0.0,0,0.0
+Categoría principal del tema de Concepción es,Categoría:Concepción (Chile),"el desarrollo de la ciudad, con un enfoque en la planificación",latam,0.0,0,0.0
+Galería en Commons de Concepción es,"Concepción, Chile","un espacio de almacenamiento de imágenes, videos y otros archivos multimedia, disponibles",latam,0.0,0,0.0
+Categoría para las personas que fallecieron aquí de Concepción es,Categoría:Fallecidos en Concepción (Chile),"la más alta.
+La Categoría para las personas que fallec",latam,0.0,0,0.0
+Categoría de personas relacionadas de Concepción es,Categoría:Personas de Concepción (Chile),una categoría de la Wikipedia que incluye a personas que son familiares direct,latam,0.11764705882352941,0,0.0
+Identificador de tema en Quora de Concepción es,Concepción-Chile,la capital de Chile. ¿Cómo se llama el tema? En Quora,latam,0.0,0,0.0
+Identificador Enciclopedia Británica Online de Concepción es,place/Concepcion-Chile,un proyecto de investigación que busca documentar y preservar la memoria histó,latam,0.0,0,0.0
+Fundador de Concepción es,Pedro de Valdivia,el nombre de una empresa dedicada a la producción de maquinaria agr,latam,0.13333333333333333,0,0.0
+Idioma oficial de Concepción es,español,"el castellano, pero también se habla el mapuche. How",latam,0.0,0,0.0
+Nombre en la lengua nativa de Concepción es,Concepción,"""Concepción"" o ""Concepción del Uruguay""?
+En",latam,0.2857142857142857,1,0.0
+Descrito en la fuente de Concepción es,Diccionario Enciclopédico Brockhaus y Efron,"una figura de 180 cm de altura, con un cuel",latam,0.0,0,0.0
+Descrito en la fuente de Concepción es,Encyclopædia Britannica (11ª edición),una de las mayores y más antiguas ciudades de la región de,latam,0.0,0,0.0
+Evento significativo de Concepción es,Cerco de Concepción,"el Día de la Independencia, que se celebra el 1",latam,0.15384615384615383,0,0.0
+Evento significativo de Concepción es,Independencia de Chile,"la Fiesta de la Virgen de la Candelaria, que se cele",latam,0.14285714285714288,0,0.0
+Imagen de Concepción es,"Concepcion, vista de Chepen (13654156695).jpg",un proyecto de investigación artística que busca explorar los procesos de visual,latam,0.11764705882352941,0,0.0
+Identificador Store norske leksikon de Concepción es,Concepción_-_by_i_Chile,"un lugar en el que se pueden encontrar recursos sobre la historia, la cultura",latam,0.0,0,0.0
+Comparte fronteras con de Concepción es,Hualpén,"la capital de la Región del Biobío, y tiene una superf",latam,0.0,0,0.0
+Punto más alto de Concepción es,Cerro Caracol,"el Cerro Santa Lucía, con 808 m.s.n",latam,0.22222222222222224,0,0.0
+Identificador de la Gran Enciclopedia Catalana de Concepción es,concepcion-6,10000000213950,latam,0.0,0,0.0
+Nombre oficial de Concepción es,Concepción,"la ciudad de Concepción del Uruguay, en la provincia de Entre Rí",latam,0.15384615384615385,1,0.0
+Geografía de Concepción es,geografía de Concepción,una ciudad de Chile ubicada en la Región del Bío-Bío,latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Provincia de Concepción es,Región del Biobío,un municipio del centro sur de Chile. Es una comuna con una,latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,Concepción,"un municipio que limita con la Provincia de Talca, la",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,Hualpén,"el (comuna) de Loncomilla, la cual se encuentra ubic",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,Penco,"una comuna chilena, que se encuentra ubicada en la Reg",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,San Pedro de la Paz,un municipio en el sur de Chile. Su capital es la ciudad de,latam,0.2222222222222222,0,0.0
+Mapa de localización de Provincia de Concepción es,Provincia de Concepción.svg,"una herramienta que permite localizar, identificar y comprender la ubic",latam,0.0,0,0.0
+Capital de Provincia de Concepción es,Concepción,la ciudad de Concepción. ¿Cómo se llama la capital de la región,latam,0.15384615384615385,1,0.0
+Comparte fronteras con de Provincia de Concepción es,Provincia de Ñuble,"la Provincia de _______.
+La Provincia de **Ñuble**",latam,0.5454545454545454,1,0.0
+Comparte fronteras con de Provincia de Concepción es,Provincia de Diguillín,"la Provincia de Talcahuano, pero no se puede ver porque",latam,0.30769230769230765,0,0.0
+Imagen del sello de Provincia de Concepción es,Logotipo de la Gobernación de Concepción.svg,una imagen de un sello que representa a la Provincia de Concepción,latam,0.3333333333333333,0,0.0
+Categoría principal del tema de Provincia de Concepción es,Categoría:Provincia de Concepción (Chile),"la política, la economía, la cultura, la educación, la salud,",latam,0.0,0,0.0
+Descrito en la fuente de Provincia de Concepción es,Encyclopædia Britannica (11ª edición),"el siguiente: ""El edificio de la Escuela Normal Superior de Conce",latam,0.0,0,0.0
+Categoría en Commons de Provincia de Concepción es,"Concepción Province, Chile","un sitio web de archivos digitales de la Provincia de Concepción,",latam,0.14285714285714288,0,0.0
+Categoría en Commons de Universidad de Concepción es,Universidad de Concepción,"la categoría de imágenes de la Universidad de Concepción, ubicada en la",latam,0.4,1,0.0
+Imagen de Universidad de Concepción es,Arco de Medicina UdeC.jpg,el nombre de la web de la Universidad de Concepción. La web tiene,latam,0.11764705882352941,0,0.0
+Categoría principal del tema de Universidad de Concepción es,Categoría:Universidad de Concepción,": ""Educación superior"". Este tema se relaciona con la educación univers",latam,0.0,0,0.0
+Imagen del escudo de armas del elemento de Universidad de Concepción es,Escudo de la Universidad de Concepción.svg,una institución educativa pública de Chile. Está ubicada en la ciudad,latam,0.23529411764705885,0,0.0
+Categoría para las personas que estudiaron en esta institución de Universidad de Concepción es,Categoría:Alumnado de la Universidad de Concepción,una de las categorías que se usan para identificar a los usuarios,latam,0.1111111111111111,0,0.0
+Categoría para empleados de la organización de Universidad de Concepción es,Categoría:Profesores de la Universidad de Concepción,": 1. Personal de apoyo administrativo y técnico, 2",latam,0.14285714285714288,0,0.0
+Ubicación de la sede de Universidad de Concepción es,Concepción,"en el centro de Concepción, en el antiguo convento de San",latam,0.16666666666666669,1,0.0
+Identificador de clasificación mundial de universidades Quacquarelli Symonds de Universidad de Concepción es,universidad-de-concepcion,El Identificador de Clasificación Mundial de Universidades Quac,latam,0.0,0,0.0
+Nombre oficial de Universidad de Concepción es,Universidad de Concepción,":  Universidad de Concepción (UC)
+
+La Universidad de Concepción,",latam,0.5454545454545454,1,0.0
+Diferente de de Universidad de Concepción es,Universidad de Concepción,"el sistema de enseñanza de la Universidad de Chile, ¿verdad",latam,0.30769230769230765,0,0.0
+Nombre de usuario de Twitter (X) de Universidad de Concepción es,udeconcepcion,@uniconce. ¿Puedes encontrar un error en esta información,latam,0.0,0,0.0
+CineChile filmmaker ID de Universidad de Concepción es,universidad-de-concepcion,una organización académica que busca potenciar el cine chileno,latam,0.0,0,0.0
+Rector de Universidad de Concepción es,Carlos Saavedra Rubilar,el nuevo Presidente del Consejo Universitario de la ANUIES,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Universidad de Concepción es,Concepción,"el campus más antiguo de la universidad, fundado en 1",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Universidad de Concepción es,Provincia de Concepción,un centro de investigación y desarrollo en el área de la ingeniería civil,latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Universidad de Concepción es,Región del Biobío,el organismo de investigación científica y tecnológica del centro sur de Chile,latam,0.13333333333333333,0,0.0
+Miembro de de Universidad de Concepción es,Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas,"un profesor de la Universidad de Concepción, y el profesor se",latam,0.3157894736842105,0,0.0
+Nombre de usuario de Instagram de Universidad de Concepción es,udeconcepcion,": ""UnivConcepcion"" o ""univconcepcion",latam,0.0,0,0.0
+Ubicación de Universidad de Concepción es,Concepción,"en Concepción, Chile. La Universidad de Concepción (UC) es",latam,0.19999999999999998,1,0.0
+Nombre oficial de Orquesta Sinfónica de la Universidad de Concepción es,Orquesta Sinfónica de la Universidad de Concepción,: “Orquesta Sinfónica de la Universidad de Concepción”,latam,1.0,1,0.0
+Afiliación de Orquesta Sinfónica de la Universidad de Concepción es,Universidad de Concepción,una organización que se dedica a la producción y presentación de eventos cult,latam,0.125,0,0.0
+Lugar de formación de Orquesta Sinfónica de la Universidad de Concepción es,Concepción,"la Universidad de Concepción, que se encuentra ubicada en la capital del",latam,0.15384615384615385,1,0.0
+Estadio de Club Deportivo Universidad de Concepción es,Estadio Ester Roa Rebolledo de Concepción,un estadio de fútbol ubicado en la ciudad de Conce,latam,0.25,0,0.0
+Entrenador de Club Deportivo Universidad de Concepción es,Francisco Bozán,un cargo que ejerce desde el 13 de mayo de 2,latam,0.0,0,0.0
+Categoría principal del tema de Club Deportivo Universidad de Concepción es,Categoría:Club Deportivo Universidad de Concepción,": Deportes
+En el contexto del Club Deportivo Universidad de",latam,0.42857142857142855,0,0.0
+Nombre de usuario de Twitter (X) de Club Deportivo Universidad de Concepción es,FutbolUdeC,: El nombre de usuario de Twitter (X) de Club Deportivo,latam,0.0,0,0.0
+Ubicación de la sede de Club Deportivo Universidad de Concepción es,Concepción,: La sede del Club Deportivo Universidad de Concepción se encuentra ubic,latam,0.16666666666666669,1,0.0
+Categoría en Commons de Club Deportivo Universidad de Concepción es,Club Deportivo Universidad de Concepción,un grupo de archivos que se relacionan con Club Deportivo Universidad de,latam,0.47058823529411764,0,0.0
+Categoría para miembros de un equipo de Club Deportivo Universidad de Concepción es,Categoría:Futbolistas del Club Deportivo Universidad de Concepción,una categoría de membresía del club chileno que permite a sus mi,latam,0.3157894736842105,0,0.0
+Ocupante de Estadio Ester Roa Rebolledo de Concepción es,Club Deportivo Universidad de Concepción,el cuarto en la tabla de posiciones del Torneo Apertura,latam,0.13333333333333333,0,0.0
+Arquitecto de Estadio Ester Roa Rebolledo de Concepción es,Mario Recordón,"un estadio que se encuentra en Concepción, Chile, y que es",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Estadio Ester Roa Rebolledo de Concepción es,Concepción,"un club de fútbol de Chile, fundado el 2",latam,0.0,0,0.0
+Propiedad de de Estadio Ester Roa Rebolledo de Concepción es,Concepción,"un estadio de fútbol en Concepción, Chile. Es",latam,0.2222222222222222,1,0.0
+Categoría en Commons de Estadio Ester Roa Rebolledo de Concepción es,Estadio Municipal de Concepción,"un estadio de fútbol ubicado en Concepción, Chile",latam,0.5,0,0.0
+Evento significativo de Estadio Ester Roa Rebolledo de Concepción es,inauguración,la fecha en que se conmemora el Día del Deportista,latam,0.0,0,0.0
+Evento significativo de Estadio Ester Roa Rebolledo de Concepción es,reconstrucción,"el partido entre Chile y Paraguay, que se jugará el 2",latam,0.0,0,0.0
+StadiumDB ID de Estadio Ester Roa Rebolledo de Concepción es,chi/estadio_municipal_de_concepcion,13261. El estadio es conocido como Est,latam,0.0,0,0.0
+Ubicación de Estadio Ester Roa Rebolledo de Concepción es,Concepción,"en Concepción, Chile. Está ubicado en el barrio de La",latam,0.18181818181818182,1,0.0
+Estatus patrimonial de Historia de Concepción es,Monumento Nacional de Chile,"un libro que fue publicado en 2011, el cual",latam,0.0,0,0.0
+Imagen de Historia de Concepción es,"Mural ""Historia de Concepción"" hall remodelado.JPG",una aplicación de realidad aumentada que permite a los usuarios explorar la historia,latam,0.21052631578947367,0,0.0
+Localización informal de Historia de Concepción es,"Av. Arturo Prat Nº 525 (Edificio del Gobierno Regional, antigua Estación de Ferrocarriles de Concepción)",un libro del historiador chileno Luis G. Cistern,latam,0.08695652173913045,0,0.0
+Situado en la entidad territorial administrativa de Historia de Concepción es,Concepción,un museo de historia natural que fue construido en 197,latam,0.0,0,0.0
+Categoría en Commons de Historia de Concepción es,Historia de Concepción (mural),un recurso de la Wikipedia que contiene imágenes y otros archivos relacionados con,latam,0.11764705882352941,0,0.0
+Creador de Historia de Concepción es,Gregorio de la Fuente,un proyecto de historia de la cultura y la sociedad. La historia de Conce,latam,0.22222222222222224,0,0.0
+Ubicación de Historia de Concepción es,Avenida Arturo Prat (Concepción),"un lugar en la ciudad de Concepción, en el departamento de Concepción",latam,0.125,0,0.0
+Idioma de la obra o del nombre de La Estrella de Concepción es,español,un poema en prosa de la escritora española Concepción A,latam,0.0,1,0.0
+Logotipo de La Estrella de Concepción es,Diario La Estrella.png,el logotipo oficial de la empresa. El logotipo es un,latam,0.15384615384615383,0,0.0
+Ubicación de la sede de La Estrella de Concepción es,Concepción,":
+A. Calle San Juan, 101
+B.",latam,0.0,0,0.0
+Ubicación de la sede de Biblioteca de la Universidad de Concepción es,Concepción,":
+A. Av. O'Higgins 1212
+B",latam,0.0,0,0.0
+Imagen de Arco Universidad de Concepción es,Arco de Medicina UdeC.jpg,una iniciativa que se propone crear una comunidad de aprendizaje en,latam,0.13333333333333333,0,0.0
+Arquitecto de Arco Universidad de Concepción es,Gabriela González,"una empresa que se dedica a la arquitectura, ingenier",latam,0.0,0,0.0
+Categoría en Commons de Arco Universidad de Concepción es,Arco Universidad de Concepción,"un proyecto de la Universidad de Concepción, Chile, que busca coleccion",latam,0.39999999999999997,0,0.0
+Situado en la entidad territorial administrativa de Arco Universidad de Concepción es,Concepción,"una universidad pública con sede central en Concepción, Chile, fundada",latam,0.18181818181818182,1,0.0
+Propiedad de de Arco Universidad de Concepción es,Universidad de Concepción,una empresa dedicada a la fabricación de productos de madera y mue,latam,0.13333333333333333,0,0.0
+Ubicación de la sede de Televisión Universidad de Concepción es,Concepción,": (Selecciona la opción correcta) - Universidad de Concepción,",latam,0.25,1,0.0
+Industria de Televisión Universidad de Concepción es,medio de comunicación de masas,una empresa que se dedica a la producción y distribución de contenidos,latam,0.11764705882352941,0,0.0
+Producto de Televisión Universidad de Concepción es,televisión,"una empresa con más de 30 años de historia, dedicada a",latam,0.0,0,0.0
+Título de Boletín de la Sociedad de Biología de Concepción es,Boletin de la Sociedad de Biología de Concepción,una revista científica de acceso abierto que publica artículos de,latam,0.22222222222222224,0,0.0
+Título de Boletín de la Sociedad de Biología de Concepción es,Boletín de la Sociedad de Biología de Concepción,un boletín científico que se edita desde el año 19,latam,0.11111111111111112,0,0.0
+Nombre del autor de Boletín de la Sociedad de Biología de Concepción es,Sociedad de Biología de Concepción,: El Boletín de la Sociedad de Biología de Concepción,latam,0.7142857142857143,1,0.0
+Nombre del autor de Boletín de la Sociedad de Biología de Concepción es,Sociedad de Bioquímica de Concepción,":
+
+El nombre del autor del Boletín de la Sociedad de Bi",latam,0.37499999999999994,0,0.0
+Nombre del autor de Boletín de la Sociedad de Biología de Concepción es,Universidad de Concepción,el siguiente: El Boletín de la Sociedad de Biología de,latam,0.15384615384615383,0,0.0
+Identificador Internet Archive de Boletín de la Sociedad de Biología de Concepción es,boletindelasocie16192732soci,"13803591, pero no se encuentra en",latam,0.0,0,0.0
+Editorial de Boletín de la Sociedad de Biología de Concepción es,Universidad de Concepción,"una revista científica que publica artículos originales, re",latam,0.0,0,0.0
+Idioma de la obra o del nombre de Boletín de la Sociedad de Biología de Concepción es,español,el idioma en el que se presenta la obra o el nombre del Bo,latam,0.0,0,0.0
+Imagen de Mercado Central de Concepción es,Mercado Central de Concepción 2010.jpg,un tipo de imagen que representa una escena de mercado central en Concepción,latam,0.4444444444444444,0,0.0
+Situado en la entidad territorial administrativa de Mercado Central de Concepción es,Concepción,"un mercado de abastos que se encuentra en el centro de la ciudad,",latam,0.0,0,0.0
+Categoría en Commons de Mercado Central de Concepción es,Mercado Central de Concepción,una categoría que tiene el propósito de organizar las imágenes de Mercado Central,latam,0.3529411764705882,0,0.0
+Identificador Enciclopedia Británica Online de Bahía de Concepción es,place/Concepcion-Bay,un término que puede referirse a dos cosas: 1. El puerto,latam,0.0,0,0.0
+Alimentación de Bahía de Concepción es,Río Andalién,un proyecto de investigación que se enfoca en estudiar la dinámica,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Bahía de Concepción es,Región del Biobío,"una de las ciudades más importantes del departamento de Sucre, es la",latam,0.13333333333333333,0,0.0
+Categoría en Commons de Bahía de Concepción es,Concepción Bay,"un lugar en la República Dominicana, en la provincia de La Altag",latam,0.0,0,0.0
+Mapa de localización de Bahía de Concepción es,Plano de la Bahía de Concepción del Reino de Chile en 1744 - AHG.jpg,un lugar que se encuentra en el centro de la región de Valparaí,latam,0.3076923076923077,0,0.0
+Vista panorámica de Bahía de Concepción es,Bahia de concepcion vistan desde tunel punta de parra.jpg,una fotografía que se puede ver en el sitio web de la empresa de,latam,0.17391304347826086,0,0.0
+Ubicación de la sede de Club Hípico de Concepción es,Avenida Cristóbal Colón (Talcahuano),":
+La sede del Club Hípico de Concepción se encuentra ubic",latam,0.0,0,0.0
+Imagen de Club Hípico de Concepción es,Hipodromo de Concepción - Wikipaseo fotográfico Concepción 2019 - (011).jpg,una marca de ropa con diseños inspirados en el mundo del cab,latam,0.1,0,0.0
+Categoría en Commons de Club Hípico de Concepción es,Club Hípico de Concepción,"un espacio de imágenes, audios y videos relacionados con el Club H",latam,0.25,0,0.0
+Imagen de Barrio Cívico de Concepción es,Intendencia Regional del Biobío - Wikipaseo fotográfico Concepción 2019 - (260).jpg,una foto de archivo de la Biblioteca Nacional de Chile. El lugar fue,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Barrio Cívico de Concepción es,Concepción,el lugar donde se encuentra la sede principal del Departamento de Salud y,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Barrio Universitario de Concepción es,Concepción,el centro de investigación del Instituto de Investigación Agropecuaria de,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Ciudad Universitaria de Concepción es,Concepción,un edificio de 4 pisos con 1200 metros,latam,0.0,0,0.0
+Categoría principal del tema de Colegio Salesiano de Concepción es,Categoría:Colegio Salesiano de Concepción,": Educación
+
+¿Puedes hacer una propuesta de una nueva categoría",latam,0.15384615384615383,0,0.0
+Categoría para las personas que estudiaron en esta institución de Colegio Salesiano de Concepción es,Categoría:Alumnado del Colegio Salesiano de Concepción,una de las mejores opciones para educar a sus hijos. La educación sales,latam,0.10526315789473684,0,0.0
+Ubicación de la sede de Colegio Salesiano de Concepción es,Concepción,"en la comuna de Concepción, Chile. La sede se encuentra en",latam,0.16666666666666669,1,0.0
+Imagen de Corte de Apelaciones de Concepción es,Edificio de los Tribunales de Justicia de Concepcion.JPG,"la que se ve en la foto, ubicada en la Avenida",latam,0.0,0,0.0
+Ubicación de la sede de Cuerpo de Bomberos de Concepción es,Concepción,":
+La sede del Cuerpo de Bomberos de Concepción, ubic",latam,0.19999999999999998,1,0.0
+Situado en la entidad territorial administrativa de Cuerpo de Bomberos de Concepción es,Concepción,"el responsable de la prevención, protección, extinción de incend",latam,0.0,0,0.0
+Miembro de de Cuerpo de Bomberos de Concepción es,Bomberos de Chile,"asesinado en el municipio de Maturín, estado Mon",latam,0.18181818181818182,0,0.0
+Situado en la entidad territorial administrativa de Estación Central de Concepción es,Concepción,"la comuna de Concepción, capital del Biobío, en la",latam,0.19999999999999998,1,0.0
+Categoría en Commons de Estación Central de Concepción es,Estación Central de Concepción,"un grupo de imágenes de la Estación Central de Concepción, una est",latam,0.5,1,0.0
+Estado de uso de Estación Central de Concepción es,clausurado,"un tema de interés para el Ministerio de Vivienda, Urbanismo",latam,0.0,0,0.0
+Precedido por de Facultad de Ciencias Jurídicas y Sociales de la Universidad de Concepción es,Curso Fiscal de Leyes de Concepción,el doctor en derecho constitucional por la Universidad de Chile y magí,latam,0.1111111111111111,0,0.0
+Ubicación de la sede de Facultad de Humanidades y Arte de la Universidad de Concepción es,Concepción,":
+
+La Facultad de Humanidades y Arte de la Universidad de Conce",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Facultad de Humanidades y Arte de la Universidad de Concepción es,Concepción,un espacio físico que se encuentra en el campus universitario y es un,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Facultad de Humanidades y Arte de la Universidad de Concepción es,Provincia de Concepción,"un espacio de aprendizaje, creación, investigación, divulgación",latam,0.2,0,0.0
+Situado en la entidad territorial administrativa de Facultad de Humanidades y Arte de la Universidad de Concepción es,Región del Biobío,"un espacio de trabajo, investigación, desarrollo, extensión y transferencia",latam,0.0,0,0.0
+Categoría principal del tema de Facultad de Humanidades y Arte de la Universidad de Concepción es,Universidad de Concepción,":
+A. Ciencias Sociales
+B. Ciencias de la Sal",latam,0.18181818181818182,0,0.0
+Categoría principal del tema de Facultad de Ingeniería de la Universidad de Concepción es,Categoría:Facultad de Ingeniería de la Universidad de Concepción,":
+A) Ciencias Básicas
+B) Ingeniería",latam,0.15384615384615385,0,0.0
+Logotipo de Facultad de Ingeniería de la Universidad de Concepción es,FI UdeC logo oficial.png,el elemento principal de la identidad visual de la Facultad. El,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Facultad de Ingeniería de la Universidad de Concepción es,Concepción,una institución de educación superior que se caracteriza por su trayectoria,latam,0.0,0,0.0
+Imagen de Facultad de Medicina de la Universidad de Concepción es,Facultad de medicina udec.jpg,la que aparece en el anuncio de la vacuna de Pfizer.,latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Facultad de Medicina de la Universidad de Concepción es,Concepción,"un edificio que se encuentra en la Avenida Universidad, entre las cal",latam,0.0,0,0.0
+Imagen de Galería de la Historia de Concepción es,Galería de la Historia de Concepción - 5.jpg,una aplicación para android que te permite ver imágenes de la historia de Concepción,latam,0.4761904761904762,0,0.0
+Situado en la entidad territorial administrativa de Galería de la Historia de Concepción es,Concepción,"una muestra de la historia de la ciudad, con 16 salas",latam,0.0,0,0.0
+Situado en la dirección postal de Galería de la Historia de Concepción es,"Hospicio Nº40, Parque Ecuador","el Museo Histórico Provincial de Concepción, que posee una",latam,0.0,0,0.0
+Categoría en Commons de Galería de la Historia de Concepción es,Galería de la Historia de Concepción,un sitio donde se pueden subir imágenes relacionadas con la historia de Conce,latam,0.3157894736842105,0,0.0
+Identificador en Facebook de Galería de la Historia de Concepción es,galeriahistoriaconcepcion,: https://www.facebook.com/GaleriaHistoriaConcepcion,latam,0.0,1,0.0
+Faceta de de geografía de Concepción es,Concepción,"una región con una gran biodiversidad, ¿qué tipo de ecos",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Hospital Regional de Concepción es,Concepción,"el hospital más grande del centro-sur del país, con 320",latam,0.0,0,0.0
+Imagen de Hospital Regional de Concepción es,Hospital Regional de Concepción.JPG,"el hospital de referencia en el norte de Chile, que atiende",latam,0.26666666666666666,0,0.0
+Afiliación de Hospital Regional de Concepción es,Universidad de Concepción,en el sistema nacional de salud? El Hospital Regional de Concepción es parte,latam,0.25,0,0.0
+Situado en la dirección postal de Hospital Regional de Concepción es,"San Martín  1436, Concepción","el principal hospital del sur de Chile, y uno de los principales del país",latam,0.0,0,0.0
+País de Intendencia de Concepción es,Imperio Español,"un distrito que se encuentra en el departamento de Concepción, en el",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Zoológico de Concepción es,Concepción,"un lugar que se encuentra en el centro de la ciudad de Concepción,",latam,0.14285714285714288,1,0.0
+Categoría en Commons de Zoológico de Concepción es,Zoológico de Concepción,un grupo de imágenes y videos en el repositorio de Wikimedia Commons dedicado,latam,0.125,0,0.0
+Imagen de Zoológico de Concepción es,LeonesZooConcepcion.JPG,la primera en el país en ofrecer servicios de telemedicina con veterin,latam,0.0,0,0.0
+Ubicación de la sede de Museo de Historia Natural de Concepción es,Concepción,":
+La sede del Museo de Historia Natural de Concepción se encuentra",latam,0.16666666666666669,1,0.0
+Situado en la entidad territorial administrativa de Museo de Historia Natural de Concepción es,Concepción,"un centro de investigación, conservación, educación y divulgación científica",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Teatro Universidad de Concepción es,Concepción,"un espacio cultural y social, en el que se desarrolla la actividad te",latam,0.0,0,0.0
+Compuesto por de provincia eclesiástica de Concepción es,Arquidiócesis de la Santísima Concepción,una de las diez diócesis de la Iglesia católica,latam,0.2857142857142857,0,0.0
+Compuesto por de provincia eclesiástica de Concepción es,diócesis de Chillán,"un distrito que pertenece a la provincia de Concepción, en",latam,0.15384615384615383,0,0.0
+Compuesto por de provincia eclesiástica de Concepción es,diócesis de Santa María de Los Ángeles,una región de Chile que se extiende desde el río Bío,latam,0.1111111111111111,0,0.0
+Compuesto por de provincia eclesiástica de Concepción es,diócesis de Temuco,"el departamento de Concepción, cuya capital es la misma Concepción.",latam,0.15384615384615383,0,0.0
+Compuesto por de provincia eclesiástica de Concepción es,diócesis de Valdivia,"una ciudad de Chile, ubicada en la región del Biobío.",latam,0.15384615384615383,0,0.0
+Compuesto por de provincia eclesiástica de Concepción es,diócesis de Villarrica,"el departamento de Concepción, el cual se encuentra en la región del Bi",latam,0.125,0,0.0
+Categoría principal del tema de provincia eclesiástica de Concepción es,Categoría:Provincia eclesiástica de Concepción,"el desarrollo de la actividad educativa, con especial atención a la formación",latam,0.125,0,0.0
+Cargo ocupado por el dirigente de provincia eclesiástica de Concepción es,Arzobispo de Concepción,"el que se encuentra en la plaza de armas de la ciudad, en",latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Cementerio General de Concepción es,Concepción,"un inmueble de gran valor cultural, histórico y social, con una",latam,0.0,0,0.0
+Imagen de Cementerio General de Concepción es,Entrada al Cementerio General de Concepción Chile 1.JPG,"un lugar de descanso y recordatorio de la vida, pero también",latam,0.10526315789473685,0,0.0
+Categoría en Commons de Cementerio General de Concepción es,Cementerio General de Concepción,una categoría que recoge imágenes de la zona de Cementerio General de,latam,0.375,0,0.0
+Industria de Corporación Club Deportivo Universidad de Concepción es,actividades deportivas,"un club de fútbol profesional chileno, con sede en",latam,0.0,0,0.0
+Imagen de Facultad de Ciencias Químicas de la Universidad de Concepción es,Universidad de Concepcion Incendio despues del terremoto 2010.jpg,la mejor del concurso de fotografía científica 2015,latam,0.25,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Provincia de Concepción,"la
+**Universidad de Concepción (UdeC)**, que",latam,0.4444444444444444,0,0.0
+Capital de Concepción es,Concepción,"el mejor del país, pero su rival es el Club Social y Deport",latam,0.0,0,0.0
+Mapa de localización de Concepción es,Comuna de Concepción.svg,una herramienta útil para encontrar el lugar donde se encuentra la ciudad de Conce,latam,0.11764705882352941,0,0.0
+Subclase de de intendente de la provincia de Concepción es,intendente provincial de Chile,"un cargo de gobierno local en la provincia de Concepción, Chile, enc",latam,0.25,0,0.0
+Aplica a la jurisdicción de intendente de la provincia de Concepción es,Antigua provincia de Concepción (Chile),la acción de nulidad de actos administrativos? ¿Por qué,latam,0.14285714285714285,0,0.0
+Situado en la entidad territorial administrativa de Clásico Club Hípico de Concepción es,Hualpén,"el Club Hípico de Concepción, en el cual se pract",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Gimnasio Municipal de Concepción es,Concepción,"el primer colegio de la ciudad, y fue fundado el 2",latam,0.0,0,0.0
+Mapa detallado de Metro de Concepción es,"Metro de Concepción (trazado propuesto, 2018).svg","un mapa que muestra la red de metro de Concepción, Chile, con",latam,0.3333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Metro de Concepción es,Concepción,un proyecto de transporte público con una capacidad de 100 pasaj,latam,0.0,0,0.0
+Estado de uso de Metro de Concepción es,estructura o edificio propuesto,un metro que conecta a Concepción con el Aeropuerto Internacional,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Memorial en Universidad de Concepción es,Concepción,un espacio de aprendizaje para estudiantes y profesores de la Universidad de,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Memorial en Universidad de Concepción es,Región del Biobío,un campus universitario que se especializa en la formación de profes,latam,0.0,0,0.0
+Imagen de Memorial en Universidad de Concepción es,Memorial DDHH Chile 25 U de Concepción.jpg,"una imagen de la Universidad de Concepción, en Chile, que muestra un",latam,0.2105263157894737,0,0.0
+Situado en la entidad territorial administrativa de Piedra Recordatoria a la Vicaría de la Solidaridad de Concepción es,Concepción,un lugar de culto que se encuentra en la comuna de San Est,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Piedra Recordatoria a la Vicaría de la Solidaridad de Concepción es,Región del Biobío,un edificio de 3 plantas de 300 metros cu,latam,0.0,0,0.0
+Imagen de Piedra Recordatoria a la Vicaría de la Solidaridad de Concepción es,Memorial DDHH Chile 26 Vicaria Concepción.jpg,una foto de la obra de arte que está ubicada en la Plaza de,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Consultorio de Salud Universidad de Concepción es,Región de Ñuble,el primer centro de salud en la región de Biobío y el segundo,latam,0.25,0,0.0
+Situado en la dirección postal de Consultorio de Salud Universidad de Concepción es,"Avenida Vicente 595, Chillán",un consultorio médico privado con una amplia variedad de especialistas,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Clínica Universitaria de Concepción es,Hualpén,"una institución de salud pública, que brinda servicios médicos y hospital",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Clínica Universitaria de Concepción es,Región del Biobío,el lugar donde se atiende a los pacientes con problemas de salud mental,latam,0.0,0,0.0
+Situado en la dirección postal de Clínica Universitaria de Concepción es,"Avenida Presidente Jorge Alesandri Rodríguez 2047, Hualpén",una clínica universitaria que está ubicada en la ciudad de,latam,0.0,0,0.0
+Subclase de de alcalde de Concepción es,alcalde de Chile,la que se encarga de la seguridad ciudadana. ¿Cómo se llama,latam,0.14285714285714288,0,0.0
+Aplica a la jurisdicción de alcalde de Concepción es,Concepción,"decir, el alcalde de Concepción, el municipio, y",latam,0.2222222222222222,1,0.0
+Forma femenina de la etiqueta de alcalde de Concepción es,alcaldesa de Concepción,"La forma femenina de la etiqueta ""alcalde""",latam,0.2,0,0.0
+Lista del elemento de alcalde de Concepción es,Anexo:Alcaldes de Concepción,una lista de los alcaldes que han ejercido el cargo de,latam,0.14285714285714288,0,0.0
+Categoría principal del tema de alcalde de Concepción es,Categoría:Alcaldes de Concepción (Chile),": 
+
+Alcalde de Concepción
+
+Subcategorías:
+-",latam,0.5,0,0.0
+Situado en la entidad territorial administrativa de Colegio Alemán de Concepción es,Concepción,una institución educativa que se encarga de brindar educación a,latam,0.0,0,0.0
+Ubicación de Memorial del Campus Chillán de la Universidad de Concepción es,Campus Chillán de la Universidad de Concepción,":
+
+El Memorial del Campus Chillán de la Universidad de Concepción está ubic",latam,0.7368421052631579,1,0.0
+Organización dirigida desde este cargo de Arzobispo de Concepción es,Arquidiócesis de la Santísima Concepción,"el obispado de Concepción, que fue fundado en 1",latam,0.2857142857142857,0,0.0
+Organización dirigida desde este cargo de Arzobispo de Concepción es,provincia eclesiástica de Concepción,la que ha solicitado el cese de los sacerdotes de,latam,0.14285714285714288,0,0.0
+Categoría principal del tema de Arzobispo de Concepción es,Categoría:Arzobispos de Concepción,": ""Religión y fe"". ¿Cuál es la categoría más",latam,0.0,0,0.0
+Reemplaza a de Arzobispo de Concepción es,Obispo de Concepción en Chile,el título honorífico que se le otorga al obispo,latam,0.14285714285714285,0,0.0
+Situado en la entidad territorial administrativa de Primera Iglesia Metodista de Concepción es,Concepción,un lugar de culto que se construyó en el año 1,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Primera Iglesia Evangélica Bautista de Concepción es,Concepción,un instituto educativo que imparte enseñanza de nivel primaria,latam,0.0,0,0.0
+Situado en la dirección postal de Primera Iglesia Evangélica Bautista de Concepción es,"Obispo Hipólito Salas 1019, 4030493",el edificio de la congregación. How do you say this sentence in,latam,0.0,0,0.0
+Sucedido por de Curso Fiscal de Leyes de Concepción es,Facultad de Ciencias Jurídicas y Sociales de la Universidad de Concepción,"un sistema de gestión de información para la administración pública, que permite la",latam,0.24999999999999994,0,0.0
+Ubicación de la sede de Curso Fiscal de Leyes de Concepción es,Concepción,": Av. Costanilla 1410, Concepción,",latam,0.4,1,0.0
+Situado en la entidad territorial administrativa de Parque Bicentenario de Concepción es,Región del Biobío,"el Parque de la Cultura, que se encuentra en la Avenida",latam,0.0,0,0.0
+Aplica a la jurisdicción de Ilustre Municipalidad de Concepción es,Concepción,el lugar donde se encuentra la Universidad Católica de Temuco. La Universidad,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Ilustre Municipalidad de Concepción es,Concepción,"un centro de formación profesional técnica, con fines de formación y capacit",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Marcha del Orgullo LGBT de Concepción es,Concepción,"una organización que busca promover la diversidad sexual, la identidad de",latam,0.0,0,0.0
+Reemplazado por de diócesis de Concepción es,Arquidiócesis de la Santísima Concepción,"la diócesis de Concepción, que es la más grande de",latam,0.4,0,0.0
+Reemplaza a de diócesis de Concepción es,Diócesis de La Imperial,una de las 27 diócesis que forman la Con,latam,0.46153846153846156,0,0.0
+Diferente de de diócesis de Concepción es,diócesis de la Santísima Concepción,un distrito del departamento de Concepción en el Perú. Está ubic,latam,0.25000000000000006,0,0.0
+Diferente de de diócesis de Concepción es,Diócesis de Concepción,"un distrito de la región de Apurímac, en el Per",latam,0.15384615384615383,0,0.0
+Ubicación de la sede de diócesis de Concepción es,Concepción,"en el edificio que se encuentra en la Calle San Luis, es",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de diócesis de Concepción es,Obispo de Concepción en Chile,el que se encuentra en la lista de las 120 personas que,latam,0.23529411764705882,0,0.0
+Categoría en Commons de Concepción es,"Concepción, Peru",el conjunto de archivos que se suben a la Wikipedia con la licencia,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Concepción es,Distrito de Concepción,"el municipio de San José de la Montaña, el cual es conoc",latam,0.13333333333333333,0,0.0
+Imagen de Concepción es,"Concepción Plaza, Junín.jpg","un barrio de la ciudad de Madrid, España. El barrio se",latam,0.0,0,0.0
+Imagen de Concepción es,Concepcion triptico.png,un proyecto de investigación del grupo de investigación en historia del arte del Departamento,latam,0.0,0,0.0
+Identificador de la Gran Enciclopedia Catalana de Concepción es,concepcion,un concepto que se refiere a la enciclopedia que se public,latam,0.0,0,0.0
+Categoría en Commons de Combate de Concepción es,Héroes de La Concepción,"el combate de Concepción, también conocido como el combate de",latam,0.28571428571428575,0,0.0
+Imagen de Combate de Concepción es,Iglesia de la Concepcion (oleo).jpg,"una obra pictórica del pintor español
+**Diego Veláz",latam,0.0,0,0.0
+Ubicación de Combate de Concepción es,Concepción,"un libro de la colección ""El Pueblo y la Historia""",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Provincia de Concepción es,Departamento de Junín,un centro de salud que brinda servicios de atencion primaria de salud,latam,0.13333333333333333,0,0.0
+Imagen de Provincia de Concepción es,Municipalidad Peru Junín Concepción Concepción.jpg,"una empresa dedicada a la producción de imágenes de alta calidad, especializada",latam,0.0,0,0.0
+Mapa de localización de Provincia de Concepción es,Provincia de Concepción.png,el mapa que muestra la ubicación de la Provincia de Concepción en,latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,Distrito de Concepción,"el municipio de Loncomilla, el cual se encuentra ubicado en",latam,0.15384615384615383,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,Distrito de Manzanares,una comuna chilena ubicada en la Región del Bío,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Concepción es,Distrito de Nueve de Julio,la comuna de Loncomilla. La comuna está ubicada en,latam,0.14285714285714285,0,0.0
+Comparte fronteras con de Provincia de Concepción es,Provincia de Chupaca,:  La Provincia de Concepción está ubicada en la Región,latam,0.3333333333333333,0,0.0
+Comparte fronteras con de Provincia de Concepción es,Provincia de Satipo,"la Provincia de ______
+
+La Provincia de **Arauco**",latam,0.36363636363636365,0,0.0
+Comparte fronteras con de Provincia de Concepción es,provincia de Yauyos,la Provincia de Ñuble. ¿Cuál es la respuesta correct,latam,0.3333333333333333,0,0.0
+Categoría principal del tema de Provincia de Concepción es,Categoría:Provincia de Concepción (Perú),"el Turismo, pero también se incluyen temas como la educación, la",latam,0.0,0,0.0
+Categoría en Commons de Provincia de Concepción es,Concepción Province,la categoría que contiene los archivos que pertenecen a la Provincia,latam,0.0,0,0.0
+Órgano legislativo de Provincia de Concepción es,Municipalidad Provincial de Concepción,"la Asamblea Provincial, que está compuesta por 38 dip",latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Distrito de Concepción es,Vilcashuamán,"un municipio ubicado en el departamento de Antioquia, Colombia,",latam,0.0,0,0.0
+Comparte fronteras con de Distrito de Concepción es,Distrito de Vilcashuamán,"el Distrito de ________.
+
+Comparte fronteras con el",latam,0.36363636363636365,0,0.0
+Capital de Distrito de Concepción es,Concepción,"un municipio de la provincia de Concepción, en el departamento de Conce",latam,0.15384615384615385,1,0.0
+Situado en la entidad territorial administrativa de Distrito de Concepción es,Provincia de Concepción,"el municipio de Concepción, en el departamento de Antioquia,",latam,0.3333333333333333,0,0.0
+Comparte fronteras con de Distrito de Concepción es,Distrito de Nueve de Julio,"un Distrito de la Región del Biobío, Chile. Limit",latam,0.2857142857142857,0,0.0
+Comparte fronteras con de Distrito de Concepción es,Distrito de San Jerónimo de Tunán,"el Distrito de San José de Gracia, y con el Distrito",latam,0.4705882352941177,0,0.0
+Categoría en Commons de Distrito de Concepción es,"Concepción District, Concepción",el conjunto de imágenes de la Wikipedia en el que se incluyen imágenes de,latam,0.0,0,0.0
+Ubicación de Cementerio de Huaychulo de Concepción es,Distrito de Concepción,un lugar de descanso para los fallecidos en Concepción,latam,0.3333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Cementerio de Huaychulo de Concepción es,Provincia de Concepción,"un lugar que se encuentra ubicado en el distrito de Concepción,",latam,0.28571428571428575,0,0.0
+Estatus patrimonial de Cementerio de Huaychulo de Concepción es,Patrimonio Cultural de la Nación,"una de las instituciones más antiguas del Perú, cuya",latam,0.14285714285714285,0,0.0
+Ubicación de Iglesia de Alayo de Concepción es,Distrito de Concepción,"en la localidad de Alayo de Concepción, en la comar",latam,0.30769230769230765,0,0.0
+Situado en la entidad territorial administrativa de Iglesia de Alayo de Concepción es,Provincia de Concepción,"el municipio de Alayo, que se encuentra en la región del centro",latam,0.13333333333333333,0,0.0
+Estatus patrimonial de Iglesia de Alayo de Concepción es,Patrimonio Cultural de la Nación,un trabajo de investigación que se desarrolla en el marco de la tit,latam,0.2222222222222222,0,0.0
+Ubicación de Estación de Concepción es,Distrito de Concepción,una aplicación web que permite localizar el lugar de la estación de Conce,latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Estación de Concepción es,Provincia de Concepción,"una de las zonas más importantes del estado, debido a su ubicación",latam,0.13333333333333333,0,0.0
+Estatus patrimonial de Estación de Concepción es,Patrimonio Cultural de la Nación,"un proyecto de investigación de la Universidad de Concepción, en Chile, que",latam,0.23529411764705882,0,0.0
+Localización informal de Estación de Concepción es,Av. Ferrocarril cuadra 1/ Av. Palma. Barrio Molinos.,la ubicación de la Estación de Concepción en el municipio de,latam,0.0,0,0.0
+Red de transporte de Concepción es,Metro de Huancayo,"una red de transporte que sirve a la ciudad de Concepción, Chile",latam,0.13333333333333333,0,0.0
+Estado de uso de Concepción es,cancelada,"un estado de la República de Paraguay, con capital en Concepción.",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Municipalidad Provincial de Concepción es,Provincia de Concepción,"un municipio ubicado en el departamento de Concepción, región del Bi",latam,0.28571428571428575,0,0.0
+Identificador en Facebook de Municipalidad Provincial de Concepción es,municipalidadprovincial.deconcepcion,el siguiente: 17800403286,latam,0.0,0,0.0
+Aplica a la jurisdicción de Municipalidad Provincial de Concepción es,Provincia de Concepción,"un distrito del departamento de Ancash, Perú. Pertenece",latam,0.18181818181818182,0,0.0
+Género de Casino Royale es,cine de acción,": un thriller, un drama, un acción, un romance, un sus",usa,0.15384615384615383,0,0.0
+Género de Casino Royale es,cine de espionaje,"un género de película que se basa en la acción, la aventura",usa,0.13333333333333333,0,0.0
+Género de Casino Royale es,cine de suspenso,": La película ""Casino Royale"" (2006) es",usa,0.0,0,0.0
+Género de Casino Royale es,cine de crímenes,":
+A) novela
+B) película
+C) cómic",usa,0.0,0,0.0
+Género de Casino Royale es,película basada en una novela,":
+A. Drama
+B. Acción
+C. Comedia",usa,0.0,0,0.0
+Miembro del reparto de Casino Royale es,Sébastien Foucan,"un grupo de actores que participaron en la película Casino Royale, que",usa,0.0,0,0.0
+Miembro del reparto de Casino Royale es,Claudio Santamaria,el título del primer álbum del grupo británico The Prodigy.,usa,0.0,0,0.0
+Miembro del reparto de Casino Royale es,Carlos Leal,el título del libro de la escritora británica Ruth Rendell,usa,0.0,0,0.0
+Miembro del reparto de Casino Royale es,Lasco Atkins,el título del libro de la escritora inglesa Muriel Spark,usa,0.0,0,0.0
+Lugar de filmación de Casino Royale es,Barrandov Studios,una de las películas más famosas de la saga James Bond. Se,usa,0.0,0,0.0
+Lugar de filmación de Casino Royale es,Aeropuerto de Praga,"un lugar en Londres, Inglaterra, donde se grabaron algunas",usa,0.0,0,0.0
+Lugar de filmación de Casino Royale es,República Checa,"en el Hotel Ritz en Londres, Inglaterra. El hotel",usa,0.0,0,0.0
+Lugar de filmación de Casino Royale es,Venecia,"la isla de Jamaica, específicamente en el resort de Sandals.",usa,0.0,0,0.0
+Lugar de filmación de Casino Royale es,Lago de Como,"un film de 2006, del género de acción, de",usa,0.16666666666666666,0,0.0
+Lugar de filmación de Casino Royale es,Plaza de Wenceslao,un tema que muchos fans del universo de James Bond han preguntado,usa,0.13333333333333333,0,0.0
+Género de Iron Man 3 es,cine de superhéroes,"una película de acción, ciencia ficción y comedia. La historia",usa,0.15384615384615383,0,0.0
+Género de Iron Man 3 es,cine de acción,":
+El género de *Iron Man 3* es **ciencia fic",usa,0.16666666666666666,0,0.0
+Género de Iron Man 3 es,cine de ciencia ficción,"...
+El género de **Iron Man 3** (2013",usa,0.18181818181818182,0,0.0
+Miembro del reparto de Iron Man 3 es,Miguel Ferrer,el actor que interpreta a la Viuda Negra. ¿Quién,usa,0.0,0,0.0
+Miembro del reparto de Iron Man 3 es,Guy Pearce,el actor que interpretó a Tony Stark en la película. ¿Quién,usa,0.0,0,0.0
+Miembro del reparto de Iron Man 3 es,Rebecca Mader,el actor que interpreta a la serpiente de dos cabezas.,usa,0.0,0,0.0
+Miembro del reparto de Iron Man 3 es,Fernando Chien,el que interpreta a la nueva tecnología de armamento. ¿Quién,usa,0.0,0,0.0
+Miembro del reparto de Iron Man 3 es,Bronte D'Esposito,"la nueva película de Marvel, el actor Robert Downey Jr. (Tony",usa,0.0,0,0.0
+Miembro del reparto de Iron Man 3 es,Kiante Elam,el actor que interpreta a la madre de Tony Stark. ¿Quién,usa,0.0,0,0.0
+Lugar de filmación de Iron Man 3 es,Los íngeles,"el Parque Nacional de las Cavernas de Mammoth Cave, en",usa,0.0,0,0.0
+Lugar de filmación de Iron Man 3 es,Carolina del Norte,"en un lugar de la costa de California, y se llama...? La",usa,0.0,0,0.0
+Género de David Lynch es,cine de terror,"tan único que no puede ser etiquetado, pero si se le tiene",usa,0.0,0,0.0
+Género de David Lynch es,cine de suspenso,"un estilo muy particular, y sus películas son muy distintas, pero",usa,0.0,0,0.0
+Género de David Lynch es,surrealismo,un género de película que se caracteriza por un estilo visual y narrativo,usa,0.0,0,0.0
+Ocupación de David Lynch es,director de cine,una película de 2011 dirigida por el propio David Lynch,usa,0.15384615384615383,0,0.0
+Ocupación de David Lynch es,actor de voz,"un documental de 2009, dirigido por Nick B",usa,0.18181818181818182,0,0.0
+Ocupación de David Lynch es,editor de cine,"el nuevo disco del dúo de electrónica experimental
+**The Hax",usa,0.15384615384615383,0,0.0
+Ocupación de David Lynch es,compositor de canciones,un documental de 2018 que se estrenó en,usa,0.18181818181818182,0,0.0
+Ocupación de David Lynch es,productor de cine,un documental de 2010 de la directora y gu,usa,0.16666666666666666,0,0.0
+Ocupación de David Lynch es,actor de televisión,un libro del escritor y director estadounidense David Lynch. F,usa,0.0,0,0.0
+Ocupación de David Lynch es,actor de cine,"un documental de 2014, de 201",usa,0.2222222222222222,0,0.0
+Ocupación de David Lynch es,escritor,el tercer álbum de estudio de la banda de metal alternativo estadounid,usa,0.0,0,0.0
+Género de Grindhouse es,cine de explotación,"un subgénero de cine de acción, que se inspira en las",usa,0.28571428571428575,0,0.0
+Género de Grindhouse es,cine de acción,un proyecto musical que surgió en 2013 en la,usa,0.0,0,0.0
+Género de Grindhouse es,cine de terror,una subcategoría del género de cine de acción. Se caracteriza,usa,0.30769230769230765,0,0.0
+Género de Grindhouse es,cine de suspenso,un subgénero de la película de terror que se inspira en las,usa,0.13333333333333333,0,0.0
+Género de Grindhouse es,comedia de acción,un estilo de cine que se caracteriza por su mezcla de elementos de,usa,0.125,0,0.0
+Género de Grindhouse es,película de antologí­a,"una empresa de producción cinematográfica especializada en el género de acción,",usa,0.14285714285714288,0,0.0
+Género de Grindhouse es,cine de zombis,"un género de cine de acción, de horror, de terror y de fantas",usa,0.25,0,0.0
+Género de Grindhouse es,cine de ciencia ficción,un género de cine que mezcla elementos de varios géneros de cine,usa,0.25,0,0.0
+Género de Grindhouse es,cine policí­aco de suspenso,"una empresa especializada en el desarrollo de videojuegos de
+**acción",usa,0.14285714285714288,0,0.0
+Idioma de la película o programa de televisión de Grindhouse es,español,":
+
+El idioma de la película o programa de televisión de Grind",usa,0.0,0,0.0
+El director de The ABCs of Death es,Nacho Vigalondo,"un gran fan de la serie de dibujos animados ""The Adventures",usa,0.0,0,0.0
+El director de The ABCs of Death es,Ernesto Dí­az Espinoza,"un director de cine que ha trabajado en proyectos como ""The ABCs",usa,0.0,0,0.0
+El director de The ABCs of Death es,Marcel Sarmiento,"el guionista de The Exorcist, el director de El Or",usa,0.0,0,0.0
+Guionista de The ABCs of Death es,Nacho Vigalondo,el título de un documental que se estrenará en el Festival de,usa,0.0,0,0.0
+Guionista de The ABCs of Death es,Ernesto Dí­az Espinoza,el título de un documental sobre el director de cine estadounidense,usa,0.0,0,0.0
+Guionista de The ABCs of Death es,Marcel Sarmiento,un documental de 2012 de los Estados Unidos. El,usa,0.0,0,0.0
+Género de The ABCs of Death es,cine de terror,":
+A. Documental
+B. Terror
+C. Ciencia fic",usa,0.2,0,0.0
+Género de The ABCs of Death es,película de antologí­a,":
+A. Documental
+B. Cine de autor
+C.",usa,0.2,0,0.0
+Director de fotografí­a de The ABCs of Death es,Manuel Dacosse,"el director de fotografí­a de The ABCs of Death, y",usa,0.0,0,0.0
+Idioma de la película o programa de televisión de The ABCs of Death es,español,":
+El idioma de la película o programa de televisión de *The",usa,0.0,0,0.0
+Género de Pasos de baile es,cine de suspenso,una forma de expresión cultural que se remonta a la antigüedad,usa,0.14285714285714288,0,0.0
+Género de Pasos de baile es,cine de crímenes,"un género musical y de baile, que se originó en la región",usa,0.13333333333333333,0,0.0
+Género de Pasos de baile es,película basada en una obra literaria,un género de música popular que se originó en el Caribe y se,usa,0.10526315789473684,0,0.0
+Empresa productora de Pasos de baile es,Open de España,una empresa dedicada a la producción de pasos de baile para el,usa,0.13333333333333333,0,0.0
+Empresa productora de Pasos de baile es,Antena 3,un tipo de negocio que puede ser bastante rentable si se maneja bien,usa,0.0,0,0.0
+Idioma de la película o programa de televisión de Pasos de baile es,español,":
+La película o programa de televisión ""Pasos de baile""",usa,0.0,0,0.0
+Miembro del reparto de Pasos de baile es,Luí­s Miguel Cintra,"la primera película de la trilogía de Pasos de baile,",usa,0.0,0,0.0
+Miembro del reparto de Pasos de baile es,Laura Morante,"una de las películas más importantes de la historia del cine, la que",usa,0.0,0,0.0
+Miembro del reparto de Pasos de baile es,Elvira Mí­nguez,"un programa de Televisión de la cadena Telecinco, emitido en",usa,0.0,0,0.0
+Paí­s de origen de Pasos de baile es,España,:  ¿Dónde está ubicado el país de origen de la,usa,0.0,0,0.0
+Género de Planet Terror es,comedia de zombis,":
+A) Terror
+B) Comedia
+C) Acción",usa,0.2222222222222222,0,0.0
+Género de Planet Terror es,cine de terror,"un videojuego de acción, supervivencia y terror.
+Gé",usa,0.36363636363636365,0,0.0
+Género de Planet Terror es,cine de suspenso,":
+A. Acción, ciencia ficción y horror
+B.",usa,0.0,0,0.0
+Género de Planet Terror es,comedia de acción,":
+Respuesta:
+
+El género de *Planet Terror* es el **c",usa,0.16666666666666666,0,0.0
+Género de Planet Terror es,cine de ciencia ficción,un juego de acción con elementos de rol. El juego está ambientado en,usa,0.11764705882352941,0,0.0
+Género de Planet Terror es,cine de explotación,":
+A) Documental
+B) Acción
+C) Comedia",usa,0.0,0,0.0
+Género de Planet Terror es,cine de acción,":
+A) Drama
+B) Acción
+C) Ciencia fic",usa,0.2,0,0.0
+Miembro del reparto de Planet Terror es,Carlos Gallardo,el actor que interpretó a un personaje en el cual se le da,usa,0.0,0,0.0
+Miembro del reparto de Planet Terror es,Julio Oscar Mechoso,"un término que puede referirse a:
+* El miembro del reparto",usa,0.0,0,0.0
+Lugar de filmación de Planet Terror es,México,un documental sobre el proceso de producción del filme de 200,usa,0.0,0,0.0
+Miembro del reparto de Alejandro Magno es,Laird Macintosh,un título que se le otorga a un miembro del reparto,usa,0.0,0,0.0
+Género de Alejandro Magno es,cine de acción,una canción del disco de 2005 de la banda españ,usa,0.15384615384615383,0,0.0
+Paí­s de origen de Alejandro Magno es,Francia,:  Alejandro Magno nació en la ciudad de **Pé,usa,0.0,0,0.0
+Lugar de filmación de Alejandro Magno es,Marruecos,"la película de 1956, dirigida por Robert Rossen",usa,0.0,0,0.0
+Miembro del reparto de Alejandro Magno es,Teresa del Rí­o,"la traducción al español del libro de Robert Graves, que se publicó",usa,0.13333333333333333,0,0.0
+Miembro del reparto de Alejandro Magno es,Carlos Baena,"el actor que protagonizó el film ""El rey y yo"",",usa,0.0,0,0.0
+Miembro del reparto de Alejandro Magno es,Enrique Diosdado,"el título de un libro del periodista argentino
+**Luis P",usa,0.0,0,0.0
+Miembro del reparto de Alejandro Magno es,Marisa de Leza,el que se convierte en el primer ministro de la India britán,usa,0.13333333333333333,0,0.0
+Paí­s de origen de Alejandro Magno es,España,":
+
+Alejandro Magno nació en la ciudad de Macedonia, en",usa,0.0,0,0.0
+Género de Moonraker es,cine de acción,"...?
+
+""**Moonraker**"" es una novela de ci",usa,0.2222222222222222,0,0.0
+Género de Moonraker es,cine de espionaje,":
+
+El género de la novela *Moonraker* de Ian Fleming",usa,0.16666666666666666,0,0.0
+Género de Moonraker es,cine de suspenso,"El género de *Moonraker* (1979),",usa,0.25,0,0.0
+Género de Moonraker es,cine de acción-ciencia ficción,":
+A. 1. Ciencia ficción
+B. 2",usa,0.2,0,0.0
+Género de Moonraker es,película basada en una novela,":
+
+A) Novela
+
+B) Cuento
+
+C) Drama",usa,0.1818181818181818,0,0.0
+Miembro del reparto de Moonraker es,Guy Delorme,un término que se refiere a la participación de un actor o actriz,usa,0.0,0,0.0
+Paí­s de origen de Moonraker es,Francia,":
+
+Moonraker es una novela de ciencia ficción escrita",usa,0.0,0,0.0
+Lugar de filmación de Moonraker es,Venecia,la base de la NASA en las montañas de los Estados Unidos.,usa,0.0,0,0.0
+Lugar de filmación de Moonraker es,Los íngeles,un título que se puede aplicar a cualquier lugar que haya sido utilizado como,usa,0.0,0,0.0
+Género de Spy Game es,cine de espionaje,un juego de espionaje que combina elementos de estrategia y,usa,0.30769230769230765,0,0.0
+Género de Spy Game es,analepsis en el cine,"un juego de espionaje que combina elementos de acción, estrateg",usa,0.0,0,0.0
+Género de Spy Game es,suspenso polí­tico,": 
+
+a) Drama
+
+b) Acción
+
+c) Ciencia",usa,0.0,0,0.0
+Miembro del reparto de Spy Game es,James Aubrey,el actor que interpretó a un personaje que fue eliminado en el,usa,0.0,0,0.0
+Lugar de filmación de Spy Game es,Universidad Simon Fraser,una película de espías que se estrenó en 200,usa,0.0,0,0.0
+Lugar de filmación de Spy Game es,Estudios Shepperton,":
+A) EE.UU.
+B) Francia
+C) Ale",usa,0.0,0,0.0
+Lugar de filmación de Spy Game es,Castillo de Oxford,un filme de 2001 dirigido por Tony Scott. La,usa,0.16666666666666666,0,0.0
+Lugar de filmación de Spy Game es,República Checa,":
+
+El filme *Spy Game* (1998), dirigido",usa,0.0,0,0.0
+Lugar de filmación de Spy Game es,Marruecos,un film de 2001. ¿Dónde se rod,usa,0.0,0,0.0

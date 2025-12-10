@@ -1,0 +1,112 @@
+category,prompt,ground_truth,prediction,judge_score,judge_raw,f1_score,substring_accuracy
+movies,clasificación CNC (Francia) de Café de los maestros es,todos los públicos,"La clasificación del Café de los Maestros en Francia se basa en una escala que evalúa la calidad y el sabor de los cafés. Esta clasificación es utilizada por la Asociación Nacional de Café (ANF) y la Asociación de Productores de Café de Francia (APCA). La clasificación se basa en varios factores, incluyendo la calidad de la molienda, el aroma, el sabor, la textura y la concentración de café soluble.
+
+La clasificación del Café de los Maestros en Francia es la siguiente:
+
+- **Clase 1:** Excelente, con un contenido de café soluble del 12-14%.
+- **Clase 2:** Muy bueno, con un contenido de café soluble del 10-12%.
+- **Clase 3:** Bueno, con un contenido de café soluble del 8-10%.
+- **Clase 4:**",0,"{""score"": 0}",0.01652892561983471,0
+movies,Movie Review Query Engine ID de Café de los maestros es,cafe-de-los-maestros-m100071549,"""El café de los maestros"" es una película de comedia dramática argentina de 2004 dirigida por Israel Adrián Caetano. A continuación, te presento una breve reseña de la película:
+
+**Sinopsis**
+
+La película sigue la historia de un grupo de profesores de un colegio secundario en Buenos Aires que se reúnen en un café para compartir sus experiencias y problemas personales. Entre ellos se encuentran un profesor de literatura que se siente frustrado con su vida, una profesora de matemáticas que lucha por encontrar su lugar en el mundo y un director del colegio que intenta mantener la disciplina en el aula.
+
+**Análisis**
+
+""El café de los maestros"" es una película que explora temas universales como la soledad, la frustración y la búsqueda de significado en la vida. A través de las historias de sus personajes",1,"{""score"": 1}",0.0,0
+movies,distribución de Café de los maestros es,vídeo bajo demanda,"La distribución de Café de los Maestros puede variar dependiendo de la región y del país. Sin embargo, en general, el Café de los Maestros es una marca de café colombiano que se distribuye en varios países de América Latina y otros lugares del mundo. A continuación, te proporciono una visión general de su distribución:
+
+**América Latina:**
+
+* Colombia: Es el país de origen del Café de los Maestros y se distribuye en todo el territorio nacional a través de una red de distribuidores y minoristas.
+* Venezuela: Se distribuye en varios estados de Venezuela, especialmente en Caracas y otras ciudades importantes.
+* Ecuador: Se distribuye en Quito y otras ciudades importantes del país.
+* Perú: Se distribuye en Lima y otras ciudades importantes del país.
+* Chile: Se distribuye en Santiago y otras ciudades importantes del país.
+* México: Se distribuye en varias ci",0,"{""score"": 0}",0.0,0
+movies,identificador Trakt.tv de Café de los maestros es,movies/cafe-de-los-maestros-2008,"Lo siento, pero no tengo acceso a la información actualizada en tiempo real sobre identificadores de Trakt.tv específicos de películas o series. Sin embargo, puedo sugerirte algunas opciones para encontrar el identificador de ""Café de los maestros"" en Trakt.tv:
+
+1. **Busca en la página de Trakt.tv**: Puedes visitar la página de Trakt.tv y buscar ""Café de los maestros"" en la barra de búsqueda. Si la serie o película existe en la plataforma, deberías poder encontrar su información, incluyendo su identificador.
+2. **Verifica en Internet**: Puedes buscar en Internet utilizando motores de búsqueda como Google, utilizando frases como ""identificador Trakt.tv Café de los maestros"" o ""ID de Trakt.tv Café de los maestros"". Esto debería mostrar resultados que incluyan la información que buscas.
+3. **",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Infancia clandestina es,César Troncoso,"No tengo información sobre un reparto específico de ""Infancia clandestina"" que pueda estar relacionado con tu pregunta. Sin embargo, puedo sugerirte algunas opciones:
+
+- ""Infancia clandestina"" es un libro escrito por Eduardo Sacheri, publicado en 2005, que trata sobre la historia de un niño llamado Juan David Fernández que creció en un barrio pobre de Buenos Aires, Argentina, durante la dictadura militar de 1976 a 1983.
+- ""Infancia clandestina"" también es un título que podría referirse a una película o serie de televisión que trata sobre la infancia de un personaje en un contexto de conflicto o privación.
+
+Si tienes más información o contexto sobre el reparto de la obra que estás buscando, podría ayudarte a encontrar la respuesta correcta.",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Infancia clandestina es,Darío Valenzuela,"No tengo información sobre un reparto de ""Infancia clandestina""",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Infancia clandestina es,Luciano Cazaux,"No tengo información sobre un miembro del reparto de ""Infancia clandestina"". Puede proporcionarme más contexto o detalles sobre la película o el programa para que pueda ayudarte mejor?",0,"{""score"": 0}",0.0,0
+movies,productor de Infancia clandestina es,Luis Puenzo,"El ""productor de infancia clandestina"" es un término que se refiere a la persona que, en el contexto de la historia argentina, produjo o vendió niños nacidos fuera de matrimonio o en condiciones de ilegalidad, principalmente durante la dictadura militar en Argentina (1976-1983) y el período posterior.
+
+Durante la dictadura militar, la represión y la violencia hacia las madres y los padres que tenían relaciones extramatrimoniales o que eran considerados ""subversivos"" llevaron a la creación de un mercado negro de niños. Muchas madres, principalmente mujeres solteras o casadas con hombres considerados ""subversivos"", fueron detenidas, torturadas y obligadas a dar a luz en centros clandestinos de detención. Luego, sus hijos eran secuestrados y vendidos a familias adineradas, lo que",0,"{""score"": 0}",0.0,0
+movies,calificación Medierådet de Infancia clandestina es,para mayores de 11 años,"Infancia clandestina es una película de drama y suspenso argentina de 2004 dirigida por Cecilia Atkins y Valeria Pivato. La película se basa en un caso real de la vida de una joven llamada Micaela García, que fue secuestrada y llevada a un centro clandestino de detención durante la última dictadura militar en Argentina.
+
+La película sigue la historia de una niña llamada Micaela, interpretada por la actriz Macarena García, que es secuestrada por un grupo de militares y llevada a un centro clandestino de detención. Allí, es sometida a torturas y abusos, y es obligada a vivir en condiciones de esclavitud y humillación.
+
+La película explora temas como la violencia, la opresión, la tortura y la lucha por la supervivencia en un entorno de terror y miedo",0,"{""score"": 0}",0.015037593984962405,0
+movies,distribución de Infancia clandestina es,vídeo bajo demanda,"La infancia clandestina se refiere a la situación de niños y niñas que viven en condiciones de vulnerabilidad y riesgo, ya sea debido a la pobreza, la violencia, la explotación o la falta de protección. La distribución de la infancia clandestina puede variar según el contexto geográfico, cultural y económico, pero aquí te presento algunos datos generales y factores que contribuyen a esta problemática:
+
+**Causas de la infancia clandestina:**
+
+1. **Pobreza y desigualdad**: La pobreza y la desigualdad económica son factores fundamentales que contribuyen a la infancia clandestina. Las familias que viven en la pobreza pueden no tener los recursos necesarios para cuidar a sus hijos, lo que lleva a que los niños se vean obligados a trabajar para sobrevivir.
+2. **Violencia y conflic",0,"{""score"": 0}",0.0,0
+movies,autor de El beso de la mujer araña es,Manuel Puig,"El autor de ""El beso de la mujer araña"" es Jean Rhys.",0,"{""score"": 0}",0.0,0
+movies,título de El beso de la mujer araña es,El beso de la mujer araña,"El beso de la mujer araña es una película de 1985 dirigida por Brian De Palma, basada en la novela de 1958 ""El beso de la mujer araña"" (The Kiss of the Spider Woman) de Manuel Puig.",1,"{""score"": 1}",0.27906976744186046,1
+movies,se dice que es lo mismo que de El beso de la mujer araña es,El beso de la mujer araña,"""El beso de la mujer araña"" es una novela de 1976 escrita por la escritora estadounidense Anne Rice, bajo el seudónimo de A.N. Roquelaure. La novela es una historia de romance y fantasía que sigue a un joven llamado Jean Lestat, un vampiro que se enamora de una joven llamada Kirsten.
+
+Sin embargo, si te refieres a una obra que es similar a ""El beso de la mujer araña"" en términos de género o estilo, podrías estar pensando en otras novelas de fantasía o romance que comparten elementos similares. Algunas posibles opciones podrían ser:
+
+* ""La sombra del ciprés"" (The Shadow of the Cypress) de Barbara Michaels: Una novela de fantasía y romance que sigue a una joven que descubre un misterio relacionado con un viejo castillo y",0,"{""score"": 0}",0.09022556390977444,1
+movies,obra derivada de El beso de la mujer araña es,El beso de la mujer araña,"La obra ""El beso de la mujer araña"" es una novela del escritor español Manuel Vázquez Montalbán, publicada en 1976. Una obra derivada de esta novela es la película ""La mujer de barro"" (1989), dirigida por Eloy de la Iglesia, pero más conocida es la película ""La mujer de barro"" (1989) fue una adaptación de la novela pero más conocida es la película ""La mujer de barro"" (1989)  pero más conocida es la película ""La mujer de barro"" (1989) fue una adaptación de la novela pero más conocida es la película ""El beso de la mujer araña"" (1989)  dirigida por Eloy de la Iglesia.
+
+Sin embargo, la obra derivada más conocida es la película ""El beso de la mujer araña"" (1989) dirigida",0,"{""score"": 0}",0.09375,1
+movies,miembro del reparto de El beso de la mujer araña es,Tonatiuh Elizarraraz,"El beso de la mujer araña es una película de 2002 dirigida por Sam Raimi, y su reparto principal incluye a:
+
+- Tobey Maguire como Peter Parker / El Hombre Araña
+- Kirsten Dunst como Mary Jane Watson
+- Willem Dafoe como Norman Osborn / El Duende Verde
+- Cliff Robertson como Ben Parker
+- Rosemary Harris como May Parker
+- J.K. Simmons como J. Jonah Jameson
+
+Sin embargo, no mencionaste a un personaje en específico, ¿Podrías proporcionar más información sobre a quién te refieres?",0,"{""score"": 0}",0.0,0
+movies,basado en de El beso de la mujer araña es,El beso de la mujer araña,"""El beso de la mujer araña"" es una novela de Stephen King publicada en 1983. ¿En qué puedo ayudarte? ¿Quieres saber más sobre la trama, los personajes o algo en particular sobre la novela?",0,"{""score"": 0}",0.3,1
+movies,"título de 31 minutos, la película es","31 minutos, la película","""31 minutos: La película""",1,"{""score"": 1}",1.0,1
+movies,"guionista de 31 minutos, la película es",Álvaro Díaz,"No tengo suficiente información para determinar la película específica de ""31 minutos"" que estás buscando. ""31 minutos"" es un nombre bastante genérico y podría referirse a varias películas o producciones animadas. Sin embargo, una de las producciones más conocidas con este nombre es una serie de televisión chilena de animación para niños, creada por César Brie y Juan José Campanella, que se estrenó en 2009.
+
+Si estás buscando una película específica de ""31 minutos"", podrías proporcionarme más detalles o contexto para que pueda ayudarte mejor. ¿Podrías proporcionar más información sobre la película, como su título, el año de estreno o algún personaje principal?",0,"{""score"": 0}",0.0,0
+movies,"guionista de 31 minutos, la película es",Rodrigo Salinas (dibujante),"""Los Aventuras de Zip y Zap""",0,"{""score"": 0}",0.0,0
+movies,"calificación del ICAA de 31 minutos, la película es",apta para todos los públicos,"La película ""31 minutos"" es una serie de televisión de animación chilena creada por Cachito Maldera, Álvaro Díaz y Carlos Villagrán. La serie sigue las aventuras de un grupo de amigos llamados los 31 minutos, un grupo de niños que son los principales personajes de la serie.
+
+La serie originalmente fue una película de 1997, pero luego se convirtió en una serie de televisión que se estrenó en 2001 y se mantuvo en emisión hasta 2013. La serie fue muy popular en Chile y otros países de América Latina.
+
+La calificación del ICAA (Instituto de la Cinematografía y de las Artes Audiovisuales) para la película ""31 minutos"" es APT (Apto para todos), lo que significa que la película es adecuada para todas las edades y no contiene contenido inapropiado para menores de edad.",1,"{""score"": 1}",0.04347826086956521,0
+movies,"logotipo de 31 minutos, la película es","31 minutos, la película logo vector.svg","El logotipo de la serie de televisión ""31 minutos"" es un elefante con gafas y una boina roja.",0,"{""score"": 0}",0.25,0
+movies,miembro del reparto de Hermanas es,Horacio Peña,"No puedo determinar qué ""Hermanas"" estás refiriéndote. ¿Puedes proporcionar más contexto o información sobre qué tipo de ""Hermanas"" estás buscando?",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Hermanas es,Héctor Alterio,"No tengo suficiente información para responder a tu pregunta. Puedes proporcionar más contexto o detalles sobre ""Hermanas"" a la que te refieres? ¿Es una serie de televisión, un libro, un grupo musical, etc.?",0,"{""score"": 0}",0.0,0
+movies,miembro del reparto de Hermanas es,Mercedes Morán,No tengo suficiente información sobre el reparto de Hermanas. ¿Podrías proporcionar más contexto o detalles sobre la obra o serie que te refieres?,0,"{""score"": 0}",0.0,0
+movies,situado en la entidad territorial administrativa de Federal es,Departamento Federal,"No tengo suficiente información para determinar exactamente qué entidad territorial administrativa de México se te refiere con ""Federal"". Hay varias entidades federativas en México con ese nombre, como:
+
+- Ciudad de México (también conocida como la Ciudad de México o CDMX)
+- Estado de México
+
+Si tienes más información o contexto sobre a qué te refieres, estaré encantado de ayudarte.",0,"{""score"": 0}",0.03333333333333333,0
+movies,categoría en Commons de Federal es,"Federal, Entre Ríos","La categoría en Commons de Wikipedia que se refiere a ""Federal"" es:
+
+* Categoría:Federal (desambiguación)",0,"{""score"": 0}",0.11764705882352941,0
+movies,código postal de Federal es,E3180,El código postal de Federal es 21600.,0,"{""score"": 0}",0.0,0
+movies,autor de Amélia es,Roberto Payró,"O autor de ""Amélia"" é José Saramago.",0,"{""score"": 0}",0.0,0
+movies,imagen de Amélia es,Novelas y fantasias-Segunda serie de Scripta- Roberto J. Payro (page 135 crop).jpg,"No tengo información sobre una persona llamada Amélia. ¿Podrías proporcionarme más contexto o detalles sobre quién es Amélia? ¿Es una persona famosa, una personaje literario, una figura histórica o alguien más? De esa manera, puedo darte una respuesta más precisa.",0,"{""score"": 0}",0.03846153846153846,0
+movies,situado en la entidad territorial administrativa de Límite es,Resistencia,"No hay suficiente información para determinar a qué entidad territorial administrativa te refieres. ¿Podrías proporcionar más contexto o detalles sobre el lugar que estás buscando? ¿Es un estado, una provincia, un municipio o algo más?",0,"{""score"": 0}",0.0,0
+movies,El director de Límite es,Nicolás Jullian,"No tengo información sobre un director de ""Límite"" específico. ¿Podrías proporcionar más contexto o detalles sobre el proyecto o la película que te refieres? ¿Es un título de película, una serie, un libro o algo más?",0,"{""score"": 0}",0.0,0
+movies,situado en la entidad territorial administrativa de Vera es,Provincia de Santa Fe,"No puedo determinar la entidad territorial administrativa a la que te refieres, ya que hay varias localidades con el nombre de Vera en diferentes partes de España y América Latina. Sin embargo, puedo sugerirte algunas posibilidades:
+
+* Vera (Almería): Es un municipio de la provincia de Almería, en la comunidad autónoma de Andalucía, España.
+* Vera (Badajoz): Es un municipio de la provincia de Badajoz, en la comunidad autónoma de Extremadura, España.
+* Vera (México): Es una localidad en el estado de Tabasco, México.
+* Vera (Uruguay): Es un balneario ubicado en el departamento de Canelones, Uruguay.
+
+Si te refieres a una de estas localidades o a otra diferente, por favor proporciona más información o contexto para que pueda ayudarte mejor.",0,"{""score"": 0}",0.03305785123966942,0

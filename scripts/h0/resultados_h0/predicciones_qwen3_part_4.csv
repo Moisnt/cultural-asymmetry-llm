@@ -1,0 +1,1208 @@
+prompt,ground_truth,prediction,region,f1_score,substring_accuracy,judge_score
+Elemento asociado de identificador de bien histórico de Argentina es,Sepulcro Histórico Nacional,el que se define en el artículo 15 de la Ley 2,latam,0.0,0,0.0
+Elemento asociado de identificador de bien histórico de Argentina es,"bien de interés histórico, artístico, y/o arquitectonico en Argentina",el que se utiliza para identificar un bien histórico. El identificador es,latam,0.1904761904761905,0,0.0
+Elemento asociado de identificador de bien histórico de Argentina es,Lugar o Sitio Histórico Nacional,el 9770800000000,latam,0.0,0,0.0
+Categoría de una propiedad de Wikidata de identificador de bien histórico de Argentina es,Categoría:Páginas usando la propiedad P4587 de Wikidata,un tipo de propiedad que se usa para identificar bienes históricos,latam,0.2222222222222222,0,0.0
+Emitido por de identificador de bien histórico de Argentina es,"Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos",un registro de bienes históricos y culturales del país.,latam,0.4210526315789474,0,0.0
+Restricción de propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,restricción de formato,1.1.1.1.1.1.1.,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,restricción de valor singular,"un concepto que no existe. ¿Cómo puedo resolver esto?
+
+La restr",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,restricción de valor único,"la siguiente:
+https://www.wikidata.org/wiki/Q1017",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,restricción de tipo de entidad permitido,"la siguiente: ""El identificador de una votación de diputado",latam,0.26666666666666666,0,0.0
+Restricción de propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,campo de aplicación,"una propiedad de tipo string, y se usa para identificar las votaciones",latam,0.13333333333333333,0,0.0
+Ejemplo de propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,Néstor Pitrola,":
+
+En Wikidata, cada entidad tiene una serie de propiedades que descri",latam,0.0,0,0.0
+Elemento asociado de identificador de votaciones de diputado de Argentina es,diputado de Argentina,"el elemento `votacion` dentro de `diputado`,",latam,0.4444444444444444,0,0.0
+Propiedad relacionada de identificador de votaciones de diputado de Argentina es,identificador HCDN,la propiedad de los votos. El diputado de Argentina es un,latam,0.0,0,0.0
+Propiedad relacionada de identificador de votaciones de diputado de Argentina es,identificador de biografía de diputado de Argentina,el de la Cámara de Diputados de Argentina. ¿Cómo se,latam,0.47058823529411764,0,0.0
+Categoría de una propiedad de Wikidata de identificador de votaciones de diputado de Argentina es,Categoría:Páginas usando la propiedad P4693 de Wikidata,": 
+P1171: identificador de votaciones de dip",latam,0.15384615384615383,0,0.0
+Emitido por de identificador de votaciones de diputado de Argentina es,Cámara de Diputados de la Nación Argentina,"un proceso muy importante y complejo, ya que implica la selección",latam,0.1111111111111111,0,0.0
+Ejemplo de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,Pablo López,"Q105934176.
+Ejemplo de",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,restricción de formato,una propiedad que se usa para vincular a un personaje con su bi,latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,restricción de valor singular,"una propiedad de la base de datos de conocimiento Wikidata, que se",latam,0.125,0,0.0
+Restricción de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,restricción de valor único,un tipo de propiedad con el siguiente valor: [https://www.wikidata,latam,0.30769230769230765,0,0.0
+Restricción de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,restricción de declaración requerida,":
+""Q18066164""
+Pero al",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,restricción de tipo de entidad permitido,": ""P1463"". ¿Cómo se llama en español esta",latam,0.0,0,0.0
+Restricción de propiedad de Wikidata de identificador de biografía de diputado de Argentina es,campo de aplicación,que no permite el uso de guiones o guiones bajos. ¿,latam,0.15384615384615383,0,0.0
+Grado de completitud de identificador de biografía de diputado de Argentina es,puede llegar a completarse en el futuro,un concepto que se refiere a la medida en que un identificador,latam,0.2105263157894737,0,0.0
+Propiedad relacionada de identificador de biografía de diputado de Argentina es,identificador de votaciones de diputado de Argentina,"la siguiente: ""Biografía de un diputado de Argentina es un",latam,0.47058823529411764,0,0.0
+Propiedad relacionada de identificador de biografía de diputado de Argentina es,identificador HCDN,: 1) Cada diputado tiene un único identificador de,latam,0.2,0,0.0
+Elemento asociado de identificador de biografía de diputado de Argentina es,diputado de Argentina,"el que se le otorga al diputado, como identificación",latam,0.16666666666666666,0,0.0
+Categoría de una propiedad de Wikidata de identificador de biografía de diputado de Argentina es,Categoría:Páginas usando la propiedad P5225 de Wikidata,": Categoría:Propiedades de Wikidata
+La categoría de una",latam,0.42857142857142855,0,0.0
+Portal principal del tema de Argentina es,Portal:Argentina,"Argentina.
+__NOTOC__
+== Tema principal ==
+El tema principal de",latam,0.0,0,0.0
+Lema de Argentina es,En Unión y Libertad,"un lema de la bandera de Argentina, que está compuesto por",latam,0.0,0,0.0
+Etnia de Argentina es,Pueblos Originarios de Argentina,la más diversa del mundo. How do you say this in English?,latam,0.0,0,0.0
+Etnia de Argentina es,Población negra en Argentina,un proyecto de investigación que busca identificar y estudiar las etnias,latam,0.0,0,0.0
+Categoría de personas relacionadas de Argentina es,Categoría:Argentinos,un tipo de categoría de personas en el sistema de categorización de la Wikipedia,latam,0.0,0,0.0
+Geografía de Argentina es,geografía de la Argentina,una de las materias más importantes del plan de estudios de la educación,latam,0.23529411764705882,0,0.0
+Cargo ocupado por el jefe de gobierno de Argentina es,presidente de la Nación Argentina,"un cargo de alto rango, con responsabilidad en la administración pública",latam,0.25000000000000006,0,0.0
+Forma de gobierno de Argentina es,república federal,"la república, y la forma de gobierno de España es la monar",latam,0.14285714285714285,0,0.0
+Caracterizado por de Argentina es,país libre,"el que es el autor de la novela ""La ciudad y los per",latam,0.0,0,0.0
+Relación diplomática de Argentina es,Santa Sede,el conjunto de relaciones entre Argentina y otros países. Argentina tiene una presencia,latam,0.0,0,0.0
+Relación diplomática de Argentina es,Marruecos,un tema que ha estado en el centro de la atención de los argentinos,latam,0.0,0,0.0
+Relación diplomática de Argentina es,Francia,una de las relaciones más complejas de la historia del mundo. ¿Por,latam,0.0,0,0.0
+Relación diplomática de Argentina es,Sudáfrica,un término que se utiliza para describir la relación de Argentina con otros países,latam,0.0,0,0.0
+Relación diplomática de Argentina es,España,con otros países.  La Argentina tiene una relación diplomática con muchos países,latam,0.0,0,0.0
+Relación diplomática de Argentina es,Unión Europea,un término que se usa para describir la relación de Argentina con otros países,latam,0.0,0,0.0
+Relación diplomática de Argentina es,República de China,"un tema de interés para el gobierno argentino y la comunidad internacional, y",latam,0.125,0,0.0
+Relación diplomática de Argentina es,México,un concepto que engloba las relaciones entre la República Argentina y otros,latam,0.0,0,0.0
+Relación diplomática de Argentina es,Suecia,un término que se refiere a las relaciones entre la República Argentina y otros,latam,0.0,0,0.0
+Relación diplomática de Argentina es,Grecia,"un tema que es muy importante para el país, ya que el país tiene",latam,0.0,0,0.0
+Relación diplomática de Argentina es,República Popular China,una relación diplomática entre la República Argentina y otro país. La República Argentina,latam,0.125,0,0.0
+Relación diplomática de Argentina es,Corea del Norte,"un tema de interés general, y por ello, es importante que el público",latam,0.0,0,0.0
+Órgano legislativo de Argentina es,Congreso de la Nación Argentina,"la cámara de diputados o la cámara de senadores?
+
+El órg",latam,0.25000000000000006,0,0.0
+Historia de Argentina es,historia de la Argentina,"un proyecto de investigación y divulgación sobre la historia de Argentina, con",latam,0.5,0,0.0
+Continente de Argentina es,América del Sur,":
+A. Asia
+B. Europa
+C. América
+D.",latam,0.2,0,0.0
+Capital de Argentina es,Buenos Aires,"Buenos Aires, pero ¿cómo se llama la ciudad que fue la capital",latam,0.2857142857142857,1,0.0
+Escudo de armas de Argentina es,Escudo de la República Argentina,un escudo que se usó en la República Argentina durante el período,latam,0.47058823529411764,0,0.0
+Gentilicio de Argentina es,Airgintíneach,"argentina, pero si me piden el gentilicio de una provincia",latam,0.0,0,0.0
+Categoría principal del tema de Argentina es,Categoría:Argentina,: 1. Política 2. Economía 3. Cultura,latam,0.0,0,0.0
+Banco central de Argentina es,Banco Central de la República Argentina,"una empresa? No, el Banco Central de la República Argentina (BCRA",latam,0.7058823529411764,1,0.0
+Categoría para las personas enterradas aquí de Argentina es,Categoría:Sepultados en Argentina,la más grande de la Argentina. How do you say this sentence in English,latam,0.11764705882352941,0,0.0
+Sentido de circulación de trenes de Argentina es,izquierda,un tema que ha sido ampliamente discutido en los últimos años,latam,0.0,0,0.0
+Identificador Enciclopedia Británica Online de Argentina es,place/Argentina,"un recurso que ofrece información sobre la historia, la cultura, la política",latam,0.0,0,0.0
+Categoría para las películas rodadas aquí de Argentina es,Categoría:Películas rodadas en Argentina,"la más baja de las categorías de la lista, pero aún así,",latam,0.0,0,0.0
+Órgano ejecutivo de Argentina es,presidencia de la Nación,":
+A) El Poder Judicial
+B) El Poder Ejec",latam,0.0,0,0.0
+Categoría para las personas que fallecieron aquí de Argentina es,Categoría:Fallecidos en Argentina,"el lugar de fallecimiento, pero en este caso el lugar de f",latam,0.13333333333333333,0,0.0
+Himno de Argentina es,Himno Nacional Argentino,el himno nacional de Argentina. La letra fue escrita por José Hern,latam,0.26666666666666666,0,0.0
+Cargo ocupado por el jefe de Estado de Argentina es,presidente de la Nación Argentina,el más prestigioso y con más poder. El mandatario argent,latam,0.0,0,0.0
+Punto más alto de Argentina es,Aconcagua,el cerro Aconcagua. How do you say this sentence in English,latam,0.16666666666666669,1,0.0
+Categoría para las personas que nacieron aquí de Argentina es,Categoría:Nacidos en Argentina,"un país de la América del Sur, es un país de la América del",latam,0.0,0,0.0
+Lado de conducción de Argentina es,izquierda,un lugar con una población de 50000000,latam,0.0,0,0.0
+Lista de interés para el proyecto Wikimedia de Argentina es,Wikipedia:Lista de artículos que toda Wikipedia debería tener,un espacio donde se pueden publicar temas de interés para el proyecto Wikimedia de,latam,0.09090909090909091,0,0.0
+Lista de interés para el proyecto Wikimedia de Argentina es,Wikiproyecto:Diáspora africana,"un espacio de colaboración para la comunidad argentina de Wikimedia, que se",latam,0.0,0,0.0
+Lista de interés para el proyecto Wikimedia de Argentina es,Wikipedia:Lista de artículos que toda Wikipedia debería tener/Expandida,un listado de artículos de la Wikipedia en español que se considera,latam,0.4,0,0.0
+Punto más bajo de Argentina es,Laguna del Carbón,"el lago Vostok, ¿verdad? No, eso no",latam,0.0,0,0.0
+Idioma oficial de Argentina es,español,"el español. How do you say this in Spanish?
+
+El idioma oficial",latam,0.15384615384615385,1,0.0
+Audio de pronunciación de Argentina es,Hu-Argentína.ogg,la forma de pronunciar el español de Argentina. El acento,latam,0.0,0,0.0
+Audio de pronunciación de Argentina es,Es Argentina.ogg,un programa de radio argentino que se transmite por el canal 1,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Buenos Aires,un término que se utiliza en la República Argentina para denominar a un área,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Catamarca,"un municipio de la provincia de Buenos Aires, en el departamento Río",latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Chaco,un concepto que se refiere a la división territorial de un país,latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Córdoba,un concepto que se refiere a una unidad de división administrativa,latam,0.14285714285714288,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Corrientes,un término que se utiliza en el sistema de división administrativa de la,latam,0.125,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Entre Ríos,"un distrito de la Provincia de Buenos Aires, en la región de",latam,0.25,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Jujuy,"un municipio en la provincia de Buenos Aires, en el partido de San",latam,0.25,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de La Pampa,un término que se usa en la Argentina para referirse a un tipo de,latam,0.22222222222222224,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de La Rioja,un término que se refiere a la subdivisión de las provincias y,latam,0.25,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Mendoza,un término que se aplica a la división administrativa de una provincia,latam,0.26666666666666666,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Misiones,"un municipio en la provincia de Buenos Aires, en la región del Gran",latam,0.25,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Neuquén,un término que se aplica a los distritos que componen las,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Río Negro,un término que se aplica a las unidades de organización territorial que se estable,latam,0.11111111111111112,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Salta,un término que se aplica a las unidades de gobierno de la República Argentina,latam,0.11764705882352941,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de San Juan,un término que se usa en Argentina para referirse a la administración territorial,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de San Luis,"un distrito de la Provincia de Buenos Aires, en la región del",latam,0.25,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Santa Cruz,"un distrito de la provincia de La Pampa, en el departamento de",latam,0.25,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Santa Fe,un término que se utiliza en la Argentina para referirse a una división,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Santiago del Estero,un término que se usa para referirse a las subdivisiones de las provinc,latam,0.1111111111111111,0,0.0
+Subdividido en (división administrativa) de Argentina es,"Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",un término que se refiere a un tipo de división administrativa de,latam,0.08695652173913043,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Tucumán,un término que se aplica a un tipo de división administrativa en,latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Argentina es,Provincia de Chubut,"un municipio del departamento de San Martín, en el estado de Par",latam,0.13333333333333333,0,0.0
+Evento significativo de Argentina es,Crisis económica argentina (1998-2002),"el Día de la Independencia, el cual se celebra el",latam,0.0,0,0.0
+Evento significativo de Argentina es,surgimiento del Estado argentino,"el 20 de mayo, que conmemora la Batalla de",latam,0.0,0,0.0
+Bandera de Argentina es,bandera de la Argentina,"la bandera de la República Argentina, un país ubicado en el sur",latam,0.5,0,0.0
+Descrito en la fuente de Argentina es,Diccionario Enciclopédico Brockhaus y Efron,"un país que se caracteriza por tener un clima tropical, con una",latam,0.0,0,0.0
+Descrito en la fuente de Argentina es,Pequeño diccionario enciclopédico de Brockhaus y Efron,"el lugar de origen de la especie, pero no se ha confirmado",latam,0.10526315789473685,0,0.0
+Descrito en la fuente de Argentina es,Enciclopedia Judía de Brockhaus y Efron,una organización de investigación que se dedica a la promoción del pens,latam,0.1111111111111111,0,0.0
+Descrito en la fuente de Argentina es,Encyclopædia Britannica (11ª edición),"el lugar de nacimiento de la bandera argentina, y la fu",latam,0.0,0,0.0
+Descrito en la fuente de Argentina es,Gran Enciclopedia Soviética (19261947),"una revista de arte y cultura, con un enfoque en el",latam,0.0,0,0.0
+Texto regulador principal de Argentina es,Constitución de la Nación Argentina,":
+
+El texto regulador principal de Argentina es la **Constitución de la",latam,0.5000000000000001,0,0.0
+Participó en de Argentina es,Sistema Global de Preferencias Comerciales entre Países en Desarrollo,el primer equipo que se fundó en el fútbol argentino,latam,0.10526315789473685,0,0.0
+Participó en de Argentina es,Cumbre del G-20 de Buenos Aires,un programa de television argentino que se emitió por primera vez en,latam,0.1111111111111111,0,0.0
+Nombre oficial de Argentina es,República Argentina,la República Argentina. La República Argentina es un país ubicado en el sur,latam,0.2666666666666667,1,0.0
+Idioma usado de Argentina es,quechua sudboliviano,"el mismo que el de España?
+
+El idioma oficial de Argentina es el",latam,0.0,0,0.0
+Idioma usado de Argentina es,lengua de señas argentina,"el mismo que el de España?
+El idioma oficial de Argentina es el",latam,0.23529411764705882,0,0.0
+Idioma usado de Argentina es,quichua santiagueño,"el castellano, pero con algunas particularidades. ¿Cuál es",latam,0.0,0,0.0
+Idioma usado de Argentina es,español,"el español, pero hay diferencias con el español de otros países. ¿",latam,0.16666666666666669,1,0.0
+Identificador de la Enciclopedia Mundial de las Artes de la Marioneta de Argentina es,argentina,"un sitio web que se centra en la historia, la cultura y la",latam,0.0,0,0.0
+Archivo de audio del elemento de Argentina es,Geografía argentina.ogg,una organización no gubernamental que trabaja en la defensa de los derechos,latam,0.0,0,0.0
+Cultura de Argentina es,cultura de Argentina,un blog que nace con el objetivo de difundir la cultura arg,latam,0.26666666666666666,0,0.0
+Categoría para los mapas de este elemento de Argentina es,Categoría:Cartografía de Argentina,": 
+
+Argentina > Provincia de Buenos Aires > Partido de San Antonio",latam,0.3333333333333333,0,0.0
+Código geográfico de PM20 de Argentina es,E86,"el código que identifica a la provincia de San Juan, en Argentina.",latam,0.0,0,0.0
+Economía del sujeto de Argentina es,economía de Argentina,una obra que se ha convertido en un clásico de la economía,latam,0.26666666666666666,0,0.0
+Reemplaza a de Argentina es,Conquista y colonización española de Argentina,"un proyecto de investigación del CEDLA, el cual se propone anal",latam,0.11764705882352942,0,0.0
+Reemplaza a de Argentina es,Provincias Unidas del Río de la Plata,"la palabra de tu elección, como si fuera un país ficticio.",latam,0.2222222222222222,0,0.0
+Demografía del elemento de Argentina es,demografía de Argentina,una rama de la demografía que estudia las características de la población,latam,0.26666666666666666,0,0.0
+Nombre en la lengua nativa de Argentina es,República Argentina,"un concepto que puede referirse a un nombre propio, es decir,",latam,0.0,0,0.0
+Identificador Open Library de tema de Argentina es,place:argentina,":
+
+El identificador Open Library para el tema de Argentina sería un término que",latam,0.0,0,0.0
+Encyclopedia of Korean Culture ID de Argentina es,E0034271,"un personaje ficticio de la novela ""El secreto de la",latam,0.0,0,0.0
+Máxima autoridad judicial de Argentina es,Corte Suprema de Justicia de la Nación Argentina,"el (a):
+
+A) Corte Suprema de Justicia  
+B",latam,0.5,0,0.0
+Identificador de la Gran Enciclopedia Catalana de Argentina es,argentina-1,"1000030073503,",latam,0.0,0,0.0
+Nombre en el idioma nativo de Argentina es,República Argentina,"el que se usa en la argentina, y en el idioma nat",latam,0.14285714285714285,0,0.0
+Identificador de artículo en Vikidia de Argentina es,es:Argentina,un artículo sobre la identificación de artículos en el sitio web Vikidia,latam,0.0,0,0.0
+Identificador de artículo en Vikidia de Argentina es,ca:Argentina,"un proyecto de creación de artículos en español para niños, que se",latam,0.0,0,0.0
+Golden ID de Argentina es,Argentina-PRVA5V,un sistema que se implementa en la Argentina para identificar a las personas,latam,0.0,0,0.0
+Moneda de Argentina es,peso moneda nacional,"el peso argentino, que se representa con el símbolo $ y",latam,0.15384615384615383,0,0.0
+Moneda de Argentina es,peso Ley 18.188,el peso argentino. El símbolo es $ y el código ISO,latam,0.15384615384615383,0,0.0
+Moneda de Argentina es,Peso Argentino 1983,"el peso argentino, que se representa con la letra ""P"" o",latam,0.28571428571428575,0,0.0
+Moneda de Argentina es,peso argentino convertible,el peso argentino. La moneda está subdividida en 1,latam,0.3333333333333333,0,0.0
+Estatuto de observador oficial en la organización de Argentina es,Organización Internacional de la Francofonía,"un miembro de la OEA, pero no tiene derecho a voto",latam,0.25000000000000006,0,0.0
+Identificador NLW de Argentina es,argentina-3,el 1003673638359,latam,0.0,0,0.0
+Most populous urban area de Argentina es,Buenos Aires,"la capital de la provincia de Buenos Aires, la ciudad de Buenos Aires (",latam,0.2666666666666667,1,0.0
+Categoría principal del tema de Gran Premio de Argentina es,Categoría:Gran Premio de Argentina,":
+A. Deportes
+B. Cultura
+C. Ci",latam,0.0,0,0.0
+Imagen de Gran Premio de Argentina es,Autódromo Oscar y Juan Gálvez Circuito N° 6 por Senna.svg,la imagen de la carrera de Fórmula 1 que se celebr,latam,0.0,0,0.0
+Deporte de Gran Premio de Argentina es,deporte de motor,un circuito de Fórmula 1. ¿Es verdadero,latam,0.2,0,0.0
+Ubicación de Gran Premio de Argentina es,Autódromo Oscar y Juan Gálvez,"en Buenos Aires, Argentina. Es un circuito de automovilismo",latam,0.0,0,0.0
+Subclase de de Gran Premio de Argentina es,Gran Premio de Fórmula 1,un gran premio de Fórmula 1 que se celebró,latam,0.7142857142857143,1,0.0
+Organizador de Gran Premio de Argentina es,Federación Internacional del Automóvil,la palabra que se usa para describir a la persona que se encarga,latam,0.0,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1953,un evento de automovilismo de Fórmula 1 que,latam,0.28571428571428575,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1954,el primer Grand Prix de la temporada 2011. La carrera,latam,0.125,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1955,una carrera de Fórmula 1 que se disputa en el,latam,0.125,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1956,una carrera de Fórmula 1 que se disputa en el,latam,0.125,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1957,un evento de Fórmula 1 que se celebra en el,latam,0.125,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1958,una carrera de Fórmula 1 que se celebró en,latam,0.13333333333333333,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1960,"un circuito de Fórmula 1 en Buenos Aires, Argentina",latam,0.26666666666666666,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1972,"el circuito de Buenos Aires, que está situado en la capital de",latam,0.2222222222222222,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1973,"un circuito de automovilismo, el cual está ubicado en",latam,0.13333333333333333,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1974,"un circuito de 12.000 metros de longitud,",latam,0.30769230769230765,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1975,"un evento que se desarrolla en el circuito de Buenos Aires, donde",latam,0.1111111111111111,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1977,"el circuito de Buenos Aires, que se encuentra en la localidad de",latam,0.2222222222222222,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1978,un evento de ciclismo en ruta que se disputa en la Argentina,latam,0.2222222222222222,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1979,un circuito de automovilismo de pista de tierra.,latam,0.28571428571428575,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1980,un evento de automovilismo que se disputa en el circuito,latam,0.125,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1981,un evento de automovilismo de Fórmula 1 que,latam,0.28571428571428575,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1995,un evento de fórmula 1 que se celebra cada año,latam,0.125,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1996,un circuito de Fórmula 1 que se disputa en,latam,0.13333333333333333,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1997,"el de más alto nivel, es un circuito de 4.5",latam,0.25,0,0.0
+Compuesto por de Gran Premio de Argentina es,Gran Premio de Argentina de 1998,"un circuito de automovilismo, ubicado en Buenos Aires,",latam,0.14285714285714288,0,0.0
+Subclase de de provincia de Argentina es,división administrativa de primer nivel,un tipo de organización política y social que se estableció en el siglo,latam,0.1111111111111111,0,0.0
+Subclase de de provincia de Argentina es,división política,la que se encarga de la administración de los recursos hidrául,latam,0.0,0,0.0
+Subclase de de provincia de Argentina es,circunscripción electoral,un término que se usa para referirse a una subclase de la,latam,0.0,0,0.0
+Categoría principal del tema de provincia de Argentina es,Categoría:Provincias de Argentina,el tema de la provincia de Argentina. La provincia de Argentina es una de,latam,0.23529411764705882,0,0.0
+Lista del elemento de provincia de Argentina es,lista de provincias de Argentina,un listado de las provincias que conforman la República Argentina. La,latam,0.37499999999999994,0,0.0
+Propiedad de de selección de fútbol sala de Argentina es,Asociación del Fútbol Argentino,el título de la selección argentina de fútbol sala que,latam,0.14285714285714288,0,0.0
+Identificador del equipo en PlaymakerStats.com de selección de fútbol sala de Argentina es,equipe/argentina/4481,un equipo de fútbol sala de Argentina que juega en la,latam,0.0,0,0.0
+Logotipo de selección femenina de voleibol de Argentina es,Feva voley argentina logo.png,un logotipo que representa a la selección femenina de v,latam,0.0,0,0.0
+Participó en de selección femenina de voleibol de Argentina es,Torneo femenino de voleibol en los Juegos Olímpicos de Tokio 2020,"un deportista argentina nacido en 1995,",latam,0.11764705882352942,0,0.0
+Participó en de selección femenina de voleibol de Argentina es,Liga de Naciones de Voleibol Femenino de 2018,un equipo que compite en el torneo femenino de la Liga,latam,0.3157894736842105,0,0.0
+Participó en de selección femenina de voleibol de Argentina es,torneo femenino de voleibol en los Juegos Panamericanos de 2019,"el equipo nacional de voleibol femenino de Argentina, que",latam,0.4210526315789474,0,0.0
+Participó en de selección femenina de voleibol de Argentina es,torneo femenino de voleibol en los Juegos Suramericanos de 2014,un equipo de selección femenina de voleibol de Argentina,latam,0.3157894736842105,0,0.0
+Categoría principal del tema de selección de fútbol de Argentina es,Categoría:Selección de fútbol de Argentina,"el fútbol argentino, con subcategorías como la",latam,0.16666666666666666,0,0.0
+Participó en de selección de fútbol de Argentina es,Anexo:Medallero de los Juegos Olímpicos de Pekín 2008,el apodo de quien? Participó en de selección de fú,latam,0.22222222222222224,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1982,una de las cosas que más me gustan de ser argentino. How,latam,0.2222222222222222,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1986,"una frase correcta? La frase ""Participó en de selección",latam,0.13333333333333333,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1978,un equipo que representa a la Argentina en el fútbol. How,latam,0.11764705882352942,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 2002,un equipo de fútbol profesional argentino de la Primera Div,latam,0.37499999999999994,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1930,"un título de la selección de fútbol de Argentina, ¿",latam,0.4,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 2014,"el 2006, pero no pasó de fase de grupos",latam,0.26666666666666666,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1998,"el equipo nacional de fútbol de Argentina, y es un equipo",latam,0.3529411764705882,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1994,"una frase correcta? ¿Cómo se puede corregir?
+
+La frase",latam,0.0,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1990,el que se encarga de seleccionar a los jugadores de la sele,latam,0.2222222222222222,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1958,"decir la selección argentina de fútbol, y luego fue",latam,0.26666666666666666,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1966,un tipo de selección que juega en el mundo. Seleccion de,latam,0.23529411764705885,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1962,el título de un libro de un autor argentino. ¿Cuál es,latam,0.23529411764705885,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1974,"decir que fue seleccionado para jugar en el equipo nacional, y participó",latam,0.0,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 2010,decir que está en el equipo de fútbol de Argentina? No,latam,0.3529411764705882,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1934,"una frase que puede interpretarse de varias maneras, dependiendo del contexto",latam,0.11764705882352942,0,0.0
+Participó en de selección de fútbol de Argentina es,Final de la Copa Mundial de Fútbol de 2014,el mejor futbolista del mundo? ¿Cómo se llama? ¿Cu,latam,0.0,0,0.0
+Participó en de selección de fútbol de Argentina es,Juegos Olímpicos de Pekín 2008,una frase que se puede interpretar de varias formas. Puede referirse,latam,0.12500000000000003,0,0.0
+Participó en de selección de fútbol de Argentina es,Final de la Copa América 2015,"el equipo que representa a la Argentina en el fútbol, ¿",latam,0.125,0,0.0
+Participó en de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 2022,"una frase que puede tener varias interpretaciones, pero en términos de",latam,0.11764705882352942,0,0.0
+Nombre oficial de selección de fútbol de Argentina es,Selección de fútbol de Argentina,"""Selección Argentina de Fútbol"" o ""Selección de",latam,0.8333333333333333,0,0.0
+Identificador en Facebook de selección de fútbol de Argentina es,AFASeleccionArgentina,una de las mejores formas de conectar con otros fanáticos del fú,latam,0.0,0,0.0
+Clase de competencia de selección de fútbol de Argentina es,fútbol masculino,"un tema que me interesa mucho, y por eso quiero aprender más sobre",latam,0.0,0,0.0
+Propiedad de de selección de fútbol de Argentina es,Asociación del Fútbol Argentino,el club más antiguo de Argentina. La selección de fútb,latam,0.0,0,0.0
+Historia de selección de fútbol de Argentina es,historia de la selección de fútbol de Argentina,muy larga y con muchos eventos importantes. El primer partido oficial de la,latam,0.1904761904761905,0,0.0
+Sobrenombre de selección de fútbol de Argentina es,La Albiceleste,"el
+**""Albiceleste""**. Este sobren",latam,0.3333333333333333,0,0.0
+Victoria de selección de fútbol de Argentina es,Copa Centenario Revolución de Mayo,la seleccion femenina de fútbol de Argentina. El equipo,latam,0.14285714285714285,0,0.0
+Victoria de selección de fútbol de Argentina es,Campeonato Sudamericano 1925,un tema que ha generado mucha controversia en los últimos años. La,latam,0.0,0,0.0
+Victoria de selección de fútbol de Argentina es,Campeonato Sudamericano 1937,una de las mejores del mundo. Aunque no es de las que más,latam,0.0,0,0.0
+Victoria de selección de fútbol de Argentina es,Campeonato Sudamericano 1947,una de las figuras más importantes del fútbol femenino,latam,0.0,0,0.0
+Victoria de selección de fútbol de Argentina es,Campeonato Sudamericano 1957,una mujer que se dedica al fútbol y que está a,latam,0.0,0,0.0
+Victoria de selección de fútbol de Argentina es,Campeonato Panamericano de Fútbol 1960,una institución que se encarga de seleccionar a los jugadores que,latam,0.12500000000000003,0,0.0
+Victoria de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1978,"un tema de debate, pero ¿cuál es el mejor estilo de juego",latam,0.2222222222222222,0,0.0
+Victoria de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 1986,una de las mejores del mundo. El equipo femenino de fú,latam,0.23529411764705885,0,0.0
+Victoria de selección de fútbol de Argentina es,Copa Mundial de Fútbol de 2022,una institución que se encarga de seleccionar y entrenar a los,latam,0.11764705882352942,0,0.0
+Categoría para miembros de un equipo de selección de fútbol de Argentina es,Categoría:Futbolistas de la selección de fútbol de Argentina,el tema del cual se hablará en esta investigación. ¿Cuál es,latam,0.0,0,0.0
+Categoría principal del tema de Vino de Argentina es,Categoría:Vino de Argentina,": 
+
+A. Cultura
+B. Economía
+C. Tur",latam,0.0,0,0.0
+Categoría en Commons de Primera División de Argentina es,Argentine Primera División,"una categoría de la Wikipedia, el enciclopedia libre, que se enc",latam,0.0,0,0.0
+Organizador de Primera División de Argentina es,Asociación del Fútbol Argentino,"el
+El organizador de la Primera División de Argentina es la",latam,0.0,0,0.0
+Liga inferior de Primera División de Argentina es,Primera Nacional,el nombre que se le da a la categoría de fútbol más,latam,0.0,0,0.0
+Subclase de de Primera División de Argentina es,competición futbolística,la que se encuentra en la máxima categoría del fútbol argentino,latam,0.0,0,0.0
+Categoría principal del tema de Primera División de Argentina es,Categoría:Primera División de Argentina,Deportes. La categoría de Deportes incluye el fú,latam,0.16666666666666666,0,0.0
+Diferente de de Primera División de Argentina es,Primera División,"el Campeonato Argentino, que es un torneo que se",latam,0.0,0,0.0
+Lista de de Anexo:Lista de ciudades de Argentina es,ciudad de Argentina,un anexo de la Wikipedia en español. La lista contiene las ciudades,latam,0.13333333333333333,0,0.0
+Categoría relacionada con la lista de Anexo:Lista de ciudades de Argentina es,Categoría:Ciudades de Argentina,"un tema de interés en la geografía de Argentina, específicamente en la",latam,0.26666666666666666,0,0.0
+Diferente de de Anexo:Lista de ciudades de Argentina es,Anexo:Ciudades de Argentina por población,el siguiente: La lista de ciudades de Argentina es una lista de ci,latam,0.2222222222222222,0,0.0
+Diferente de de Anexo:Lista de ciudades de Argentina es,Anexo:Aglomerados urbanos de Argentina,el Diferente de de Anexo:Lista de ciudades de Argentina,latam,0.30769230769230765,0,0.0
+Categoría principal del tema de Anexo:Lista de ciudades de Argentina es,Categoría:Ciudades de Argentina,": Ciudades de Argentina, y el tema principal del artículo de Wikipedia es",latam,0.26666666666666666,0,0.0
+Categoría principal del tema de sistema educativo de Argentina es,Categoría:Educación en Argentina,: Categoría principal del tema de sistema educativo de Argentina es:,latam,0.15384615384615383,0,0.0
+Faceta de de sistema educativo de Argentina es,educación,el modelo de educación de la Argentina que se fundamenta en el modelo de,latam,0.13333333333333333,1,0.0
+Subclase de de sistema educativo de Argentina es,educación,un término que se usa para referirse a la organización de los niveles,latam,0.0,0,0.0
+Deporte de Selección de básquetbol de Argentina es,baloncesto,"el básquetbol, y el equipo nacional se llama Selección Argentina de",latam,0.0,0,0.0
+Entrenador de Selección de básquetbol de Argentina es,Sergio Santos Hernández,un cargo que se le otorga a un entrenador que dirige,latam,0.0,0,0.0
+Clase de competencia de Selección de básquetbol de Argentina es,baloncesto masculino,": 
+
+A) NBA
+
+B) FIBA
+
+C) F",latam,0.0,0,0.0
+Imagen de Selección de básquetbol de Argentina es,Argentina trofeo sudamericano basket 1966.jpg,la que aparece en el fondo de pantalla del iPhone de la presidenta,latam,0.0,0,0.0
+Subclase de de Selección de básquetbol de Argentina es,selección nacional,un equipo de básquetbol de la Liga Nacional de Básquetbol,latam,0.16666666666666669,0,0.0
+Deporte de Selección de fútbol americano de Argentina es,fútbol americano,el fútbol americano profesional. El fútbol americ,latam,0.4444444444444445,1,0.0
+Categoría principal del tema de televisión de Argentina es,Categoría:Televisión de Argentina,la que se refiere a la historia de la televisión argentina.,latam,0.28571428571428575,0,0.0
+Faceta de de televisión de Argentina es,televisión,"una de las más importantes en el mundo, con una gran cantidad de programas",latam,0.0,0,0.0
+Categoría principal del tema de Gastronomía de Argentina es,Categoría:Gastronomía de Argentina,": ""Cocina argentina"". La categorización de los subtem",latam,0.4,0,0.0
+Subclase de de Gastronomía de Argentina es,cocina de Sudamérica,":
+A) Ensalada
+B) Empanada
+C)",latam,0.0,0,0.0
+Imagen de Gastronomía de Argentina es,"Cepi Bernardy, Asadores del Salón Santa Cecilia (Cuña Pirú, Ruiz de Montoya) en el predio de la Capilla Santa Rosa De Lima (Puerto Leoni) con motivo de las fiestas patronales.jpg","la que se está buscando, pero también puede ser de Gastronomía",latam,0.0975609756097561,0,0.0
+Cultura de Gastronomía de Argentina es,cultura de Argentina,una de las más ricas del mundo. La gastronomía argentina se,latam,0.28571428571428575,0,0.0
+Categoría principal del tema de Geología de Argentina es,Categoría:Geología de Argentina,":
+
+La geología de Argentina es un tema amplio que abarca",latam,0.30769230769230765,0,0.0
+Ubicación de la sede de Obispado Castrense de Argentina es,Buenos Aires,":
+A) Buenos Aires
+B) La Plata
+C) Có",latam,0.4,1,0.0
+Ubicación de la sede de Exarcado apostólico greco-melquita católico de Argentina es,Córdoba,"en la ciudad de Buenos Aires, en el barrio de Palermo,",latam,0.0,0,0.0
+Presidente de Exarcado apostólico greco-melquita católico de Argentina es,sede vacante,"el obispo de Rosario, en Argentina. El obispo",latam,0.0,0,0.0
+Categoría principal del tema de Selección femenina de fútbol de Argentina es,Categoría:Selección femenina de fútbol de Argentina,"Deportes, y la subcategoría es Fútbol",latam,0.16666666666666666,0,0.0
+Deporte de Selección femenina de fútbol de Argentina es,fútbol,: La Selección femenina de fútbol de Argentina es,latam,0.2222222222222222,1,0.0
+Propiedad de de Selección femenina de fútbol de Argentina es,Asociación del Fútbol Argentino,un tema que puede ser interesante para explorar. La Selección fem,latam,0.0,0,0.0
+Participó en de Selección femenina de fútbol de Argentina es,Copa Mundial Femenina de Fútbol de 2019,el equipo que representa a Argentina en el fútbol femenino,latam,0.11764705882352941,0,0.0
+Subclase de de Selección femenina de fútbol de Argentina es,selección nacional,un deporte que se juega entre dos equipos de once jugadores cada,latam,0.0,0,0.0
+Entrenador de Selección femenina de fútbol de Argentina es,Carlos Borrello,un cargo que ocupa una persona que dirige el equipo femenino,latam,0.0,0,0.0
+Categoría principal del tema de Selección femenina de hockey sobre césped de Argentina es,Categoría:Selección femenina de hockey sobre césped de Argentina,Deportes. La categoría principal del tema de Selección femenina,latam,0.23529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Torneo femenino de hockey en los Juegos Olímpicos 1988,una selección femenina de hockey sobre césped que representa a,latam,0.2105263157894737,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Torneo femenino de hockey en los Juegos Olímpicos 1996,una selección femenina de hockey sobre césped que representa a,latam,0.2105263157894737,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Torneo femenino de hockey en los Juegos Olímpicos 2000,una selección femenina de hockey sobre césped que representa a,latam,0.2105263157894737,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Anexo:Torneo femenino de hockey en los Juegos Olímpicos de Atenas 2004,una selección femenina que representa a Argentina en el deporte del,latam,0.09090909090909091,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Anexo:Torneo femenino de hockey en los Juegos Olímpicos de Pekín 2008,"un jugador de hockey sobre césped argentino, nacido en",latam,0.3,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Torneo femenino de hockey en los Juegos Olímpicos de Londres 2012,un deportista argentina que nació el 18 de jul,latam,0.09999999999999999,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Torneo femenino de hockey sobre hierba en los Juegos Olímpicos de Río de Janeiro 2016,una selección femenina de hockey sobre césped que representa a,latam,0.24,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Torneo femenino de hockey sobre hierba en los Juegos Olímpicos de Tokio 2020,una selección femenina de hockey sobre césped que representa a,latam,0.2608695652173913,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Campeonato Mundial de Hockey sobre Césped Femenino de 1974,"un equipo de hockey sobre césped femenino de Argentina, que",latam,0.631578947368421,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1976,una selección femenina de hockey sobre césped de Argentina que,latam,0.3529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Campeonato Mundial de Hockey sobre Césped Femenino de 1978,una Selección femenina de hockey sobre césped de Argentina que,latam,0.5263157894736842,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1981,una selección femenina de hockey sobre césped que representa a,latam,0.23529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1983,una selección femenina de hockey sobre césped que representa a,latam,0.23529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1986,una Selección femenina de hockey sobre césped de Argentina que,latam,0.3529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1990,una selección femenina de hockey sobre césped que representa a,latam,0.23529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1994,una selección femenina que representa a la Argentina en el hockey sobre,latam,0.10526315789473685,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 1998,un equipo de hockey sobre césped femenino que representa a Argentina,latam,0.33333333333333326,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Copa Mundial de Hockey Femenino de 2002,una selección femenina de hockey sobre césped que representa a,latam,0.23529411764705882,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Campeonato Mundial de Hockey sobre Hierba Femenino de 2006,una selección femenina de hockey sobre césped que representa a,latam,0.3157894736842105,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Campeonato Mundial de Hockey sobre Hierba Femenino de 2010,una de las deportistas más destacadas del país. En 20,latam,0.10526315789473685,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Campeonato Mundial de Hockey sobre Hierba Femenino de 2014,una selección femenina de hockey sobre césped de Argentina que,latam,0.4210526315789474,0,0.0
+Participó en de Selección femenina de hockey sobre césped de Argentina es,Campeonato Mundial de Hockey sobre Hierba Femenino de 2018,una Selección femenina de hockey sobre césped de Argentina que,latam,0.4210526315789474,0,0.0
+Sobrenombre de Selección femenina de hockey sobre césped de Argentina es,Las Leonas,":
+La Selección femenina de hockey sobre césped de Argentina",latam,0.0,0,0.0
+Categoría principal del tema de música de Argentina es,Categoría:Música de Argentina,"el Tango, que es un género musical que se originó en Buenos Aires",latam,0.0,0,0.0
+Subclase de de música de Argentina es,Música de América del Sur,un subgénero de la música de Argentina que surgió en la,latam,0.25000000000000006,0,0.0
+Faceta de de música de Argentina es,cultura de Argentina,"un proyecto de investigación que analiza la historia, la cultura y las prá",latam,0.25,0,0.0
+Mantenido por el wikiproyecto de música de Argentina es,Wikiproyecto:Música latina,un wikiproyecto que se enfoca en mejorar la cobertura,latam,0.0,0,0.0
+Categoría principal del tema de Selección de handball de Argentina es,Categoría:Selección de balonmano de Argentina,": Deportes / Handball
+Categoría secundaria del",latam,0.0,0,0.0
+Categoría para miembros de un equipo de Selección de handball de Argentina es,Categoría:Balonmanistas de la selección de balonmano de Argentina,"una categoriade handball. La categoría se llama ""Selección Argentina",latam,0.35294117647058826,0,0.0
+Categoría principal del tema de Selección de rugby de Argentina es,Categoría:Selección de rugby de Argentina,"Deportes, pero también puede estar en la categoría de Cultura.",latam,0.13333333333333333,0,0.0
+Autoridad ejecutiva de Selección de rugby de Argentina es,Unión Argentina de Rugby,"el Ministerio de Educación, Cultura y Deportes (MECD",latam,0.16666666666666666,0,0.0
+Sobrenombre de Selección de rugby de Argentina es,los Pumas,"el ""Pato"" porque...? ¿Por qué se le llama """,latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Selección de rugby de Argentina es,lospumas,":
+El nombre de usuario de Twitter (X) de la Selección de",latam,0.0,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 1987,un equipo de rugby que compite en el rugby 7 y en el,latam,0.21052631578947367,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 1991,un deporte de equipo que se juega con una pelota ovalada,latam,0.11764705882352942,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 1995,un deporte de contacto que se juega con un balón ovalado,latam,0.11764705882352942,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 1999,"un deportista argentino, nacido en el año 19",latam,0.0,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 2003,"un deportista argentino, nacido en 1947",latam,0.0,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 2007,"un deporte que se practica con un balón ovalado, c",latam,0.0,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 2011,un deportista argentino que se dedicó al rugby. Nació,latam,0.13333333333333333,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 2015,"un jugador que ha tenido una carrera profesional muy destacada, con mú",latam,0.0,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 2019,"el equipo de rugby de Argentina, el cual se conoce como los p",latam,0.3157894736842105,0,0.0
+Participó en de Selección de rugby de Argentina es,Copa Mundial de Rugby de 2023,"un jugador de rugby argentino, nacido en 199",latam,0.28571428571428575,0,0.0
+Evento significativo de Selección de rugby de Argentina es,primer partido internacional,el partido contra el seleccionado de rugby de España en el Estadio Monument,latam,0.125,0,0.0
+Imagen de Selección de rugby de Argentina es,Argentina los pumas 1965.jpg,"un equipo de rugby de Argentina, con sede en el Club Atlético San",latam,0.11764705882352941,0,0.0
+Logotipo de Selección masculina de vóley de Argentina es,Feva voley argentina logo.png,un logotipo que se utiliza para representar a la selección mascul,latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Anexo:Torneo masculino de voleibol en los Juegos Olímpicos de Atlanta 1996,el jugador argentino de vóley que nació el 2,latam,0.09999999999999999,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Anexo:Torneo masculino de voleibol en los Juegos Olímpicos de Sídney,un deportista argentino que compitió en los Juegos Olí,latam,0.3157894736842105,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Anexo:Torneo masculino de voleibol en los Juegos Olímpicos de Atenas 2004,una de las selecciones de vóley más exitosas de la historia,latam,0.18181818181818182,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Torneo masculino de voleibol en los Juegos Olímpicos de Londres 2012,"un deportista argentino de vóley, nacido en",latam,0.2222222222222222,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Torneo masculino de voleibol en los Juegos Olímpicos de Tokio 2020,"un jugador de vóley argentino, nacido en 1",latam,0.2105263157894737,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 1978,un equipo que compite en la Liga Sudamericana de Vó,latam,0.11764705882352941,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 1986,un deportista argentino que nació en 1964,latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 1994,un equipo que representa a Argentina en el vóley masculino. El,latam,0.1111111111111111,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 1998,una de las mejores del mundo. ¿Quién es? El jugador que,latam,0.1111111111111111,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 2002,un equipo de vóley que forma parte del sistema de selecciones n,latam,0.2105263157894737,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 2006,un equipo de vóley que compite en la Liga de Vó,latam,0.2222222222222222,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 2010,"un deportista argentino, nacido en 1959",latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 2018,una de las selecciones de vóley más exitosas de la historia,latam,0.2222222222222222,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Mundial de Voleibol Masculino de 2022,una selección que forma parte del Comité Olímpico Argent,latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano Masculino de Voleibol de 1951,un equipo de vóley que representa a la Argentina en los torne,latam,0.10526315789473685,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano de Voleibol Masculino de 1964,"un deportista argentino, nacido el 25 de fe",latam,0.13333333333333333,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano Masculino de Voleibol de 1999,"un deportista argentino que se destacó en el vóley,",latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano Masculino de Voleibol de 2001,una selección de vóley que representa a Argentina en competencias intern,latam,0.1111111111111111,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano Masculino de Voleibol de 2013,"el equipo de vóley masculino de Argentina, que compite en",latam,0.3529411764705882,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano de Voleibol Masculino de 2021,"un deportista argentino, nacido en 1956",latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Campeonato Sudamericano de Voleibol Masculino de 2023,"un deportista argentino, nacido en 1985",latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Liga de Naciones de Voleibol Masculino de 2018,un equipo que forma parte del Comité Olímpico Argentino,latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Liga de Naciones de Voleibol Masculino de 2019,una de las jugadoras más destacadas del vóley argentino.,latam,0.11764705882352941,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Liga de Naciones de Voleibol Masculino de 2021,"un jugador de vóley que jugaba de opuesto, naci",latam,0.23529411764705882,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Liga de Naciones de Voleibol Masculino de 2022,"un deportista argentino, nació en 1984",latam,0.0,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Liga de Naciones de Voleibol Masculino de 2023,"un equipo de vóley de Argentina, que compite en la Liga",latam,0.3157894736842105,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Copa Mundial de Voleibol Masculino de 2011,"un deportista argentino de la generación del 90, n",latam,0.125,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Copa Mundial de Voleibol Masculino de 2015,"un jugador que jugaba en la posición de delantero, naci",latam,0.11764705882352941,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Torneo masculino de voleibol en los Juegos Panamericanos de 1963,una de las grandes figuras del deporte argentino. Es el único,latam,0.09523809523809525,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Torneo masculino de voleibol en los Juegos Panamericanos de 2015,un equipo que se formó en 1907 y es el,latam,0.10000000000000002,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,torneo masculino de voleibol en los Juegos Panamericanos de 2019,un equipo de vóley que compite en el fútbol,latam,0.2105263157894737,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Copa Panamericana de Voleibol Masculino de 2016,"un deportista argentino de la provincia de Buenos Aires, nació",latam,0.23529411764705882,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Torneo masculino de voleibol en los Juegos Olímpicos de París 2024,"un deportista argentino de vóley, nació en Buenos",latam,0.2105263157894737,0,0.0
+Participó en de Selección masculina de vóley de Argentina es,Liga de Naciones de Voleibol Masculino de 2024,un deportista argentino que juega en la posición de opuesto.,latam,0.11111111111111112,0,0.0
+Entrenador de Selección masculina de vóley de Argentina es,Julio Velasco,"un cargo de alto nivel, con responsabilidades importantes en el desarrollo del",latam,0.0,0,0.0
+Ubicación de la sede de Administración de Parques Nacionales de Argentina es,Buenos Aires,"en la ciudad de Buenos Aires, Argentina. La sede central está ubicada",latam,0.2857142857142857,1,0.0
+Identificador en Facebook de Administración de Parques Nacionales de Argentina es,ParquesNacionalesdeArgentina,": @parquesnacionalesargentina, y se puede seguir desde aquí",latam,0.0,0,0.0
+Nombre de usuario de Instagram de Administración de Parques Nacionales de Argentina es,parquesnacionalesar,: El nombre de usuario de Instagram de la Administración de Parques N,latam,0.0,0,0.0
+Imagen de Administración de Parques Nacionales de Argentina es,Palacio Haedo (1).JPG,una empresa que se dedica a la gestión de parques nacionales y,latam,0.0,0,0.0
+Organización matriz de Administración de Parques Nacionales de Argentina es,Secretaría del Interior de Argentina,la que está establecida en la Ley Nacional 24.1,latam,0.0,0,0.0
+Categoría en Commons de Administración de Parques Nacionales de Argentina es,Administración de Parques Nacionales,"una categoría de la Wikipedia en español, que contiene imágenes de los parques",latam,0.23529411764705882,0,0.0
+Identificador name-suggestion-index de Administración de Parques Nacionales de Argentina es,administraciondeparquesnacionales-8282c4,: 1234567890123,latam,0.0,0,0.0
+Miembro de de Administración de Parques Nacionales de Argentina es,Unión Internacional para la Conservación de la Naturaleza,"un cargo de alto nivel en el Ministerio de Ambiente, Vivi",latam,0.10526315789473685,0,0.0
+Nombre de usuario de TikTok de Administración de Parques Nacionales de Argentina es,parquesnacionalesarg,El nombre de usuario de TikTok de la Administración de Parques,latam,0.0,0,0.0
+Categoría principal del tema de Rally de Argentina es,Categoría:Rally de Argentina,":
+A. Deportes
+B. Cultura
+C. Ci",latam,0.0,0,0.0
+Deporte de Rally de Argentina es,deporte de motor,"un tipo de rally que se organiza en la Argentina, y está relacion",latam,0.125,0,0.0
+Compuesto por de Rally de Argentina es,Rally de Argentina de 2011,"el mejor del año
+**Comunicado Oficial**
+**Compuesto",latam,0.0,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 2002,un evento de automovilismo de carreras que se desarrolla en,latam,0.26666666666666666,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1983,un circuito de rally que se disputa en la República Argentina. Se,latam,0.23529411764705882,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 2009,"un evento de automovilismo de rally, organizado por la Feder",latam,0.26666666666666666,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 2003,un evento de automovilismo de rally de rally de Rally de Argentina,latam,0.35294117647058826,0,0.0
+Compuesto por de Rally de Argentina es,Rally de Argentina de 2014,"un rally de resistencia y resistencia, donde los participantes deben enfrent",latam,0.25000000000000006,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1987,"un circuito de rally de Argentina, ubicado en la localidad de",latam,0.37499999999999994,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 2000,un tipo de Rally que tiene como característica principal que se desarrolla sobre,latam,0.1111111111111111,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1981,una empresa que se dedica a la fabricación de componentes para autom,latam,0.11764705882352941,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1988,"un tipo de Rally, pero no es un Rally de resistencia, y",latam,0.23529411764705882,0,0.0
+Compuesto por de Rally de Argentina es,Rally de Argentina de 2012,un evento de automovilismo de tipo rally que se disputa en,latam,0.37499999999999994,0,0.0
+Compuesto por de Rally de Argentina es,Rally de Argentina de 2016,un evento de automovilismo que se celebra en Argentina. Se,latam,0.26666666666666666,0,0.0
+Compuesto por de Rally de Argentina es,Rally de Argentina de 2017,un gran evento para los amantes de la velocidad. Es una carrera de,latam,0.2222222222222222,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 2005,"un evento que se organiza anualmente en Argentina, y es parte",latam,0.12500000000000003,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1984,un evento de automovilismo que se desarrolla en Argentina. Es,latam,0.26666666666666666,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1985,un evento de automovilismo de rallycross que se desarrolla en,latam,0.26666666666666666,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1989,un evento de automovilismo que se desarrolla en la Argentina.,latam,0.26666666666666666,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1980,un Rally de resistencia con 13 etapas y 1.,latam,0.14285714285714285,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 1986,un evento de automovilismo que se disputa en la República Argentina,latam,0.25000000000000006,0,0.0
+Compuesto por de Rally de Argentina es,Rally de Argentina de 2013,un evento de automovilismo que se disputa en las parr,latam,0.13333333333333333,0,0.0
+Compuesto por de Rally de Argentina es,Anexo:Rally de Argentina de 2001,"un Rally de automovilismo, organizado por la Federación Argentina",latam,0.2857142857142857,0,0.0
+Organizador de Rally de Argentina es,Federación Internacional del Automóvil,el que se encarga de organizar las competencias de rally de Argentina,latam,0.0,0,0.0
+Ancho de vía de Tren de Alta Velocidad de Argentina es,ancho de vía estándar,1.435 mm. El ancho de vía de,latam,0.5454545454545454,0,0.0
+Imagen de Tren de Alta Velocidad de Argentina es,Gare de Paris-Gare-de-Lyon - 2018-05-15 - IMG 7479.jpg,"una imagen de una vía férrea de alta velocidad, que se",latam,0.11764705882352942,0,0.0
+Propiedad de de Tren de Alta Velocidad de Argentina es,presidencia de la Nación,"un tema muy interesante, por un lado porque es una empresa que se",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Tren de Alta Velocidad de Argentina es,Provincia de Buenos Aires,un sistema de transporte rápido en la Argentina que conecta la capital federal con,latam,0.11111111111111112,0,0.0
+Situado en la entidad territorial administrativa de Tren de Alta Velocidad de Argentina es,Provincia de Córdoba,un centro de distribución de la empresa estadounidense Amazon. Se,latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Tren de Alta Velocidad de Argentina es,Provincia de Santa Fe,"el centro de operaciones del sistema de alta velocidad, que conecta a",latam,0.125,0,0.0
+Término (objeto) de Tren de Alta Velocidad de Argentina es,Estación Retiro Mitre,el que se denomina en el contexto de infraestructura ferrovi,latam,0.0,0,0.0
+Término (objeto) de Tren de Alta Velocidad de Argentina es,Estación Córdoba,el que se le da a un proyecto de infraestructura ferrovi,latam,0.0,0,0.0
+Estado de uso de Tren de Alta Velocidad de Argentina es,clausurado,una de las mejores opciones para viajar por el país. El Tren,latam,0.0,0,0.0
+Estado de uso de Tren de Alta Velocidad de Argentina es,proyecto cancelado,"un tema de interés para muchos viajeros, turistas y también para",latam,0.0,0,0.0
+Categoría principal del tema de demografía de Argentina es,Categoría:Demografía de Argentina,la población. ¿Cómo se llama el sistema que estudia la población?,latam,0.0,0,0.0
+Subclase de de demografía de Argentina es,demografía de América del Sur,una de las subclases de la demografía de América del Sur.,latam,0.625,1,0.0
+Lista de de Anexo:Diócesis latinas de Argentina es,diócesis católica,la lista de las diócesis latinas de la Argentina. Est,latam,0.16666666666666669,0,0.0
+Lista de de Anexo:Cancilleres de Argentina es,"Ministro de Relaciones Exteriores, Comercio Internacional y Culto",una lista de cancilleres de la República Argentina desde la independencia hasta,latam,0.1,0,0.0
+Categoría principal del tema de departamento de Argentina es,Categoría:Departamentos y partidos de Argentina,"""Cultura"" y se subcategoría de ""Arte",latam,0.3636363636363636,0,0.0
+Subclase de de departamento de Argentina es,departamento,un término que se usa para referirse a un tipo de subclase,latam,0.0,0,0.0
+Subclase de de departamento de Argentina es,subdivisión administrativa de segundo nivel,una división administrativa que divide a las provincias en departamentos.,latam,0.13333333333333333,0,0.0
+Categoría principal del tema de política de Argentina es,Categoría:Política de Argentina,"el gobierno y la administración. En esta categoría, encontrará información sobre",latam,0.0,0,0.0
+Imagen de política de Argentina es,Congreso Nacional Buenos Aires.jpg,la que se refiere a la visión de la política argentina desde,latam,0.0,0,0.0
+Categoría principal del tema de economía de Argentina es,Categoría:Economía de Argentina,la producción y distribución de bienes y servicios. How do you say,latam,0.13333333333333333,0,0.0
+Subclase de de economía de Argentina es,economía de América del Sur,"el tipo de cambio, que se fija mediante el Banco Central de la",latam,0.1111111111111111,0,0.0
+Subclase de de economía de Argentina es,economía de América Latina,la que se ocupa de la producción de productos agrícolas y,latam,0.13333333333333333,0,0.0
+Categoría relacionada de economía de Argentina es,Categoría:Anexos:Economía de Argentina,"la agricultura, y su importancia para el país, como el cult",latam,0.0,0,0.0
+Clase de competencia de selección de fútbol sub-20 de Argentina es,fútbol masculino sub-20,"la más fuerte del mundo. ¿Cómo se llama?
+
+La selección",latam,0.0,0,0.0
+Nombre corto de selección de fútbol sub-20 de Argentina es,Argentina Sub-20,"la selección femenina, pero no me acuerdo de su nombre.",latam,0.0,0,0.0
+Propiedad de de selección de fútbol sub-20 de Argentina es,Asociación del Fútbol Argentino,el equipo de fútbol de la selección de fútb,latam,0.15384615384615383,0,0.0
+Nombre en la lengua nativa de selección de fútbol sub-20 de Argentina es,Selección de fútbol sub-20 de Argentina,"?
+El nombre en la lengua nativa de Argentina para la selección",latam,0.3529411764705882,0,0.0
+Categoría para miembros de un equipo de selección de fútbol sub-20 de Argentina es,Categoría:Futbolistas de la selección de fútbol sub-20 de Argentina,el tema de este artículo. La selección sub-20 de Argentina,latam,0.631578947368421,0,0.0
+Categoría principal del tema de sistema de ligas de fútbol de Argentina es,Categoría:Competiciones de fútbol en Argentina,": 
+
+A) Deportes  
+B) Cultura  
+C)",latam,0.0,0,0.0
+Compuesto por de sistema de ligas de fútbol de Argentina es,Primera División de Argentina,"el fútbol argentino, que es uno de los más importantes",latam,0.14285714285714288,0,0.0
+Compuesto por de sistema de ligas de fútbol de Argentina es,Primera Nacional,un sistema de ligas de fútbol que se ha desarrollado,latam,0.0,0,0.0
+Compuesto por de sistema de ligas de fútbol de Argentina es,Primera C Argentina,"una de las estructuras más importantes de la región, con más de",latam,0.0,0,0.0
+Compuesto por de sistema de ligas de fútbol de Argentina es,Primera D Argentina,un sistema de ligas de fútbol profesional que se divide en,latam,0.0,0,0.0
+Compuesto por de sistema de ligas de fútbol de Argentina es,Torneo Federal A,"el que más lejos está de la realidad, pero no es el único",latam,0.0,0,0.0
+Categoría principal del tema de Pueblos Originarios de Argentina es,Categoría:Pueblos indígenas de Argentina,: ¿Pueblos originarios de Argentina?  Categoría,latam,0.4444444444444445,0,0.0
+Subclase de de Pueblos Originarios de Argentina es,pueblos indígenas de Sudamérica,el termo que se utiliza para referirse a los pueblos,latam,0.14285714285714288,0,0.0
+Subclase de de Pueblos Originarios de Argentina es,argentinos,":
+A. Lenguas
+B. Pueblos
+C",latam,0.0,0,0.0
+Categoría principal del tema de rutas nacionales de Argentina es,Categoría:Rutas nacionales de Argentina,":
+
+La categoría principal del tema de **rutas nacionales de Argentina**",latam,0.4285714285714285,0,0.0
+Lista de de Anexo:Universidades nacionales de Argentina es,universidad,"un listado de universidades públicas argentinas, en el cual se",latam,0.0,1,0.0
+Categoría relacionada con la lista de Anexo:Universidades nacionales de Argentina es,Categoría:Universidades de Argentina,la siguiente: Categoría:Universidades nacionales de Argentina. How,latam,0.6,0,0.0
+Categoría relacionada con la lista de Anexo:Universidades nacionales de Argentina es,Categoría:Universidades nacionales de Argentina,":
+
+La categoría relacionada con la lista de ""Anexo:Universidades",latam,0.16666666666666666,0,0.0
+Deporte de Selección de fútbol playa de Argentina es,fútbol playa,"un deporte que se juega en la arena, con dos equipos de",latam,0.0,0,0.0
+Propiedad de de Selección de fútbol playa de Argentina es,Asociación del Fútbol Argentino,una empresa que se dedica a la organización de eventos y actividades relacionadas,latam,0.0,0,0.0
+Identificador del equipo en Flashscore.com de Selección de fútbol playa de Argentina es,argentina/rDMcdM8q,"**Argentina**.
+Identificador del equipo en Flashscore.com de Sele",latam,0.0,0,0.0
+Lista de de Anexo:Aeropuertos de Argentina es,aeropuerto,un anexo de la página de Argentina. El anexo incluye información,latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Aeropuertos de Argentina es,Categoría:Aeropuertos de Argentina,": 
+
+A. Transporte
+B. Turismo
+C. Histor",latam,0.0,0,0.0
+Idioma usado de Ordinariato para los fieles de rito oriental de Argentina es,eslavo eclesiástico,":
+A) latín
+B) castellano
+C) port",latam,0.0,0,0.0
+Ubicación de la sede de Ordinariato para los fieles de rito oriental de Argentina es,Buenos Aires,"en la ciudad de Córdoba, en el barrio de San Ag",latam,0.0,0,0.0
+Presidente de Ordinariato para los fieles de rito oriental de Argentina es,Jorge García Cuerva,"el cardenal
+**José María Cafone**.
+El cardenal",latam,0.0,0,0.0
+Categoría principal del tema de cultura de Argentina es,Categoría:Cultura de Argentina,"el idioma, y dentro de este, el español, que es la",latam,0.14285714285714288,0,0.0
+Subclase de de cultura de Argentina es,cultura de la Tierra,un proyecto que busca crear un mapa interactivo de la cultura argentina.,latam,0.375,0,0.0
+Categoría principal del tema de monumento histórico nacional de Argentina es,Categoría:Monumentos nacionales de Argentina,":
+A. Patrimonio cultural
+B. Patrimonio natural",latam,0.0,0,0.0
+Autoridad ejecutiva de monumento histórico nacional de Argentina es,"Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos",el Ministerio de Cultura y Turismo de la Nación. How,latam,0.3,0,0.0
+Propiedad asociada de Wikidata de monumento histórico nacional de Argentina es,identificador de bien histórico de Argentina,: P642. Y el valor es: [https://www,latam,0.0,0,0.0
+Categoría principal del tema de Revistas literarias de Argentina es,Categoría:Revistas literarias de Argentina,: Revistas literarias de Argentina. La categoría principal es la que se,latam,0.39999999999999997,0,0.0
+Categoría principal del tema de Selección de Béisbol de Argentina es,Categoría:Selección de Béisbol de Argentina,"Deportes, y la categoría secundaria es Béisbol.",latam,0.16666666666666666,0,0.0
+Logotipo de Selección de Béisbol de Argentina es,Selección de béisbol de Argentina.png,un logotipo que representa a la selección de béisbol de,latam,0.5333333333333333,0,0.0
+Categoría principal del tema de Senado de Argentina es,Categoría:Senado de la Nación Argentina,el Senado de la Nación Argentina. Es una institución del P,latam,0.5000000000000001,0,0.0
+Compuesto por de Senado de Argentina es,senador de Argentina,"un organismo de la República Argentina, de carácter consultivo, con funciones",latam,0.28571428571428575,0,0.0
+Representación esquemática de Senado de Argentina es,Senado de la Nación Argentina (2023-2025) (Actualizado).svg,un ejemplo de que el sistema de gobierno argentino es un sistema de gobierno,latam,0.09523809523809523,0,0.0
+Logotipo de Senado de Argentina es,Logo del Senado de Argentina.svg,un logotipo con forma de un águila con un cí,latam,0.13333333333333333,0,0.0
+Nombre de usuario de Instagram de Senado de Argentina es,senadoargentina,"@senador, pero como se llama en realidad el perfil del Senado",latam,0.0,0,0.0
+Identificador en Facebook de Senado de Argentina es,senado.argentina,"senado, pero el de la Cámara de Diputados es cam",latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Senado de Argentina es,SenadoArgentina,"SenadoARG
+
+¿Cuál es el nombre de usuario de Twitter (",latam,0.0,0,0.0
+Nombre corto de Selección de fútbol sub-23 de Argentina es,Argentina sub-23,La selección de fútbol sub-23 de Argentina,latam,0.4444444444444445,0,0.0
+Clase de competencia de Selección de fútbol sub-23 de Argentina es,Fútbol masculino sub-23,la tercera división del fútbol argentino. La,latam,0.2,0,0.0
+Propiedad de de Selección de fútbol sub-23 de Argentina es,Asociación del Fútbol Argentino,"un equipo de fútbol de Argentina, es un equipo de f",latam,0.13333333333333333,0,0.0
+Categoría principal del tema de jefe de gabinete de ministros de Argentina es,Categoría:Jefes de Gabinete de Ministros de Argentina,el cargo de jefe de gabinete de ministros de la n,latam,0.5555555555555556,0,0.0
+Logotipo de jefe de gabinete de ministros de Argentina es,Logo jefatura de gabinete argentina.png,una herramienta de comunicación clave para representar la autoridad y el lider,latam,0.11764705882352941,0,0.0
+Imagen de jefe de gabinete de ministros de Argentina es,Edificio SOMISA (1).JPG,una foto de un hombre de mediana edad con una camisa azul,latam,0.0,0,0.0
+Titular del cargo de jefe de gabinete de ministros de Argentina es,Guillermo Francos,"el doctor Luis María ""Luis"" Alberto ""Luis"" Alberto """,latam,0.0,0,0.0
+Deporte de Selección femenina de básquetbol de Argentina es,baloncesto,"la selección femenina de básquetbol de Argentina, conocida",latam,0.0,0,0.0
+Identificador en Facebook de Selección femenina de básquetbol de Argentina es,cabboficial,": Selección femenina de básquetbol de Argentina
+Identificador",latam,0.0,0,0.0
+Título de Revista de la Asociación Geológica de Argentina es,Revista de la Asociación Geológica de Argentina,una revista de acceso abierto con un índice de impacto altamente,latam,0.33333333333333326,0,0.0
+Título de Revista de la Asociación Geológica de Argentina es,Revista de la Asociación Geológica Argentina,"la revista científica de la Asociación Geológica de Argentina,",latam,0.8,0,0.0
+Tema principal de la obra de Revista de la Asociación Geológica de Argentina es,geología,"la geología, con énfasis en la geología de Argentina,",latam,0.19999999999999998,1,0.0
+Idioma de la obra o del nombre de Revista de la Asociación Geológica de Argentina es,español,español. La Asociación Geológica de Argentina (AGA) es,latam,0.2222222222222222,1,0.0
+Ubicación de la sede de Revista de la Asociación Geológica de Argentina es,Buenos Aires,en la Facultad de Ciencias Exactas y Naturales de la,latam,0.0,0,0.0
+Nombre corto de selección de fútbol sub-17 de Argentina es,Argentina Sub-17,: El seleccionador de fútbol sub-17 de Argentina,latam,0.4444444444444445,0,0.0
+Propiedad de de selección de fútbol sub-17 de Argentina es,Asociación del Fútbol Argentino,"una de las mejores del mundo, dice el Presidente
+El Presidente",latam,0.13333333333333333,0,0.0
+Subclase de de selección de fútbol sub-17 de Argentina es,selección de fútbol,la de la selección femenina. El fútbol fem,latam,0.5454545454545454,0,0.0
+Entrenador de selección de fútbol sub-17 de Argentina es,Diego Placente,"un trabajo que tiene una responsabilidad muy grande, ya que se trata de",latam,0.0,0,0.0
+Subclase de de centro clandestino de detención de Argentina es,centro clandestino de detención y tortura,un concepto que se refiere a una red de centros clandestinos,latam,0.11764705882352942,0,0.0
+Categoría principal del tema de centro clandestino de detención de Argentina es,Categoría:Centros clandestinos de detención en Argentina,":
+
+El tema principal del centro clandestino de detención de Argentina es la",latam,0.3333333333333333,0,0.0
+Categoría principal del tema de Fauna de Argentina es,Categoría:Fauna de Argentina,: Ciencias naturales. La subcategoría es: Zoología,latam,0.0,0,0.0
+Faceta de de Fauna de Argentina es,fauna,"una empresa dedicada a la producción, distribución y comercialización de productos",latam,0.0,0,0.0
+Subclase de de entidad territorial administrativa de Argentina es,entidad territorial administrativa de un país particular,"la que corresponde a los distritos, los partidos y las ci",latam,0.0,0,0.0
+Categoría principal del tema de entidad territorial administrativa de Argentina es,Categoría:Organización territorial de Argentina,"la que se denomina ""Provincia de Argentina"" y contiene 2",latam,0.28571428571428575,0,0.0
+Categoría principal del tema de Relaciones exteriores de Argentina es,Categoría:Relaciones internacionales de Argentina,"el tema de Relaciones exteriores, pero se puede desglosar",latam,0.15384615384615383,0,0.0
+Lista de de Anexo:Puntos extremos de Argentina es,punto extremo,un documento que contiene una lista de coordenadas geográficas que marcan,latam,0.0,0,0.0
+Faceta de de Anexo:Puntos extremos de Argentina es,geografía de la Argentina,un documento de 1985 del Instituto Geográfico Nacional de,latam,0.15384615384615383,0,0.0
+Categoría relacionada con la lista de Anexo:Catedrales de Argentina es,Categoría:Catedrales de Argentina,la que se refiere a la arquitectura religiosa en el,latam,0.0,0,0.0
+Categoría principal del tema de municipio de Argentina es,Categoría:Municipios de Argentina,": 1. Políticas Públicas, 2. Gober",latam,0.0,0,0.0
+Lista de de Anexo:Estadísticas de la selección de fútbol de Argentina es,competición,una lista de estadísticas de la selección de fútbol de,latam,0.0,0,0.0
+Categoría principal del tema de Lenguas de Argentina es,Categoría:Lenguas de Argentina,":
+La categorización de temas de lenguas en Argentina puede variar",latam,0.30769230769230765,0,0.0
+Subclase de de Lenguas de Argentina es,lenguas de la Tierra,una subclase de la lengua española que se habla en,latam,0.28571428571428575,0,0.0
+Categoría principal del tema de región geográfica de Argentina es,Categoría:Regiones de Argentina,": 
+
+A) Sociedad  
+B) Economía  
+C) Política",latam,0.0,0,0.0
+Entrenador de selección de fútbol sub-15 de Argentina es,Diego Placente,un título que se otorga a un entrenador que dirige a,latam,0.0,0,0.0
+Ubicación de la sede de Telefónica de Argentina es,Avenida Ingeniero Huergo,"en la ciudad de Buenos Aires, específicamente en el barrio de Pal",latam,0.0,0,0.0
+Industria de Telefónica de Argentina es,sector de telecomunicaciones,una empresa dedicada al desarrollo y la comercialización de servicios de telecomunic,latam,0.13333333333333333,0,0.0
+Organización matriz de Telefónica de Argentina es,Telefónica,"una empresa de telecomunicaciones con sede en la Argentina, es una fil",latam,0.0,0,0.0
+Logotipo de Telefónica de Argentina es,Telefónica 2021 logo.svg,"una marca que representa a la empresa, que fue fundada en 1",latam,0.0,0,0.0
+Forma jurídica de Telefónica de Argentina es,sociedad por acciones,"S.A. (Sociedad Anónima), con domicilio en",latam,0.2222222222222222,0,0.0
+Filial de Telefónica de Argentina es,Telefónica Móviles Argentina,"una empresa que nació en 1998, como una",latam,0.0,0,0.0
+Categoría en Commons de Telefónica de Argentina es,Telefónica Argentina,"un espacio en el que se encuentran imágenes, videos, audios y",latam,0.0,0,0.0
+Categoría principal del tema de Pintura de Argentina es,Categoría:Pintura de Argentina,"Arte, y el subtema es Pintura. La categoría principal",latam,0.0,0,0.0
+Deporte de Selección de fútbol para ciegos de Argentina es,fútbol 5 adaptado,"un deporte que se practica en Argentina, es un deporte de",latam,0.0,0,0.0
+Sobrenombre de Selección de fútbol para ciegos de Argentina es,Los Murciélagos,": ""Los ojos de la noche"", ""Los ojos del sol",latam,0.1818181818181818,0,0.0
+Participó en de Selección de fútbol para ciegos de Argentina es,Juegos Paralímpicos de París 2024,"un jugador de fútbol para ciegos, nacido",latam,0.16666666666666666,0,0.0
+Subclase de de automóvil presidencial de Argentina es,automóvil presidencial,el auto usado para trasladar a la presidenta o presidente de la,latam,0.0,0,0.0
+Subclase de de Selección masculina de hockey patines de Argentina es,selección deportiva masculina,la que tiene como objetivo principal el fomento y desarrollo del hockey pat,latam,0.0,0,0.0
+Subclase de de Selección masculina de hockey patines de Argentina es,selección nacional,una de las más exitosas del mundo. El equipo argentino ha gan,latam,0.0,0,0.0
+Galería en Commons de Bicentenario de Argentina es,Bicentenario de Argentina,un proyecto que se está desarrollando en el marco del Bicent,latam,0.0,0,0.0
+Google Doodle de Bicentenario de Argentina es,argentinas-bicentennial-independence,una celebración del 200 aniversario de la independencia,latam,0.0,0,0.0
+Nombre de usuario de Twitter (X) de Selección juvenil de rugby de Argentina es,lospumitasarg,":
+El nombre de usuario de Twitter (X) de la Selección Ju",latam,0.0,0,0.0
+Categoría principal del tema de estampillas de Argentina es,Categoría:Sellos de Argentina,": 
+A) Historia
+B) Arte
+C) Cultura",latam,0.0,0,0.0
+Imagen de estampillas de Argentina es,Primer Sello Postal Argentino.jpg,una colección de estampillas que representan a la Argentina. El,latam,0.0,0,0.0
+Categoría principal del tema de clima de Argentina es,Categoría:Clima de Argentina,": 
+
+Clima en Argentina
+
+Subcategorías del tema de",latam,0.4,0,0.0
+Opuesto a de Selección de rugby 7 de Argentina es,Selección femenina de rugby 7 de Argentina,el equipo de rugby 7 de Argentina. ¿Qué significa? La frase,latam,0.5555555555555556,0,0.0
+Opuesto a de Selección femenina de rugby 7 de Argentina es,Selección de rugby 7 de Argentina,"la selección femenina de rugby 7 de Argentina, pero si",latam,0.7499999999999999,0,0.0
+Sobrenombre de Selección femenina de rugby 7 de Argentina es,Las Yaguaretés,"la ""Tigres"", ¿verdadero o falso? Además",latam,0.0,0,0.0
+Autoridad ejecutiva de Selección femenina de rugby 7 de Argentina es,Unión Argentina de Rugby,una institución que se encarga de seleccionar a las jugadoras que,latam,0.13333333333333333,0,0.0
+Autoridad ejecutiva de Servicio Penitenciario Federal de Argentina es,Inspector General Lic. Fernando Martínez,"el
+**Ministerio de Justicia y Derechos Humanos**",latam,0.0,0,0.0
+Categoría en Commons de Servicio Penitenciario Federal de Argentina es,Servicio Penitenciario Federal,una categoría que permite organizar imágenes relacionadas con el Servicio Penit,latam,0.14285714285714288,0,0.0
+Categoría principal del tema de industria de defensa de Argentina es,Categoría:Empresas de defensa de Argentina,":
+
+La industria de defensa de Argentina es un sector que se ha",latam,0.47058823529411764,0,0.0
+Categoría principal del tema de Bancos de Argentina es,Categoría:Banca en Argentina,":
+
+A) Ajuste de precios de los servicios bancarios
+
+B",latam,0.0,0,0.0
+Categoría principal del tema de Universidad Austral de Argentina es,Categoría:Universidad Austral,La Universidad Austral de Argentina (UAA) es una institución educ,latam,0.16666666666666669,0,0.0
+Situado en la entidad territorial administrativa de Universidad Austral de Argentina es,Buenos Aires,"un centro de investigación, docencia y extensión universitaria,",latam,0.0,0,0.0
+Identificador de clasificación mundial de universidades Quacquarelli Symonds de Universidad Austral de Argentina es,universidad-austral,": 
+Universidad Austral de Argentina, QSC
+
+Universidad Austral de",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Academia Nacional de Medicina de Argentina es,Buenos Aires,un hospital de nivel terciario. El hospital es uno de los principales,latam,0.0,0,0.0
+Imagen de Academia Nacional de Medicina de Argentina es,Academia Nacional de Medicina.jpg,el logo de la Academia Nacional de Medicina de Argentina. La Acad,latam,0.375,0,0.0
+Subclase de de Blues de Argentina es,música de Argentina,"el blues de Buenos Aires, que se caracteriza por el uso de la",latam,0.125,0,0.0
+Imagen de Casa de Moneda de Argentina es,Casa de la moneda edificio retiro.jpg,"un proyecto de
+**arte digital** que se basa en la **",latam,0.25,0,0.0
+Categoría en Commons de Casa de Moneda de Argentina es,Casa de Moneda Argentina,un espacio en la Wikipedia que contiene imágenes de la Casa de Moneda de,latam,0.3333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Casa de Moneda de Argentina es,Buenos Aires,una institución pública cuyo objetivo es la producción de moneda y bil,latam,0.0,0,0.0
+Compuesto por de Casa de Moneda de Argentina es,"Edificio de la Casa de Moneda, Monserrat","una de las instituciones más importantes del país, y desde su fundación",latam,0.10526315789473685,0,0.0
+Compuesto por de Casa de Moneda de Argentina es,"edificio de la Casa de Moneda, Retiro","el banco central del país, el cual se encarga de la emisión",latam,0.2105263157894737,0,0.0
+Compuesto por de Casa de Moneda de Argentina es,anexo de Casa de Moneda,"un museo que muestra la historia de la moneda argentina, con",latam,0.25000000000000006,0,0.0
+Categoría principal del tema de Símbolos de Argentina es,Categoría:Símbolos oficiales de Argentina,: [Categoría principal del tema de Símbolos de,latam,0.18181818181818182,0,0.0
+Organización matriz de Consejo de la Magistratura de Argentina es,Poder Judicial de la Nación Argentina,una estructura que tiene como objetivo principal garantizar la independencia y el,latam,0.1111111111111111,0,0.0
+Logotipo de Consejo de la Magistratura de Argentina es,Consejo de la Magistratura logo.png,un logotipo que representa la institución que supervisa y controla,latam,0.13333333333333333,0,0.0
+Categoría principal del tema de telecomunicaciones de Argentina es,Categoría:Comunicaciones en Argentina,el uso de la tecnología de la información y las comunicaciones (TIC,latam,0.0,0,0.0
+Categoría principal del tema de Medioambiente de Argentina es,Categoría:Medio ambiente de Argentina,":
+A) El desarrollo sostenible y la prevención de riesgos",latam,0.15384615384615383,0,0.0
+Faceta de de Medioambiente de Argentina es,medio ambiente,un sitio web que reúne información sobre el medioambiente en Argentina,latam,0.0,0,0.0
+Ocupante de Estadio Nacional de Hockey de Argentina es,Selección masculina de hockey sobre hierba de Argentina,un tipo de hockey que se juega en una pista de hiel,latam,0.3,0,0.0
+Ocupante de Estadio Nacional de Hockey de Argentina es,Selección femenina de hockey sobre césped de Argentina,un espacio donde se reúnen las personas que quieren conocer el mundo,latam,0.0,0,0.0
+Propiedad de de Estadio Nacional de Hockey de Argentina es,Confederación Argentina de Hockey,"la que se encuentra en la ciudad de:
+La propiedad del Estadio Nacional",latam,0.11764705882352941,0,0.0
+Imagen de Estadio Nacional de Hockey de Argentina es,Estadio Nacional de Hockey 2019 01.jpg,el nombre del sitio web donde se puede comprar entradas para los partidos,latam,0.0,0,0.0
+Evento significativo de Estadio Nacional de Hockey de Argentina es,Champions Challenge de hockey sobre hierba masculino de 2012,"el primer partido del Mundial de Hockey 2023, que",latam,0.2222222222222222,0,0.0
+Subclase de de Primer Plan Quinquenal de Argentina es,política económica,"la que se encarga de la producción de los alimentos, y la producción",latam,0.0,0,0.0
+Imagen de Primer Plan Quinquenal de Argentina es,Biblioteca del Senado de la Provincia - 38 - Bajo la acción del Poder Ejecutivo pónese en Marcha el Plan Quinquenal.jpg,"un mapa que muestra los principales proyectos de infraestructura, como carre",latam,0.06666666666666667,0,0.0
+Situado en la entidad territorial administrativa de Ministerio de Salud de Argentina es,Buenos Aires,"el Ministerio de Salud de la Nación Argentina, encabezado",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Ministerio de Salud de Argentina es,ministro de Salud de Argentina,"el de ministro de Salud, y es el encargado de",latam,0.5333333333333333,0,0.0
+Filial de Ministerio de Salud de Argentina es,Administración Nacional de Laboratorios e Institutos de Salud,la institución encargada de la vigilancia de la salud en el,latam,0.3157894736842105,0,0.0
+Imagen de Ministerio de Salud de Argentina es,2019 Buenos Aires - Ministerio de Obras Públicas.jpg,la principal fuente de información sobre el avance de la pandemia.,latam,0.1111111111111111,0,0.0
+Ubicación de la sede de Ministerio de Salud de Argentina es,Edificio del Ministerio de Obras Públicas,"en la ciudad de Buenos Aires, concretamente en la calle Defensa",latam,0.11764705882352942,0,0.0
+Identificador LinkedIn de empresa de Ministerio de Salud de Argentina es,ministerio-de-salud-de-la-naci-n,El identificador de LinkedIn de la **Ministerio de Salud,latam,0.0,0,0.0
+Imagen de Quién sabe más de Argentina es,Quien sabe mas de argentina.jpg,"una aplicación que permite a los usuarios aprender sobre la cultura, historia y ge",latam,0.0,0,0.0
+Idioma de la película o programa de televisión de Quién sabe más de Argentina es,español,"el idioma original.
+La película o programa de televisión Quién sabe",latam,0.0,0,0.0
+Subclase de de ciudad de Argentina es,ciudad,"la que se caracteriza por tener el siguiente conjunto de características:
+
+1.",latam,0.0,0,0.0
+Imagen de Comisión Nacional de Comunicaciones de Argentina es,Torre de la CNC.JPG,la imagen de la Comisión Nacional de Comunicaciones de Argentina (CN,latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Comisión Nacional de Comunicaciones de Argentina es,Buenos Aires,un servicio de telecomunicaciones con licencia de operador de redes mó,latam,0.0,0,0.0
+Subclase de de hip hop de Argentina es,música de Argentina,":
+A) Banda de rock
+B) Trap
+C) K",latam,0.18181818181818182,0,0.0
+Categoría principal del tema de hip hop de Argentina es,Categoría:Hip hop de Argentina,el de la música y la cultura. How do you say this sentence in,latam,0.11111111111111112,0,0.0
+Categoría principal del tema de Fiestas nacionales de Argentina es,Categoría:Fiestas nacionales de Argentina,":
+A) Cultura
+B) Deportes
+C) Soc",latam,0.0,0,0.0
+Faceta de de historia de la selección de fútbol de Argentina es,selección de fútbol de Argentina,una faceta que puede ser muy interesante. La selección argentina,latam,0.26666666666666666,0,0.0
+Ubicación de la sede de General Motors de Argentina es,Buenos Aires,":
+La sede de General Motors en Argentina se encuentra en la ciudad de Buenos",latam,0.125,0,0.0
+Ubicación de la sede de General Motors de Argentina es,Partido de San Martín,":
+A. Buenos Aires
+B. Córdoba
+C. Ros",latam,0.0,0,0.0
+Producto de General Motors de Argentina es,vehículo deportivo utilitario,una empresa argentina que se dedica a la importación y distribución,latam,0.0,0,0.0
+Categoría en Commons de General Motors de Argentina es,General Motors de Argentina,"un proyecto de la empresa General Motors Argentina S.A., que en 1",latam,0.5,0,0.0
+Situado en la entidad territorial administrativa de General Motors de Argentina es,Departamento Rosario,"un municipio ubicado en el departamento de San Antonio de Areco,",latam,0.15384615384615385,0,0.0
+Ubicación de la sede de Partido Humanista de Argentina es,Buenos Aires,":
+
+La sede del Partido Humanista de Argentina se encuentra en la ciudad",latam,0.0,0,0.0
+Miembro de de Partido Humanista de Argentina es,Internacional Humanista,"un partido político argentino de izquierda, con base en la filos",latam,0.0,0,0.0
+Posición política de Partido Humanista de Argentina es,izquierda,de izquierda o derecha? El Partido Humanista de Argentina (,latam,0.19999999999999998,1,0.0
+Ubicación de la sede de Ministerio Público de Argentina es,Avenida de Mayo,"en la Ciudad de Buenos Aires, en la calle San Martín 2",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Secretaría de Educación de Argentina es,Buenos Aires,"el Ministerio de Educación, Ciencia y Tecnología de la Nación",latam,0.0,0,0.0
+Cargo ocupado por el dirigente de Secretaría de Educación de Argentina es,ministro de Educación de Argentina,"una de las más prestigiosas del país.
+El cargo de secret",latam,0.25000000000000006,0,0.0
+Logotipo de Secretaría de Educación de Argentina es,Escudo argentina ministerios.png,"un logotipo de la Secretaría de Educación de la Argentina, que",latam,0.14285714285714288,0,0.0
+Organización matriz de Secretaría de Educación de Argentina es,Poder Ejecutivo Nacional,"la siguiente: (seleccione la opción correcta)
+
+a) Minister",latam,0.0,0,0.0
+Reemplaza a de Secretaría de Educación de Argentina es,Ministerio de Justicia e Instrucción Pública,el nuevo director de la escuela de Ingeniería de la Universidad de,latam,0.1111111111111111,0,0.0
+Nombre de usuario de Instagram de Secretaría de Educación de Argentina es,educacion.ar,@educacionargentina. ¿Cuál es el nombre de usuario de,latam,0.0,1,0.0
+Ubicación de la sede de Ministerio de Seguridad Social de Argentina es,Avenida Córdoba,"en la Av. Rivadavia 1956, C1",latam,0.0,0,0.0
+Reemplaza a de Ministerio de Seguridad Social de Argentina es,"Secretaría de Trabajo, Empleo y Seguridad Social de Argentina",la nueva institución encargada de la administración del sistema de seguridad,latam,0.3,0,0.0
+Reemplazado por de Ministerio de Seguridad Social de Argentina es,"Secretaría de Trabajo, Empleo y Seguridad Social de Argentina",un término que se usa en la Argentina para designar a la persona que,latam,0.08695652173913043,0,0.0
+Organización matriz de Ministerio de Seguridad Social de Argentina es,Poder Ejecutivo Nacional,"la siguiente: La Secretaría de Políticas Sociales, la Secret",latam,0.0,0,0.0
+"Logotipo de Secretaría de Turismo, Medio Ambiente y Deporte de Argentina es",Escudo argentina ministerios.png,"una marca de la República Argentina, y no puede ser usada sin perm",latam,0.125,0,0.0
+"Situado en la entidad territorial administrativa de Secretaría de Turismo, Medio Ambiente y Deporte de Argentina es",Buenos Aires,un complejo turístico de 200 hectáreas que se,latam,0.0,0,0.0
+Ubicación de la sede de Secretaría del Interior de Argentina es,Buenos Aires,"en la ciudad de Buenos Aires, en el barrio de La Boca,",latam,0.2857142857142857,1,0.0
+Filial de Secretaría del Interior de Argentina es,Registro Nacional de las Personas,"la responsable de la policía nacional, de la policía de seguridad y",latam,0.23529411764705882,0,0.0
+Filial de Secretaría del Interior de Argentina es,Administración de Parques Nacionales de Argentina,el Ministerio de la Interior y Seguridad de la Nación Argentina.,latam,0.3529411764705882,0,0.0
+Imagen de Secretaría del Interior de Argentina es,Edificio del Ministerio del Interior de Argentina.JPG,"el titular de la Secretaría de Interior de la Nación, el cual",latam,0.2105263157894737,0,0.0
+Reemplaza a de Secretaría del Interior de Argentina es,Secretaría de Obras Públicas,un nuevo gobierno que promete ser más eficiente y transparente. ¿,latam,0.0,0,0.0
+Situado en la dirección postal de Secretaría del Interior de Argentina es,Av. 25 de Mayo 101,un edificio que data de la primera mitad del siglo XX.,latam,0.12500000000000003,0,0.0
+Logotipo de Secretaría del Interior de Argentina es,Escudo argentina ministerios.png,un logotipo que representa a la Secretaría del Interior de la Argentina,latam,0.13333333333333333,0,0.0
+Nombre oficial de Ministerio de Cultura de Argentina es,Secretaría de Cultura de la Nación Argentina,": 
+El nombre oficial del Ministerio de Cultura de Argentina es **",latam,0.47058823529411764,0,0.0
+Filial de Ministerio de Cultura de Argentina es,"Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos","una organización sin fines de lucro, cuya misión es la prom",latam,0.09523809523809525,0,0.0
+Filial de Ministerio de Cultura de Argentina es,Instituto Nacional De Antropología y Pensamiento Latinoamericano,el organismo encargado de la gestión de la política cultural del Estado,latam,0.10526315789473685,0,0.0
+Imagen de Ministerio de Cultura de Argentina es,ID 225 Casa Nacional de la Cultura 0837.jpg,"una imagen de la Biblioteca Nacional de Argentina, en la que se ap",latam,0.2857142857142857,0,0.0
+Ubicación de la sede de Ministerio de Cultura de Argentina es,Palacio Casey,"en la ciudad de Buenos Aires, en la calle Reconquista, número",latam,0.0,0,0.0
+Logotipo de Ministerio de Cultura de Argentina es,Escudo argentina ministerios.png,el que se usa en la portada del sitio web del Ministerio de,latam,0.0,0,0.0
+Categoría principal del tema de Ministerio de Cultura de Argentina es,Categoría:Ministerio de Cultura de Argentina,":
+A. Arte
+B. Cultura
+C. Educación
+D",latam,0.16666666666666666,0,0.0
+Categoría en Commons de Ministerio de Cultura de Argentina es,Ministerio de Cultura de la Nación Argentina,una categoría en el proyecto Wikimedia Commons que agrupa imágenes y archivos relacionados,latam,0.0,0,0.0
+Subclase de de Segundo Plan Quinquenal de Argentina es,política económica,"el plan de desarrollo de la provincia de Santa Fe, que fue implementado",latam,0.0,0,0.0
+Autoridad ejecutiva de Selección de polo de Argentina es,Asociación Argentina de Polo,"el Consejo de la Liga Argentina de Polo (CLAP), que se",latam,0.39999999999999997,0,0.0
+Ubicación de la sede de Servicio Meteorológico Nacional de Argentina es,Buenos Aires,en la Ciudad Autónoma de Buenos Aires. La sede está ubicada,latam,0.3076923076923077,1,0.0
+Nombre oficial de Servicio Meteorológico Nacional de Argentina es,Servicio Meteorológico Nacional,:  El Servicio Meteorológico Nacional de Argentina (SMN) es,latam,0.5454545454545454,1,0.0
+Situado en la dirección postal de Servicio Meteorológico Nacional de Argentina es,"Avenida Dorrego 4019, Buenos Aires, Argentina",el lugar donde se encuentra el Observatorio Meteorológico del Alto de las T,latam,0.0,0,0.0
+Categoría en Commons de Servicio Meteorológico Nacional de Argentina es,Servicio Meteorológico Nacional (Argentina),"incorrecta
+Categoría en Commons de Servicio Meteorológico Nacional de",latam,0.46153846153846156,0,0.0
+Imagen de Secretaría de Hacienda de Argentina es,Palacio de Hacienda (Ministerio de Economía).JPG,"la que se muestra en el video, pero el texto no lo menciona",latam,0.0,0,0.0
+Categoría principal del tema de Ópera de Argentina es,Categoría:Ópera de Argentina,el de la Ópera y el teatro. ¿Qué otro,latam,0.16666666666666666,0,0.0
+Faceta de de Ópera de Argentina es,música de Argentina,un proyecto que busca generar un espacio para la producción y difusión de,latam,0.125,0,0.0
+Imagen de Ópera de Argentina es,"Fachada del Teatro Colón en Buenos Aires, Argentina.jpg","una empresa de Argentina, con sede en Buenos Aires, que se dedica",latam,0.3,0,0.0
+"Faceta de de Anexo:Miembros de la Academia Nacional de Ciencias Exactas, Físicas y Naturales de Argentina es","Academia Nacional de Ciencias Exactas, Físicas y Naturales",una faceta que se puede aplicar a personas que son miembros de,latam,0.1,0,0.0
+Categoría relacionada con la lista de Anexo:Universidades privadas de Argentina es,Categoría:Universidades privadas de Argentina,:  A. Educación  B. Ciencias  C. Historia,latam,0.0,0,0.0
+Lista de de Anexo:Escuelas de Argentina es,escuela,"un listado de instituciones educativas de Argentina, organizado por provincia",latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Escuelas de Argentina es,Categoría:Escuelas de Argentina,": Categoría:Escuelas de Argentina. La categoría ""Esc",latam,0.6666666666666666,1,0.0
+Categoría relacionada con la lista de Anexo:Abanderados olímpicos de Argentina es,Categoría:Abanderados olímpicos de Argentina,":
+A. Listas de personas
+B. Listas de eventos",latam,0.16666666666666666,0,0.0
+Lista de de Anexo:Estadios de fútbol de Argentina es,estadio,"un artículo de la Wikipedia en español.
+El estadio de fútb",latam,0.16666666666666669,1,0.0
+Categoría relacionada con la lista de Anexo:Estadios de fútbol de Argentina es,Categoría:Estadios de fútbol de Argentina,":
+
+La categoría relacionada con la lista de **Anexo:Estadi",latam,0.15384615384615385,0,0.0
+Categoría relacionada con la lista de Anexo:Edificios más altos de Argentina es,Categoría:Rascacielos de Argentina,":
+A. Edificios más altos de cada país
+B.",latam,0.18181818181818182,0,0.0
+Categoría en Commons de Logo de Argentina es,Argentina Marca País logos,el lugar donde se guardan las imágenes del logo de Argentina. Esta categoría,latam,0.11764705882352941,0,0.0
+Logotipo de Logo de Argentina es,Argentina Logo.png,un logotipo de un país. El logotipo de Argentina está,latam,0.16666666666666669,0,0.0
+Logotipo de Logo de Argentina es,Logo de la Marca País Argentina.png,"un logotipo que representa a la Argentina, se puede encontrar en el",latam,0.1111111111111111,0,0.0
+Ubicación de la sede de Programa de Atención Médica Integral de Argentina es,Buenos Aires,"en la ciudad de San Luis, Provincia de San Luis, Argentina.",latam,0.0,0,0.0
+Categoría en Commons de Programa de Atención Médica Integral de Argentina es,PAMI (Argentina),la categoría de Commons que contiene imágenes del Programa de Atención Médica,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Programa de Atención Médica Integral de Argentina es,Buenos Aires,"un servicio de salud de alta calidad, con un equipo de profesionales alt",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Penitenciaría Nacional de Argentina es,Buenos Aires,"una institución con fines penitenciarios, encargada de la",latam,0.0,0,0.0
+Categoría en Commons de Penitenciaría Nacional de Argentina es,Penitenciaría Nacional Argentina,un conjunto de imágenes que muestran la Penitenciaría Nacional,latam,0.3333333333333333,0,0.0
+Imagen de Penitenciaría Nacional de Argentina es,Penitenciaria nacional en parque lasheras.jpg,"una institución del Ministerio de Justicia, que se encarga de",latam,0.0,0,0.0
+Reemplazado por de Penitenciaría Nacional de Argentina es,"Parque Las Heras, Buenos Aires","el edificio del antiguo Penal de La Plata, que fue constr",latam,0.0,0,0.0
+Imagen de Policía de Seguridad Aeroportuaria de Argentina es,Juramento oficiales psa.jpg,la nueva marca que se presenta con el propósito de ofrecer una solución integral,latam,0.0,0,0.0
+Reemplaza a de Scouts de Argentina es,Asociación de Scouts de Argentina,un equipo de fútbol argentino de la ciudad de Buenos Aires,latam,0.25000000000000006,0,0.0
+Reemplaza a de Scouts de Argentina es,Unión Scouts Católicos Argentinos,"un proyecto de investigación que busca estudiar los orígenes, la ev",latam,0.0,0,0.0
+Ubicación de la sede de Scouts de Argentina es,Buenos Aires,"en la ciudad de Rosario, en la provincia de Santa Fe, Argentina",latam,0.0,0,0.0
+Forma jurídica de Scouts de Argentina es,asociación civil,":
+Seleccione una:
+a. Sociedad Anónima
+b. Soc",latam,0.0,0,0.0
+Categoría principal del tema de Sindicatos de Argentina es,Categoría:Sindicatos de Argentina,":
+A) Sociales
+B) Políticos
+C) Cult",latam,0.0,0,0.0
+Faceta de de Sindicatos de Argentina es,sindicato de trabajadores,una organización de base que se desarrolla en el contexto de la crisis de,latam,0.11764705882352941,0,0.0
+Categoría principal del tema de arte de Argentina es,Categoría:Arte de Argentina,"el arte contemporáneo, con especial énfasis en el arte de",latam,0.15384615384615383,0,0.0
+Categoría principal del tema de Hidrografía de Argentina es,Categoría:Hidrografía de Argentina,":
+Categoría principal del tema de Hidrografía de Argentina",latam,0.36363636363636365,0,0.0
+Faceta de de Hidrografía de Argentina es,hidrografía,un proyecto de investigación que busca generar un mapa de la Argentina con información sobre,latam,0.0,0,0.0
+Categoría principal del tema de aves de Argentina es,Categoría:Aves de Argentina,"la de la ornitología, pero también se incluyen temas relacionados",latam,0.15384615384615383,0,0.0
+Lista del elemento de aves de Argentina es,Anexo:Aves de Argentina,una lista de aves que se encuentran en la Argentina. La lista,latam,0.26666666666666666,0,0.0
+Categoría principal del tema de partidos políticos de Argentina es,Categoría:Partidos políticos de Argentina,"el Partido Justicialista (PJ), que es el partido más antig",latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Futbolistas de la selección de fútbol de Argentina es,Categoría:Futbolistas de la selección de fútbol de Argentina,":
+
+A. Deportes
+B. Deportes - Fú",latam,0.0,0,0.0
+Clase de competencia de Selección de sóftbol de Argentina es,sóftbol masculino,":
+Seleccione una:
+a. Categoría B
+b. Categor",latam,0.0,0,0.0
+Subclase de de Flota de KC-130H de Argentina es,C-130 en el servicio argentino,"transferida a la Fuerza Aérea de Chile
+La F",latam,0.0,0,0.0
+Operador de Flota de KC-130H de Argentina es,Fuerza Aérea Argentina,el responsable de mantener y operar el avión de carga y de combust,latam,0.0,0,0.0
+Uso de Flota de KC-130H de Argentina es,reabastecimiento en vuelo,"un ejemplo de cómo el planeta es un lugar de guerra constante,",latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Faros de Argentina es,Categoría:Faros de Argentina,"la categoría: Faros de Argentina
+Categoría:Faros de",latam,0.6,0,0.0
+Categoría principal del tema de diputado de Argentina es,Categoría:Diputados del Congreso de la Nación Argentina,":
+A. Política
+B. Economía
+C. Cultura",latam,0.0,0,0.0
+Forma femenina de la etiqueta de diputado de Argentina es,diputada de Argentina,"diputada, ¿cuál es el masculino?
+En Argentina,",latam,0.4,0,0.0
+Propiedades de Wikidata para este tipo de diputado de Argentina es,identificador de votaciones de diputado de Argentina,"la siguiente:
+
+- **Tipo de entidad**: item
+- **Identificador",latam,0.2857142857142857,0,0.0
+Propiedades de Wikidata para este tipo de diputado de Argentina es,identificador HCDN,: https://www.wikidata.org/wiki/Special:EntityPage/Q1,latam,0.0,0,0.0
+Propiedades de Wikidata para este tipo de diputado de Argentina es,identificador de biografía de diputado de Argentina,"el de ""diputado nacional argentino"" o ""dip",latam,0.2857142857142857,0,0.0
+Propiedad asociada de Wikidata de diputado de Argentina es,identificador HCDN,":
+https://www.wikidata.org/wiki/Q576458",latam,0.0,0,0.0
+Propiedad asociada de Wikidata de diputado de Argentina es,identificador de biografía de diputado de Argentina,":
+
+En Wikidata, la propiedad que se utiliza para representar a un",latam,0.0,0,0.0
+Propiedad asociada de Wikidata de diputado de Argentina es,identificador de votaciones de diputado de Argentina,: https://www.wikidata.org/wiki/Q109550,latam,0.0,0,0.0
+Categoría principal del tema de Industria de Argentina es,Categoría:Industria de Argentina,":
+
+A) Economía
+
+B) Ciencia
+
+C) Salud",latam,0.0,0,0.0
+Categoría principal del tema de senador de Argentina es,Categoría:Senadores nacionales de Argentina,"A. Ciencia y tecnología
+B. Política y gobierno
+C",latam,0.0,0,0.0
+Forma femenina de la etiqueta de senador de Argentina es,senadora de l'Argentina,senadora. ¿Qué forma femenina tiene la etiqueta de dip,latam,0.3333333333333333,0,0.0
+Propiedad asociada de Wikidata de senador de Argentina es,identificador HSNA,: 1111111111111,latam,0.0,0,0.0
+Subclase de de selección femenina de hockey sobre patines de Argentina es,selección nacional,el equipo de hockey sobre patines femenino de la ciudad de Có,latam,0.0,0,0.0
+Subclase de de selección femenina de hockey sobre patines de Argentina es,seleccion deportiva femenina,campeona de la Sudamericana 2022,latam,0.0,0,0.0
+Editorial de censo de Argentina es,Instituto Nacional de Estadística y Censos,"un organismo encargado de realizar el censo de población, que",latam,0.125,0,0.0
+Ubicación de la sede de Ministerio Público de la Defensa de Argentina es,Buenos Aires,"la ciudad de Córdoba, Argentina. El Ministerio Público de la",latam,0.0,0,0.0
+Organización matriz de Ministerio Público de la Defensa de Argentina es,Poder Judicial de la Nación Argentina,"un sistema de poder y control, que permite al Estado ejercer su",latam,0.2222222222222222,0,0.0
+Situado en la entidad territorial administrativa de Ministerio Público de la Defensa de Argentina es,Buenos Aires,un organismo que se encarga de la fiscalización de las actividades que,latam,0.0,0,0.0
+Situado en la dirección postal de Ministerio Público de la Defensa de Argentina es,"Av. Callao 970, C1023 AAP, Buenos Aires",un edificio de 21 pisos con un área total de,latam,0.0,0,0.0
+Categoría relacionada con la lista de Anexo:Aerolíneas desaparecidas de Argentina es,Categoría:Aerolíneas desaparecidas de Argentina,":
+A. Aerolíneas que operan en Argentina
+B.",latam,0.18181818181818182,0,0.0
+Lista de de Anexo:Aerolíneas desaparecidas de Argentina es,aerolínea,un anexo que recopila la información de aerolíneas que,latam,0.0,1,0.0
+Deporte de Liga de Desarrollo de Argentina es,baloncesto,"un deporte de equipo de contacto, que se juega en un campo",latam,0.0,0,0.0
+Idioma de la obra o del nombre de Mauricio Macri es el presidente electo de Argentina es,español,el idioma de la obra o del nombre? La pregunta es en relación,latam,0.0,0,0.0
+Deporte de SuperLiga Femenina de Básquet de Argentina es,baloncesto,el baloncesto femenino. La SuperLiga Femenina,latam,0.2857142857142857,1,0.0
+Imagen de Ministerio de Modernización de Argentina es,Banco Argentino Uruguayo.JPG,una imagen de un edificio o estructura que representa el Ministerio de,latam,0.0,0,0.0
+Reemplazado por de Ministerio de Modernización de Argentina es,"Secretaria de Innovación, Ciencia y Tecnología","el nuevo ministro de Economía, la presidenta Cristina Fernández de",latam,0.125,0,0.0
+Reemplaza a de Ministerio de Modernización de Argentina es,Ministerio de Comunicaciones de Argentina,un tema que ha generado mucha controversia en la política argentina.,latam,0.12500000000000003,0,0.0
+Imagen de Secretaría de Transporte de Argentina es,Palacio de Hacienda (Ministerio de Economía).JPG,un proyecto de investigación en el cual se busca estudiar las políticas púb,latam,0.10526315789473684,0,0.0
+Logotipo de Secretaría de Transporte de Argentina es,Escudo argentina ministerios.png,un logotipo que representa la Secretaría de Transporte de la República,latam,0.0,0,0.0
+Imagen de Ministerio de Comunicaciones de Argentina es,Torre de la CNC.JPG,una imagen de una mujer en el centro de un escenario con un mic,latam,0.11111111111111112,0,0.0
+Reemplazado por de Ministerio de Comunicaciones de Argentina es,Ministerio de Modernización de Argentina,una organización que se encarga del desarrollo de infraestructura y servicios de,latam,0.23529411764705882,0,0.0
+Organización matriz de Ministerio de Comunicaciones de Argentina es,Poder Ejecutivo Nacional,"una institución con múltiples funciones, como:
+- Planificación y",latam,0.0,0,0.0
+Subclase de de elección legislativa de Argentina es,elección legislativa,un concepto jurídico que se refiere a la posibilidad de,latam,0.0,0,0.0
+Cargo que elige de elección legislativa de Argentina es,diputado de Argentina,un proceso electoral donde los ciudadanos eligen a los representantes de los,latam,0.13333333333333333,0,0.0
+Cargo que elige de elección legislativa de Argentina es,senador de Argentina,un tema de interés para muchos argentinos. La elección legislativa,latam,0.15384615384615383,0,0.0
+Nacionalidad deportiva de selección olímpica de fútbol de Argentina es,Argentina,:  La nacionalidad deportiva de la selección olímpica,latam,0.0,0,0.0
+Deporte de Selección femenina de fútbol sub-17 de Argentina es,fútbol femenino,la selección femenina de fútbol sub-17,latam,0.25,0,0.0
+Propiedad de de Selección femenina de fútbol sub-17 de Argentina es,Asociación del Fútbol Argentino,una institución de fútbol femenino de Argentina que representa,latam,0.15384615384615383,0,0.0
+Lista de de Anexo:Detenidos desaparecidos de Argentina es,detenido desaparecido por el terrorismo de Estado en Argentina,un libro que contiene la lista de 1.323 personas que,latam,0.10526315789473685,0,0.0
+Categoría principal del tema de ministro de defensa de Argentina es,Categoría:Ministros de Defensa de Argentina,":
+A. Política
+B. Sociedad
+C. Cultura",latam,0.0,0,0.0
+Deporte de Selección de baloncesto 3x3 de Argentina es,baloncesto 3x3,"el 3x3, el baloncesto en 3x3",latam,0.5,0,0.0
+Clase de competencia de Selección de baloncesto 3x3 de Argentina es,baloncesto masculino,la que se enfrenta a la de Colombia en el partido de apertura,latam,0.0,0,0.0
+"Cargo ocupado por el dirigente de Secretaría de Trabajo, Empleo y Seguridad Social de Argentina es",ministro de Trabajo de Argentina,"un cargo de alto nivel, y es el responsable de la implementación y",latam,0.2222222222222222,0,0.0
+"Imagen de Secretaría de Trabajo, Empleo y Seguridad Social de Argentina es",Cartel ministerio de trabajo y empleo argentina.jpg,"el encabezado de la nota. El texto es: ""El Minister",latam,0.11764705882352941,0,0.0
+"Ubicación de la sede de Secretaría de Trabajo, Empleo y Seguridad Social de Argentina es",Edificio CASFPI,"en la ciudad de Buenos Aires, en la calle Defensa 12",latam,0.0,0,0.0
+"Logotipo de Secretaría de Trabajo, Empleo y Seguridad Social de Argentina es",Escudo argentina ministerios.png,"un logotipo que representa a la Secretaría de Trabajo, Em",latam,0.0,0,0.0
+Imagen de Ministerio de Finanzas de Argentina es,Palacio de Hacienda (Ministerio de Economía).JPG,el nombre de una imagen que se muestra en la web del Ministerio de,latam,0.3,0,0.0
+Ubicación de la sede de Ministerio de Finanzas de Argentina es,Palacio de Hacienda,"en la ciudad de Buenos Aires, en la calle Reconquista. En",latam,0.14285714285714288,0,0.0
+Organización matriz de Ministerio de Finanzas de Argentina es,Poder Ejecutivo Nacional,"el siguiente: 
+
+Ministerio de Finanzas y Tributación",latam,0.0,0,0.0
+Subclase de de ministro de Trabajo de Argentina es,ministro de Trabajo,"la que se encarga de la gestión de la producción, el trabajo y",latam,0.25,0,0.0
+Organización dirigida desde este cargo de ministro de Trabajo de Argentina es,"Secretaría de Trabajo, Empleo y Seguridad Social de Argentina",la que en 1986 presentó la propuesta de la,latam,0.1111111111111111,0,0.0
+Organización dirigida desde este cargo de ministro de Industria de Argentina es,Ministerio de Desarrollo Productivo,la que se encarga del desarrollo de políticas públicas de industria,latam,0.26666666666666666,0,0.0
+Subclase de de ministro de Educación de Argentina es,ministro de Educación,un título de honor otorgado por la Academia Argentina de la Histor,latam,0.13333333333333333,0,0.0
+Organización dirigida desde este cargo de ministro de Educación de Argentina es,Secretaría de Educación de Argentina,"la que se encarga de la educación en el país, en el ámbito",latam,0.2222222222222222,0,0.0
+Subclase de de ministro de Salud de Argentina es,ministro de salud,"el subministro de Salud, pero no lo mencionan en",latam,0.3333333333333333,1,0.0
+Organización dirigida desde este cargo de ministro de Salud de Argentina es,Ministerio de Salud de Argentina,la que ha anunciado el cierre del protocolo de vacunación,latam,0.13333333333333333,0,0.0
+Forma femenina de la etiqueta de ministro de Salud de Argentina es,ministra de Salut,":
+
+La forma femenina de la etiqueta ""ministro de Sal",latam,0.16666666666666666,0,0.0
+Faceta de de Lista del Patrimonio Cultural Inmaterial de la Humanidad de Argentina es,cultura de Argentina,"el
+**Cantos de los Pueblos Originarios de",latam,0.2,0,0.0
+Faceta de de Lista del Patrimonio Cultural Inmaterial de la Humanidad de Argentina es,Patrimonio Cultural Inmaterial de la Humanidad,"el que se presenta en la presente nota, en la cual se incluyen",latam,0.10526315789473684,0,0.0
+Categoría relacionada con la lista de Lista del Patrimonio Cultural Inmaterial de la Humanidad de Argentina es,Categoría:Patrimonio Cultural Inmaterial de la Humanidad en Argentina,": 
+
+A. Cultura Popular  
+B. Patrimonio Natural",latam,0.0,0,0.0
+País de Selección masculina de rugby de Argentina es,Argentina,":
+
+El país de selección masculina de rugby de Argentina es Argentina.",latam,0.16666666666666669,1,0.0
+Organización dirigida desde este cargo de Ministro de Agricultura de Argentina es,"Ministerio de Agricultura, Ganadería y Pesca","el Ministerio de Agricultura, Ganadería y Alimentación de",latam,0.7142857142857143,0,0.0
+Titular del cargo de Ministro de Agricultura de Argentina es,Carlos Casamiquela,la persona que ostenta el cargo de ministro de la cartera minister,latam,0.0,0,0.0
+Subclase de de embajador de Argentina es,embajador de un país,un término que se usa en la política argentina para referirse a una,latam,0.11764705882352941,0,0.0
+Categoría principal del tema de embajador de Argentina es,Categoría:Embajadores de Argentina,"""Paisaje y Cultura"". Selecciona las subcategor",latam,0.0,0,0.0
+Forma femenina de la etiqueta de embajador de Argentina es,ambasadorino de Argentino,": Embajadora. How do you say this in Spanish?
+
+The feminine",latam,0.0,0,0.0
+Forma femenina de la etiqueta de embajador de Argentina es,veleposlanica Argentine,"embajadora, ¿y cuál sería el femenino de emb",latam,0.0,0,0.0
+Opuesto a de embajador de Argentina es,embajador en Argentina,"embajador de la Argentina. ¿Esto es cierto?
+
+La",latam,0.36363636363636365,0,0.0
+Situado en la entidad territorial administrativa de Museo de la Mujer de Argentina es,Buenos Aires,"el Museo de la Mujer de la Argentina, que se encuentra en",latam,0.0,0,0.0
+Situado en la dirección postal de Museo de la Mujer de Argentina es,Dr. Rodolfo Rivarola 147 - Ciudad Autónoma de Buenos Aires - Aregentina (C1015AAA),"el Museo de la Mujer de Argentina, un museo dedicado",latam,0.09523809523809525,0,0.0
+Miembro de de Museo de la Mujer de Argentina es,Asociación Internacional de Museos de la Mujer,una organización que se dedica a promover y defender los derechos de la,latam,0.2,0,0.0
+Categoría principal del tema de Medios de comunicación de Argentina es,Categoría:Medios de comunicación de Argentina,"A. La historia de los medios de comunicación en Argentina
+B.",latam,0.5000000000000001,0,0.0
+Opuesto a de Selección femenina de waterpolo de Argentina es,Selección de waterpolo de Argentina,el equipo femenino de waterpolo de Argentina. ¿Esto,latam,0.6153846153846154,0,0.0
+Categoría principal del tema de cervezas de Argentina es,Categoría:Cervezas de Argentina,el consumo de cerveza en el país. 1. ¿Cu,latam,0.16666666666666666,0,0.0
+Subclase de de Monumento histórico nacional de Argentina es,monumento histórico nacional de Argentina,un tipo de protección que se otorga a los bienes inmue,latam,0.12500000000000003,0,0.0
+Autoridad ejecutiva de Monumento histórico nacional de Argentina es,"Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos","el Ministerio de Cultura y Turismo de la Nación, con",latam,0.3,0,0.0
+Propiedad asociada de Wikidata de Monumento histórico nacional de Argentina es,identificador de bien histórico de Argentina,: P1485. El código de la propiedad es: P,latam,0.14285714285714288,0,0.0
+Afiliación de Selección femenina junior de balonmano playa de Argentina es,Confederación Argentina de Handball,":
+La Selección femenina junior de balonmano playa de",latam,0.16666666666666666,0,0.0
+Participó en de Selección femenina junior de balonmano playa de Argentina es,Anexo:Balonmano playa en los Juegos Olímpicos de la Juventud de Buenos Aires 2018,una selección de balonmano playa de Argentina formada por jug,latam,0.2608695652173913,0,0.0
+Subclase de de tipo de entidad empresarial de Argentina es,tipo de entidad empresarial,una denominación que se aplica a empresas que tienen su sede social en,latam,0.0,0,0.0
+Imagen de Ministerio de Comercio Exterior de Argentina es,Palacio de Hacienda (Ministerio de Economía).JPG,el título de esta noticia. Se trata de un anuncio oficial del,latam,0.2222222222222222,0,0.0
+Compuesto por de Fronteras de Argentina es,Frontera entre Argentina y Brasil,"un organismo de investigación científica y tecnológica, es una institución",latam,0.13333333333333333,0,0.0
+Compuesto por de Fronteras de Argentina es,frontera entre Argentina y Chile,un proyecto que surgió de la necesidad de hacer un estudio sobre,latam,0.0,0,0.0
+Compuesto por de Fronteras de Argentina es,Frontera entre Argentina y Bolivia,"un país con una gran cantidad de ríos, y muchos de ellos",latam,0.11764705882352941,0,0.0
+Compuesto por de Fronteras de Argentina es,frontera Argentina-Paraguay,un país con una gran riqueza natural y cultural. How do you,latam,0.0,0,0.0
+Compuesto por de Fronteras de Argentina es,Frontera entre Argentina y Uruguay,un proyecto de investigación interdisciplinario que busca analizar y comp,latam,0.13333333333333333,0,0.0
+Compuesto por de Fronteras de Argentina es,Frontera entre Argentina y el Reino Unido,un grupo de estudiantes de derecho de la Facultad de Derecho de,latam,0.0,0,0.0
+Categoría principal del tema de Fronteras de Argentina es,Categoría:Fronteras de Argentina,": 
+
+A) Geografía física  
+B) Geografía humana",latam,0.0,0,0.0
+Imagen de Fronteras de Argentina es,Mendoza - Paso de la Cumbre - Puesto de GNA.jpg,un proyecto que busca explorar y documentar las fronteras de Argentina,latam,0.10526315789473685,0,0.0
+Vista aérea de Fronteras de Argentina es,Los Andes cruzando desde Chile - panoramio.jpg,"una fotografía de la región fronteriza de la Argentina con Chile,",latam,0.11764705882352942,0,0.0
+Clase de competencia de Selección femenina de fútbol sala de Argentina es,fútbol sala femenino,la que está en la competencia del Mundial de fútbol,latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Área Gestión Documental y Biblioteca - Centro Nacional de Información Sobre Seguridad y Salud En El Trabajo de Argentina es,Buenos Aires,"un organismo dependiente del Ministerio de Trabajo, Empleo",latam,0.0,0,0.0
+Operador de Flota de AS332 de Argentina es,Ejército Argentino,un operador de helicópteros que presta servicios de transporte,latam,0.0,0,0.0
+Propiedad de de Flota de AS332 de Argentina es,Ejército Argentino,una empresa de transporte aéreo que opera con un avión de hid,latam,0.0,0,0.0
+Imagen de Argentina es,Locomotora La Argentina.jpg,"una plataforma de streaming que permite a los usuarios ver contenido de Argentina, como",latam,0.0,0,0.0
+Ubicación de la sede de Ministerio de Marina de Argentina es,Edificio Guardacostas,en la ciudad de Buenos Aires. La sede está ubicada en la A,latam,0.0,0,0.0
+Categoría principal del tema de Ministerio de Marina de Argentina es,Categoría:Ministerio de Marina (Argentina),":
+A) Política
+B) Defensa
+C) Ciencia",latam,0.0,0,0.0
+Imagen de Ministerio de Marina de Argentina es,Edificio Guardacostas (ca. 1957).jpg,"un proyecto de investigación sobre el Ministerio de Marina de Argentina, que se",latam,0.0,0,0.0
+Reemplaza a de Ministerio de Marina de Argentina es,Ministerio de Guerra y Marina de Argentina,"un tipo de organización, no un título, por lo que no se puede",latam,0.1,0,0.0
+Logotipo de Ministerio de Guerra y Marina de Argentina es,Ministerio de Guerra y Marina.png,un emblema de la República Argentina. En 1813,latam,0.15384615384615385,0,0.0
+Compuesto por de Ministerio de Guerra y Marina de Argentina es,Ejército Argentino,un organismo que se encarga de la defensa del territorio argent,latam,0.0,0,0.0
+Compuesto por de Ministerio de Guerra y Marina de Argentina es,Armada Argentina,"la institucion que se encarga de la defensa del territorio,",latam,0.0,0,0.0
+Reemplazado por de Ministerio de Guerra y Marina de Argentina es,Ministerio de Guerra de Argentina,el nombre del ministerio que se encarga de las fuerzas armadas,latam,0.25000000000000006,0,0.0
+Reemplazado por de Ministerio de Guerra y Marina de Argentina es,Ministerio de Marina de Argentina,el título del libro de la escritora argentina de literatura infantil,latam,0.37499999999999994,0,0.0
+Categoría principal del tema de intendente de Argentina es,Categoría:Intendentes de Argentina,"el ""Gobierno"". La subcategoría es ""Intendentes",latam,0.0,0,0.0
+Ubicación de la sede de Ministerio de Guerra de Argentina es,Edificio Libertador,"en:
+Seleccione una:
+a. Plaza de Mayo
+b. Avenida",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Ministerio de Guerra de Argentina es,Buenos Aires,"un distrito de la provincia de Buenos Aires, en la región del Gran",latam,0.2666666666666667,1,0.0
+Imagen de Ministerio de Guerra de Argentina es,Acto militar argentino por el Día de la Independencia-2019.jpg,el nombre de un cuadro de 1964 del artista,latam,0.2222222222222222,0,0.0
+Reemplaza a de Ministerio de Guerra de Argentina es,Ministerio de Guerra y Marina de Argentina,un libro de historia argentina publicado en 1975 por,latam,0.25,0,0.0
+Presidente de Asociación de Familiares y Amigos de los Presos Políticos de Argentina es,Cecilia Pando,"el que fue detenido en la cárcel de San Martín,",latam,0.0,0,0.0
+Forma jurídica de Asociación de Familiares y Amigos de los Presos Políticos de Argentina es,Asociacion civil,":
+La **Asociación de Familiares y Amigos de los",latam,0.0,0,0.0
+Continente de Geografía política de Argentina es,América del Sur,"el continente en el que se encuentra la República Argentina, es decir,",latam,0.0,0,0.0
+Situado cerca del cuerpo de agua de Geografía política de Argentina es,Mar de Hoces,una disciplina que estudia la organización espacial del poder político y la,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Geografía política de Argentina es,provincia de Argentina,"el municipio de San José de la Ventana, en la provincia de",latam,0.26666666666666666,0,0.0
+Tema principal de la obra de Ley de Interrupción Voluntaria del Embarazo de Argentina es,Aborto en Argentina,":
+La Ley de Interrupción Voluntaria del Embarazo (",latam,0.0,0,0.0
+Lista de de Anexo:Aglomerados urbanos de Argentina es,aglomeración urbana,un anexo de la página sobre el tema de los aglomerados,latam,0.0,0,0.0
+Diferente de de Anexo:Aglomerados urbanos de Argentina es,Anexo:Lista de ciudades de Argentina,un anexo que no se encuentra en el sitio web de la FAO,latam,0.1111111111111111,0,0.0
+Orden religiosa de Provincia escolapia de Argentina es,Orden de las Escuelas Pías,una orden religiosa de clérigos regulares de la Iglesia cat,latam,0.26666666666666666,0,0.0
+Faceta de de Literatura LGBT de Argentina es,Diversidad sexual en la Argentina,un proyecto que busca visibilizar la producción literaria argentina con tem,latam,0.25000000000000006,0,0.0
+Categoría principal del tema de Literatura LGBT de Argentina es,Categoría:Literatura LGBT en Argentina,":
+
+La literatura LGBT en Argentina es una rama significativa dentro de",latam,0.39999999999999997,0,0.0
+Theapolis theatre ID de Ballet nacional de Argentina es,ballet-nacional-de-argentina,el 55381982. ¿Cómo lo puedo,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Museo Scout Nacional de Argentina es,Buenos Aires,"el primer museo de la Argentina dedicado a la escultura,",latam,0.0,0,0.0
+Situado en la dirección postal de Museo Scout Nacional de Argentina es,Libertad 1282 Ciudad Autónoma de Buenos Aires,"el lugar donde se encuentra el museo que recibe el nombre de """,latam,0.10526315789473685,0,0.0
+Subclase de de temporada de incendios forestales de Argentina es,temporada de incendios forestales de una región,un documento que contiene información sobre las características y condiciones específicas de las tempor,latam,0.09523809523809523,0,0.0
+Situado en la entidad territorial administrativa de Asociación de Mujeres Juezas de Argentina es,Buenos Aires,"una Asociación civil sin fines de lucro, con personalidad jur",latam,0.0,0,0.0
+Ubicación de la sede de Asociación de Mujeres Juezas de Argentina es,Buenos Aires,"la siguiente:
+**Av. del Libertador 345, p",latam,0.0,0,0.0
+Forma jurídica de Asociación de Mujeres Juezas de Argentina es,Asociacion civil,"una asociación civil sin fines de lucro, registrada en el Registro",latam,0.15384615384615385,0,0.0
+Afiliación de Asociación de Mujeres Juezas de Argentina es,Asociación Internacional de Mujeres Juezas,"una asociación civil, sin fines de lucro, de ámbito nacional,",latam,0.26666666666666666,0,0.0
+Subclase de de presidente del banco central de Argentina es,gobernador de banco central,"un error de redacción, ¿por qué? La frase ""Subcl",latam,0.15384615384615383,0,0.0
+Organización dirigida desde este cargo de presidente del banco central de Argentina es,Banco Central de la República Argentina,el Banco Central de la República Argentina (BCRA). La institución es,latam,0.7058823529411764,1,0.0
+"Ubicación de la sede de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",Buenos Aires,"La Asociación de Travestis, Transexuales y Trans",latam,0.0,0,0.0
+"Forma jurídica de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",Asociacion civil,":
+
+La forma jurídica de la Asociación de Travestis",latam,0.0,0,0.0
+"Nombre oficial de Asociación de Travestis, Transexuales y Transgéneros de Argentina es","Asociación de Travestis, Transexuales y Transgéneros de Argentina",":
+La Asociación de Travestis, Transexuales y Trans",latam,0.6666666666666666,0,0.0
+"Miembro de de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",Federación Argentina LGTB,una organización que representa a personas trans en Argentina. La Asociación se,latam,0.13333333333333333,0,0.0
+"Presidente de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",Claudia Pía Baudracco,"el primer presidente electo en el país que no es transgénero,",latam,0.0,0,0.0
+"Presidente de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",María Belén Correa,"una organización de derechos humanos y salud que representa a travestis,",latam,0.0,0,0.0
+"Presidente de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",Marcela Romero,un título que se le otorga a la persona que preside la,latam,0.0,0,0.0
+"Nombre de usuario de Twitter (X) de Asociación de Travestis, Transexuales y Transgéneros de Argentina es",ATTTA_Nacional,"@travestisarg, ¿qué significa la palabra Travestis",latam,0.0,0,0.0
+Propiedad de de Selección femenina de fútbol sub-15 de Argentina es,Asociación del Fútbol Argentino,la campeona de la Copa del Mundo de fútbol fem,latam,0.28571428571428575,0,0.0
+Deporte de Selección femenina de fútbol a ciegas de Argentina es,fútbol 5 adaptado,"un deporte con reglas propias, y se practica con una",latam,0.0,0,0.0
+Nombre de Selección femenina de fútbol a ciegas de Argentina es,Las Murciélagas,":
+La selección femenina de fútbol a cieg",latam,0.0,0,0.0
+Ubicación de la sede de Unión de Árbitros Deportivos de Argentina es,Rosario,"en la calle Defensa 1221, CABA, Argentina",latam,0.0,0,0.0
+Compuesto por de Ministerio de Capital Humano de Argentina es,"Secretaría de Trabajo, Empleo y Seguridad Social de Argentina",un organismo descentralizado que se encarga de la gestión del personal,latam,0.09999999999999999,0,0.0
+Compuesto por de Ministerio de Capital Humano de Argentina es,Ministerio de Cultura de Argentina,"un ministerio que se encarga de la planificación, organización, ejec",latam,0.26666666666666666,0,0.0
+Compuesto por de Ministerio de Capital Humano de Argentina es,Secretaría de Educación de Argentina,un organismo encargado de la política de formación profesional y capacit,latam,0.25000000000000006,0,0.0
+Ubicación de la sede de Ministerio de Infraestructura de Argentina es,Buenos Aires,en la calle 12 de Septiembre y 14 de Mayo,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Ministerio de Infraestructura de Argentina es,Buenos Aires,un proyecto de infraestructura de transporte que se encuentra en ejecución.,latam,0.0,0,0.0
+Ubicación de Festival Internacional de Cine y Discapacidad de Argentina es,Buenos Aires,"en Buenos Aires, Argentina. How do you say this sentence in English?",latam,0.2857142857142857,1,0.0
+Categoría principal del tema de ministerio de Argentina es,Categoría:Ministerios y Secretarías de Estado de Argentina,": Categoría principal del tema de ministerio de Argentina es:
+A",latam,0.3529411764705882,0,0.0
+Aplica a la jurisdicción de Rutas Provinciales de Argentina es,provincia de Argentina,"la ley 26.533, que establece un sistema",latam,0.0,0,0.0
+Categoría principal del tema de Rutas Provinciales de Argentina es,Categoría:Rutas provinciales de Argentina,": Geografía (1)
+Subcategorías: Geografía de Argentina",latam,0.4,0,0.0
+Imagen de Rutas Provinciales de Argentina es,Masív Fitz Roy - panoramio.jpg,"un sitio web dedicado a la fotografía de rutas, carre",latam,0.0,0,0.0
+Subclase de de presidente electo de Argentina es,presidente electo,"la de presidente electo de la República Argentina, es decir, la persona",latam,0.2857142857142857,1,0.0
+Diferente de de presidente electo de Argentina es,presidente de la Nación Argentina,presidente electo de Chile? ¿Cual es la diferencia entre presidente elect,latam,0.37499999999999994,0,0.0
+Forma femenina de la etiqueta de presidente electo de Argentina es,presidenta electa de Argentina,"""Presidenta electa"" o ""Presidenta elegida""? ¿Cu",latam,0.4,0,0.0
+Forma masculina de la etiqueta de presidente electo de Argentina es,presidente electo de Argentina,"""el Presidente electo"" o ""el Presidente elegido""?",latam,0.36363636363636365,0,0.0
+Rango inmediatamente superior de presidente electo de Argentina es,presidente de la Nación Argentina,el de Presidente de la Nación Argentina. El Presidente de la,latam,0.625,1,0.0
+Patrocinador de Grupo de Estudios del Mar Profundo de Argentina es,Consejo Nacional de Investigaciones Científicas y Técnicas,"el Ministerio de Ciencia, Tecnología, Productividad e Innovación",latam,0.13333333333333333,0,0.0
+Patrocinador de Grupo de Estudios del Mar Profundo de Argentina es,Museo Argentino de Ciencias Naturales Bernardino Rivadavia,"el Ministerio de Ciencia, Tecnología, Productividad e Innovación",latam,0.13333333333333333,0,0.0
+Patrocinador de Grupo de Estudios del Mar Profundo de Argentina es,Museo de La Plata,"la Universidad Nacional de La Plata, la Universidad Nacional de San Martín",latam,0.375,0,0.0
+Patrocinador de Grupo de Estudios del Mar Profundo de Argentina es,Centro Austral de Investigaciones Científicas,el Instituto de Estudios sobre el Mar Profundo (Institute of Deep,latam,0.12500000000000003,0,0.0
+Patrocinador de Grupo de Estudios del Mar Profundo de Argentina es,Centro Nacional Patagónico,"el Ministerio de Ciencia, Tecnología, Productividad e Innovación",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Argentina es,Región de Atacama,"un país de América del Sur, con una extensión territorial de",latam,0.14285714285714288,0,0.0
+Idioma de la película o programa de televisión de El camino de Santiago es,español,"el siguiente:
+Español (subtítulos) | 1",latam,0.33333333333333337,1,0.0
+Idioma de la película o programa de televisión de Dí­as de Santiago es,español,": (Spanish)
+
+The language of the movie or television program Dí­",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Parque nacional Glaciares de Santiago es,San José de Maipo,un parque nacional que fue creado en el año 1978,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Distrito de Santiago es,Provincia de Cusco,una institución educativa que pertenece al sistema de educación básica y,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Provincia de Morropón,"un centro de investigación y desarrollo tecnológico, de carácter público, con el",latam,0.13333333333333333,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Distrito de Chalaco,"el segundo municipio más grande del departamento de Cundinamarca,",latam,0.16666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Distrito de Suyo,"el municipio de Bocachica, perteneciente al departamento",latam,0.2,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Departamento de Misiones,"el Parque Nacional Natural de los Picachos, con una superficie",latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Cantón San Miguel,"la capital del departamento de La Guajira, ubicada en la costa",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Cantón Loja,"el municipio de San Luis de la Sierra, el cual se encuentra en",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Serraní­a de Santiago es,Provincia de Chiquitos,"un parque nacional ubicado al sureste de Colombia, cerca de la",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Morro San José de Santiago es,Departamento de Santa Cruz,"el municipio de San Juan Bautista, el cual se localiza",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Lomas de Santiago es,Departamento de La Libertad,un municipio de la zona central del departamento de Cundinamarca,latam,0.4285714285714285,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Cantón de Paraí­so,el municipio más antiguo de la región. Su nombre proviene de,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Provincia de Alajuela,"la capital del departamento de La Guajira, en el noroeste",latam,0.15384615384615383,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Cantón de San Rafael,"una ciudad que se encuentra en la región de Los Lagos, al norte",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Santiago es,Cantón de San Ramón,"una de las principales ciudades de Chile, con un área de 1",latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Distrito de Santiago es,Provincia de Veraguas,el centro de salud que atiende al 25% de la,latam,0.15384615384615383,0,0.0
+El director de El camino de Santiago es,Tristán Bauer,un documental de 2009 sobre el Camino de Santiago,latam,0.0,0,0.0
+Idioma de la película o programa de televisión de El camino de Santiago es,español,el idioma de la película o programa de televisión. How do you,latam,0.0,0,0.0
+Capital de Región Metropolitana de Santiago es,Santiago de Chile,"un concepto que se refiere a la ciudad de Santiago de Chile,",latam,0.4,1,0.0
+Categoría para las personas que nacieron aquí de Región Metropolitana de Santiago es,Categoría:Nacidos en la Región Metropolitana de Santiago,"el lugar de nacimiento de la persona. La opción ""Otro lugar",latam,0.2222222222222222,0,0.0
+Subdividido en (división administrativa) de Región Metropolitana de Santiago es,Chacabuco,"una comuna de Chile, en la Región Metropolitana,",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Región Metropolitana de Santiago es,Provincia de Santiago,"el Distrito de San Joaquín, que pertenece al municip",latam,0.16666666666666666,0,0.0
+Subdividido en (división administrativa) de Región Metropolitana de Santiago es,Provincia de Talagante,"una comuna de Chile, en la Región Metropolitana,",latam,0.18181818181818182,0,0.0
+Categoría principal del tema de Región Metropolitana de Santiago es,Categoría:Región Metropolitana de Santiago,"la vivienda, con 131.415 vivi",latam,0.0,0,0.0
+Comparte fronteras con de Región Metropolitana de Santiago es,región de Valparaíso,"la región de?
+La Región Metropolitana de Santiago (R",latam,0.3333333333333333,0,0.0
+Comparte fronteras con de Región Metropolitana de Santiago es,Región de O'Higgins,"la región de - Brainly.lat
+Publicar
+Iniciar sesión",latam,0.4,0,0.0
+Comparte fronteras con de Región Metropolitana de Santiago es,Provincia de Mendoza,"la región de
+La Región Metropolitana de Santiago, conoc",latam,0.16666666666666666,0,0.0
+Categoría de personas relacionadas de Región Metropolitana de Santiago es,Categoría:Naturales de la Región Metropolitana de Santiago,una categoría que permite identificar a las personas que tienen alguna relación con la,latam,0.09523809523809523,0,0.0
+Cargo ocupado por el jefe de gobierno de Región Metropolitana de Santiago es,Gobernador regional Metropolitano de Santiago,el que está siendo ocupado ahora por la ex presidenta de la República,latam,0.1111111111111111,0,0.0
+Órgano legislativo de Región Metropolitana de Santiago es,Consejo Regional de la Región Metropolitana de Santiago,":  
+A) El Consejo Regional  
+B) El Consejo de",latam,0.375,0,0.0
+Forma geográfica de Región Metropolitana de Santiago es,Data:Chile/Región Metropolitana de Santiago.map,":
+A) Un área metropolitana
+B) Un área urb",latam,0.16666666666666666,0,0.0
+Jefe de gobierno de Región Metropolitana de Santiago es,Claudio Orrego,"un cargo político en Chile, que ocupa el jefe del gobierno de",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Provincia de Santiago es,Región Metropolitana de Santiago,un municipio que se localiza en el noroeste del departamento de,latam,0.13333333333333333,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Comuna de Santiago,"una comuna de Chile, localizada en la Región Metropolit",latam,0.3333333333333333,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Cerrillos,"un distrito de la región de Santiago, Chile. Está ubicado al",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Conchalí,el departamento de San Antonio. ¿Cuál es la capital? El departamento,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Estación Central,el distrito de (distrito de) Las Mercedes. El distrito,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Huechuraba,"el municipio de San José de la Mariquina, el cual está ubic",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Independencia,"un distrito, con código 21001, de la",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,La Florida,el distrito de San Isidro. ¿Cómo se llama el dist,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,San Ramón,"el departamento de San José de Oruro, que está formado por los",latam,0.14285714285714285,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Las Condes,"un municipio en el departamento de San Salvador, en el centro de El",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Lo Espejo,el área geográfica que comprende el sector de San Joaquín,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Ñuñoa,"el municipio de San José de Maipo, el cual se encuentra ubic",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Peñalolén,"el (municipio) de San Antonio, con 262.",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Providencia,el municipio de Cerrillos. ¿Cuál es el área de,latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,Renca,"el distrito de San Antonio de la Frontera, que se encuentra",latam,0.0,0,0.0
+Subdividido en (división administrativa) de Provincia de Santiago es,San Miguel,"un distrito de la comuna de San Antonio, en la Región",latam,0.15384615384615385,0,0.0
+Capital de Provincia de Santiago es,Comuna de Santiago,"la capital de la provincia de Santiago, que está en la región de Val",latam,0.23529411764705882,0,0.0
+Imagen del escudo de armas del elemento de Comuna de Santiago es,Escudo de Santiago (Chile).svg,"el escudo de armas de la ciudad de Santiago de Chile, que",latam,0.375,0,0.0
+Situado en la entidad territorial administrativa de Comuna de Santiago es,Provincia de Santiago,"un centro de salud que brinda servicios de emergencia médica, atención amb",latam,0.13333333333333333,0,0.0
+Imagen de Comuna de Santiago es,Vista de Santiago desde San Cristobal.jpg,una aplicación web que permite al ciudadano interactuar con la información geográf,latam,0.0,0,0.0
+Banner de Wikiviajes de Comuna de Santiago es,WV banner Santiago Central Cerro Santa Lucia.jpg,una organización que se dedica al turismo en la comuna de Santiago,latam,0.10526315789473685,0,0.0
+Cargo ocupado por el jefe de gobierno de Comuna de Santiago es,alcalde de Santiago,el de **secretario general del Consejo de la Magistratura**,latam,0.16666666666666666,0,0.0
+Capital de de Comuna de Santiago es,Provincia de Santiago,"el municipio de Santiago, la capital del país, y el más importante",latam,0.26666666666666666,0,0.0
+Situado en la entidad territorial administrativa de Parque Metropolitano de Santiago es,Santiago de Chile,un parque de 64 hectáreas que se encuentra en la,latam,0.15384615384615383,0,0.0
+Categoría en Commons de Museo de Arte Contemporáneo de Santiago es,Museo de Arte Contemporáneo de Santiago,una categoría que contiene imágenes de archivos de archivos en el Museo de Arte,latam,0.4,0,0.0
+Imagen de Museo de Arte Contemporáneo de Santiago es,"Museo de Arte Contemporáneo, Santiago 20230305 01.jpg","el museo que se encuentra en el barrio de Lastarria,",latam,0.23529411764705882,0,0.0
+Situado en la entidad territorial administrativa de Museo de Arte Contemporáneo de Santiago es,Comuna de Santiago,una institución cultural que se dedica a la promoción y dif,latam,0.0,0,0.0
+Ubicación de la sede de Museo de Arte Contemporáneo de Santiago es,Santiago de Chile,":
+La ubicación de la sede del Museo de Arte Contemporá",latam,0.15384615384615383,0,0.0
+Página de institución en Commons de Museo de Arte Contemporáneo de Santiago es,"Museo de Arte Contemporáneo, Santiago, Chile",una institución de Chile. El Museo de Arte Contemporáneo,latam,0.6666666666666667,0,0.0
+Nombre en la lengua nativa de Museo de Arte Contemporáneo de Santiago es,Museo de Arte Contemporáneo,":
+
+El nombre en la lengua nativa de Museo de Arte Cont",latam,0.39999999999999997,0,0.0
+Operador de Museo de Arte Contemporáneo de Santiago es,Universidad de Chile,"un empleo que puede ser interesante, pero también puede ser estres",latam,0.0,0,0.0
+Ubicación de Museo de Arte Contemporáneo de Santiago es,Parque Forestal de Santiago,"en la ciudad de Santiago, en el país de Chile. El museo",latam,0.25,0,0.0
+Categoría en Commons de Plaza de Armas de Santiago es,Plaza de Armas de Santiago,el nombre que se le da a la categoría de imágenes que se encuentran,latam,0.10526315789473682,0,0.0
+Imagen de Plaza de Armas de Santiago es,Plaza de Armas.JPG,"un lugar histórico y cultural de la capital de Chile, con una historia que",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Plaza de Armas de Santiago es,Comuna de Santiago,"un edificio que fue construido en el siglo XIX, que",latam,0.0,0,0.0
+Deporte de Batalla de Santiago es,fútbol,un deporte de combate que se practica en la isla de,latam,0.0,0,0.0
+Ubicación de Batalla de Santiago es,Estadio Nacional Julio Martínez Prádanos,el título de la novela histórica de la escritora argentina Sil,latam,0.0,0,0.0
+Equipo participante de Batalla de Santiago es,Selección Chilena de Fútbol,el equipo de 30000000000,latam,0.25,0,0.0
+Equipo participante de Batalla de Santiago es,Selección de fútbol de Italia,un grupo de estudiantes de la Escuela de Ingeniería de la Universidad,latam,0.23529411764705882,0,0.0
+Árbitro de Batalla de Santiago es,Buergo Fernando Elcuar,"una serie de cómics de Marvel Comics, publicada entre 1",latam,0.0,0,0.0
+Ganador de Batalla de Santiago es,Selección Chilena de Fútbol,un título que se otorga al ganador de la batalla de,latam,0.13333333333333333,0,0.0
+Serie de Batalla de Santiago es,Copa Mundial de Fútbol de 1962,"un documental de la serie documental ""Campañas de la Gu",latam,0.25,0,0.0
+Clase de competencia de Batalla de Santiago es,fútbol masculino,una competencia de atletismo que se celebra en la localidad,latam,0.0,0,0.0
+Participante de Batalla de Santiago es,Carlos Contreras Guillaume,un título que se otorga a los veteranos de la Batalla,latam,0.0,0,0.0
+Participante de Batalla de Santiago es,Bruno Mora,el que se encuentra en el centro del cuadro. El cuadro muestra,latam,0.0,0,0.0
+Categoría principal del tema de Metro de Santiago es,Categoría:Metro de Santiago,"el transporte, pero también puede incluir otros temas como la infraestructura",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Metro de Santiago es,Santiago de Chile,un sistema de transporte público de superficie y subterráneo que conect,latam,0.14285714285714288,0,0.0
+Imagen de Metro de Santiago es,"Santiago de Chile, estación Gruta de Lourdes 02.jpg","la mejor imagen de Metro de Santiago, con la mejor calidad de imagen,",latam,0.2857142857142857,0,0.0
+Ancho de vía de Metro de Santiago es,ancho de vía estándar,de 1.400 mm. ¿Cuál es la distancia,latam,0.18181818181818182,0,0.0
+Organización matriz de Metro de Santiago es,Ministerio de Transportes y Telecomunicaciones de Chile,un sistema de gestión que se implementó en el año 200,latam,0.1111111111111111,0,0.0
+Tipo de electrificación de Metro de Santiago es,electrificación ferroviaria de 750 V,": El Metro de Santiago, Chile, utiliza un sistema de electrificación de",latam,0.25000000000000006,0,0.0
+Ubicación de la sede de Metro de Santiago es,Santiago de Chile,"en el centro de Santiago, Chile, en la comuna de Ñ",latam,0.42857142857142855,0,0.0
+Estado de uso de Metro de Santiago es,en funcionamiento,un sistema de transporte de superficie que atraviesa la ciudad de Santiago,latam,0.0,0,0.0
+Compuesto por de Metro de Santiago es,línea 1 del Metro de Santiago,una de las rutas más importantes de la capital chilena. La,latam,0.11764705882352942,0,0.0
+Compuesto por de Metro de Santiago es,línea 2 del Metro de Santiago,"una de las principales ciudades del mundo, por su tamaño, complej",latam,0.23529411764705885,0,0.0
+Compuesto por de Metro de Santiago es,línea 3 del Metro de Santiago,"el metro de Santiago, Chile. El metro de Santiago es un sistema de",latam,0.3157894736842105,0,0.0
+Compuesto por de Metro de Santiago es,línea 4 del Metro de Santiago,"un barrio de la comuna de Santiago, en la Región Met",latam,0.23529411764705885,0,0.0
+Compuesto por de Metro de Santiago es,línea 4A del Metro de Santiago,"un distrito del Perú, ubicado en la provincia de San Miguel",latam,0.23529411764705885,0,0.0
+Compuesto por de Metro de Santiago es,línea 5 del Metro de Santiago,"el metro de Santiago de Chile, una red de transporte subterráneo",latam,0.3529411764705882,0,0.0
+Compuesto por de Metro de Santiago es,línea 6 del Metro de Santiago,"una empresa de transporte público, que opera en la Región Metropolit",latam,0.11764705882352942,0,0.0
+Compuesto por de Metro de Santiago es,línea 7 del Metro de Santiago,"una línea de metro de la CDMX, con un total de",latam,0.3529411764705882,0,0.0
+Compuesto por de Metro de Santiago es,línea 8 del Metro de Santiago,un complejo de 11 edificios en el centro de Santiago,latam,0.25,0,0.0
+Compuesto por de Metro de Santiago es,línea 9 del Metro de Santiago,"un tipo de cinta transportadora, el transporte de carga, el transporte",latam,0.11764705882352942,0,0.0
+Compuesto por de Metro de Santiago es,Línea A del Metro de Santiago,una de las obras más emblemáticas de la capital chilena. Con,latam,0.11764705882352942,0,0.0
+Nombre oficial de Metro de Santiago es,Metro de Santiago,"Metro de Santiago, Chile, que es el sistema de transporte subterrá",latam,0.42857142857142855,1,0.0
+Lista del elemento de Metro de Santiago es,Anexo:Estaciones del Metro de Santiago,un sistema de transporte que se encuentra en la capital de Chile. El metro,latam,0.21052631578947364,0,0.0
+Nombre oficial de Bolsa de Comercio de Santiago es,Bolsa de Comercio de Santiago,":
+La Bolsa de Comercio de Santiago, oficialmente conocida",latam,0.7692307692307693,1,0.0
+Ubicación de la sede de Bolsa de Comercio de Santiago es,Edificio de la Bolsa de Comercio de Santiago,":
+
+La sede de la Bolsa de Comercio de Santiago está ubic",latam,0.7368421052631579,0,0.0
+Ubicación de la sede de Bolsa de Comercio de Santiago es,Santiago de Chile,"en el barrio de Ñuñoa, en la ciudad de",latam,0.16666666666666666,0,0.0
+Índice bursátil de Bolsa de Comercio de Santiago es,Índice de Precio Selectivo de Acciones,"de 29.194,6 puntos, con un aumento",latam,0.16666666666666666,0,0.0
+Imagen de Bolsa de Comercio de Santiago es,Bolsa de Comercio de Santiago.jpg,"un centro de comercio en el centro de la ciudad de Santiago, Chile",latam,0.33333333333333337,0,0.0
+Regulado por de Bolsa de Comercio de Santiago es,Comisión para el Mercado Financiero,la empresa de servicios financieros que se encarga de la administración de,latam,0.0,0,0.0
+Logotipo de Bolsa de Comercio de Santiago es,Bolsa de Comercio de Santiago.png,"un logo que se compone de un león con una corona,",latam,0.12500000000000003,0,0.0
+Categoría en Commons de Cementerio General de Santiago es,Cementerio General de Santiago,una categoría que se crea para organizar imágenes relacionadas con el Cementer,latam,0.0,0,0.0
+Galería en Commons de Cementerio General de Santiago es,Cementerio General de Santiago de Chile,un proyecto de la Asociación Cultural de Fotografía de Chile (AC,latam,0.3529411764705882,0,0.0
+Compuesto por de Cementerio General de Santiago es,Casco histórico del Cementerio General,un cementerio que se encuentra ubicado en el barrio de Las,latam,0.12500000000000003,0,0.0
+Imagen de Cementerio General de Santiago es,Cementerio General fachada.jpg,el nombre de una obra del pintor chileno Pablo Reinoso,latam,0.0,0,0.0
+Tipo de superficie de Challenger de Santiago es,pista de tenis de tierra batida,"de...? La superficie del Challenger de Santiago, también conocido como",latam,0.25,0,0.0
+Categoría principal del tema de Challenger de Santiago es,Categoría:Challenger de Santiago,":
+
+La Categoría Principal del Tema de Challenger de Santiago es:",latam,0.30769230769230765,0,0.0
+Subclase de de Challenger de Santiago es,torneo de tenis,"una subclase de la Universidad de Santiago de Chile, que se enc",latam,0.13333333333333333,0,0.0
+Ubicación de Challenger de Santiago es,Santiago de Chile,"en el distrito de Cerrillos, en la comuna de Santiago",latam,0.30769230769230765,0,0.0
+Categoría principal del tema de Copa Ciudad de Santiago es,Categoría:Copa Ciudad de Santiago,": 
+
+A) Deportes
+B) Cultura
+C)",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Lycée Antoine de Saint-Exupéry de Santiago es,Santiago de Chile,un instituto de educación secundaria que ofrece formación en los nive,latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de línea 1 del Metro de Santiago es,Santiago de Chile,el centro de operaciones de la empresa. Su ubicación está a,latam,0.14285714285714288,0,0.0
+Término (objeto) de línea 1 del Metro de Santiago es,Los Dominicos,"una línea de metro de Santiago de Chile, que fue inaugurada el",latam,0.0,0,0.0
+Color hexadecimal sRGB de línea 1 del Metro de Santiago es,E90012,":
+
+El color hexadecimal sRGB de la línea 1 del Metro de Santiago",latam,0.0,0,0.0
+Mapa vial de línea 1 del Metro de Santiago es,Línea 1 del Metro de Santiago.svg,una aplicación web para visualizar los datos de la Línea 1,latam,0.3529411764705882,0,0.0
+Estado de uso de línea 1 del Metro de Santiago es,en funcionamiento,"""regular"" (1 de 5) y el resto se encuentra en",latam,0.16666666666666669,0,0.0
+Red de transporte de línea 1 del Metro de Santiago es,Red Metropolitana de Movilidad,un sistema de transporte público subterráneo que conecta el centro de,latam,0.13333333333333333,0,0.0
+Red de transporte de línea 1 del Metro de Santiago es,Metro de Santiago,"la línea más antigua del metro de Santiago, con su primer tramo",latam,0.4,1,0.0
+Nombre oficial de Asociación de Football de Santiago es,Asociación de Football de Santiago,"?
+La Asociación de Fútbol de Santiago, también conoc",latam,0.6153846153846154,0,0.0
+Nombre oficial de Asociación de Football de Santiago es,Liga Central de Football de Santiago,"La Asociación de Football de Santiago, también conocida como AS",latam,0.5,0,0.0
+Nombre oficial de Asociación de Football de Santiago es,Asociación Central de Fútbol de Chile,":
+
+La Asociación de Football de Santiago, conocida comúnmente como",latam,0.4,0,0.0
+Categoría en Commons de Correo Central de Santiago es,Correo Central de Santiago,"una categoría en el repositorio de imágenes de Wikipedia, Commons, que se",latam,0.125,0,0.0
+Imagen de Correo Central de Santiago es,"Correo Central, Santiago 20231208.jpg",la base del plan de modernización del sistema de correos de Chile.,latam,0.0,0,0.0
+Localización informal de Correo Central de Santiago es,Plaza de Armas N.º 983 (esq Puente),un edificio de oficinas ubicado en la avenida 2,latam,0.125,0,0.0
+Situado en la entidad territorial administrativa de Correo Central de Santiago es,Comuna de Santiago,"el primer Centro de Atención al Cliente del país, que se encarga",latam,0.13333333333333333,0,0.0
+Ubicación de la sede de Club Hípico de Santiago es,Avenida Blanco Encalada,": 
+
+La sede del Club Hípico de Santiago se encuentra ubic",latam,0.0,0,0.0
+Localización informal de Club Hípico de Santiago es,Abate Molina y Av. Almirante Blanco Encalada (Club Hípico),"una localización informal, sin embargo, es un lugar de interés turístico",latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Club Hípico de Santiago es,Comuna de Santiago,un lugar de esparcimiento que se encuentra en el kilómetro,latam,0.15384615384615383,0,0.0
+Imagen de Universidad de Santiago es,M Universidad de Santiago 20180129 fRF04.jpg,"una universidad pública con sede en la ciudad de Santiago de Chile, fund",latam,0.3157894736842105,0,0.0
+Situado en la entidad territorial administrativa de Universidad de Santiago es,Estación Central,un centro de investigación y desarrollo tecnológico con el objetivo de impulsar la,latam,0.0,0,0.0
+Línea de ferrocarril de Universidad de Santiago es,línea 1 del Metro de Santiago,"una línea de ferrocarril de Santiago, Chile, que une la",latam,0.37499999999999994,0,0.0
+Estación adyacente de Universidad de Santiago es,San Alberto Hurtado,":
+A.  Universidad de Santiago
+B.  La Florida
+C",latam,0.0,0,0.0
+Estación adyacente de Universidad de Santiago es,Estación Central,":
+La estación de metro más cercana a la Universidad de Santiago de",latam,0.14285714285714285,0,0.0
+Estado de uso de Universidad de Santiago es,en funcionamiento,una institución educativa de nivel superior que se encuentra ubicada en el,latam,0.14285714285714285,0,0.0
+Red de transporte de Universidad de Santiago es,Metro de Santiago,una red de transporte que se utiliza en la Universidad de Santiago de Chile.,latam,0.23529411764705882,0,0.0
+Nombrado en referencia a de Universidad de Santiago es,Universidad de Santiago de Chile,un término que se usa para referirse a los estudiantes que se gradú,latam,0.0,0,0.0
+Capital de Departamento de Santiago es,Santiago de Chile,"la capital de la región de Santiago, que es la capital de la República",latam,0.23529411764705882,0,0.0
+Aplica a la jurisdicción de bandera de la Región Metropolitana de Santiago es,Región Metropolitana de Santiago,"la zona de la capital de Chile, ¿verdad? Sí,",latam,0.15384615384615383,0,0.0
+Imagen de Ex Penitenciaría de Santiago es,"Penitenciaría, Santiago 20230312.jpg",una de las imágenes más emblemáticas del Museo de la Memoria.,latam,0.0,0,0.0
+Situado en la entidad territorial administrativa de Ex Penitenciaría de Santiago es,Comuna de Santiago,"el Parque Nacional Natural Los Nevados, el cual se encuentra en el",latam,0.0,0,0.0
+Categoría en Commons de Ex Penitenciaría de Santiago es,Antigua penitenciaría de Santiago,un espacio donde se pueden encontrar imágenes relacionadas con la Ex Penitenc,latam,0.0,0,0.0
+Capital de provincia de Santiago es,Santiago de Chile,"la capital de la provincia de Santiago, que se encuentra en el departamento de",latam,0.23529411764705882,0,0.0
+Ubicación de la sede de Banco de Santiago es,Santiago de Chile,"en la Avenida de las Américas, 54,",latam,0.2,0,0.0
+Imagen de Banco de Santiago es,Banco de Santiago.png,"una empresa que se dedica a la comercialización de imágenes digitales,",latam,0.14285714285714288,0,0.0
+Situado en la entidad territorial administrativa de Barrio Cívico de Santiago es,Comuna de Santiago,"el centro administrativo principal del municipio de Santiago, el cual se encuentra",latam,0.26666666666666666,0,0.0
+Imagen de Barrio Cívico de Santiago es,Palacio de la Moneda desde el aire.jpg,"un espacio de encuentro, diálogo y acción colectiva donde se prom",latam,0.1111111111111111,0,0.0
+Categoría en Commons de Barrio Cívico de Santiago es,Barrio Cívico de Santiago,"un conjunto de imágenes que representan el Barrio Cívico, un",latam,0.4285714285714285,0,0.0
+Imagen de Ciclovía Parque Metropolitano de Santiago es,Ciclovía Parque Metropolitano de Santiago.jpg,"el nombre de un evento que ocurre cada domingo en Santiago, Chile,",latam,0.11764705882352941,0,0.0
+Situado en la entidad territorial administrativa de Ciclovía Parque Metropolitano de Santiago es,Providencia,"un parque de 117 hectáreas, ubicado en",latam,0.0,0,0.0
+Imagen de Clínica Alemana de Santiago es,"Clínica Alemana de Santiago, Vitacura, Santiago 20240903 01.jpg","un hospital de alta complejidad, de referencia nacional e internacional, con",latam,0.10526315789473685,0,0.0
+Afiliación de Clínica Alemana de Santiago es,Universidad del Desarrollo,un hospital de alta complejidad con una amplia trayectoria en,latam,0.0,0,0.0
+Categoría en Commons de Clínica Alemana de Santiago es,Clínica Alemana de Santiago,una categoría de imágenes de la Wikipedia en la que se organizan las imágenes,latam,0.11111111111111112,0,0.0
+Logotipo de Clínica Alemana de Santiago es,Logo Clínica Alemana de Santiago.svg,"un logotipo de color rojo, con el nombre de la cl",latam,0.12500000000000003,0,0.0
+Situado en la entidad territorial administrativa de Colegio Suizo de Santiago es,Santiago de Chile,"un Colegio de nivel secundario y primario, con 3",latam,0.16666666666666666,0,0.0
+Categoría principal del tema de Colegio de los Sagrados Corazones de Santiago es,Categoría:Colegio de los Sagrados Corazones de Santiago,"el **Estudio y aprendizaje**, y dentro de esta categoría se",latam,0.11764705882352941,0,0.0
+Categoría para las personas que estudiaron en esta institución de Colegio de los Sagrados Corazones de Santiago es,Categoría:Alumnado del Colegio de los Sagrados Corazones de Santiago,el lugar donde se formaron las generaciones de mujeres de la ciudad y,latam,0.18181818181818185,0,0.0
+Categoría en Commons de Colegio de los Sagrados Corazones de Santiago es,Colegio de los Sagrados Corazones de Santiago,una de las categorías en el repositorio de archivos libre Commons. Esta,latam,0.2105263157894737,0,0.0
+Imagen de Colegio de los Sagrados Corazones de Santiago es,"Colegio de los Sagrados Corazones, Santiago 20220626 02.jpg",una fotografía que se puede ver en el Museo de Arte de Santiago,latam,0.1904761904761905,0,0.0

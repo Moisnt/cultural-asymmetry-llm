@@ -1,0 +1,124 @@
+category,prompt,ground_truth,prediction,judge_score,judge_raw,f1_score,substring_accuracy
+movies,emisora original de Amelia es,Televisión Nacional de Chile,La emisora original de Amelia Earhart fue la NBC (National Broadcasting Company) en Estados Unidos.,0,"{""score"": 0}",0.10526315789473685,0
+movies,situado en la entidad territorial administrativa de Olga es,Región de Coquimbo,"No tengo información sobre una entidad territorial administrativa llamada ""Olga"". ¿Podrías proporcionar más contexto o detalles sobre a qué te refieres con ""Olga""? ¿Es un municipio, un estado, un país o algo más? De esta manera puedo ayudarte mejor.",0,"{""score"": 0}",0.047619047619047616,0
+movies,situado en la entidad territorial administrativa de Gabriela es,Región de Atacama,"No tengo información sobre una entidad territorial administrativa llamada ""Gabriela"". ¿Podrías proporcionar más contexto o detalles sobre Gabriela, como país, región o municipio? De esta manera, podré ayudarte mejor.",0,"{""score"": 0}",0.125,0
+movies,licencia de 360 es,Creative Commons Atribución/Reconocimiento-NoComercial,"La licencia de Microsoft Office 365 es una suscripción mensual o anual que ofrece acceso a una variedad de herramientas de productividad de Microsoft, incluyendo Word, Excel, PowerPoint, Outlook, OneNote y otros. A continuación, te presento algunos de los beneficios y características de la licencia de Microsoft Office 365:
+
+**Beneficios:**
+
+1. **Acceso en línea**: Puedes acceder a tus aplicaciones favoritas desde cualquier lugar y en cualquier dispositivo con conexión a Internet.
+2. **Actualizaciones automáticas**: Recibirás actualizaciones automáticas de las aplicaciones para asegurarte de que siempre tengas la versión más reciente.
+3. **Colaboración en línea**: Puedes trabajar en documentos y presentaciones con otros usuarios en tiempo real.
+4. **Almacenamiento en la nube**: Recibirás 1 TB de almacenamiento en OneDrive para guardar y compartir tus archivos",0,"{""score"": 0}",0.0,0
+movies,situado en la entidad territorial administrativa de Ciudad de Dios es,Distrito de Guadalupe,"No tengo información sobre una entidad territorial administrativa llamada ""Ciudad de Dios"". Sin embargo, hay un barrio en Río de Janeiro, Brasil, llamado Ciudad de Dios (en portugués, ""Cidade de Deus""), que es un asentamiento de favela conocido por su compleja situación social y criminal. ¿Es posible que estés refiriéndote a este lugar?",0,"{""score"": 0}",0.03571428571428571,0
+landmarks,próximo cruce río arriba de Puente Salto Grande es,puente Internacional Agustín P. Justo - Getúlio Vargas,"No tengo información específica sobre el próximo cruce río arriba del Puente Salto Grande. Sin embargo, puedo sugerirte algunas opciones para encontrar la información que buscas:
+
+1. **Google Maps**: Puedes utilizar Google Maps para buscar el cruce río arriba del Puente Salto Grande. Simplemente ingresa el nombre del puente y la dirección en la barra de búsqueda, y el mapa te mostrará la ubicación y la información sobre los cruce río arriba.
+2. **Sitios web de navegación fluvial**: Puedes buscar sitios web de navegación fluvial o agencias de aguas que proporcionen información sobre los cruce río arriba del Puente Salto Grande. Estos sitios pueden ofrecer información sobre las características del río, los niveles de agua, la velocidad del flujo y otros datos importantes para planificar tu viaje.
+3. **Foros y",0,"{""score"": 0}",0.014598540145985403,0
+landmarks,categoría en Commons de puente Internacional Agustín P. Justo - Getúlio Vargas es,Ponte Internacional Uruguaiana-Paso de los Libres,"La categoría en Commons de Wikipedia para el puente Internacional Agustín P. Justo - Getúlio Vargas es:
+
+""Category:Puente Internacional Agustín P. Justo - Getúlio Vargas""",0,"{""score"": 0}",0.13793103448275862,0
+landmarks,imagen de puente Internacional Agustín P. Justo - Getúlio Vargas es,Puente Getulio Vargas-Agustín P. Justo 2.jpg,"El puente Internacional Agustín P. Justo - Getúlio Vargas es un puente internacional que conecta la ciudad de Posadas, en la provincia de Misiones, Argentina, con la ciudad de Chuí, en el estado de Rio Grande do Sul, Brasil.",0,"{""score"": 0}",0.13636363636363635,0
+landmarks,atraviesa de puente Internacional Agustín P. Justo - Getúlio Vargas es,Río Uruguay,"La atravesada de puente Internacional Agustín P. Justo - Getúlio Vargas se refiere a la conexión internacional entre Argentina y Uruguay. El puente se encuentra sobre el Río de la Plata y une la ciudad argentina de Buenos Aires con la ciudad uruguaya de Colonia del Sacramento.
+
+El puente lleva el nombre de dos presidentes importantes de sus países respectivos: Agustín P. Justo, quien fue presidente de Argentina desde 1932 a 1938, y Getúlio Vargas, quien fue presidente de Brasil desde 1930 a 1945 y luego desde 1951 a 1954.
+
+El puente fue inaugurado en 1976 y es uno de los puentes más largos del mundo sobre un río. Tiene una longitud de 11.905 metros y es un importante paso para el tráfico de vehículos y pasajeros entre Argentina y Uruguay.
+
+La conexión entre Buenos",0,"{""score"": 0}",0.029411764705882353,0
+landmarks,próximo cruce río arriba de puente Internacional Agustín P. Justo - Getúlio Vargas es,Puente de la Integración,"No tengo información sobre el cruce río arriba del puente Internacional Agustín P. Justo - Getúlio Vargas, ya que no tengo información sobre un puente con ese nombre. Sin embargo, sí conozco sobre el puente Internacional Agustín P. Justo - Getúlio Vargas, que es un puente internacional que cruza el río Uruguay y conecta a las ciudades de Fray Bentos, Uruguay, y Gualeguaychú, Argentina.
+
+Si estás buscando información sobre un cruce río arriba de este puente, te puedo sugerir algunas opciones:
+
+1.  El río Uruguay es un río relativamente corto, y en su curso superior, hay varias localidades y puentes que podrían ser relevantes. Sin embargo, no tengo información sobre un cruce río arriba específico del puente Internacional Agustín P. Justo - Getúlio V",0,"{""score"": 0}",0.03200000000000001,0
+landmarks,próximo cruce río abajo de puente Internacional Agustín P. Justo - Getúlio Vargas es,Puente Salto Grande,El cruce río abajo del puente Internacional Agustín P. Justo - Getúlio Vargas es el puente Internacional Fraternidad.,0,"{""score"": 0}",0.1,0
+landmarks,imagen de Puente de la Integración es,Puente de la Integración (Santo Tomé - São Borja).jpg,"El Puente de la Integración es un puente colgante ubicado en la ciudad de Guayaquil, Ecuador. Fue inaugurado en 1974 y es uno de los símbolos de la ciudad. El puente cruza el río Daule y conecta los barrios de la ciudad de Guayaquil, específicamente la zona de la ciudad que se conoce como ""La Perla del Pacífico"" con la zona de la ciudad que se conoce como ""El Centro Histórico"".
+
+El Puente de la Integración es un puente colgante de acero, con una longitud total de 1.500 metros y una altura máxima de 50 metros sobre el río Daule. Su estructura se caracteriza por su diseño moderno y elegante, con una gran capacidad para vehículos y peatones.
+
+El puente ha sido objeto de varias reformas y mejoras a lo largo de los años",0,"{""score"": 0}",0.056338028169014086,0
+landmarks,atraviesa de Puente de la Integración es,Río Uruguay,"La Atraviesa de Puente de la Integración se refiere a un tipo de ejercicio físico o actividad deportiva que implica cruzar un obstáculo, en este caso, un puente, como parte de una prueba o competencia. Sin embargo, es posible que estés haciendo referencia a la Atraviesa de Puente de la Integración como un evento deportivo específico.
+
+La Atraviesa de Puente de la Integración es un evento deportivo que se realiza en la ciudad de Cartagena, Colombia, que consiste en una carrera de obstáculos que incluye la atravesada de un puente sobre el Canal del Dique. El evento busca promover la integración social y la participación ciudadana, y se ha convertido en una tradición anual en la ciudad.
+
+El evento incluye una carrera de resistencia y obstáculos que recorre un tramo del puente y un",0,"{""score"": 0}",0.0,0
+landmarks,próximo cruce río abajo de Puente de la Integración es,puente Internacional Agustín P. Justo - Getúlio Vargas,"No tengo información sobre el cruce río abajo de ""Puente de la Integración"" específico. Sin embargo, puedo sugerirte algunas opciones:
+
+1.  **Puente Internacional Simón Bolívar**: Este puente se encuentra en el río Magdalena, en Colombia, y conecta a la ciudad de Barranquilla con la ciudad de Cartagena. Es posible que este sea el puente que estás buscando, aunque no tengo información sobre un ""Puente de la Integración"" específico.
+2.  **Puente de la Integración (Venezuela)**: En Venezuela, hay un puente llamado ""Puente de la Integración"" que se encuentra en el río Orinoco, en el estado de Bolívar. Sin embargo, no tengo información sobre cruce río abajo de este puente.
+3.  **Puente de la Integración (otros países)**: Es posible que",0,"{""score"": 0}",0.031999999999999994,0
+landmarks,categoría en Commons de Puente de la Integración es,Puente de la Integración,"La categoría en Commons de Wikimedia relacionada con el Puente de la Integración es:
+
+* Categoría:Puente de la Integración (Puente internacional entre Paraguay y Argentina)",1,"{""score"": 1}",0.2857142857142857,1
+landmarks,localizado en el área protegida de Cataratas del Iguazú es,Parque nacional de Iguazú,"No tengo suficiente información para determinar qué lugar específico te refieres con ""área protegida de Cataratas del Iguazú"". Sin embargo, puedo sugerir algunas posibilidades:
+
+1. **Parque Nacional Iguazú**: Ubicado en la provincia de Misiones, Argentina, y en el estado de Paraná, Brasil, y el estado de Mato Grosso do Sul, Brasil. Es uno de los lugares más famosos del mundo para ver las cataratas del Iguazú.
+2. **Parque Nacional del Iguazú**: También conocido como Parque Nacional Misiones, es un área protegida ubicada en la provincia de Misiones, Argentina, y en el estado de Paraná, Brasil.
+3. **Reserva Provincial Iguazú**: Ubicada en la provincia de Misiones, Argentina, es una área protegida que se encuentra dentro del Parque",1,"{""score"": 1}",0.06666666666666667,0
+landmarks,diferente de de Parque Nacional Iguazú es,Parque nacional de Iguazú,"El Parque Nacional Iguazú es un parque nacional ubicado en el norte de la provincia de Misiones, en la Argentina, y en el estado de Paraná, en el sur de Brasil, y en el estado de Mato Grosso do Sul, en el oeste de Paraguay. A continuación, te presento algunos de los diferenciales de este parque nacional:
+
+1.  **Ubicación**: El Parque Nacional Iguazú se encuentra en la frontera entre Argentina, Brasil y Paraguay, en la región de la Cuenca del Iguazú. Es uno de los parques nacionales más grandes de América Latina.
+2.  **Fuentes de agua**: El parque nacional es conocido por sus impresionantes cataratas del Iguazú, que son las cataratas más altas del mundo, con una altura de 82 metros. El río Iguazú es",1,"{""score"": 1}",0.06201550387596899,0
+landmarks,localizado en el área protegida de Garganta del Diablo es,Parque nacional de Iguazú,"No tengo suficiente información sobre un área protegida llamada ""Garganta del Diablo"" para proporcionar una respuesta precisa. Sin embargo, hay varios lugares con nombres similares en diferentes partes del mundo, como la Garganta del Diablo en Paraguay, que es un área natural protegida conocida por sus impresionantes formaciones rocosas y su importancia ecológica.
+
+Si estás refiriéndote a un lugar específico, por favor proporciona más contexto o detalles sobre el lugar que estás buscando, para que pueda ayudarte mejor.",0,"{""score"": 0}",0.0,0
+landmarks,imagen de puente Internacional Tancredo Neves es,Puente Internacional Tancredo Neves.JPG,"El Puente Internacional Tancredo Neves es un puente internacional que conecta Brasil con Paraguay, cruzando el río Paraná. Se encuentra ubicado en la frontera entre los estados brasileños de Paraná y Santa Catarina con el departamento paraguayo de Alto Paraná. 
+
+Fue nombrado en honor a Tancredo Neves, un político brasileño que fue presidente electo de Brasil en 1984, pero falleció antes de tomar posesión del cargo.",0,"{""score"": 0}",0.08571428571428572,0
+landmarks,atraviesa de puente Internacional Tancredo Neves es,Río Iguazú,"La Atraviesa de puente Internacional Tancredo Neves se refiere a un proyecto de infraestructura de transporte que cruza el río Paraná, en la frontera entre Brasil y Paraguay. El puente lleva el nombre de Tancredo Neves, un político brasileño que fue presidente de Brasil de 1985 a 1990.",0,"{""score"": 0}",0.039999999999999994,0
+landmarks,categoría en Commons de puente Internacional Tancredo Neves es,Puente Internacional Tancredo Neves,"No puedo encontrar información sobre un puente llamado ""Internacional Tancredo Neves""",0,"{""score"": 0}",0.5333333333333333,0
+landmarks,situado en la entidad territorial administrativa de Laguna de los Patos es,Provincia de Córdoba,"No tengo suficiente información para determinar exactamente en qué país o región se encuentra ""Laguna de los Patos"". Sin embargo, hay varias localidades con ese nombre en diferentes partes del mundo. 
+
+Una posible coincidencia es que hay una Laguna de los Patos en Uruguay, que es un departamento ubicado en el sur del país. ¿Podrías proporcionar más contexto o información sobre la región en la que te refieres?",0,"{""score"": 0}",0.028169014084507043,0
+landmarks,situado en la entidad territorial administrativa de Laguna de los Patos es,Provincia de San Juan,"No tengo información específica sobre una entidad territorial administrativa llamada ""Laguna de los Patos"". Sin embargo, hay varias opciones posibles:
+
+1.  **Laguna de los Patos (Córdoba)**: Laguna de los Patos es un municipio de la provincia de Córdoba, en la región de Andalucía, España.
+2.  **Laguna de los Patos (Mendoza)**: Laguna de los Patos es un paraje natural ubicado en la provincia de Mendoza, en la región de Cuyo, Argentina.
+3.  **Laguna de los Patos (Uruguay)**: Laguna de los Patos es una laguna costera ubicada en el departamento de Canelones, en el sur de Uruguay.
+
+Si no es ninguno de estos lugares, por favor proporciona más información o contexto sobre la ""Laguna de los Patos"" que mencionas para que pueda",0,"{""score"": 0}",0.03225806451612903,0
+landmarks,situado en la entidad territorial administrativa de Laguna de los Patos es,Provincia de Buenos Aires,"No tengo suficiente información sobre la entidad territorial administrativa de Laguna de los Patos. ¿Podrías proporcionarme más contexto o detalles sobre a qué te refieres con Laguna de los Patos? ¿Es un municipio, un estado, un país o algo más? De esta manera, puedo intentar ayudarte mejor.",0,"{""score"": 0}",0.0392156862745098,0
+landmarks,próximo cruce río arriba de puente Internacional San Roque González de Santa Cruz es,Puente Internacional de la Integración,"No tengo información sobre el puente Internacional San Roque González de Santa Cruz. Sin embargo, puedo sugerirte que el puente más conocido en la frontera entre Uruguay y Argentina es el Puente Internacional General San Martín, que cruza el río Uruguay. Si tienes más información sobre el puente que mencionas, estaré encantado de ayudarte a encontrar la respuesta.",0,"{""score"": 0}",0.12698412698412698,0
+landmarks,diferente de de Puente de la Integración es,Puente Internacional de la Integración,"El Puente de la Integración, también conocido como Puente de la Integración de Simpson, es un método numérico utilizado para aproximar el valor de un área bajo una curva en un intervalo dado. Es una técnica de interpolación numérica que consiste en dividir el área en subintervalos y aproximar el área de cada subintervalo mediante una recta o un polinomio.
+
+El Puente de la Integración se basa en la idea de que el área bajo una curva se puede aproximar por la suma de los áreas de los subintervalos, que a su vez se pueden calcular mediante la fórmula de la recta o el polinomio que los representa.
+
+La fórmula del Puente de la Integración es la siguiente:
+
+I = (h/3) \* (f(x0) + 4f(x1) + f(x2) + 2f(x3",0,"{""score"": 0}",0.06201550387596899,0
+landmarks,imagen de puente Internacional Comandante Rosales es,Puente sobre río Pepirí Guazú (Brasil-Argentina) 02.jpg,"El Puente Internacional Comandante Federico Villagra, también conocido como Puente Internacional Rosales, es un puente internacional que conecta la ciudad de Rosario, en la provincia de Santa Fe, Argentina, con la ciudad de Corrientes, en la provincia homónima, Argentina, sobre el río Paraná.",0,"{""score"": 0}",0.12,0
+landmarks,atraviesa de puente Internacional Comandante Rosales es,Río Pepirí Guazú,"La Avenida Internacional Comandante Rosales es una importante vía de comunicación que conecta la ciudad de Rosario, en la provincia de Santa Fe, Argentina, con la ciudad de Victoria, en la provincia de Entre Ríos, a través de un puente internacional que cruza el río Paraná. 
+
+El puente Internacional Comandante Rosales es un puente colgante que tiene una longitud total de 1.220 metros y una altura de 45 metros sobre el nivel del río. Fue inaugurado en el año 2003 y es considerado uno de los puentes más importantes de la región.
+
+La Avenida Internacional Comandante Rosales es una vía rápida que permite el tránsito de vehículos, peatones y ciclistas entre las dos ciudades, reduciendo significativamente el tiempo de viaje y mejorando la conectividad entre las provincias de Santa Fe y Entre R",0,"{""score"": 0}",0.014705882352941176,0
+landmarks,atraviesa de puente Internacional Alba Posse - Porto Mauá es,Río Uruguay,"No tengo información sobre la atravesada de puente Internacional Alba Posse - Porto Mauá. Es posible que sea un puente o una ruta de paso internacional específica que no es muy conocida o que no está bien documentada. 
+
+Sin embargo, puedo sugerirte algunas posibles fuentes de información para obtener más detalles sobre el tema:
+
+1.  Sitios web de transportes y rutas de viaje: Puedes buscar en sitios web de transportes y rutas de viaje como Google Maps, Waze, o sitios web de información turística para obtener más información sobre el puente Internacional Alba Posse - Porto Mauá.
+2.  Sitios web de gobierno y administración: Puedes buscar en sitios web de gobierno y administración de países o regiones para obtener información sobre rutas de paso y transportes internacionales.
+3.  Foros y comunidades en línea: Puedes buscar en foros",0,"{""score"": 0}",0.0,0
+landmarks,situado en la entidad territorial administrativa de puente Internacional Alba Posse - Porto Mauá es,Provincia de Misiones,"No tengo información sobre un lugar llamado ""Puente Internacional Alba Posse - Porto Mauá"". Es posible que sea un lugar pequeño o desconocido, o que no exista en absoluto.
+
+Sin embargo, puedo sugerirte algunas opciones para encontrar la información que estás buscando:
+
+1. Revisa la geografía de la región: Si estás buscando información sobre un lugar en particular, asegúrate de que estés utilizando el nombre correcto. Puedes revisar mapas o atlas para obtener más información sobre la región.
+2. Busca en fuentes oficiales: Puedes buscar en fuentes oficiales como el sitio web de la entidad territorial administrativa correspondiente o en sitios web de turismo para obtener más información sobre el lugar.
+3. Utiliza motores de búsqueda: Puedes utilizar motores de búsqueda como Google para buscar información sobre el lugar. Utiliza palabras clave relevantes como",0,"{""score"": 0}",0.014705882352941176,0
+landmarks,situado en la entidad territorial administrativa de puente Internacional del Acre es,Departamento de Madre de Dios,"No tengo información sobre una entidad territorial administrativa llamada ""Puente Internacional del Acre"". Sin embargo, hay un municipio en México llamado ""Puente Nacional"" que se encuentra en el estado de Veracruz, y también hay un municipio llamado ""Puente Nacional"" en la República Dominicana. 
+
+Sin embargo, hay un municipio en México llamado ""Frontera Corozal"" en el estado de Tabasco, que tiene un puente internacional llamado ""Puente Internacional Frontera Corozal"" que conecta a México con Guatemala. 
+
+Además, hay un municipio en el estado de Chiapas, México, llamado ""Frontera Comalapa"" que tiene un puente internacional llamado ""Puente Internacional Frontera Comalapa"" que conecta a México con Guatemala. 
+
+Es posible que estés pensando en alguno de estos lugares. ¿Puedes proporcionar más información o contexto para",0,"{""score"": 0}",0.032,0
+landmarks,atraviesa de puente Internacional del Acre es,Río Acre,"La Internacional del Acre es un puente internacional que conecta la ciudad de Leticia, en Colombia con el pueblo de Tabatinga, en Brasil y el pueblo de Santa Rosa, en Perú, en la Amazonía sudamericana.",1,"{""score"": 1}",0.05405405405405405,0
+landmarks,próximo cruce río arriba de puente Internacional San Roque González de Santa Cruz es,puente Internacional de la Amistad,"No tengo información sobre el puente Internacional San Roque González de Santa Cruz, pero si tienes alguna información adicional, puedo tratar de ayudarte.",0,"{""score"": 0}",0.21428571428571427,0
+landmarks,atraviesa de puente Internacional Comandante Andresito es,Río San Antonio,"La Internacional Comandante Andrésito es un puente internacional que conecta a la ciudad de Cúcuta, en el departamento de Norte de Santander, Colombia, con la ciudad de Villa del Rosario, en el estado de Táchira, Venezuela.",1,"{""score"": 1}",0.0,0
+landmarks,localizado en el área protegida de Sierra del Divisor es,Parque nacional de la Sierra del Divisor,"No tengo suficiente información para determinar a qué lugar específico te refieres. Sin embargo, hay varias áreas protegidas en el mundo llamadas ""Sierra del Divisor"". 
+
+Una de las áreas protegidas más conocidas con este nombre es la Reserva Nacional del Sistema de Parques Nacionales Sierra del Divisor, que se encuentra en el Perú. Esta reserva es un área protegida de gran importancia ecológica y cultural, y es conocida por su biodiversidad y su importancia para la conservación de la naturaleza.
+
+Si estás buscando información sobre otra área protegida con el nombre de Sierra del Divisor, por favor proporciona más detalles o contexto para que pueda ayudarte mejor.",0,"{""score"": 0}",0.10526315789473684,0

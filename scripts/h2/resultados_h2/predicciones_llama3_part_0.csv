@@ -1,0 +1,144 @@
+category,prompt,ground_truth,prediction,judge_score,judge_raw,f1_score,substring_accuracy
+indigenous_peoples,idioma usado de Perú es,asháninca,"El idioma oficial de Perú es el español, pero también es reconocido el idioma quechua y otros idiomas indígenas.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,lengua materna de asháninca es,asháninca,"La lengua materna de los Asháninca es el asháninca, que es una lengua que pertenece a la familia lingüística arawakana y se habla en la región de la Selva Central en Perú.",1,"{""score"": 1}",0.06060606060606061,1
+indigenous_peoples,"lenguas habladas, escritas o signadas de asháninca es",asháninca,"El asháninca es una lengua indígena hablada en Perú, específicamente en la región de la Selva Central del país. Se trata de una lengua que forma parte de la familia lingüística quechua y se habla principalmente en la provincia de Satipo, en la región de Ucayali, así como en otras áreas vecinas.
+
+El asháninca es una lengua que se utiliza en la comunicación diaria de las comunidades ashánincas, que son pueblos indígenas que viven en la Amazonía peruana. Aunque la lengua oficial del Perú es el español, el asháninca es una lengua importante para la identidad cultural y la tradición de las comunidades ashánincas.
+
+El asháninca se escribe utilizando el alfabeto latino y se divide en diferentes dialectos, como el asháninca de Sat",1,"{""score"": 1}",0.01612903225806452,1
+indigenous_peoples,ubicación de asháninca es,Departamento de Ucayali,"Asháninca es un pueblo ubicado en el distrito de Satipo, provincia de Lauricocha, departamento de Junín, en el centro del Perú.",0,"{""score"": 0}",0.16666666666666666,0
+indigenous_peoples,categoría principal del tema de asháninca es,Categoría:Pueblo ashaninka,"La categoría principal del tema de Asháninca se refiere a la cultura y el pueblo Asháninca, un grupo étnico que habita en la región de la Amazonía peruana, específicamente en la provincia de Satipo, en el departamento de Junín. El tema Asháninca abarca aspectos como:
+
+1.  **Lengua**: La lengua Asháninca es una lengua isolada, es decir, no está emparentada con ninguna otra lengua conocida.
+2.  **Cultura**: La cultura Asháninca es rica y diversa, caracterizada por su tradición oral, su conexión con la naturaleza y su cosmovisión.
+3.  **Historia**: La historia del pueblo Asháninca se remonta a siglos, con una rica tradición de resistencia y supervivencia en la selva amazónica.
+4.  **Rel",0,"{""score"": 0}",0.0,0
+indigenous_peoples,descrito en la fuente de asháninca es,Encyclopædia Britannica (11ª edición),"No puedo encontrar información sobre ""Asháninca"". ¿Podrías proporcionar más contexto o detalles sobre de dónde proviene la palabra ""Asháninca"" o qué se refiere a? Esto me ayudaría a entender mejor tu pregunta y proporcionarte una respuesta más precisa.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma usado de Departamento de Cusco es,asháninca,"El idioma oficial del Departamento de Cusco, que es una de las 24 regiones del Perú, es el quechua cusqueño, pero el idioma oficial del Perú es el español.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma usado de Departamento de Ayacucho es,asháninca,El idioma oficial del Departamento de Ayacucho en Perú es el español.,0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma usado de Departamento de Ucayali es,asháninca,El idioma oficial del Departamento de Ucayali en Perú es el español.,0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma usado de Departamento de Junín es,asháninca,"El Departamento de Junín se encuentra ubicado en la provincia de Junín, en el centro de la República del Ecuador. El idioma oficial en ese departamento es el español, específicamente el dialecto ecuatoriano.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma usado de Departamento de Apurímac es,asháninca,"El idioma oficial del Departamento de Apurímac en Perú es el quechua, específicamente el quechua del sur, aunque también se habla el español.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma de la película o programa de televisión de Entre Dos Aguas es,asháninca,"La película o programa de televisión ""Entre Dos Aguas"" es en español.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,"idioma de la película o programa de televisión de Reshinn, sangre de anaconda es",asháninca,"Lo siento, no tengo información sobre una película o programa de televisión llamado ""Reshinn, sangre de anaconda"". Es posible que sea un título en un idioma diferente o una producción poco conocida. Si puedes proporcionarme más contexto o detalles, puedo intentar ayudarte mejor.
+
+Sin embargo, hay una película de 2007 llamada ""Anaconda 4: The Hunt for the Blood Orchid"" (también conocida como ""Anaconda 4: La cacería de la orquídea sangrienta"") que es la cuarta entrega de la serie de películas de terror ""Anaconda"". Esta película es una secuela de la película original de 1997 ""Anaconda"", que se basa en un libro de James G. Patterson.
+
+Si crees que esta es la película que estabas buscando, el idioma original de esta película es inglés.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,nativo de de asháninca es,asháninca,"El idioma nativo de los Asháninca es el idioma asháninca. El idioma asháninca es una lengua que pertenece a la familia lingüística quechua, que se habla en Perú. Es hablado principalmente en la región de la Amazonía peruana, específicamente en la provincia de Satipo, en la región de Ucayali, y en la provincia de Satipo, en la región de Junín.
+
+El idioma asháninca es una de las lenguas quechua más septentrionales y occidentales, y es hablado por aproximadamente 2.500 personas en la zona de la Amazonía peruana. Aunque es una lengua en peligro de extinción, se ha estado trabajando en su documentación y preservación.
+
+El idioma asháninca tiene una rica tradición oral y es utilizado en",0,"{""score"": 0}",0.017094017094017096,1
+indigenous_peoples,estado del idioma en Ethnologue de asháninca es,5 en desarrollo,"De acuerdo con la base de datos Ethnologue, Asháninca es una lengua indígena hablada en Perú. A continuación, te proporciono información sobre el estado del idioma Asháninca según Ethnologue:
+
+- **Código**: ash
+- **Nombre**: Asháninca
+- **Familia lingüística**: Arawakan
+- **País(es)**: Perú
+- **Región**: Amazonas, Ucayali
+- **Habla nativa**: 10,000 (2007)
+- **Estatus**: En peligro
+- **Clasificación**: Lengua indígena
+- **Escritura**: Alfabeto latino
+
+Es importante destacar que el número de hablantes puede haber cambiado desde la última actualización de la base de datos, y es posible que existan variaciones en la clasificación o el estatus del idioma",0,"{""score"": 0}",0.02197802197802198,0
+indigenous_peoples,diferente de de ashéninka es,asháninca,"El pueblo Ashéninka es un grupo étnico que habita en la selva peruana y brasileña. A continuación, te presento algunas características y diferencias interesantes sobre el pueblo Ashéninka:
+
+1. **Ubicación**: El pueblo Ashéninka se encuentra en la selva peruana y brasileña, principalmente en la región de Manú en Perú y en el estado de Acre en Brasil.
+2. **Idioma**: El idioma Ashéninka es una lengua aislada que pertenece a la familia lingüística Pano-Tacana. Es hablado por aproximadamente 6.000 personas en Perú y 1.000 en Brasil.
+3. **Cultura**: La cultura Ashéninka es una sociedad tradicional que se basa en la caza, la pesca y la agricultura. Son expertos en la caza de animales como el mono, el venado",0,"{""score"": 0}",0.0,0
+indigenous_peoples,idioma de la película o programa de televisión de El corazón del lobo es,asháninca,La respuesta es: Inglés,0,"{""score"": 0}",0.0,0
+indigenous_peoples,categoría principal del tema de mapuche es,Categoría:Idioma mapuche,"La categoría principal del tema de Mapuche se refiere a la cultura, historia y pueblo indígena originario de Chile y Argentina. El pueblo Mapuche tiene una rica identidad y tradición que se remonta a siglos, y se caracteriza por su lengua, costumbres, creencias y formas de vida. Algunas de las categorías más importantes dentro del tema Mapuche son:
+
+1. **Cultura Mapuche**: La cultura Mapuche es una de las más ricas y diversas de América Latina. Se caracteriza por su arte, música, danza, literatura y tradiciones.
+2. **Historia Mapuche**: La historia del pueblo Mapuche se remonta a la época prehispánica, cuando habitaban en la región de Chile y Argentina. La conquista española y la colonización europea tuvieron un impacto significativo en la cultura y la identidad Mapuche.
+3",0,"{""score"": 0}",0.015503875968992248,0
+indigenous_peoples,categoría para las películas en este idioma de mapuche es,Categoría:Películas en mapuche,"La categoría para las películas en el idioma mapuche se conoce como ""Kola"".",0,"{""score"": 0}",0.25,0
+indigenous_peoples,categoría principal del tema de mapuche es,Categoría:Pueblo mapuche,"La categoría principal del tema Mapuche se refiere a la cultura, historia y pueblo indígena originario de Chile y Argentina.",0,"{""score"": 0}",0.09090909090909091,0
+indigenous_peoples,descrito en la fuente de mapuche es,Enciclopedia Lexicon,"No tengo información de una fuente llamada ""Mapuche es"". ¿Podrías proporcionar más contexto o detalles sobre a qué te refieres? ¿Es un sitio web, un libro, un proyecto o algo más? De esta manera puedo ayudarte mejor.",0,"{""score"": 0}",0.0,0
+indigenous_peoples,descrito en la fuente de mapuche es,Diccionario Enciclopédico Brockhaus y Efron,"No tengo información sobre una ""fuente de mapuche"" específica. Sin embargo, puedo proporcionarte información general sobre la cultura mapuche y su lengua.
+
+La lengua mapuche, también conocida como mapudungun o mapudungu, es una lengua aislada que se habla en Chile y Argentina. Es hablada por la etnia mapuche, que es una de las poblaciones indígenas más importantes de la región.
+
+La lengua mapuche tiene una rica historia y tradición, y es considerada una de las lenguas más importantes de la región. A continuación, te presento algunos datos interesantes sobre la lengua mapuche:
+
+**Características**
+
+* La lengua mapuche es una lengua aislada, lo que significa que no está emparentada con ninguna otra lengua conocida.
+* Se habla en la región de la Araucanía en Chile y",0,"{""score"": 0}",0.015625000000000003,0
+indigenous_peoples,descrito en la fuente de mapuche es,Encyclopædia Britannica (11ª edición),"La fuente de Mapuche se refiere a la lengua mapuche, que es una lengua indígena hablada por los mapuches, un pueblo indígena que habita principalmente en Chile y Argentina. A continuación, te presento una descripción de la lengua mapuche:
+
+**Características lingüísticas**
+
+La lengua mapuche es una lengua aislada, es decir, no está emparentada con ninguna otra lengua conocida. Se habla en la región de la Araucanía en Chile y en la provincia del Neuquén en Argentina. Es una lengua compleja y rica en fonología, morfología y sintaxis.
+
+**Estructura fonológica**
+
+La lengua mapuche tiene un sistema fonológico complejo, con una gran variedad de sonidos y patrones de articulación. Algunas de las características destacadas de la fonología map",0,"{""score"": 0}",0.0,0
+indigenous_peoples,imagen de mapuche es,Mujeres mapuches en la entrega terreno a Comunidad Mapuche Lorenzo Quintrileo de Tirúa.jpg,"La imagen tradicional del Mapuche es la de un hombre o una mujer que porta un atuendo típico de la cultura mapuche, que incluye:
+
+- Un ""wampu"" o ""traje mapuche"", que es un vestido largo y ancho, generalmente de color rojo o azul, que se ajusta a la cintura y se abre en la parte delantera.
+- Un ""chupalla"" o ""sombrero mapuche"", que es un sombrero de fieltro o lana que se ajusta a la cabeza y tiene una forma cónica.
+- Un ""kentu"" o ""cinturón mapuche"", que es un cinturón ancho y colorido que se utiliza para adornar la cintura.
+- Un ""rewe"" o ""collar de conchas"", que es un collar que se utiliza para adornar el cuello y está hecho de conchas",0,"{""score"": 0}",0.07518796992481201,0
+indigenous_peoples,categoría en Commons de ticuna es,Ticunas,"La categoría en Commons de Wikipedia que corresponde a los Ticuna es ""Ticuna"" o ""Ticuna (pueblo)"" o ""Ticuna (tribu)"".
+
+Pero también hay subcategorías específicas como:
+
+- ""Ticuna (etnia)""
+- ""Ticuna (lengua)""
+- ""Ticuna (historia)""
+- ""Ticuna (cultura)""
+- ""Ticuna (religión)""
+- ""Ticuna (geografía)""
+
+También hay categorías de archivos multimedia específicas como:
+
+- ""Categoría:Imágenes de Ticuna""
+- ""Categoría:Vídeos de Ticuna""
+- ""Categoría:Audios de Ticuna""",1,"{""score"": 1}",0.0,0
+indigenous_peoples,identificador Enciclopedia Católica de ticuna es,14721e,"La Enciclopedia Católica de Ticuna es una fuente de información sobre la cultura y la religión de los Ticuna, un pueblo indígena que habita en la Amazonia, principalmente en Brasil, Colombia y Perú. A continuación, te presento algunos datos sobre la Enciclopedia Católica de Ticuna:
+
+**¿Qué es la Enciclopedia Católica de Ticuna?**
+
+La Enciclopedia Católica de Ticuna es una publicación que busca recopilar y difundir conocimientos sobre la cultura, la religión, la historia y la tradición de los Ticuna. Esta enciclopedia es un proyecto de la Iglesia Católica, específicamente de la Diócesis de Tefé, que tiene una presencia significativa entre los Ticuna en Brasil.
+
+**Contenido**
+
+La Enciclopedia Católica de Ticuna abarca una amplia gama de temas, incl",0,"{""score"": 0}",0.0,0
+indigenous_peoples,país de ticuna es,Colombia,El país del pueblo Ticuna es Brasil y Colombia.,1,"{""score"": 1}",0.19999999999999998,1
+indigenous_peoples,categoría principal del tema de ticuna es,Categoría:Ticuna,"La categoría principal del tema de los Ticuna es Antropología, específicamente en la rama de etnografía y antropología de la Amazonía. Los Ticuna son un pueblo indígena que habita en la Amazonía, principalmente en Brasil, Perú, Colombia y Venezuela. Su cultura, lengua y tradiciones son objeto de estudio en la antropología.",1,"{""score"": 1}",0.0,0
+indigenous_peoples,estado del idioma en Ethnologue de ticuna es,5 en desarrollo,"Según el Ethnologue, el idioma Ticuna es considerado un idioma en peligro crítico. El Ethnologue es una base de datos de idiomas que recopila información sobre lenguas de todo el mundo y clasifica a los idiomas en función de su estado de vitalidad.
+
+De acuerdo con la edición más reciente del Ethnologue (2022), el idioma Ticuna se clasifica como sigue:
+
+* Familia lingüística: Ticuna
+* Código: tic
+* Tipo de lengua: Lengua aislada
+* Estado de vitalidad: En peligro crítico (CR)
+* Número de hablantes: 35.000
+* Países donde se habla: Brasil, Colombia, Perú y Venezuela
+
+El Ethnologue considera que el idioma Ticuna se encuentra en peligro crítico debido a la disminución de la cantidad",0,"{""score"": 0}",0.01785714285714286,0
+indigenous_peoples,categoría para las películas en este idioma de ticuna es,Categoría:Películas en ticuna,"No tengo información sobre la categoría para las películas en el idioma Ticuna. El Ticuna es una lengua hablada por la etnia Ticuna, que es la población indígena más grande de América del Sur, principalmente en el norte de Brasil y en Colombia. Sin embargo, no tengo acceso a información sobre clasificaciones o categorías específicas para las películas en este idioma.",0,"{""score"": 0}",0.0625,0
+indigenous_peoples,etnia de Argentina es,Pueblos Originarios de Argentina,"La etnia de Argentina es muy diversa y compleja, debido a la historia de inmigración y colonización del país. A continuación, te presento una visión general de las etnias que se encuentran en Argentina:
+
+1. **Indígenas**: Los pueblos indígenas originarios de Argentina son descendientes de las civilizaciones que habitaban en el territorio antes de la llegada de los españoles. Algunas de las etnias indígenas más importantes son:
+ * Tehuelches (población que habitaba en la Patagonia)
+ * Mapuches (población que habitaba en el sur de Argentina y Chile)
+ * Quechuas (población que habitaba en la región andina)
+ * Guaránies (población que habitaba en el norte de Argentina)
+ * Charrúas (población que habitaba en el centro",1,"{""score"": 1}",0.07079646017699115,0
+indigenous_peoples,subclase de de Indígenas pampas es,Pueblos Originarios de Argentina,"Las subclases de indígenas pampas se pueden dividir en varias categorías, dependiendo de la región geográfica y la lengua que hablan. A continuación, te presento algunas de las subclases más comunes de indígenas pampas:
+
+**Región del Gran Chaco**
+
+* Qom (también conocidos como Toba o Qomle): habitan en el noroeste de la Argentina, sur de Bolivia y norte de Paraguay.
+* Mocoví: viven en el norte de la provincia de Formosa, Argentina.
+* Pilagá: habitan en la provincia de Formosa, Argentina.
+* Wichi (también conocidos como Mocoví o Pilagá): viven en la provincia de Formosa, Argentina, y en el norte de Paraguay.
+
+**Región pampeana argentina**
+
+* Mapuche: habitan en el",0,"{""score"": 0}",0.03669724770642202,0
