@@ -1,0 +1,1815 @@
+[
+    {
+        "input_text": "idioma usado de Perú es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma usado de Perú?"
+    },
+    {
+        "input_text": "lengua materna de asháninca es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es lengua materna de asháninca?"
+    },
+    {
+        "input_text": "lenguas habladas, escritas o signadas de asháninca es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es lenguas habladas, escritas o signadas de asháninca?"
+    },
+    {
+        "input_text": "ubicación de asháninca es",
+        "target": "Departamento de Ucayali",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es ubicación de asháninca?"
+    },
+    {
+        "input_text": "categoría principal del tema de asháninca es",
+        "target": "Categoría:Pueblo ashaninka",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es categoría principal del tema de asháninca?"
+    },
+    {
+        "input_text": "descrito en la fuente de asháninca es",
+        "target": "Encyclopædia Britannica (11ª edición)",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es descrito en la fuente de asháninca?"
+    },
+    {
+        "input_text": "idioma usado de Departamento de Cusco es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma usado de Departamento de Cusco?"
+    },
+    {
+        "input_text": "idioma usado de Departamento de Ayacucho es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma usado de Departamento de Ayacucho?"
+    },
+    {
+        "input_text": "idioma usado de Departamento de Ucayali es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma usado de Departamento de Ucayali?"
+    },
+    {
+        "input_text": "idioma usado de Departamento de Junín es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma usado de Departamento de Junín?"
+    },
+    {
+        "input_text": "idioma usado de Departamento de Apurímac es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma usado de Departamento de Apurímac?"
+    },
+    {
+        "input_text": "idioma de la película o programa de televisión de Entre Dos Aguas es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma de la película o programa de televisión de Entre Dos Aguas?"
+    },
+    {
+        "input_text": "idioma de la película o programa de televisión de Reshinn, sangre de anaconda es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma de la película o programa de televisión de Reshinn, sangre de anaconda?"
+    },
+    {
+        "input_text": "nativo de de asháninca es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es nativo de de asháninca?"
+    },
+    {
+        "input_text": "estado del idioma en Ethnologue de asháninca es",
+        "target": "5 en desarrollo",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es estado del idioma en Ethnologue de asháninca?"
+    },
+    {
+        "input_text": "diferente de de ashéninka es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es diferente de de ashéninka?"
+    },
+    {
+        "input_text": "idioma de la película o programa de televisión de El corazón del lobo es",
+        "target": "asháninca",
+        "category": "indigenous_peoples",
+        "entity": "asháninca",
+        "original_question": "¿Cuál es idioma de la película o programa de televisión de El corazón del lobo?"
+    },
+    {
+        "input_text": "categoría principal del tema de mapuche es",
+        "target": "Categoría:Idioma mapuche",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es categoría principal del tema de mapuche?"
+    },
+    {
+        "input_text": "categoría para las películas en este idioma de mapuche es",
+        "target": "Categoría:Películas en mapuche",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es categoría para las películas en este idioma de mapuche?"
+    },
+    {
+        "input_text": "categoría principal del tema de mapuche es",
+        "target": "Categoría:Pueblo mapuche",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es categoría principal del tema de mapuche?"
+    },
+    {
+        "input_text": "descrito en la fuente de mapuche es",
+        "target": "Enciclopedia Lexicon",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es descrito en la fuente de mapuche?"
+    },
+    {
+        "input_text": "descrito en la fuente de mapuche es",
+        "target": "Diccionario Enciclopédico Brockhaus y Efron",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es descrito en la fuente de mapuche?"
+    },
+    {
+        "input_text": "descrito en la fuente de mapuche es",
+        "target": "Encyclopædia Britannica (11ª edición)",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es descrito en la fuente de mapuche?"
+    },
+    {
+        "input_text": "imagen de mapuche es",
+        "target": "Mujeres mapuches en la entrega terreno a Comunidad Mapuche Lorenzo Quintrileo de Tirúa.jpg",
+        "category": "indigenous_peoples",
+        "entity": "mapuche",
+        "original_question": "¿Cuál es imagen de mapuche?"
+    },
+    {
+        "input_text": "categoría en Commons de ticuna es",
+        "target": "Ticunas",
+        "category": "indigenous_peoples",
+        "entity": "ticuna",
+        "original_question": "¿Cuál es categoría en Commons de ticuna?"
+    },
+    {
+        "input_text": "identificador Enciclopedia Católica de ticuna es",
+        "target": "14721e",
+        "category": "indigenous_peoples",
+        "entity": "ticuna",
+        "original_question": "¿Cuál es identificador Enciclopedia Católica de ticuna?"
+    },
+    {
+        "input_text": "país de ticuna es",
+        "target": "Colombia",
+        "category": "indigenous_peoples",
+        "entity": "ticuna",
+        "original_question": "¿Cuál es país de ticuna?"
+    },
+    {
+        "input_text": "categoría principal del tema de ticuna es",
+        "target": "Categoría:Ticuna",
+        "category": "indigenous_peoples",
+        "entity": "ticuna",
+        "original_question": "¿Cuál es categoría principal del tema de ticuna?"
+    },
+    {
+        "input_text": "estado del idioma en Ethnologue de ticuna es",
+        "target": "5 en desarrollo",
+        "category": "indigenous_peoples",
+        "entity": "ticuna",
+        "original_question": "¿Cuál es estado del idioma en Ethnologue de ticuna?"
+    },
+    {
+        "input_text": "categoría para las películas en este idioma de ticuna es",
+        "target": "Categoría:Películas en ticuna",
+        "category": "indigenous_peoples",
+        "entity": "ticuna",
+        "original_question": "¿Cuál es categoría para las películas en este idioma de ticuna?"
+    },
+    {
+        "input_text": "etnia de Argentina es",
+        "target": "Pueblos Originarios de Argentina",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos Originarios de Argentina",
+        "original_question": "¿Cuál es etnia de Argentina?"
+    },
+    {
+        "input_text": "subclase de de Indígenas pampas es",
+        "target": "Pueblos Originarios de Argentina",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos Originarios de Argentina",
+        "original_question": "¿Cuál es subclase de de Indígenas pampas?"
+    },
+    {
+        "input_text": "categoría principal del tema de Pueblos Originarios de Argentina es",
+        "target": "Categoría:Pueblos indígenas de Argentina",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos Originarios de Argentina",
+        "original_question": "¿Cuál es categoría principal del tema de Pueblos Originarios de Argentina?"
+    },
+    {
+        "input_text": "nombrado en referencia a de Paseo de las Tres Culturas es",
+        "target": "Pueblos Originarios de Argentina",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos Originarios de Argentina",
+        "original_question": "¿Cuál es nombrado en referencia a de Paseo de las Tres Culturas?"
+    },
+    {
+        "input_text": "imagen de shipibo-conibo es",
+        "target": "Shipibo ladies.jpg",
+        "category": "indigenous_peoples",
+        "entity": "shipibo-conibo",
+        "original_question": "¿Cuál es imagen de shipibo-conibo?"
+    },
+    {
+        "input_text": "imagen de shipibo-conibo es",
+        "target": "Céramique Shipibo-Conibo de Celia Vasquez.jpg",
+        "category": "indigenous_peoples",
+        "entity": "shipibo-conibo",
+        "original_question": "¿Cuál es imagen de shipibo-conibo?"
+    },
+    {
+        "input_text": "descrito en la fuente de shipibo-conibo es",
+        "target": "Encyclopædia Britannica (11ª edición)",
+        "category": "indigenous_peoples",
+        "entity": "shipibo-conibo",
+        "original_question": "¿Cuál es descrito en la fuente de shipibo-conibo?"
+    },
+    {
+        "input_text": "categoría principal del tema de shipibo-conibo es",
+        "target": "Categoría:Pueblo shipibo-conibo",
+        "category": "indigenous_peoples",
+        "entity": "shipibo-conibo",
+        "original_question": "¿Cuál es categoría principal del tema de shipibo-conibo?"
+    },
+    {
+        "input_text": "estado del idioma en Ethnologue de bora es",
+        "target": "7 en transición",
+        "category": "indigenous_peoples",
+        "entity": "bora",
+        "original_question": "¿Cuál es estado del idioma en Ethnologue de bora?"
+    },
+    {
+        "input_text": "país de bora es",
+        "target": "Colombia",
+        "category": "indigenous_peoples",
+        "entity": "bora",
+        "original_question": "¿Cuál es país de bora?"
+    },
+    {
+        "input_text": "lenguas habladas, escritas o signadas de bora es",
+        "target": "español",
+        "category": "indigenous_peoples",
+        "entity": "bora",
+        "original_question": "¿Cuál es lenguas habladas, escritas o signadas de bora?"
+    },
+    {
+        "input_text": "categoría en Commons de bora es",
+        "target": "Bora people",
+        "category": "indigenous_peoples",
+        "entity": "bora",
+        "original_question": "¿Cuál es categoría en Commons de bora?"
+    },
+    {
+        "input_text": "lengua materna de Amazonian Kichwas es",
+        "target": "quichua norteño",
+        "category": "indigenous_peoples",
+        "entity": "Amazonian Kichwas",
+        "original_question": "¿Cuál es lengua materna de Amazonian Kichwas?"
+    },
+    {
+        "input_text": "lengua materna de Amazonian Kichwas es",
+        "target": "lenguas quechuas",
+        "category": "indigenous_peoples",
+        "entity": "Amazonian Kichwas",
+        "original_question": "¿Cuál es lengua materna de Amazonian Kichwas?"
+    },
+    {
+        "input_text": "país de Amazonian Kichwas es",
+        "target": "Colombia",
+        "category": "indigenous_peoples",
+        "entity": "Amazonian Kichwas",
+        "original_question": "¿Cuál es país de Amazonian Kichwas?"
+    },
+    {
+        "input_text": "país de Amazonian Kichwas es",
+        "target": "Ecuador",
+        "category": "indigenous_peoples",
+        "entity": "Amazonian Kichwas",
+        "original_question": "¿Cuál es país de Amazonian Kichwas?"
+    },
+    {
+        "input_text": "subclase de de guaraníes es",
+        "target": "Pueblos indígenas de Brasil",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos indígenas de Brasil",
+        "original_question": "¿Cuál es subclase de de guaraníes?"
+    },
+    {
+        "input_text": "subclase de de asháninca es",
+        "target": "Pueblos indígenas de Brasil",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos indígenas de Brasil",
+        "original_question": "¿Cuál es subclase de de asháninca?"
+    },
+    {
+        "input_text": "subclase de de ticuna es",
+        "target": "Pueblos indígenas de Brasil",
+        "category": "indigenous_peoples",
+        "entity": "Pueblos indígenas de Brasil",
+        "original_question": "¿Cuál es subclase de de ticuna?"
+    },
+    {
+        "input_text": "estado del idioma en Ethnologue de huambisa es",
+        "target": "5 en desarrollo",
+        "category": "indigenous_peoples",
+        "entity": "huambisa",
+        "original_question": "¿Cuál es estado del idioma en Ethnologue de huambisa?"
+    },
+    {
+        "input_text": "imagen de huambisa es",
+        "target": "Huambisa miembro del ejército del Perú.jpg",
+        "category": "indigenous_peoples",
+        "entity": "huambisa",
+        "original_question": "¿Cuál es imagen de huambisa?"
+    },
+    {
+        "input_text": "descrito en la fuente de huambisa es",
+        "target": "Encyclopædia Britannica (11ª edición)",
+        "category": "indigenous_peoples",
+        "entity": "huambisa",
+        "original_question": "¿Cuál es descrito en la fuente de huambisa?"
+    },
+    {
+        "input_text": "categoría en Commons de Ava guaraníes es",
+        "target": "Chiriguano",
+        "category": "indigenous_peoples",
+        "entity": "Ava guaraníes",
+        "original_question": "¿Cuál es categoría en Commons de Ava guaraníes?"
+    },
+    {
+        "input_text": "imagen de Ava guaraníes es",
+        "target": "Jujuy, pueblo Ava Guaraní - comunidad Taperiguá (7742405072).jpg",
+        "category": "indigenous_peoples",
+        "entity": "Ava guaraníes",
+        "original_question": "¿Cuál es imagen de Ava guaraníes?"
+    },
+    {
+        "input_text": "categoría principal del tema de Selknam es",
+        "target": "Categoría:Selknam",
+        "category": "indigenous_peoples",
+        "entity": "Selknam",
+        "original_question": "¿Cuál es categoría principal del tema de Selknam?"
+    },
+    {
+        "input_text": "bandera de Selknam es",
+        "target": "bandera del pueblo selk'nam",
+        "category": "indigenous_peoples",
+        "entity": "Selknam",
+        "original_question": "¿Cuál es bandera de Selknam?"
+    },
+    {
+        "input_text": "lenguas habladas, escritas o signadas de Chanés es",
+        "target": "guaraní oriental boliviano",
+        "category": "indigenous_peoples",
+        "entity": "Chanés",
+        "original_question": "¿Cuál es lenguas habladas, escritas o signadas de Chanés?"
+    },
+    {
+        "input_text": "lenguas habladas, escritas o signadas de Chanés es",
+        "target": "español",
+        "category": "indigenous_peoples",
+        "entity": "Chanés",
+        "original_question": "¿Cuál es lenguas habladas, escritas o signadas de Chanés?"
+    },
+    {
+        "input_text": "imagen de chacarera es",
+        "target": "Chacarera1.jpg",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es imagen de chacarera?"
+    },
+    {
+        "input_text": "Discogs style ID de chacarera es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es Discogs style  ID de chacarera?"
+    },
+    {
+        "input_text": "ID de género musical en Rate Your Music de chacarera es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es ID de género musical en Rate Your Music de chacarera?"
+    },
+    {
+        "input_text": "nombre en la lengua nativa de chacarera es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es nombre en la lengua nativa de chacarera?"
+    },
+    {
+        "input_text": "identificador de la Gran Enciclopedia Catalana de chacarera es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es identificador de la Gran Enciclopedia Catalana de chacarera?"
+    },
+    {
+        "input_text": "forma artística de El viento duende es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es forma artística de El viento duende?"
+    },
+    {
+        "input_text": "forma artística de Chacarera del cincuenta y cinco es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es forma artística de Chacarera del cincuenta y cinco?"
+    },
+    {
+        "input_text": "forma artística de La solitaria es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es forma artística de La solitaria?"
+    },
+    {
+        "input_text": "forma artística de Chacarera del pensador es",
+        "target": "chacarera",
+        "category": "dances",
+        "entity": "chacarera",
+        "original_question": "¿Cuál es forma artística de Chacarera del pensador?"
+    },
+    {
+        "input_text": "galería en Commons de cueca es",
+        "target": "Cueca",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es galería en Commons de cueca?"
+    },
+    {
+        "input_text": "categoría en Commons de cueca es",
+        "target": "Cueca",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es categoría en Commons de cueca?"
+    },
+    {
+        "input_text": "categoría principal del tema de cueca es",
+        "target": "Categoría:Cueca",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es categoría principal del tema de cueca?"
+    },
+    {
+        "input_text": "imagen de cueca es",
+        "target": "Zamacueca-Chile.jpg",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es imagen de cueca?"
+    },
+    {
+        "input_text": "ID de género musical en Rate Your Music de cueca es",
+        "target": "cueca",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es ID de género musical en Rate Your Music de cueca?"
+    },
+    {
+        "input_text": "identificador Every Noise at Once de cueca es",
+        "target": "cuecachilena",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es identificador Every Noise at Once de cueca?"
+    },
+    {
+        "input_text": "identificador de la Gran Enciclopedia Catalana de cueca es",
+        "target": "cueca",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es identificador de la Gran Enciclopedia Catalana de cueca?"
+    },
+    {
+        "input_text": "forma artística de La Pancha Alfaro es",
+        "target": "cueca",
+        "category": "dances",
+        "entity": "cueca",
+        "original_question": "¿Cuál es forma artística de La Pancha Alfaro?"
+    },
+    {
+        "input_text": "subclase de de marinera es",
+        "target": "música criolla",
+        "category": "dances",
+        "entity": "música criolla",
+        "original_question": "¿Cuál es subclase de de marinera?"
+    },
+    {
+        "input_text": "subclase de de vals peruano es",
+        "target": "música criolla",
+        "category": "dances",
+        "entity": "música criolla",
+        "original_question": "¿Cuál es subclase de de vals peruano?"
+    },
+    {
+        "input_text": "subclase de de Tondero es",
+        "target": "música criolla",
+        "category": "dances",
+        "entity": "música criolla",
+        "original_question": "¿Cuál es subclase de de Tondero?"
+    },
+    {
+        "input_text": "subclase de de Festejo es",
+        "target": "música criolla",
+        "category": "dances",
+        "entity": "música criolla",
+        "original_question": "¿Cuál es subclase de de Festejo?"
+    },
+    {
+        "input_text": "Discogs style ID de música criolla es",
+        "target": "música+criolla",
+        "category": "dances",
+        "entity": "música criolla",
+        "original_question": "¿Cuál es Discogs style  ID de música criolla?"
+    },
+    {
+        "input_text": "subclase de de polca criolla es",
+        "target": "música criolla",
+        "category": "dances",
+        "entity": "música criolla",
+        "original_question": "¿Cuál es subclase de de polca criolla?"
+    },
+    {
+        "input_text": "categoría principal del tema de folclore de Argentina es",
+        "target": "Categoría:Música folclórica de Argentina",
+        "category": "dances",
+        "entity": "folclore de Argentina",
+        "original_question": "¿Cuál es categoría principal del tema de folclore de Argentina?"
+    },
+    {
+        "input_text": "historia de folclore de Argentina es",
+        "target": "historia de la música folklórica de Argentina",
+        "category": "dances",
+        "entity": "folclore de Argentina",
+        "original_question": "¿Cuál es historia de folclore de Argentina?"
+    },
+    {
+        "input_text": "lista del elemento de folclore de Argentina es",
+        "target": "Anexo:Estilos musicales folclóricos de Argentina",
+        "category": "dances",
+        "entity": "folclore de Argentina",
+        "original_question": "¿Cuál es lista del elemento de folclore de Argentina?"
+    },
+    {
+        "input_text": "subclase de de estilo es",
+        "target": "folclore de Argentina",
+        "category": "dances",
+        "entity": "folclore de Argentina",
+        "original_question": "¿Cuál es subclase de de estilo?"
+    },
+    {
+        "input_text": "subclase de de chamamé es",
+        "target": "música litoraleña",
+        "category": "dances",
+        "entity": "música litoraleña",
+        "original_question": "¿Cuál es subclase de de chamamé?"
+    },
+    {
+        "input_text": "categoría principal del tema de música litoraleña es",
+        "target": "Categoría:Música litoraleña",
+        "category": "dances",
+        "entity": "música litoraleña",
+        "original_question": "¿Cuál es categoría principal del tema de música litoraleña?"
+    },
+    {
+        "input_text": "subclase de de Rasguido doble es",
+        "target": "música litoraleña",
+        "category": "dances",
+        "entity": "música litoraleña",
+        "original_question": "¿Cuál es subclase de de Rasguido doble?"
+    },
+    {
+        "input_text": "imagen de tango argentino es",
+        "target": "Tango BuenosAires.jpg",
+        "category": "dances",
+        "entity": "tango argentino",
+        "original_question": "¿Cuál es imagen de tango argentino?"
+    },
+    {
+        "input_text": "imagen de tango argentino es",
+        "target": "Tango Porteño.jpg",
+        "category": "dances",
+        "entity": "tango argentino",
+        "original_question": "¿Cuál es imagen de tango argentino?"
+    },
+    {
+        "input_text": "categoría principal del tema de chamamé es",
+        "target": "Categoría:Chamamé",
+        "category": "dances",
+        "entity": "chamamé",
+        "original_question": "¿Cuál es categoría principal del tema de chamamé?"
+    },
+    {
+        "input_text": "imagen de chamamé es",
+        "target": "2015-01-24, Corrientes. Nini Flores en la 25.ª Fiesta Nacional del Chamamé.jpg",
+        "category": "dances",
+        "entity": "chamamé",
+        "original_question": "¿Cuál es imagen de chamamé?"
+    },
+    {
+        "input_text": "video de marinera es",
+        "target": "Marinera y caballo de paso Perú.webm",
+        "category": "dances",
+        "entity": "marinera",
+        "original_question": "¿Cuál es video de marinera?"
+    },
+    {
+        "input_text": "estatus patrimonial de marinera es",
+        "target": "Patrimonio Cultural de la Nación",
+        "category": "dances",
+        "entity": "marinera",
+        "original_question": "¿Cuál es estatus patrimonial de marinera?"
+    },
+    {
+        "input_text": "categoría en Commons de zamacueca es",
+        "target": "Zamacueca",
+        "category": "dances",
+        "entity": "zamacueca",
+        "original_question": "¿Cuál es categoría en Commons de zamacueca?"
+    },
+    {
+        "input_text": "ID de género musical en Rate Your Music de zamacueca es",
+        "target": "zamacueca",
+        "category": "dances",
+        "entity": "zamacueca",
+        "original_question": "¿Cuál es ID de género musical en Rate Your Music de zamacueca?"
+    },
+    {
+        "input_text": "imagen de Carnavalito es",
+        "target": "Carnavalito en Humahuaca.jpg",
+        "category": "dances",
+        "entity": "Carnavalito",
+        "original_question": "¿Cuál es imagen de Carnavalito?"
+    },
+    {
+        "input_text": "caracterizado por de zamba es",
+        "target": "tradición musical",
+        "category": "dances",
+        "entity": "zamba",
+        "original_question": "¿Cuál es caracterizado por de zamba?"
+    },
+    {
+        "input_text": "forma artística de El cosechero es",
+        "target": "Rasguido doble",
+        "category": "dances",
+        "entity": "Rasguido doble",
+        "original_question": "¿Cuál es forma artística de El cosechero?"
+    },
+    {
+        "input_text": "categoría principal del tema de Cumbia chilena es",
+        "target": "Categoría:Cumbia chilena",
+        "category": "dances",
+        "entity": "Cumbia chilena",
+        "original_question": "¿Cuál es categoría principal del tema de Cumbia chilena?"
+    },
+    {
+        "input_text": "categoría principal del tema de música folclórica de Chile es",
+        "target": "Categoría:Música folclórica de Chile",
+        "category": "dances",
+        "entity": "música folclórica de Chile",
+        "original_question": "¿Cuál es categoría principal del tema de música folclórica de Chile?"
+    },
+    {
+        "input_text": "categoría principal del tema de cumbia amazónica es",
+        "target": "Categoría:Cumbia amazónica",
+        "category": "dances",
+        "entity": "cumbia amazónica",
+        "original_question": "¿Cuál es categoría principal del tema de cumbia amazónica?"
+    },
+    {
+        "input_text": "categoría principal del tema de cumbia peruana es",
+        "target": "Categoría:Cumbia peruana",
+        "category": "dances",
+        "entity": "cumbia peruana",
+        "original_question": "¿Cuál es categoría principal del tema de cumbia peruana?"
+    },
+    {
+        "input_text": "imagen de Chiriwanos es",
+        "target": "XX Encuentro de Chiriwanos de Huancané 2025 - 8.jpg",
+        "category": "dances",
+        "entity": "Chiriwanos",
+        "original_question": "¿Cuál es imagen de Chiriwanos?"
+    },
+    {
+        "input_text": "patrocinador de Caminito es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es patrocinador de Caminito?"
+    },
+    {
+        "input_text": "patrocinador de Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es patrocinador de Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "nombrado en referencia a de Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es nombrado en referencia a de Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "patrocinador de Teatro de la Ribera es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es patrocinador de Teatro de la Ribera?"
+    },
+    {
+        "input_text": "representa a de Benito Quinquela Martín es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es representa a de Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "material empleado de Benito Quinquela Martín es",
+        "target": "hormigón",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es material empleado de Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "ubicación de Benito Quinquela Martín es",
+        "target": "Paseo Diputado Nacional Carlos Bello",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es ubicación de Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Benito Quinquela Martín es",
+        "target": "Buenos Aires",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "imagen de Benito Quinquela Martín es",
+        "target": "2018-10-19 La Boca, Buenos Aires, Argentina (Martin Rulsch) 07.jpg",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es imagen de Benito Quinquela Martín?"
+    },
+    {
+        "input_text": "creador de José Quiñones es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es creador de José Quiñones?"
+    },
+    {
+        "input_text": "creador de Día del Trabajo es",
+        "target": "Benito Quinquela Martín",
+        "category": "painters",
+        "entity": "Benito Quinquela Martín",
+        "original_question": "¿Cuál es creador de Día del Trabajo?"
+    },
+    {
+        "input_text": "arquitecto de Quinta presidencial de Olivos es",
+        "target": "Prilidiano Pueyrredón",
+        "category": "painters",
+        "entity": "Prilidiano Pueyrredón",
+        "original_question": "¿Cuál es arquitecto de Quinta presidencial de Olivos?"
+    },
+    {
+        "input_text": "creador de Pirámide de Mayo es",
+        "target": "Prilidiano Pueyrredón",
+        "category": "painters",
+        "entity": "Prilidiano Pueyrredón",
+        "original_question": "¿Cuál es creador de Pirámide de Mayo?"
+    },
+    {
+        "input_text": "nombrado en referencia a de Viejo Puente Pueyrredón es",
+        "target": "Prilidiano Pueyrredón",
+        "category": "painters",
+        "entity": "Prilidiano Pueyrredón",
+        "original_question": "¿Cuál es nombrado en referencia a de Viejo Puente Pueyrredón?"
+    },
+    {
+        "input_text": "diseñador de Viejo Puente Pueyrredón es",
+        "target": "Prilidiano Pueyrredón",
+        "category": "painters",
+        "entity": "Prilidiano Pueyrredón",
+        "original_question": "¿Cuál es diseñador de Viejo Puente Pueyrredón?"
+    },
+    {
+        "input_text": "creador de Los capataces es",
+        "target": "Prilidiano Pueyrredón",
+        "category": "painters",
+        "entity": "Prilidiano Pueyrredón",
+        "original_question": "¿Cuál es creador de Los capataces?"
+    },
+    {
+        "input_text": "nombrado en referencia a de Museo Kosice es",
+        "target": "Gyula Kosice",
+        "category": "painters",
+        "entity": "Gyula Kosice",
+        "original_question": "¿Cuál es nombrado en referencia a de Museo Kosice?"
+    },
+    {
+        "input_text": "creador de Homenaje a la Democracia es",
+        "target": "Gyula Kosice",
+        "category": "painters",
+        "entity": "Gyula Kosice",
+        "original_question": "¿Cuál es creador de Homenaje a la Democracia?"
+    },
+    {
+        "input_text": "autor de Cosmogonía del agua es",
+        "target": "Gyula Kosice",
+        "category": "painters",
+        "entity": "Gyula Kosice",
+        "original_question": "¿Cuál es autor de Cosmogonía del agua?"
+    },
+    {
+        "input_text": "autor de Sin Titulo es",
+        "target": "Gyula Kosice",
+        "category": "painters",
+        "entity": "Gyula Kosice",
+        "original_question": "¿Cuál es autor de Sin Titulo?"
+    },
+    {
+        "input_text": "creador de Historia de Concepción es",
+        "target": "Gregorio de la Fuente",
+        "category": "painters",
+        "entity": "Gregorio de la Fuente",
+        "original_question": "¿Cuál es creador de Historia de Concepción?"
+    },
+    {
+        "input_text": "creador de Historia de La Serena es",
+        "target": "Gregorio de la Fuente",
+        "category": "painters",
+        "entity": "Gregorio de la Fuente",
+        "original_question": "¿Cuál es creador de Historia de La Serena?"
+    },
+    {
+        "input_text": "miembro del reparto de El artista es",
+        "target": "León Ferrari",
+        "category": "painters",
+        "entity": "León Ferrari",
+        "original_question": "¿Cuál es miembro del reparto de El artista?"
+    },
+    {
+        "input_text": "creador de Cabildo abierto del 22 de mayo de 1810 es",
+        "target": "Pedro Subercaseaux",
+        "category": "painters",
+        "entity": "Pedro Subercaseaux",
+        "original_question": "¿Cuál es creador de Cabildo abierto del 22 de mayo de 1810?"
+    },
+    {
+        "input_text": "creador de Monumento a Miguel Hidalgo y Costilla es",
+        "target": "Francisco Zúñiga",
+        "category": "painters",
+        "entity": "Francisco Zúñiga",
+        "original_question": "¿Cuál es creador de Monumento a Miguel Hidalgo y Costilla?"
+    },
+    {
+        "input_text": "creador de Torso Masculino es",
+        "target": "Fernando Botero",
+        "category": "painters",
+        "entity": "Fernando Botero",
+        "original_question": "¿Cuál es creador de Torso Masculino?"
+    },
+    {
+        "input_text": "creador de Virgen alada del Apocalípsis es",
+        "target": "Manuel Antonio Caro",
+        "category": "painters",
+        "entity": "Manuel Antonio Caro",
+        "original_question": "¿Cuál es creador de Virgen alada del Apocalípsis?"
+    },
+    {
+        "input_text": "creador de La zamacueca es",
+        "target": "Arturo Gordon Vargas",
+        "category": "painters",
+        "entity": "Arturo Gordon Vargas",
+        "original_question": "¿Cuál es creador de La zamacueca?"
+    },
+    {
+        "input_text": "basado en de Diarios de motocicleta es",
+        "target": "Diarios de motocicleta",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es basado en de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "guionista de Diarios de motocicleta es",
+        "target": "Che Guevara",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es guionista de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "título de Diarios de motocicleta es",
+        "target": "Diarios de motocicleta",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es título de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "ubicación narrativa de Diarios de motocicleta es",
+        "target": "Buenos Aires",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es ubicación narrativa de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "nominado a de Diarios de motocicleta es",
+        "target": "Óscar al mejor guion adaptado",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es nominado a de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "nominado a de Diarios de motocicleta es",
+        "target": "Premio del Cine Europeo a la mejor película no europea",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es nominado a de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "calificación Medierådet de Diarios de motocicleta es",
+        "target": "apto para una audiencia general",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es calificación Medierådet de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "clasificación CNC (Francia) de Diarios de motocicleta es",
+        "target": "todos los públicos",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es clasificación CNC (Francia) de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "Movie Review Query Engine ID de Diarios de motocicleta es",
+        "target": "diarios-de-motocicleta-m100016650",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es Movie Review Query Engine ID de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "distribución de Diarios de motocicleta es",
+        "target": "vídeo bajo demanda",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es distribución de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Gael García Bernal",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Rodrigo de la Serna",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Mía Maestro",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Mercedes Morán",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Lucas Oro",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Maida Andrenacci",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Fernando Farías",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Ricardo Díaz Mourelle",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Matías Strafe",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "miembro del reparto de Diarios de motocicleta es",
+        "target": "Gabriela Aguilera",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es miembro del reparto de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "personajes de Diarios de motocicleta es",
+        "target": "Che Guevara",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es personajes de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "personajes de Diarios de motocicleta es",
+        "target": "Celia de la Serna",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es personajes de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "personajes de Diarios de motocicleta es",
+        "target": "Ernesto Guevara Lynch",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es personajes de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "personajes de Diarios de motocicleta es",
+        "target": "María del Carmen Ferreyra, Chichina",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es personajes de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "Clasificación Filmiroda de Diarios de motocicleta es",
+        "target": "Categoría II",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es Clasificación Filmiroda de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "caracterizado por de Diarios de motocicleta es",
+        "target": "película basada en un libro",
+        "category": "movies",
+        "entity": "Diarios de motocicleta",
+        "original_question": "¿Cuál es caracterizado por de Diarios de motocicleta?"
+    },
+    {
+        "input_text": "El director de Carandiru es",
+        "target": "Héctor Babenco",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es el director de Carandiru?"
+    },
+    {
+        "input_text": "guionista de Carandiru es",
+        "target": "Héctor Babenco",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es guionista de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Rodrigo Santoro",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Lázaro Ramos",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Luiz Carlos Vasconcelos",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Gero Camilo",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Clemente Viscaíno",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Marcelo Escorel",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Ângela Correa",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Carandiru es",
+        "target": "Gabriel Braga Nunes",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es miembro del reparto de Carandiru?"
+    },
+    {
+        "input_text": "productor de Carandiru es",
+        "target": "Héctor Babenco",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es productor de Carandiru?"
+    },
+    {
+        "input_text": "basado en de Carandiru es",
+        "target": "Estación Carandiru",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es basado en de Carandiru?"
+    },
+    {
+        "input_text": "identificador TV.com de Carandiru es",
+        "target": "movies/carandiru",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es identificador TV.com de Carandiru?"
+    },
+    {
+        "input_text": "Clasificación Filmiroda de Carandiru es",
+        "target": "Categoría III",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es Clasificación Filmiroda de Carandiru?"
+    },
+    {
+        "input_text": "calificación Medierådet de Carandiru es",
+        "target": "para mayores de 15 años",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es calificación Medierådet de Carandiru?"
+    },
+    {
+        "input_text": "distribución de Carandiru es",
+        "target": "vídeo bajo demanda",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es distribución de Carandiru?"
+    },
+    {
+        "input_text": "descrito en la fuente de Carandiru es",
+        "target": "Lista de las 100 mejores películas brasileñas según ABRACCINE",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es descrito en la fuente de Carandiru?"
+    },
+    {
+        "input_text": "clasificación CNC (Francia) de Carandiru es",
+        "target": "prohibido para menores de 12 años",
+        "category": "movies",
+        "entity": "Carandiru",
+        "original_question": "¿Cuál es clasificación CNC (Francia) de Carandiru?"
+    },
+    {
+        "input_text": "miembro del reparto de Violeta se fue a los cielos es",
+        "target": "Pedro Salinas",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es miembro del reparto de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "miembro del reparto de Violeta se fue a los cielos es",
+        "target": "Roberto Farías",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es miembro del reparto de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "miembro del reparto de Violeta se fue a los cielos es",
+        "target": "Francisca Gavilán",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es miembro del reparto de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "miembro del reparto de Violeta se fue a los cielos es",
+        "target": "Gabriela Aguilera",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es miembro del reparto de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "título de Violeta se fue a los cielos es",
+        "target": "Violeta se fue a los cielos",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es título de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "clasificación NMHH de Violeta se fue a los cielos es",
+        "target": "categoría IV",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es clasificación NMHH de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "guionista de Violeta se fue a los cielos es",
+        "target": "Ángel Parra",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es guionista de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "distribución de Violeta se fue a los cielos es",
+        "target": "vídeo bajo demanda",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es distribución de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "NientePopCorn movie ID de Violeta se fue a los cielos es",
+        "target": "violeta-se-fue-a-los-cielos",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es NientePopCorn movie ID de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "clasificación CNC (Francia) de Violeta se fue a los cielos es",
+        "target": "todos los públicos",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es clasificación CNC (Francia) de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "emisora original de Violeta se fue a los cielos es",
+        "target": "Chilevisión",
+        "category": "movies",
+        "entity": "Violeta se fue a los cielos",
+        "original_question": "¿Cuál es emisora original de Violeta se fue a los cielos?"
+    },
+    {
+        "input_text": "miembro del reparto de Café de los maestros es",
+        "target": "Emilio Balcarce",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es miembro del reparto de Café de los maestros?"
+    },
+    {
+        "input_text": "miembro del reparto de Café de los maestros es",
+        "target": "Juan Carlos Godoy",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es miembro del reparto de Café de los maestros?"
+    },
+    {
+        "input_text": "miembro del reparto de Café de los maestros es",
+        "target": "Horacio Salgán",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es miembro del reparto de Café de los maestros?"
+    },
+    {
+        "input_text": "título de Café de los maestros es",
+        "target": "Café de los maestros",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es título de Café de los maestros?"
+    },
+    {
+        "input_text": "identificador TV.com de Café de los maestros es",
+        "target": "movies/cafe-de-los-maestros",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es identificador TV.com de Café de los maestros?"
+    },
+    {
+        "input_text": "clasificación CNC (Francia) de Café de los maestros es",
+        "target": "todos los públicos",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es clasificación CNC (Francia) de Café de los maestros?"
+    },
+    {
+        "input_text": "Movie Review Query Engine ID de Café de los maestros es",
+        "target": "cafe-de-los-maestros-m100071549",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es Movie Review Query Engine ID de Café de los maestros?"
+    },
+    {
+        "input_text": "distribución de Café de los maestros es",
+        "target": "vídeo bajo demanda",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es distribución de Café de los maestros?"
+    },
+    {
+        "input_text": "identificador Trakt.tv de Café de los maestros es",
+        "target": "movies/cafe-de-los-maestros-2008",
+        "category": "movies",
+        "entity": "Café de los maestros",
+        "original_question": "¿Cuál es identificador Trakt.tv de Café de los maestros?"
+    },
+    {
+        "input_text": "miembro del reparto de Infancia clandestina es",
+        "target": "César Troncoso",
+        "category": "movies",
+        "entity": "Infancia clandestina",
+        "original_question": "¿Cuál es miembro del reparto de Infancia clandestina?"
+    },
+    {
+        "input_text": "miembro del reparto de Infancia clandestina es",
+        "target": "Darío Valenzuela",
+        "category": "movies",
+        "entity": "Infancia clandestina",
+        "original_question": "¿Cuál es miembro del reparto de Infancia clandestina?"
+    },
+    {
+        "input_text": "miembro del reparto de Infancia clandestina es",
+        "target": "Luciano Cazaux",
+        "category": "movies",
+        "entity": "Infancia clandestina",
+        "original_question": "¿Cuál es miembro del reparto de Infancia clandestina?"
+    },
+    {
+        "input_text": "productor de Infancia clandestina es",
+        "target": "Luis Puenzo",
+        "category": "movies",
+        "entity": "Infancia clandestina",
+        "original_question": "¿Cuál es productor de Infancia clandestina?"
+    },
+    {
+        "input_text": "calificación Medierådet de Infancia clandestina es",
+        "target": "para mayores de 11 años",
+        "category": "movies",
+        "entity": "Infancia clandestina",
+        "original_question": "¿Cuál es calificación Medierådet de Infancia clandestina?"
+    },
+    {
+        "input_text": "distribución de Infancia clandestina es",
+        "target": "vídeo bajo demanda",
+        "category": "movies",
+        "entity": "Infancia clandestina",
+        "original_question": "¿Cuál es distribución de Infancia clandestina?"
+    },
+    {
+        "input_text": "autor de El beso de la mujer araña es",
+        "target": "Manuel Puig",
+        "category": "movies",
+        "entity": "El beso de la mujer araña",
+        "original_question": "¿Cuál es autor de El beso de la mujer araña?"
+    },
+    {
+        "input_text": "título de El beso de la mujer araña es",
+        "target": "El beso de la mujer araña",
+        "category": "movies",
+        "entity": "El beso de la mujer araña",
+        "original_question": "¿Cuál es título de El beso de la mujer araña?"
+    },
+    {
+        "input_text": "se dice que es lo mismo que de El beso de la mujer araña es",
+        "target": "El beso de la mujer araña",
+        "category": "movies",
+        "entity": "El beso de la mujer araña",
+        "original_question": "¿Cuál es se dice que es lo mismo que de El beso de la mujer araña?"
+    },
+    {
+        "input_text": "obra derivada de El beso de la mujer araña es",
+        "target": "El beso de la mujer araña",
+        "category": "movies",
+        "entity": "El beso de la mujer araña",
+        "original_question": "¿Cuál es obra derivada de El beso de la mujer araña?"
+    },
+    {
+        "input_text": "miembro del reparto de El beso de la mujer araña es",
+        "target": "Tonatiuh Elizarraraz",
+        "category": "movies",
+        "entity": "El beso de la mujer araña",
+        "original_question": "¿Cuál es miembro del reparto de El beso de la mujer araña?"
+    },
+    {
+        "input_text": "basado en de El beso de la mujer araña es",
+        "target": "El beso de la mujer araña",
+        "category": "movies",
+        "entity": "El beso de la mujer araña",
+        "original_question": "¿Cuál es basado en de El beso de la mujer araña?"
+    },
+    {
+        "input_text": "título de 31 minutos, la película es",
+        "target": "31 minutos, la película",
+        "category": "movies",
+        "entity": "31 minutos, la película",
+        "original_question": "¿Cuál es título de 31 minutos, la película?"
+    },
+    {
+        "input_text": "guionista de 31 minutos, la película es",
+        "target": "Álvaro Díaz",
+        "category": "movies",
+        "entity": "31 minutos, la película",
+        "original_question": "¿Cuál es guionista de 31 minutos, la película?"
+    },
+    {
+        "input_text": "guionista de 31 minutos, la película es",
+        "target": "Rodrigo Salinas (dibujante)",
+        "category": "movies",
+        "entity": "31 minutos, la película",
+        "original_question": "¿Cuál es guionista de 31 minutos, la película?"
+    },
+    {
+        "input_text": "calificación del ICAA de 31 minutos, la película es",
+        "target": "apta para todos los públicos",
+        "category": "movies",
+        "entity": "31 minutos, la película",
+        "original_question": "¿Cuál es calificación del ICAA de 31 minutos, la película?"
+    },
+    {
+        "input_text": "logotipo de 31 minutos, la película es",
+        "target": "31 minutos, la película logo vector.svg",
+        "category": "movies",
+        "entity": "31 minutos, la película",
+        "original_question": "¿Cuál es logotipo de 31 minutos, la película?"
+    },
+    {
+        "input_text": "miembro del reparto de Hermanas es",
+        "target": "Horacio Peña",
+        "category": "movies",
+        "entity": "Hermanas",
+        "original_question": "¿Cuál es miembro del reparto de Hermanas?"
+    },
+    {
+        "input_text": "miembro del reparto de Hermanas es",
+        "target": "Héctor Alterio",
+        "category": "movies",
+        "entity": "Hermanas",
+        "original_question": "¿Cuál es miembro del reparto de Hermanas?"
+    },
+    {
+        "input_text": "miembro del reparto de Hermanas es",
+        "target": "Mercedes Morán",
+        "category": "movies",
+        "entity": "Hermanas",
+        "original_question": "¿Cuál es miembro del reparto de Hermanas?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Federal es",
+        "target": "Departamento Federal",
+        "category": "movies",
+        "entity": "Federal",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Federal?"
+    },
+    {
+        "input_text": "categoría en Commons de Federal es",
+        "target": "Federal, Entre Ríos",
+        "category": "movies",
+        "entity": "Federal",
+        "original_question": "¿Cuál es categoría en Commons de Federal?"
+    },
+    {
+        "input_text": "código postal de Federal es",
+        "target": "E3180",
+        "category": "movies",
+        "entity": "Federal",
+        "original_question": "¿Cuál es código postal de Federal?"
+    },
+    {
+        "input_text": "autor de Amélia es",
+        "target": "Roberto Payró",
+        "category": "movies",
+        "entity": "Amélia",
+        "original_question": "¿Cuál es autor de Amélia?"
+    },
+    {
+        "input_text": "imagen de Amélia es",
+        "target": "Novelas y fantasias-Segunda serie de Scripta- Roberto J. Payro (page 135 crop).jpg",
+        "category": "movies",
+        "entity": "Amélia",
+        "original_question": "¿Cuál es imagen de Amélia?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Límite es",
+        "target": "Resistencia",
+        "category": "movies",
+        "entity": "Límite",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Límite?"
+    },
+    {
+        "input_text": "El director de Límite es",
+        "target": "Nicolás Jullian",
+        "category": "movies",
+        "entity": "Límite",
+        "original_question": "¿Cuál es el director de Límite?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Vera es",
+        "target": "Provincia de Santa Fe",
+        "category": "movies",
+        "entity": "Vera",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Vera?"
+    },
+    {
+        "input_text": "emisora original de Amelia es",
+        "target": "Televisión Nacional de Chile",
+        "category": "movies",
+        "entity": "Amelia",
+        "original_question": "¿Cuál es emisora original de Amelia?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Olga es",
+        "target": "Región de Coquimbo",
+        "category": "movies",
+        "entity": "Olga",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Olga?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Gabriela es",
+        "target": "Región de Atacama",
+        "category": "movies",
+        "entity": "Gabriela",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Gabriela?"
+    },
+    {
+        "input_text": "licencia de 360 es",
+        "target": "Creative Commons Atribución/Reconocimiento-NoComercial",
+        "category": "movies",
+        "entity": "360",
+        "original_question": "¿Cuál es licencia de 360?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Ciudad de Dios es",
+        "target": "Distrito de Guadalupe",
+        "category": "movies",
+        "entity": "Ciudad de Dios",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Ciudad de Dios?"
+    },
+    {
+        "input_text": "próximo cruce río arriba de Puente Salto Grande es",
+        "target": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "category": "landmarks",
+        "entity": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "original_question": "¿Cuál es próximo cruce río arriba de Puente Salto Grande?"
+    },
+    {
+        "input_text": "categoría en Commons de puente Internacional Agustín P. Justo - Getúlio Vargas es",
+        "target": "Ponte Internacional Uruguaiana-Paso de los Libres",
+        "category": "landmarks",
+        "entity": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "original_question": "¿Cuál es categoría en Commons de puente Internacional Agustín P. Justo - Getúlio Vargas?"
+    },
+    {
+        "input_text": "imagen de puente Internacional Agustín P. Justo - Getúlio Vargas es",
+        "target": "Puente Getulio Vargas-Agustín P. Justo 2.jpg",
+        "category": "landmarks",
+        "entity": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "original_question": "¿Cuál es imagen de puente Internacional Agustín P. Justo - Getúlio Vargas?"
+    },
+    {
+        "input_text": "atraviesa de puente Internacional Agustín P. Justo - Getúlio Vargas es",
+        "target": "Río Uruguay",
+        "category": "landmarks",
+        "entity": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "original_question": "¿Cuál es atraviesa de puente Internacional Agustín P. Justo - Getúlio Vargas?"
+    },
+    {
+        "input_text": "próximo cruce río arriba de puente Internacional Agustín P. Justo - Getúlio Vargas es",
+        "target": "Puente de la Integración",
+        "category": "landmarks",
+        "entity": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "original_question": "¿Cuál es próximo cruce río arriba de puente Internacional Agustín P. Justo - Getúlio Vargas?"
+    },
+    {
+        "input_text": "próximo cruce río abajo de puente Internacional Agustín P. Justo - Getúlio Vargas es",
+        "target": "Puente Salto Grande",
+        "category": "landmarks",
+        "entity": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "original_question": "¿Cuál es próximo cruce río abajo de puente Internacional Agustín P. Justo - Getúlio Vargas?"
+    },
+    {
+        "input_text": "imagen de Puente de la Integración es",
+        "target": "Puente de la Integración (Santo Tomé - São Borja).jpg",
+        "category": "landmarks",
+        "entity": "Puente de la Integración",
+        "original_question": "¿Cuál es imagen de Puente de la Integración?"
+    },
+    {
+        "input_text": "atraviesa de Puente de la Integración es",
+        "target": "Río Uruguay",
+        "category": "landmarks",
+        "entity": "Puente de la Integración",
+        "original_question": "¿Cuál es atraviesa de Puente de la Integración?"
+    },
+    {
+        "input_text": "próximo cruce río abajo de Puente de la Integración es",
+        "target": "puente Internacional Agustín P. Justo - Getúlio Vargas",
+        "category": "landmarks",
+        "entity": "Puente de la Integración",
+        "original_question": "¿Cuál es próximo cruce río abajo de Puente de la Integración?"
+    },
+    {
+        "input_text": "categoría en Commons de Puente de la Integración es",
+        "target": "Puente de la Integración",
+        "category": "landmarks",
+        "entity": "Puente de la Integración",
+        "original_question": "¿Cuál es categoría en Commons de Puente de la Integración?"
+    },
+    {
+        "input_text": "localizado en el área protegida de Cataratas del Iguazú es",
+        "target": "Parque nacional de Iguazú",
+        "category": "landmarks",
+        "entity": "Parque nacional de Iguazú",
+        "original_question": "¿Cuál es localizado en el área protegida de Cataratas del Iguazú?"
+    },
+    {
+        "input_text": "diferente de de Parque Nacional Iguazú es",
+        "target": "Parque nacional de Iguazú",
+        "category": "landmarks",
+        "entity": "Parque nacional de Iguazú",
+        "original_question": "¿Cuál es diferente de de Parque Nacional Iguazú?"
+    },
+    {
+        "input_text": "localizado en el área protegida de Garganta del Diablo es",
+        "target": "Parque nacional de Iguazú",
+        "category": "landmarks",
+        "entity": "Parque nacional de Iguazú",
+        "original_question": "¿Cuál es localizado en el área protegida de Garganta del Diablo?"
+    },
+    {
+        "input_text": "imagen de puente Internacional Tancredo Neves es",
+        "target": "Puente Internacional Tancredo Neves.JPG",
+        "category": "landmarks",
+        "entity": "puente Internacional Tancredo Neves",
+        "original_question": "¿Cuál es imagen de puente Internacional Tancredo Neves?"
+    },
+    {
+        "input_text": "atraviesa de puente Internacional Tancredo Neves es",
+        "target": "Río Iguazú",
+        "category": "landmarks",
+        "entity": "puente Internacional Tancredo Neves",
+        "original_question": "¿Cuál es atraviesa de puente Internacional Tancredo Neves?"
+    },
+    {
+        "input_text": "categoría en Commons de puente Internacional Tancredo Neves es",
+        "target": "Puente Internacional Tancredo Neves",
+        "category": "landmarks",
+        "entity": "puente Internacional Tancredo Neves",
+        "original_question": "¿Cuál es categoría en Commons de puente Internacional Tancredo Neves?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Laguna de los Patos es",
+        "target": "Provincia de Córdoba",
+        "category": "landmarks",
+        "entity": "Laguna de los Patos",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Laguna de los Patos?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Laguna de los Patos es",
+        "target": "Provincia de San Juan",
+        "category": "landmarks",
+        "entity": "Laguna de los Patos",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Laguna de los Patos?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de Laguna de los Patos es",
+        "target": "Provincia de Buenos Aires",
+        "category": "landmarks",
+        "entity": "Laguna de los Patos",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de Laguna de los Patos?"
+    },
+    {
+        "input_text": "próximo cruce río arriba de puente Internacional San Roque González de Santa Cruz es",
+        "target": "Puente Internacional de la Integración",
+        "category": "landmarks",
+        "entity": "Puente Internacional de la Integración",
+        "original_question": "¿Cuál es próximo cruce río arriba de puente Internacional San Roque González de Santa Cruz?"
+    },
+    {
+        "input_text": "diferente de de Puente de la Integración es",
+        "target": "Puente Internacional de la Integración",
+        "category": "landmarks",
+        "entity": "Puente Internacional de la Integración",
+        "original_question": "¿Cuál es diferente de de Puente de la Integración?"
+    },
+    {
+        "input_text": "imagen de puente Internacional Comandante Rosales es",
+        "target": "Puente sobre río Pepirí Guazú (Brasil-Argentina) 02.jpg",
+        "category": "landmarks",
+        "entity": "puente Internacional Comandante Rosales",
+        "original_question": "¿Cuál es imagen de puente Internacional Comandante Rosales?"
+    },
+    {
+        "input_text": "atraviesa de puente Internacional Comandante Rosales es",
+        "target": "Río Pepirí Guazú",
+        "category": "landmarks",
+        "entity": "puente Internacional Comandante Rosales",
+        "original_question": "¿Cuál es atraviesa de puente Internacional Comandante Rosales?"
+    },
+    {
+        "input_text": "atraviesa de puente Internacional Alba Posse - Porto Mauá es",
+        "target": "Río Uruguay",
+        "category": "landmarks",
+        "entity": "puente Internacional Alba Posse - Porto Mauá",
+        "original_question": "¿Cuál es atraviesa de puente Internacional Alba Posse - Porto Mauá?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de puente Internacional Alba Posse - Porto Mauá es",
+        "target": "Provincia de Misiones",
+        "category": "landmarks",
+        "entity": "puente Internacional Alba Posse - Porto Mauá",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de puente Internacional Alba Posse - Porto Mauá?"
+    },
+    {
+        "input_text": "situado en la entidad territorial administrativa de puente Internacional del Acre es",
+        "target": "Departamento de Madre de Dios",
+        "category": "landmarks",
+        "entity": "puente Internacional del Acre",
+        "original_question": "¿Cuál es situado en la entidad territorial administrativa de puente Internacional del Acre?"
+    },
+    {
+        "input_text": "atraviesa de puente Internacional del Acre es",
+        "target": "Río Acre",
+        "category": "landmarks",
+        "entity": "puente Internacional del Acre",
+        "original_question": "¿Cuál es atraviesa de puente Internacional del Acre?"
+    },
+    {
+        "input_text": "próximo cruce río arriba de puente Internacional San Roque González de Santa Cruz es",
+        "target": "puente Internacional de la Amistad",
+        "category": "landmarks",
+        "entity": "puente Internacional de la Amistad",
+        "original_question": "¿Cuál es próximo cruce río arriba de puente Internacional San Roque González de Santa Cruz?"
+    },
+    {
+        "input_text": "atraviesa de puente Internacional Comandante Andresito es",
+        "target": "Río San Antonio",
+        "category": "landmarks",
+        "entity": "puente Internacional Comandante Andresito",
+        "original_question": "¿Cuál es atraviesa de puente Internacional Comandante Andresito?"
+    },
+    {
+        "input_text": "localizado en el área protegida de Sierra del Divisor es",
+        "target": "Parque nacional de la Sierra del Divisor",
+        "category": "landmarks",
+        "entity": "Parque nacional de la Sierra del Divisor",
+        "original_question": "¿Cuál es localizado en el área protegida de Sierra del Divisor?"
+    }
+]

@@ -1,0 +1,11 @@
+# Cultural Asymmetry LLM - Dependencies
+# Project for analyzing cultural bias in Language Models using Logit Lens
+
+# Data processing
+pandas>=2.0.0
+
+# Language detection
+langdetect>=1.0.9
+
+# Text normalization
+unidecode>=1.3.0

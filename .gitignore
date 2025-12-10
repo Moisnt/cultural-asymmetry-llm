@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large evaluation files (>50MB)
+# These files are too large for GitHub
+results/justo_evaluacion_real_Llama-3.1-8B-Instruct.json
+results/justo_evaluacion_real_TinyLlama-1.1B-Chat-v1.0.json
+results/tomy_evaluacion_real_Qwen3-4B-Instruct-2507.json
+results/tomy_evaluacion_real_TinyLlama-1.1B-Chat-v1.0.json
+results/large_files/

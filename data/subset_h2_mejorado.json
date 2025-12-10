@@ -1,0 +1,1964 @@
+{
+    "indigenous_peoples": [
+        {
+            "entidad": "club guarani",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es sport de club guarani?",
+                    "respuesta_correcta": "futbol"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de club guarani?",
+                    "respuesta_correcta": "paraguay"
+                },
+                {
+                    "pregunta": "¿Cuál es league de club guarani?",
+                    "respuesta_correcta": "primera division paraguay"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación de la sede de club guarani?",
+                    "respuesta_correcta": "san pedro"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "estadio azteca",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de estadio azteca?",
+                    "respuesta_correcta": "ciudad mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es occupant de estadio azteca?",
+                    "respuesta_correcta": "jugadores partidos zona norteamerica"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de estadio azteca?",
+                    "respuesta_correcta": "mexico"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "fincas izasa",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de fincas izasa?",
+                    "respuesta_correcta": "estacion ferroviaria"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de fincas izasa?",
+                    "respuesta_correcta": "provincia san juan"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de fincas izasa?",
+                    "respuesta_correcta": "republica argentina"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal supremo justicia",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es replaces de tribunal supremo justicia?",
+                    "respuesta_correcta": "corte suprema justicia"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de tribunal supremo justicia?",
+                    "respuesta_correcta": "organizacion estados americanos"
+                },
+                {
+                    "pregunta": "¿Cuál es different from de tribunal supremo justicia?",
+                    "respuesta_correcta": "corte suprema justicia"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "cultura maya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de cultura maya?",
+                    "respuesta_correcta": "mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación de cultura maya?",
+                    "respuesta_correcta": "xpujil"
+                },
+                {
+                    "pregunta": "¿Cuál es culture de cultura maya?",
+                    "respuesta_correcta": "mayas"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "museo arqueologico regional inca huasi",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de museo arqueologico regional inca huasi?",
+                    "respuesta_correcta": "rioja"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de museo arqueologico regional inca huasi?",
+                    "respuesta_correcta": "19 octubre 1926"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de museo arqueologico regional inca huasi?",
+                    "respuesta_correcta": "argentino"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "guerra guaranitica",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de guerra guaranitica?",
+                    "respuesta_correcta": "conflicto armado"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación de guerra guaranitica?",
+                    "respuesta_correcta": "misiones orientales"
+                },
+                {
+                    "pregunta": "¿Cuál es participant de guerra guaranitica?",
+                    "respuesta_correcta": "guaranies"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "guarani",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de guarani?",
+                    "respuesta_correcta": "paraguay"
+                },
+                {
+                    "pregunta": "¿Cuál es league de guarani?",
+                    "respuesta_correcta": "primera division paraguay"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación de la sede de guarani?",
+                    "respuesta_correcta": "campinas"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "parque nacional montana comayagua",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de parque nacional montana comayagua?",
+                    "respuesta_correcta": "honduras"
+                },
+                {
+                    "pregunta": "¿Cuál es inception de parque nacional montana comayagua?",
+                    "respuesta_correcta": "1 enero 1987"
+                },
+                {
+                    "pregunta": "¿Cuál es area de parque nacional montana comayagua?",
+                    "respuesta_correcta": "184,8"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "estadio finca damas",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de estadio finca damas?",
+                    "respuesta_correcta": "quepos"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de estadio finca damas?",
+                    "respuesta_correcta": "costa rica"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "mapuche",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de mapuche?",
+                    "respuesta_correcta": "etnia"
+                },
+                {
+                    "pregunta": "¿Cuál es ethnic group de mapuche?",
+                    "respuesta_correcta": "chubut"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal supremo electoral salvador",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es part of de tribunal supremo electoral salvador?",
+                    "respuesta_correcta": "corte suprema justicia"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de tribunal supremo electoral salvador?",
+                    "respuesta_correcta": "salvador"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "palacio tribunales justicia santiago chile",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de palacio tribunales justicia santiago chile?",
+                    "respuesta_correcta": "santiago"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de palacio tribunales justicia santiago chile?",
+                    "respuesta_correcta": "chile"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "azteca",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de azteca?",
+                    "respuesta_correcta": "ciudad mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de azteca?",
+                    "respuesta_correcta": "mexico"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal supremo justicia bolivia",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de tribunal supremo justicia bolivia?",
+                    "respuesta_correcta": "sucre"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de tribunal supremo justicia bolivia?",
+                    "respuesta_correcta": "bolivia"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tv azteca",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de tv azteca?",
+                    "respuesta_correcta": "mexicana"
+                },
+                {
+                    "pregunta": "¿Cuál es owned by de tv azteca?",
+                    "respuesta_correcta": "televisa"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal supremo justicia venezuela",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de tribunal supremo justicia venezuela?",
+                    "respuesta_correcta": "venezuela"
+                },
+                {
+                    "pregunta": "¿Cuál es inception de tribunal supremo justicia venezuela?",
+                    "respuesta_correcta": "29 diciembre 2022"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tv azteca guate",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de tv azteca guate?",
+                    "respuesta_correcta": "chile"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de tv azteca guate?",
+                    "respuesta_correcta": "television"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "rebelion mapuche 1598",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de rebelion mapuche 1598?",
+                    "respuesta_correcta": "chile"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de rebelion mapuche 1598?",
+                    "respuesta_correcta": "guerra arauco"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal electoral poder judicial federacion",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es replaces de tribunal electoral poder judicial federacion?",
+                    "respuesta_correcta": "tribunal federal electoral"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de tribunal electoral poder judicial federacion?",
+                    "respuesta_correcta": "poder judicial federacion"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "comayagua",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de comayagua?",
+                    "respuesta_correcta": "departamentos hondurenos"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de comayagua?",
+                    "respuesta_correcta": "honduras"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "museo soumaya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de museo soumaya?",
+                    "respuesta_correcta": "distrito federal"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de museo soumaya?",
+                    "respuesta_correcta": "mexico"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "reserva biosfera maya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de reserva biosfera maya?",
+                    "respuesta_correcta": "guatemala"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de reserva biosfera maya?",
+                    "respuesta_correcta": "departamento peten"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "capetamaya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de capetamaya?",
+                    "respuesta_correcta": "sonora"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de capetamaya?",
+                    "respuesta_correcta": "mexico"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal contencioso administrativo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es applies to jurisdiction de tribunal contencioso administrativo?",
+                    "respuesta_correcta": "estado"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de tribunal contencioso administrativo?",
+                    "respuesta_correcta": "corte suprema justicia"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "museo pueblo maya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de museo pueblo maya?",
+                    "respuesta_correcta": "dzibilchaltun"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de museo pueblo maya?",
+                    "respuesta_correcta": "mexico"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "causa rafael nahuel mapuches lago mascardi",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es point in time de causa rafael nahuel mapuches lago mascardi?",
+                    "respuesta_correcta": "25 noviembre 2017"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de causa rafael nahuel mapuches lago mascardi?",
+                    "respuesta_correcta": "argentina"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "tribunal lo contencioso electoral",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es inception de tribunal lo contencioso electoral?",
+                    "respuesta_correcta": "15 diciembre 1986"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de tribunal lo contencioso electoral?",
+                    "respuesta_correcta": "ciudad mexico"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "maya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de maya?",
+                    "respuesta_correcta": "lenguas indigenas"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de maya?",
+                    "respuesta_correcta": "salvador"
+                }
+            ],
+            "category": "indigenous_peoples"
+        },
+        {
+            "entidad": "rio humaya",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es mouth of the watercourse de rio humaya?",
+                    "respuesta_correcta": "pacifico norte"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de rio humaya?",
+                    "respuesta_correcta": "rio"
+                }
+            ],
+            "category": "indigenous_peoples"
+        }
+    ],
+    "dances": [
+        {
+            "entidad": "sonora",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es shares border with de sonora?",
+                    "respuesta_correcta": "baja california"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de sonora?",
+                    "respuesta_correcta": "mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de sonora?",
+                    "respuesta_correcta": "estado mexicano"
+                },
+                {
+                    "pregunta": "¿Cuál es performer de sonora?",
+                    "respuesta_correcta": "tommy rey"
+                },
+                {
+                    "pregunta": "¿Cuál es capital de sonora?",
+                    "respuesta_correcta": "hermosillo"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de sonora?",
+                    "respuesta_correcta": "mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es located in or next to body of water de sonora?",
+                    "respuesta_correcta": "golfo california"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "samba amigo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de samba amigo?",
+                    "respuesta_correcta": "videojuego"
+                },
+                {
+                    "pregunta": "¿Cuál es part of the series de samba amigo?",
+                    "respuesta_correcta": "saga homonima"
+                },
+                {
+                    "pregunta": "¿Cuál es developer de samba amigo?",
+                    "respuesta_correcta": "sonic team"
+                },
+                {
+                    "pregunta": "¿Cuál es publisher de samba amigo?",
+                    "respuesta_correcta": "sega"
+                },
+                {
+                    "pregunta": "¿Cuál es platform de samba amigo?",
+                    "respuesta_correcta": "dreamcast"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "registro nacional personas",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de registro nacional personas?",
+                    "respuesta_correcta": "buenos aires"
+                },
+                {
+                    "pregunta": "¿Cuál es item operated de registro nacional personas?",
+                    "respuesta_correcta": "trep"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de registro nacional personas?",
+                    "respuesta_correcta": "argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es replaces de registro nacional personas?",
+                    "respuesta_correcta": "registro estado civil capacidad personas"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "rawson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es military rank de rawson?",
+                    "respuesta_correcta": "general"
+                },
+                {
+                    "pregunta": "¿Cuál es shares border with de rawson?",
+                    "respuesta_correcta": "trelew"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de rawson?",
+                    "respuesta_correcta": "argentino"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de rawson?",
+                    "respuesta_correcta": "albardon"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "edson arantes do nascimento",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es sport de edson arantes do nascimento?",
+                    "respuesta_correcta": "futbolista"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de edson arantes do nascimento?",
+                    "respuesta_correcta": "brasileno"
+                },
+                {
+                    "pregunta": "¿Cuál es position played on team / speciality de edson arantes do nascimento?",
+                    "respuesta_correcta": "delantero"
+                },
+                {
+                    "pregunta": "¿Cuál es award received de edson arantes do nascimento?",
+                    "respuesta_correcta": "orden olimpica"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "instituto sonorense cultura",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de instituto sonorense cultura?",
+                    "respuesta_correcta": "hermosillo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de instituto sonorense cultura?",
+                    "respuesta_correcta": "mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación de la sede de instituto sonorense cultura?",
+                    "respuesta_correcta": "hermosillo"
+                },
+                {
+                    "pregunta": "¿Cuál es inception de instituto sonorense cultura?",
+                    "respuesta_correcta": "26 diciembre 1988"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "Benjamín Franklin Rawson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el lugar de fallecimiento de Benjamín Franklin Rawson?",
+                    "respuesta_correcta": "Buenos Aires"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de Benjamín Franklin Rawson?",
+                    "respuesta_correcta": "ser humano"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de nacionalidad de Benjamín Franklin Rawson?",
+                    "respuesta_correcta": "Argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es el género de Benjamín Franklin Rawson?",
+                    "respuesta_correcta": "retrato pictórico"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "union civica radical antipersonalista",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de union civica radical antipersonalista?",
+                    "respuesta_correcta": "partidos politicos argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es political alignment de union civica radical antipersonalista?",
+                    "respuesta_correcta": "centro derecha"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de union civica radical antipersonalista?",
+                    "respuesta_correcta": "union civica radical"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "hernan vigil simpson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el lugar de muerte de hernan vigil simpson?",
+                    "respuesta_correcta": "santiago"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de hernan vigil simpson?",
+                    "respuesta_correcta": "chile"
+                },
+                {
+                    "pregunta": "¿Cuál es la fecha de nacimiento de hernan vigil simpson?",
+                    "respuesta_correcta": "29 julio 1910"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "nelson castanheira barros falcao",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es sport de nelson castanheira barros falcao?",
+                    "respuesta_correcta": "vela"
+                },
+                {
+                    "pregunta": "¿Cuál es la fecha de nacimiento de nelson castanheira barros falcao?",
+                    "respuesta_correcta": "30 abril 1946"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de nelson castanheira barros falcao?",
+                    "respuesta_correcta": "brasileno"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "autodromo internacional nelson piquet",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de autodromo internacional nelson piquet?",
+                    "respuesta_correcta": "rio janeiro"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de autodromo internacional nelson piquet?",
+                    "respuesta_correcta": "brasil"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de autodromo internacional nelson piquet?",
+                    "respuesta_correcta": "autodromo"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "centro ecologico sonora",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de centro ecologico sonora?",
+                    "respuesta_correcta": "jardin zoologico"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de centro ecologico sonora?",
+                    "respuesta_correcta": "hermosillo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de centro ecologico sonora?",
+                    "respuesta_correcta": "mexico"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "museo culturas populares indigenas sonora",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de museo culturas populares indigenas sonora?",
+                    "respuesta_correcta": "hermosillo"
+                },
+                {
+                    "pregunta": "¿Cuál es located in the de museo culturas populares indigenas sonora?",
+                    "respuesta_correcta": "hermosillo"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de museo culturas populares indigenas sonora?",
+                    "respuesta_correcta": "15 octubre 1997"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "Nelson Romero",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de Nelson Romero?",
+                    "respuesta_correcta": "ser humano"
+                },
+                {
+                    "pregunta": "¿Cuál es el lugar de fallecimiento de Nelson Romero?",
+                    "respuesta_correcta": "San José de Mayo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de nacionalidad de Nelson Romero?",
+                    "respuesta_correcta": "Uruguay"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "Luis Johnson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de Luis Johnson?",
+                    "respuesta_correcta": "ser humano"
+                },
+                {
+                    "pregunta": "¿Cuál es el lugar de fallecimiento de Luis Johnson?",
+                    "respuesta_correcta": "Santiago de Chile"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de nacionalidad de Luis Johnson?",
+                    "respuesta_correcta": "Chile"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "Wilmer Herrison",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de Wilmer Herrison?",
+                    "respuesta_correcta": "ser humano"
+                },
+                {
+                    "pregunta": "¿Cuál es dónde fue educado de Wilmer Herrison?",
+                    "respuesta_correcta": "Escuela del Louvre"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de nacionalidad de Wilmer Herrison?",
+                    "respuesta_correcta": "Venezuela"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "alisson becker",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es sport de alisson becker?",
+                    "respuesta_correcta": "juegodor"
+                },
+                {
+                    "pregunta": "¿Cuál es member of sports team de alisson becker?",
+                    "respuesta_correcta": "arbitro asistente"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "calera tango",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es located in or next to body of water de calera tango?",
+                    "respuesta_correcta": "rio maipo"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de calera tango?",
+                    "respuesta_correcta": "santiago chile"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "escala huracanes saffir-simpson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es subclass of de escala huracanes saffir-simpson?",
+                    "respuesta_correcta": "huracan"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de escala huracanes saffir-simpson?",
+                    "respuesta_correcta": "temporada 2007"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "sonsonate",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de sonsonate?",
+                    "respuesta_correcta": "republica salvador"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de sonsonate?",
+                    "respuesta_correcta": "departamentos"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "masacre penal rawson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de masacre penal rawson?",
+                    "respuesta_correcta": "argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es point in time de masacre penal rawson?",
+                    "respuesta_correcta": "15 agosto 1972"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "evandilson elisio avelar neto",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es sport de evandilson elisio avelar neto?",
+                    "respuesta_correcta": "piraguismo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de evandilson elisio avelar neto?",
+                    "respuesta_correcta": "brasileno"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "gloria lagos nilsson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de gloria lagos nilsson?",
+                    "respuesta_correcta": "chile"
+                },
+                {
+                    "pregunta": "¿Cuál es la fecha de nacimiento de gloria lagos nilsson?",
+                    "respuesta_correcta": "29 septiembre 1945"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "roberto simpson",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es military rank de roberto simpson?",
+                    "respuesta_correcta": "capitan fragata"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de roberto simpson?",
+                    "respuesta_correcta": "republica chile"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "estadio arthur lawson rio grande",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de estadio arthur lawson rio grande?",
+                    "respuesta_correcta": "rio grande do sul"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de estadio arthur lawson rio grande?",
+                    "respuesta_correcta": "brasil"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "casona",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de casona?",
+                    "respuesta_correcta": "bolivia"
+                },
+                {
+                    "pregunta": "¿Cuál es floors above ground de casona?",
+                    "respuesta_correcta": "27"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "erupcion volcan hudson 1991",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de erupcion volcan hudson 1991?",
+                    "respuesta_correcta": "chile"
+                },
+                {
+                    "pregunta": "¿Cuál es start time de erupcion volcan hudson 1991?",
+                    "respuesta_correcta": "21 junio 1991"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "jair bolsonaro",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de jair bolsonaro?",
+                    "respuesta_correcta": "estados unidos america"
+                },
+                {
+                    "pregunta": "¿Cuál es el puesto ocupado de jair bolsonaro?",
+                    "respuesta_correcta": "presidente brasil"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "casona dubois",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de casona dubois?",
+                    "respuesta_correcta": "quinta normal"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de casona dubois?",
+                    "respuesta_correcta": "chile"
+                }
+            ],
+            "category": "dances"
+        },
+        {
+            "entidad": "gerson borges",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de ciudadanía de gerson borges?",
+                    "respuesta_correcta": "brasileno"
+                },
+                {
+                    "pregunta": "¿Cuál es sports discipline competed in de gerson borges?",
+                    "respuesta_correcta": "doma"
+                }
+            ],
+            "category": "dances"
+        }
+    ],
+    "painters": [
+        {
+            "entidad": "León",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Francisco Díaz de León?",
+                    "respuesta_correcta": "pintor"
+                },
+                {
+                    "pregunta": "¿Cuál es la ocupación de Teodoro González de León?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "David Alfaro Siqueiros",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de David Alfaro Siqueiros?",
+                    "respuesta_correcta": "pintor al fresco"
+                },
+                {
+                    "pregunta": "¿Cuál es la ocupación de David Alfaro Siqueiros?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Castro",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Sergio de Castro?",
+                    "respuesta_correcta": "pintor"
+                },
+                {
+                    "pregunta": "¿Cuál es la ocupación de Amílcar de Castro?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "José María Velasco",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de José María Velasco?",
+                    "respuesta_correcta": "pintor"
+                },
+                {
+                    "pregunta": "¿Cuál es la ocupación de José María Velasco?",
+                    "respuesta_correcta": "pintor de paisajes"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "erulo eroli",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de erulo eroli?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "edouard manet",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de edouard manet?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "zoma baitler",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de zoma baitler?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "eva olivetti",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de eva olivetti?",
+                    "respuesta_correcta": "pintora"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Eduardo Barreto",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Eduardo Barreto?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Sergio Cariello",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Sergio Cariello?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Edmundo Font López",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Edmundo Font López?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Domingo García y Vásquez",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Domingo García y Vásquez?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "José Luis Calderón Cabrera",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de José Luis Calderón Cabrera?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Vik Muniz",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Vik Muniz?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Enrique Lobos",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Enrique Lobos?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Dora Puelma",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Dora Puelma?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Saúl Balagura",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Saúl Balagura?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Emilio Rosenblueth Stearns",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Emilio Rosenblueth Stearns?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Emilio Amero",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Emilio Amero?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Francisco Dosamantes",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Francisco Dosamantes?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Emilio Boggio",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Emilio Boggio?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Gabriel Orozco",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Gabriel Orozco?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Enrique Anleu Díaz",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Enrique Anleu Díaz?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Francisco Eppens Helguera",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Francisco Eppens Helguera?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Alejandro Obregón",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Alejandro Obregón?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Enrique Bertrix",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Enrique Bertrix?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Román Fresnedo Siri",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Román Fresnedo Siri?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Markus Mizne",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Markus Mizne?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "la Fuente",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Gregorio de la Fuente?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        },
+        {
+            "entidad": "Elmina Moisan",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ocupación de Elmina Moisan?",
+                    "respuesta_correcta": "pintor"
+                }
+            ],
+            "category": "painters"
+        }
+    ],
+    "movies": [
+        {
+            "entidad": "Lucio Fontana",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el género de Lucio Fontana?",
+                    "respuesta_correcta": "Abstracción geométrica"
+                }
+            ],
+            "category": "movies"
+        },
+        {
+            "entidad": "Alejandro Jodorowsky",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el género de Alejandro Jodorowsky?",
+                    "respuesta_correcta": "ciencia ficción"
+                }
+            ],
+            "category": "movies"
+        },
+        {
+            "entidad": "Carmen Herrera",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el género de Carmen Herrera?",
+                    "respuesta_correcta": "Abstracción geométrica"
+                }
+            ],
+            "category": "movies"
+        },
+        {
+            "entidad": "Xul Solar",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el género de Xul Solar?",
+                    "respuesta_correcta": "Abstracción geométrica"
+                }
+            ],
+            "category": "movies"
+        }
+    ],
+    "landmarks": [
+        {
+            "entidad": "machu picchu",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es heritage designation de machu picchu?",
+                    "respuesta_correcta": "patrimonio cultural humanidad"
+                },
+                {
+                    "pregunta": "¿Cuál es continent de machu picchu?",
+                    "respuesta_correcta": "antartida"
+                },
+                {
+                    "pregunta": "¿Cuál es part of de machu picchu?",
+                    "respuesta_correcta": "machu picchu"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de machu picchu?",
+                    "respuesta_correcta": "cuzco"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de machu picchu?",
+                    "respuesta_correcta": "peru"
+                },
+                {
+                    "pregunta": "¿Cuál es time period de machu picchu?",
+                    "respuesta_correcta": "imperio"
+                },
+                {
+                    "pregunta": "¿Cuál es creator de machu picchu?",
+                    "respuesta_correcta": "pachacutec"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "museo presidencial casa rosada",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de museo presidencial casa rosada?",
+                    "respuesta_correcta": "buenos aires"
+                },
+                {
+                    "pregunta": "¿Cuál es inception de museo presidencial casa rosada?",
+                    "respuesta_correcta": "27 mayo 1957"
+                },
+                {
+                    "pregunta": "¿Cuál es dissolved, abolished or demolished date de museo presidencial casa rosada?",
+                    "respuesta_correcta": "24 mayo 2011"
+                },
+                {
+                    "pregunta": "¿Cuál es named after de museo presidencial casa rosada?",
+                    "respuesta_correcta": "casa rosada"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de museo presidencial casa rosada?",
+                    "respuesta_correcta": "argentina"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral metropolitana toluca",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de catedral metropolitana toluca?",
+                    "respuesta_correcta": "iglesia catedral"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral metropolitana toluca?",
+                    "respuesta_correcta": "toluca lerdo"
+                },
+                {
+                    "pregunta": "¿Cuál es diocese de catedral metropolitana toluca?",
+                    "respuesta_correcta": "arquidiocesis toluca"
+                },
+                {
+                    "pregunta": "¿Cuál es patron saint de catedral metropolitana toluca?",
+                    "respuesta_correcta": "san jose nazaret"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral san carlos borromeo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es un tipo de de catedral san carlos borromeo?",
+                    "respuesta_correcta": "templo catolico"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral san carlos borromeo?",
+                    "respuesta_correcta": "sao carlos (sp)"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral san carlos borromeo?",
+                    "respuesta_correcta": "brasil"
+                },
+                {
+                    "pregunta": "¿Cuál es diocese de catedral san carlos borromeo?",
+                    "respuesta_correcta": "diocesis san carlos"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral?",
+                    "respuesta_correcta": "valparaiso"
+                },
+                {
+                    "pregunta": "¿Cuál es heritage designation de catedral?",
+                    "respuesta_correcta": "monumento historico nacional"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de catedral?",
+                    "respuesta_correcta": "15 noviembre 1969"
+                },
+                {
+                    "pregunta": "¿Cuál es architect de catedral?",
+                    "respuesta_correcta": "ignacio cremonesi"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a revolucion",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento a revolucion?",
+                    "respuesta_correcta": "ciudad mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es architect de monumento a revolucion?",
+                    "respuesta_correcta": "oliverio martinez"
+                },
+                {
+                    "pregunta": "¿Cuál es inception de monumento a revolucion?",
+                    "respuesta_correcta": "1938"
+                },
+                {
+                    "pregunta": "¿Cuál es architectural style de monumento a revolucion?",
+                    "respuesta_correcta": "art deco"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento hipsografico",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación de monumento hipsografico?",
+                    "respuesta_correcta": "catedral metropolitana ciudad mexico"
+                },
+                {
+                    "pregunta": "¿Cuál es architect de monumento hipsografico?",
+                    "respuesta_correcta": "francisco jimenez"
+                },
+                {
+                    "pregunta": "¿Cuál es creator de monumento hipsografico?",
+                    "respuesta_correcta": "miguel norena"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento hipsografico?",
+                    "respuesta_correcta": "ciudad mexico"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral metropolitana basilica buen jesus",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de catedral metropolitana basilica buen jesus?",
+                    "respuesta_correcta": "brasil"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de catedral metropolitana basilica buen jesus?",
+                    "respuesta_correcta": "catedral"
+                },
+                {
+                    "pregunta": "¿Cuál es la religión de catedral metropolitana basilica buen jesus?",
+                    "respuesta_correcta": "catolica"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral metropolitana basilica buen jesus?",
+                    "respuesta_correcta": "cuiaba"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral nossa senhora fatima",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral nossa senhora fatima?",
+                    "respuesta_correcta": "navirai"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral nossa senhora fatima?",
+                    "respuesta_correcta": "brasileno"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de catedral nossa senhora fatima?",
+                    "respuesta_correcta": "catedral"
+                },
+                {
+                    "pregunta": "¿Cuál es named after de catedral nossa senhora fatima?",
+                    "respuesta_correcta": "virgen fatima"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral metropolitana nuestra senora asuncion san pablo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es inception de catedral metropolitana nuestra senora asuncion san pablo?",
+                    "respuesta_correcta": "1913"
+                },
+                {
+                    "pregunta": "¿Cuál es architectural style de catedral metropolitana nuestra senora asuncion san pablo?",
+                    "respuesta_correcta": "neogotico"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral metropolitana nuestra senora asuncion san pablo?",
+                    "respuesta_correcta": "sao paulo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral metropolitana nuestra senora asuncion san pablo?",
+                    "respuesta_correcta": "brasil"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a miguel grau",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento a miguel grau?",
+                    "respuesta_correcta": "lima"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de monumento a miguel grau?",
+                    "respuesta_correcta": "peru"
+                },
+                {
+                    "pregunta": "¿Cuál es depicts de monumento a miguel grau?",
+                    "respuesta_correcta": "miguel grau seminario"
+                },
+                {
+                    "pregunta": "¿Cuál es creator de monumento a miguel grau?",
+                    "respuesta_correcta": "victorio macho"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento al esfuerzo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es made from material de monumento al esfuerzo?",
+                    "respuesta_correcta": "bronce"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de monumento al esfuerzo?",
+                    "respuesta_correcta": "colombia"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento al esfuerzo?",
+                    "respuesta_correcta": "armenia"
+                },
+                {
+                    "pregunta": "¿Cuál es creator de monumento al esfuerzo?",
+                    "respuesta_correcta": "rodrigo arenas betancourt"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a isabel catolica cristobal colon",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es depicts de monumento a isabel catolica cristobal colon?",
+                    "respuesta_correcta": "isabel i castilla"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento a isabel catolica cristobal colon?",
+                    "respuesta_correcta": "bogota"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de monumento a isabel catolica cristobal colon?",
+                    "respuesta_correcta": "colombia"
+                },
+                {
+                    "pregunta": "¿Cuál es inception de monumento a isabel catolica cristobal colon?",
+                    "respuesta_correcta": "31 mayo 1988"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral nuestra senora concepcion",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de catedral nuestra senora concepcion?",
+                    "respuesta_correcta": "brasil"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral nuestra senora concepcion?",
+                    "respuesta_correcta": "santa maria rio grande do sul"
+                },
+                {
+                    "pregunta": "¿Cuál es un tipo de de catedral nuestra senora concepcion?",
+                    "respuesta_correcta": "catedral"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral san jose",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral san jose?",
+                    "respuesta_correcta": "toluca lerdo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral san jose?",
+                    "respuesta_correcta": "argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es diocese de catedral san jose?",
+                    "respuesta_correcta": "diocesis posadas"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "basilica voto nacional",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de basilica voto nacional?",
+                    "respuesta_correcta": "republica ecuador"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de basilica voto nacional?",
+                    "respuesta_correcta": "12 julio 1988"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de basilica voto nacional?",
+                    "respuesta_correcta": "cuenca"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "obelisco sao paulo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación de obelisco sao paulo?",
+                    "respuesta_correcta": "parque do ibirapuera"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de obelisco sao paulo?",
+                    "respuesta_correcta": "sao paulo"
+                },
+                {
+                    "pregunta": "¿Cuál es la altura de obelisco sao paulo?",
+                    "respuesta_correcta": "72"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a heroinas coronilla",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el fundador de monumento a heroinas coronilla?",
+                    "respuesta_correcta": "sara ugarte"
+                },
+                {
+                    "pregunta": "¿Cuál es dedicated to de monumento a heroinas coronilla?",
+                    "respuesta_correcta": "heroinas coronilla"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación de monumento a heroinas coronilla?",
+                    "respuesta_correcta": "colina san sebastian"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral basilica inmaculada concepcion buen viaje",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral basilica inmaculada concepcion buen viaje?",
+                    "respuesta_correcta": "moron"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral basilica inmaculada concepcion buen viaje?",
+                    "respuesta_correcta": "argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es diocese de catedral basilica inmaculada concepcion buen viaje?",
+                    "respuesta_correcta": "diocesis moron"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a paz",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento a paz?",
+                    "respuesta_correcta": "trujillo"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de monumento a paz?",
+                    "respuesta_correcta": "venezuela"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de monumento a paz?",
+                    "respuesta_correcta": "21 diciembre 1983"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "obelisco a gloria heroes 1825",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de obelisco a gloria heroes 1825?",
+                    "respuesta_correcta": "artigas"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de obelisco a gloria heroes 1825?",
+                    "respuesta_correcta": "uruguay"
+                },
+                {
+                    "pregunta": "¿Cuál es architect de obelisco a gloria heroes 1825?",
+                    "respuesta_correcta": "americo mario ricaldoni"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral basilica",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral basilica?",
+                    "respuesta_correcta": "paz"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral basilica?",
+                    "respuesta_correcta": "bolivia"
+                },
+                {
+                    "pregunta": "¿Cuál es el fundador de catedral basilica?",
+                    "respuesta_correcta": "juan felipe ibarra"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral metropolitana inmaculada concepcion cuenca",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la religión de catedral metropolitana inmaculada concepcion cuenca?",
+                    "respuesta_correcta": "iglesia catolica"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral metropolitana inmaculada concepcion cuenca?",
+                    "respuesta_correcta": "cuenca"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral metropolitana inmaculada concepcion cuenca?",
+                    "respuesta_correcta": "ecuador"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral salvador santo domingo calzada",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral salvador santo domingo calzada?",
+                    "respuesta_correcta": "santo domingo calzada"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral salvador santo domingo calzada?",
+                    "respuesta_correcta": "espana"
+                },
+                {
+                    "pregunta": "¿Cuál es heritage designation de catedral salvador santo domingo calzada?",
+                    "respuesta_correcta": "bien interes cultural"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "obelisco piedras",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es date of official opening de obelisco piedras?",
+                    "respuesta_correcta": "25 mayo 1911"
+                },
+                {
+                    "pregunta": "¿Cuál es creator de obelisco piedras?",
+                    "respuesta_correcta": "juan manuel ferrari"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de obelisco piedras?",
+                    "respuesta_correcta": "piedras"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a carabobo",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento a carabobo?",
+                    "respuesta_correcta": "caracas"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de monumento a carabobo?",
+                    "respuesta_correcta": "venezuela"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de monumento a carabobo?",
+                    "respuesta_correcta": "5 julio 1911"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral basilica florida",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es el país de catedral basilica florida?",
+                    "respuesta_correcta": "uruguay"
+                },
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral basilica florida?",
+                    "respuesta_correcta": "ciudad florida"
+                },
+                {
+                    "pregunta": "¿Cuál es architectural style de catedral basilica florida?",
+                    "respuesta_correcta": "neorrenacentista"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral metropolitana ortodoxa",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral metropolitana ortodoxa?",
+                    "respuesta_correcta": "paraiso"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral metropolitana ortodoxa?",
+                    "respuesta_correcta": "brasil"
+                },
+                {
+                    "pregunta": "¿Cuál es architectural style de catedral metropolitana ortodoxa?",
+                    "respuesta_correcta": "arquitectura bizantina"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "catedral basilica santisimo sacramento santuario nuestra senora valle",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de catedral basilica santisimo sacramento santuario nuestra senora valle?",
+                    "respuesta_correcta": "san fernando valle catamarca"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de catedral basilica santisimo sacramento santuario nuestra senora valle?",
+                    "respuesta_correcta": "argentina"
+                },
+                {
+                    "pregunta": "¿Cuál es diocese de catedral basilica santisimo sacramento santuario nuestra senora valle?",
+                    "respuesta_correcta": "diocesis anatuya"
+                }
+            ],
+            "category": "landmarks"
+        },
+        {
+            "entidad": "monumento a muertos segunda guerra mundial",
+            "preguntas": [
+                {
+                    "pregunta": "¿Cuál es la ubicación administrativa de monumento a muertos segunda guerra mundial?",
+                    "respuesta_correcta": "rio janeiro"
+                },
+                {
+                    "pregunta": "¿Cuál es el país de monumento a muertos segunda guerra mundial?",
+                    "respuesta_correcta": "brasil"
+                },
+                {
+                    "pregunta": "¿Cuál es date of official opening de monumento a muertos segunda guerra mundial?",
+                    "respuesta_correcta": "24 junio 1960"
+                }
+            ],
+            "category": "landmarks"
+        }
+    ]
+}

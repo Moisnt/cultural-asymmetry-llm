@@ -1,0 +1,1402 @@
+sujeto_qid,entidad,relacion,valor,valor_es,valor_qid
+Q1046768,música popular brasileña,país de origen,Brasil,Brasil,Q155
+Q1455932,Frevo,instancia de,género musical,género musical,Q188451
+Q505343,Jongo,instancia de,género musical,género musical,Q188451
+Q834959,Samba rock,subclase de,samba,samba,Q11403
+Q430075,Maxixe,instancia de,género musical,género musical,Q188451
+Q1335045,embolada,subclase de,coco,coco,Q502448
+Q1036183,carimbó,instancia de,ritmo,ritmo,Q170406
+Q504476,Ciranda,país de origen,Brasil,Brasil,Q155
+Q1036183,carimbó,instancia de,género musical,género musical,Q188451
+Q11403,samba,instancia de,género musical,género musical,Q188451
+Q1046768,música popular brasileña,instancia de,escena de música,escena de música,Q28820001
+Q1413061,tropicalismo,instancia de,género musical,género musical,Q188451
+Q533946,Lambada,instancia de,género musical,género musical,Q188451
+Q586110,Forró,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q834959,Samba rock,país de origen,Brasil,Brasil,Q155
+Q1130969,fandango,subclase de,música folclórica española,música folclórica española,Q9048257
+Q383530,afoxê,instancia de,género musical,género musical,Q188451
+Q486263,bossa nova,subclase de,música popular,música popular,Q373342
+Q1455932,Frevo,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q502808,xote,subclase de,música brasileña,música brasileña,Q899215
+Q486263,bossa nova,instancia de,género musical,género musical,Q188451
+Q1076539,choro,instancia de,género musical,género musical,Q188451
+Q1435485,axé,subclase de,música brasileña,música brasileña,Q899215
+Q502448,coco,subclase de,música brasileña,música brasileña,Q899215
+Q1130969,fandango,instancia de,forma musical,forma musical,Q862597
+Q505343,Jongo,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q502808,xote,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1036183,carimbó,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q502808,xote,subclase de,baile de Brasil,baile de Brasil,Q10264148
+Q505343,Jongo,subclase de,danza,danza,Q11639
+Q586110,Forró,país de origen,Brasil,Brasil,Q155
+Q1413061,tropicalismo,instancia de,movimiento cultural,movimiento cultural,Q2198855
+Q1130969,fandango,país de origen,Brasil,Brasil,Q155
+Q1413061,tropicalismo,subclase de,música popular brasileña,música popular brasileña,Q1046768
+Q1335045,embolada,subclase de,Repentismo,Repentismo,Q2936879
+Q1036183,carimbó,subclase de,danza,danza,Q11639
+Q1335045,embolada,instancia de,género musical,género musical,Q188451
+Q1455932,Frevo,país de origen,Brasil,Brasil,Q155
+Q942955,milonga,subclase de,Rioplatense music,Rioplatense music,Q123856101
+Q505343,Jongo,país de origen,Brasil,Brasil,Q155
+Q430075,Maxixe,país de origen,Brasil,Brasil,Q155
+Q1036183,carimbó,país de origen,Brasil,Brasil,Q155
+Q942955,milonga,instancia de,tipo de baile,tipo de baile,Q107357104
+Q11403,samba,país de origen,Brasil,Brasil,Q155
+Q1046768,música popular brasileña,subclase de,música brasileña,música brasileña,Q899215
+Q502808,xote,instancia de,género musical,género musical,Q188451
+Q1413061,tropicalismo,país de origen,Brasil,Brasil,Q155
+Q533946,Lambada,país de origen,Brasil,Brasil,Q155
+Q1435485,axé,instancia de,género musical,género musical,Q188451
+Q502448,coco,instancia de,género musical,género musical,Q188451
+Q504476,Ciranda,subclase de,coco,coco,Q502448
+Q383530,afoxê,país de origen,Brasil,Brasil,Q155
+Q455686,samba reggae,subclase de,axé,axé,Q1435485
+Q19816,batucada,instancia de,género musical,género musical,Q188451
+Q942955,milonga,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q486263,bossa nova,país de origen,Brasil,Brasil,Q155
+Q1076539,choro,país de origen,Brasil,Brasil,Q155
+Q504476,Ciranda,instancia de,tipo de baile,tipo de baile,Q107357104
+Q505343,Jongo,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q1130969,fandango,subclase de,baile folclórico español,baile folclórico español,Q116174743
+Q455686,samba reggae,instancia de,género musical,género musical,Q188451
+Q942955,milonga,instancia de,género musical,género musical,Q188451
+Q1455932,Frevo,subclase de,carnival music,carnival music,Q114239322
+Q504476,Ciranda,subclase de,round dance,round dance,Q1748869
+Q1335045,embolada,país de origen,Brasil,Brasil,Q155
+Q1046768,música popular brasileña,instancia de,género musical,género musical,Q188451
+Q586110,Forró,subclase de,música brasileña,música brasileña,Q899215
+Q1130969,fandango,instancia de,tipo de baile,tipo de baile,Q107357104
+Q19816,batucada,subclase de,samba,samba,Q11403
+Q504476,Ciranda,instancia de,género musical,género musical,Q188451
+Q1455932,Frevo,subclase de,música brasileña,música brasileña,Q899215
+Q502808,xote,país de origen,Brasil,Brasil,Q155
+Q1435485,axé,país de origen,Brasil,Brasil,Q155
+Q502448,coco,país de origen,Brasil,Brasil,Q155
+Q1455932,Frevo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q430075,Maxixe,subclase de,música brasileña,música brasileña,Q899215
+Q834959,Samba rock,instancia de,género musical,género musical,Q188451
+Q505343,Jongo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q430075,Maxixe,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1455932,Frevo,subclase de,baile de Brasil,baile de Brasil,Q10264148
+Q1036183,carimbó,subclase de,música brasileña,música brasileña,Q899215
+Q19816,batucada,país de origen,Brasil,Brasil,Q155
+Q11403,samba,subclase de,música brasileña,música brasileña,Q899215
+Q1036183,carimbó,instancia de,tipo de baile,tipo de baile,Q107357104
+Q430075,Maxixe,subclase de,baile de Brasil,baile de Brasil,Q10264148
+Q533946,Lambada,subclase de,música brasileña,música brasileña,Q899215
+Q1484821,Música Erudita Brasileira,instancia de,género musical,género musical,Q188451
+Q942955,milonga,instancia de,forma musical,forma musical,Q862597
+Q533946,Lambada,instancia de,tipo de baile,tipo de baile,Q107357104
+Q586110,Forró,subclase de,música de baile,música de baile,Q316930
+Q383530,afoxê,subclase de,música brasileña,música brasileña,Q899215
+Q533946,Lambada,subclase de,baile de Brasil,baile de Brasil,Q10264148
+Q486263,bossa nova,subclase de,música brasileña,música brasileña,Q899215
+Q1076539,choro,subclase de,música brasileña,música brasileña,Q899215
+Q586110,Forró,instancia de,género musical,género musical,Q188451
+Q455686,samba reggae,país de origen,Brasil,Brasil,Q155
+Q1130969,fandango,instancia de,género musical,género musical,Q188451
+Q942955,milonga,país de origen,Argentina,Argentina,Q414
+Q942955,milonga,país de origen,Uruguay,Uruguay,Q77
+Q942955,milonga,país de origen,Brasil,Brasil,Q155
+Q3470692,Samba-enredo,instancia de,género musical,género musical,Q188451
+Q1759189,Manguebeat,subclase de,música brasileña,música brasileña,Q899215
+Q4011109,rasqueado,país de origen,Brasil,Brasil,Q155
+Q3360459,Pagode,instancia de,género musical,género musical,Q188451
+Q3554510,vanera,subclase de,danza,danza,Q11639
+Q1958247,Música gaúcha brasileña,país de origen,Brasil,Brasil,Q155
+Q1499839,Lundu,subclase de,Brazilian folk dance,Brazilian folk dance,Q116173474
+Q5069474,Chamarrita,país de origen,Brasil,Brasil,Q155
+Q1634085,Tecnobrega,subclase de,música electrónica,música electrónica,Q9778
+Q3889661,marchinha,subclase de,música brasileña,música brasileña,Q899215
+Q2879962,Baião (música),instancia de,género musical,género musical,Q188451
+Q3554510,vanera,país de origen,Brasil,Brasil,Q155
+Q3135796,Hip hop brasileño,subclase de,música brasileña,música brasileña,Q899215
+Q1692318,modinha,país de origen,Portugal,Portugal,Q45
+Q1692318,modinha,país de origen,Brasil,Brasil,Q155
+Q4215151,samba-canción,instancia de,género musical,género musical,Q188451
+Q1499839,Lundu,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1484821,Música Erudita Brasileira,país de origen,Brasil,Brasil,Q155
+Q3470688,Samba de Gafieira,subclase de,samba,samba,Q11403
+Q2863648,Arrocha,país de origen,Brasil,Brasil,Q155
+Q3470692,Samba-enredo,subclase de,samba,samba,Q11403
+Q6039799,aboio,país de origen,Brasil,Brasil,Q155
+Q3360459,Pagode,subclase de,samba,samba,Q11403
+Q1958273,Música sertaneja,país de origen,Brasil,Brasil,Q155
+Q1759189,Manguebeat,instancia de,género musical,género musical,Q188451
+Q1753071,Maracatu,país de origen,Brasil,Brasil,Q155
+Q2936879,Repentismo,subclase de,música brasileña,música brasileña,Q899215
+Q1931130,funk carioca,subclase de,funk brasileño,funk brasileño,Q117745223
+Q2631396,rock brasileño,subclase de,música brasileña,música brasileña,Q899215
+Q3470688,Samba de Gafieira,país de origen,Brasil,Brasil,Q155
+Q1634085,Tecnobrega,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3470692,Samba-enredo,país de origen,Brasil,Brasil,Q155
+Q3889661,marchinha,instancia de,género musical,género musical,Q188451
+Q2879962,Baião (música),subclase de,danza,danza,Q11639
+Q3360459,Pagode,país de origen,Brasil,Brasil,Q155
+Q1634085,Tecnobrega,subclase de,música de Pará,música de Pará,Q10334891
+Q1692318,modinha,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q2464314,Brega,subclase de,música brasileña,música brasileña,Q899215
+Q3135796,Hip hop brasileño,instancia de,género musical,género musical,Q188451
+Q4215151,samba-canción,subclase de,samba,samba,Q11403
+Q3135796,Hip hop brasileño,subclase de,hip hop latino,hip hop latino,Q3827483
+Q1499839,Lundu,instancia de,género musical,género musical,Q188451
+Q1759189,Manguebeat,instancia de,movimiento cultural,movimiento cultural,Q2198855
+Q1484821,Música Erudita Brasileira,subclase de,Latin American classical music,Latin American classical music,Q109326663
+Q1759189,Manguebeat,instancia de,movimiento musical,movimiento musical,Q12020884
+Q2879962,Baião (música),país de origen,Brasil,Brasil,Q155
+Q6039799,aboio,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q1634085,Tecnobrega,subclase de,Brega,Brega,Q2464314
+Q1753071,Maracatu,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q4011109,rasqueado,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1958247,Música gaúcha brasileña,subclase de,música brasileña,música brasileña,Q899215
+Q4215151,samba-canción,país de origen,Brasil,Brasil,Q155
+Q2936879,Repentismo,instancia de,género musical,género musical,Q188451
+Q1634085,Tecnobrega,instancia de,género musical,género musical,Q188451
+Q2631396,rock brasileño,instancia de,género musical,género musical,Q188451
+Q3554510,vanera,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1759189,Manguebeat,país de origen,Brasil,Brasil,Q155
+Q1931130,funk carioca,instancia de,género musical,género musical,Q188451
+Q4011109,rasqueado,subclase de,Música sertaneja,Música sertaneja,Q1958273
+Q1484821,Música Erudita Brasileira,subclase de,música brasileña,música brasileña,Q899215
+Q5069474,Chamarrita,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q2464314,Brega,instancia de,género musical,género musical,Q188451
+Q7124405,pagode de viola,subclase de,música brasileña,música brasileña,Q899215
+Q3889661,marchinha,país de origen,Brasil,Brasil,Q155
+Q1958273,Música sertaneja,subclase de,música brasileña,música brasileña,Q899215
+Q4011109,rasqueado,instancia de,género musical,género musical,Q188451
+Q3554510,vanera,subclase de,Música gaúcha brasileña,Música gaúcha brasileña,Q1958247
+Q3135796,Hip hop brasileño,país de origen,Brasil,Brasil,Q155
+Q1958247,Música gaúcha brasileña,instancia de,género musical,género musical,Q188451
+Q1499839,Lundu,país de origen,Brasil,Brasil,Q155
+Q5069474,Chamarrita,instancia de,género musical,género musical,Q188451
+Q3470688,Samba de Gafieira,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5069474,Chamarrita,subclase de,música latina,música latina,Q18345375
+Q3470688,Samba de Gafieira,subclase de,baile de Brasil,baile de Brasil,Q10264148
+Q3360459,Pagode,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3554510,vanera,instancia de,género musical,género musical,Q188451
+Q3135796,Hip hop brasileño,instancia de,escena de música,escena de música,Q28820001
+Q2863648,Arrocha,subclase de,Brega,Brega,Q2464314
+Q5069474,Chamarrita,subclase de,música litoraleña,música litoraleña,Q6036543
+Q1692318,modinha,instancia de,género musical,género musical,Q188451
+Q2936879,Repentismo,país de origen,Brasil,Brasil,Q155
+Q2879962,Baião (música),subclase de,música brasileña,música brasileña,Q899215
+Q1634085,Tecnobrega,país de origen,Brasil,Brasil,Q155
+Q2631396,rock brasileño,subclase de,rock,rock,Q11399
+Q2631396,rock brasileño,país de origen,Brasil,Brasil,Q155
+Q2879962,Baião (música),instancia de,tipo de baile,tipo de baile,Q107357104
+Q7124405,pagode de viola,instancia de,género musical,género musical,Q188451
+Q2863648,Arrocha,instancia de,género musical,género musical,Q188451
+Q6039799,aboio,instancia de,género musical,género musical,Q188451
+Q1931130,funk carioca,país de origen,Brasil,Brasil,Q155
+Q4011109,rasqueado,subclase de,danza,danza,Q11639
+Q1958273,Música sertaneja,instancia de,género musical,género musical,Q188451
+Q3470688,Samba de Gafieira,subclase de,slow dance,slow dance,Q280336
+Q6039799,aboio,subclase de,Canción de trabajo,Canción de trabajo,Q502658
+Q1753071,Maracatu,instancia de,género musical,género musical,Q188451
+Q1499839,Lundu,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q2464314,Brega,país de origen,Brasil,Brasil,Q155
+Q2631396,rock brasileño,instancia de,escena de música,escena de música,Q28820001
+Q3889661,marchinha,subclase de,carnival music,carnival music,Q114239322
+Q3470688,Samba de Gafieira,instancia de,género musical,género musical,Q188451
+Q10292943,guitarrada,subclase de,Lambada,Lambada,Q533946
+Q10324896,maracatu rural,subclase de,Maracatu,Maracatu,Q1753071
+Q10283582,electronic forró,subclase de,Forró,Forró,Q586110
+Q10324896,maracatu rural,instancia de,tipo de baile,tipo de baile,Q107357104
+Q10292943,guitarrada,subclase de,música de Pará,música de Pará,Q10334891
+Q10324896,maracatu rural,subclase de,folguedo,folguedo,Q10283188
+Q10334898,Brazilian indigenous music,país de origen,Brasil,Brasil,Q155
+Q9300201,Samba de Roda,instancia de,tipo de baile,tipo de baile,Q107357104
+Q7624424,stronda,subclase de,Hip hop brasileño,Hip hop brasileño,Q3135796
+Q7624424,stronda,instancia de,género musical,género musical,Q188451
+Q10351563,ponto cantado,país de origen,Brasil,Brasil,Q155
+Q10363654,roda de samba,país de origen,Brasil,Brasil,Q155
+Q10316114,lambadão cuiabano,subclase de,Lambada,Lambada,Q533946
+Q7260407,música punk en Brasil,subclase de,música brasileña,música brasileña,Q899215
+Q10316114,lambadão cuiabano,instancia de,tipo de baile,tipo de baile,Q107357104
+Q7124405,pagode de viola,país de origen,Brasil,Brasil,Q155
+Q10292943,guitarrada,instancia de,género musical,género musical,Q188451
+Q10324896,maracatu rural,instancia de,género musical,género musical,Q188451
+Q10283584,forró universitário,subclase de,Forró,Forró,Q586110
+Q10283582,electronic forró,instancia de,género musical,género musical,Q188451
+Q10286515,Funk melody,país de origen,Brasil,Brasil,Q155
+Q10334898,Brazilian indigenous music,subclase de,indigenous American folk music,indigenous American folk music,Q106926276
+Q10334898,Brazilian indigenous music,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q10334895,traditional music of Mato Grosso do Sul,instancia de,género musical,género musical,Q188451
+Q10367221,samba-funk,subclase de,funk,funk,Q164444
+Q10343541,pagode romântico,país de origen,Brasil,Brasil,Q155
+Q9300201,Samba de Roda,instancia de,género musical,género musical,Q188451
+Q10331354,moda de viola,instancia de,género musical,género musical,Q188451
+Q10260594,Corinhos,subclase de,música brasileña,música brasileña,Q899215
+Q8251828,brega pop,instancia de,tipo de baile,tipo de baile,Q107357104
+Q10324896,maracatu rural,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q10354439,Proibidão,subclase de,funk carioca,funk carioca,Q1931130
+Q10316114,lambadão cuiabano,instancia de,género musical,género musical,Q188451
+Q8251828,brega pop,subclase de,música de Pará,música de Pará,Q10334891
+Q7124405,pagode de viola,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q7624424,stronda,país de origen,Brasil,Brasil,Q155
+Q7260407,música punk en Brasil,instancia de,género musical,género musical,Q188451
+Q9300201,Samba de Roda,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q10283584,forró universitário,instancia de,género musical,género musical,Q188451
+Q10285947,frevo-canção,subclase de,Frevo,Frevo,Q1455932
+Q10367218,samba-chulado,instancia de,género musical,género musical,Q188451
+Q10354439,Proibidão,instancia de,género musical,género musical,Q188451
+Q10367219,samba-corrido,instancia de,género musical,género musical,Q188451
+Q10367216,samba-batido,instancia de,género musical,género musical,Q188451
+Q10367217,samba-choro,instancia de,género musical,género musical,Q188451
+Q8251828,brega pop,subclase de,Brega,Brega,Q2464314
+Q10285948,frevo de bloco,subclase de,Frevo,Frevo,Q1455932
+Q10367222,samba-joia,instancia de,género musical,género musical,Q188451
+Q10334898,Brazilian indigenous music,instancia de,música por grupo étnico,música por grupo étnico,Q106537557
+Q10367220,samba-exaltação,instancia de,género musical,género musical,Q188451
+Q10367221,samba-funk,instancia de,género musical,género musical,Q188451
+Q10292943,guitarrada,país de origen,Brasil,Brasil,Q155
+Q10324896,maracatu rural,país de origen,Brasil,Brasil,Q155
+Q10283582,electronic forró,país de origen,Brasil,Brasil,Q155
+Q10260594,Corinhos,instancia de,género musical,género musical,Q188451
+Q10351563,ponto cantado,instancia de,tipo de canción,tipo de canción,Q107356781
+Q10363654,roda de samba,subclase de,música brasileña,música brasileña,Q899215
+Q10286515,Funk melody,subclase de,funk brasileño,funk brasileño,Q117745223
+Q10334895,traditional music of Mato Grosso do Sul,país de origen,Brasil,Brasil,Q155
+Q8251828,brega pop,instancia de,género musical,género musical,Q188451
+Q10285947,frevo-canção,instancia de,género musical,género musical,Q188451
+Q9300201,Samba de Roda,país de origen,Brasil,Brasil,Q155
+Q10285948,frevo de bloco,instancia de,género musical,género musical,Q188451
+Q10331354,moda de viola,país de origen,Brasil,Brasil,Q155
+Q10260594,Corinhos,subclase de,música cristiana,música cristiana,Q6452410
+Q10367218,samba-chulado,subclase de,Samba de Roda,Samba de Roda,Q9300201
+Q10367219,samba-corrido,subclase de,Samba de Roda,Samba de Roda,Q9300201
+Q10367216,samba-batido,subclase de,samba,samba,Q11403
+Q10334898,Brazilian indigenous music,instancia de,género musical,género musical,Q188451
+Q10367217,samba-choro,subclase de,samba,samba,Q11403
+Q10316114,lambadão cuiabano,país de origen,Brasil,Brasil,Q155
+Q10367220,samba-exaltação,subclase de,samba,samba,Q11403
+Q7260407,música punk en Brasil,país de origen,Brasil,Brasil,Q155
+Q10367221,samba-funk,subclase de,samba,samba,Q11403
+Q10351563,ponto cantado,instancia de,género musical,género musical,Q188451
+Q10334895,traditional music of Mato Grosso do Sul,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q10351563,ponto cantado,subclase de,Jongo,Jongo,Q505343
+Q10283584,forró universitário,país de origen,Brasil,Brasil,Q155
+Q10367218,samba-chulado,país de origen,Brasil,Brasil,Q155
+Q9300201,Samba de Roda,subclase de,música folclórica brasileira,música folclórica brasileira,Q106926325
+Q10354439,Proibidão,país de origen,Brasil,Brasil,Q155
+Q10367219,samba-corrido,país de origen,Brasil,Brasil,Q155
+Q8251828,brega pop,subclase de,pop,pop,Q37073
+Q10367216,samba-batido,país de origen,Brasil,Brasil,Q155
+Q10286515,Funk melody,subclase de,dance pop,dance pop,Q211756
+Q10363654,roda de samba,instancia de,género musical,género musical,Q188451
+Q10367217,samba-choro,país de origen,Brasil,Brasil,Q155
+Q10331354,moda de viola,subclase de,sertanejo de raiz,sertanejo de raiz,Q106594814
+Q7260407,música punk en Brasil,instancia de,escena de música,escena de música,Q28820001
+Q10367220,samba-exaltação,país de origen,Brasil,Brasil,Q155
+Q10367221,samba-funk,país de origen,Brasil,Brasil,Q155
+Q7260407,música punk en Brasil,subclase de,punk,punk,Q3071
+Q10260594,Corinhos,país de origen,Brasil,Brasil,Q155
+Q10286515,Funk melody,instancia de,género musical,género musical,Q188451
+Q8251828,brega pop,país de origen,Brasil,Brasil,Q155
+Q10285947,frevo-canção,país de origen,Brasil,Brasil,Q155
+Q10343541,pagode romântico,subclase de,Pagode,Pagode,Q3360459
+Q9300201,Samba de Roda,subclase de,Brazilian folk dance,Brazilian folk dance,Q116173474
+Q10343541,pagode romântico,instancia de,género musical,género musical,Q188451
+Q10285948,frevo de bloco,país de origen,Brasil,Brasil,Q155
+Q20716146,rasteirinha,instancia de,género musical,género musical,Q188451
+Q127835664,trapfunk,país de origen,Brasil,Brasil,Q155
+Q10370558,sertanejo universitário,subclase de,Música sertaneja,Música sertaneja,Q1958273
+Q10367259,sambalanço,subclase de,samba,samba,Q11403
+Q10367246,samba de breque,país de origen,Brasil,Brasil,Q155
+Q109466271,Feminejo,instancia de,género musical,género musical,Q188451
+Q108167943,maracatu nação,país de origen,Brasil,Brasil,Q155
+Q97180498,samba afro,país de origen,Brasil,Brasil,Q155
+Q119820709,lundu marajoara,país de origen,Brasil,Brasil,Q155
+Q13634037,Samba jazz,subclase de,samba,samba,Q11403
+Q10367249,samba de terreiro,país de origen,Brasil,Brasil,Q155
+Q10370558,sertanejo universitário,instancia de,género musical,género musical,Q188451
+Q100139647,Arrochadeira,subclase de,Arrocha,Arrocha,Q2863648
+Q10367259,sambalanço,país de origen,Brasil,Brasil,Q155
+Q19708604,funk ousadia,país de origen,Brasil,Brasil,Q155
+Q100139647,Arrochadeira,instancia de,género musical,género musical,Q188451
+Q13634037,Samba jazz,país de origen,Brasil,Brasil,Q155
+Q30931016,samba duro,subclase de,samba,samba,Q11403
+Q10387147,udigrudi,subclase de,northeastern Brazilian music,northeastern Brazilian music,Q117632917
+Q17002468,Brasília hip hop,país de origen,Brasil,Brasil,Q155
+Q108297247,funknejo,país de origen,Brasil,Brasil,Q155
+Q30931016,samba duro,país de origen,Brasil,Brasil,Q155
+Q51882621,samba junino,instancia de,género musical,género musical,Q188451
+Q25448883,Pagode baiano,país de origen,Brasil,Brasil,Q155
+Q131195285,Brazilian reggae,país de origen,Brasil,Brasil,Q155
+Q17002468,Brasília hip hop,instancia de,escena de música,escena de música,Q28820001
+Q106926325,música folclórica brasileira,país de origen,Brasil,Brasil,Q155
+Q20716146,rasteirinha,país de origen,Brasil,Brasil,Q155
+Q127835664,trapfunk,subclase de,funk brasileño,funk brasileño,Q117745223
+Q109466271,Feminejo,país de origen,Brasil,Brasil,Q155
+Q131195285,Brazilian reggae,instancia de,escena de música,escena de música,Q28820001
+Q10389097,vanguarda paulista,subclase de,música brasileña,música brasileña,Q899215
+Q10387147,udigrudi,subclase de,Acid folk,Acid folk,Q1500364
+Q10370558,sertanejo universitário,país de origen,Brasil,Brasil,Q155
+Q13634037,Samba jazz,subclase de,jazz,jazz,Q8341
+Q51882621,samba junino,subclase de,samba duro,samba duro,Q30931016
+Q100139647,Arrochadeira,país de origen,Brasil,Brasil,Q155
+Q108167943,maracatu nação,subclase de,Maracatu,Maracatu,Q1753071
+Q108167943,maracatu nação,instancia de,tipo de baile,tipo de baile,Q107357104
+Q10387147,udigrudi,instancia de,género musical,género musical,Q188451
+Q15893013,Funk ostentação,subclase de,funk carioca,funk carioca,Q1931130
+Q10367223,samba-maxixe,instancia de,género musical,género musical,Q188451
+Q10367226,samba-sincopado,instancia de,género musical,género musical,Q188451
+Q108297247,funknejo,subclase de,funk brasileño,funk brasileño,Q117745223
+Q10367224,samba-raiado,instancia de,género musical,género musical,Q188451
+Q119820709,lundu marajoara,subclase de,Lundu,Lundu,Q1499839
+Q51882621,samba junino,país de origen,Brasil,Brasil,Q155
+Q131195285,Brazilian reggae,subclase de,reggae,reggae,Q9794
+Q15893013,Funk ostentação,instancia de,género musical,género musical,Q188451
+Q10389097,vanguarda paulista,instancia de,género musical,género musical,Q188451
+Q20716146,rasteirinha,subclase de,funk brasileño,funk brasileño,Q117745223
+Q127835664,trapfunk,instancia de,género musical,género musical,Q188451
+Q131195285,Brazilian reggae,subclase de,música brasileña,música brasileña,Q899215
+Q10367246,samba de breque,instancia de,género musical,género musical,Q188451
+Q10387147,udigrudi,instancia de,movimiento musical,movimiento musical,Q12020884
+Q108167943,maracatu nação,instancia de,género musical,género musical,Q188451
+Q97180498,samba afro,instancia de,género musical,género musical,Q188451
+Q119820709,lundu marajoara,instancia de,género musical,género musical,Q188451
+Q19708604,funk ousadia,subclase de,funk carioca,funk carioca,Q1931130
+Q100139647,Arrochadeira,subclase de,Swingueira,Swingueira,Q110101806
+Q108297247,funknejo,subclase de,sertanejo universitário,sertanejo universitário,Q10370558
+Q106926325,música folclórica brasileira,subclase de,música brasileña,música brasileña,Q899215
+Q10367249,samba de terreiro,instancia de,género musical,género musical,Q188451
+Q10367222,samba-joia,subclase de,samba,samba,Q11403
+Q10367223,samba-maxixe,subclase de,samba,samba,Q11403
+Q10367259,sambalanço,instancia de,género musical,género musical,Q188451
+Q10367224,samba-raiado,subclase de,Samba de Roda,Samba de Roda,Q9300201
+Q10367226,samba-sincopado,subclase de,samba,samba,Q11403
+Q19708604,funk ousadia,instancia de,género musical,género musical,Q188451
+Q10389097,vanguarda paulista,instancia de,movimiento musical,movimiento musical,Q12020884
+Q25448883,Pagode baiano,subclase de,axé,axé,Q1435485
+Q13634037,Samba jazz,instancia de,género musical,género musical,Q188451
+Q106926325,música folclórica brasileira,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q10387147,udigrudi,país de origen,Brasil,Brasil,Q155
+Q10367222,samba-joia,país de origen,Brasil,Brasil,Q155
+Q17002468,Brasília hip hop,subclase de,Hip hop brasileño,Hip hop brasileño,Q3135796
+Q10367223,samba-maxixe,país de origen,Brasil,Brasil,Q155
+Q108167943,maracatu nação,instancia de,patrimonio cultural,patrimonio cultural,Q210272
+Q17002468,Brasília hip hop,instancia de,género musical,género musical,Q188451
+Q10367226,samba-sincopado,país de origen,Brasil,Brasil,Q155
+Q108297247,funknejo,instancia de,género musical,género musical,Q188451
+Q10367224,samba-raiado,país de origen,Brasil,Brasil,Q155
+Q10367246,samba de breque,subclase de,samba,samba,Q11403
+Q25448883,Pagode baiano,subclase de,Pagode,Pagode,Q3360459
+Q30931016,samba duro,instancia de,género musical,género musical,Q188451
+Q97180498,samba afro,subclase de,samba,samba,Q11403
+Q25448883,Pagode baiano,instancia de,género musical,género musical,Q188451
+Q131195285,Brazilian reggae,instancia de,género musical,género musical,Q188451
+Q15893013,Funk ostentação,país de origen,Brasil,Brasil,Q155
+Q109466271,Feminejo,subclase de,Música sertaneja,Música sertaneja,Q1958273
+Q10389097,vanguarda paulista,país de origen,Brasil,Brasil,Q155
+Q10367249,samba de terreiro,subclase de,samba,samba,Q11403
+Q106926325,música folclórica brasileira,instancia de,género musical,género musical,Q188451
+Q3410882,Punto cubano,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q1744659,Salsa (estilo cubano),instancia de,género musical,género musical,Q188451
+Q388475,Rumba cubana,instancia de,tipo de baile,tipo de baile,Q107357104
+Q2420447,trova,país de origen,Cuba,Cuba,Q241
+Q4873394,Batá-rumba,subclase de,Rumba cubana,Rumba cubana,Q388475
+Q4873394,Batá-rumba,instancia de,género musical,género musical,Q188451
+Q124713283,reparto,país de origen,Cuba,Cuba,Q241
+Q497957,Nueva Trova Cubana,país de origen,Cuba,Cuba,Q241
+Q290869,Son montuno,país de origen,Cuba,Cuba,Q241
+Q23925185,pilón,instancia de,género musical,género musical,Q188451
+Q15830404,bolero,país,Cuba,Cuba,Q241
+Q6397421,Bolero son,país de origen,Cuba,Cuba,Q241
+Q3410882,Punto cubano,instancia de,género musical,género musical,Q188451
+Q15830404,bolero,país,México,México,Q96
+Q835562,habanera,instancia de,tipo de baile,tipo de baile,Q107357104
+Q388475,Rumba cubana,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q1552806,guaracha,país de origen,Cuba,Cuba,Q241
+Q5646383,Yambú,instancia de,tipo de baile,tipo de baile,Q107357104
+Q16986699,Chachachá,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q371745,timba,subclase de,salsa,salsa,Q208239
+Q835562,habanera,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q16986699,Chachachá,subclase de,música de baile,música de baile,Q316930
+Q388475,Rumba cubana,instancia de,género musical,género musical,Q188451
+Q15830404,bolero,país de origen,Cuba,Cuba,Q241
+Q1790876,Cuban hip hop,país de origen,Cuba,Cuba,Q241
+Q16986699,Chachachá,subclase de,música tropical,música tropical,Q3328778
+Q16986699,Chachachá,instancia de,género musical,género musical,Q188451
+Q367751,pachanga,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5778054,Columbia (rumba),país de origen,Cuba,Cuba,Q241
+Q124713283,reparto,subclase de,Cubatón,Cubatón,Q108297222
+Q371745,timba,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q497957,Nueva Trova Cubana,subclase de,Nueva canción latinoamericana,Nueva canción latinoamericana,Q109626458
+Q1744659,Salsa (estilo cubano),país de origen,Cuba,Cuba,Q241
+Q835562,habanera,instancia de,género musical,género musical,Q188451
+Q4873394,Batá-rumba,país de origen,Cuba,Cuba,Q241
+Q5646383,Yambú,subclase de,Rumba cubana,Rumba cubana,Q388475
+Q1790876,Cuban hip hop,instancia de,escena de música,escena de música,Q28820001
+Q5646383,Yambú,instancia de,género musical,género musical,Q188451
+Q367751,pachanga,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q23925185,pilón,país de origen,Cuba,Cuba,Q241
+Q976802,Tumba francesa,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1125657,conga,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q371745,timba,instancia de,género musical,género musical,Q188451
+Q3410882,Punto cubano,país de origen,Cuba,Cuba,Q241
+Q5393053,filin,subclase de,bolero,bolero,Q15830404
+Q367751,pachanga,instancia de,género musical,género musical,Q188451
+Q976802,Tumba francesa,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q3163340,jazz afrocubano,instancia de,género musical,género musical,Q188451
+Q5393053,filin,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q16986699,Chachachá,instancia de,forma musical,forma musical,Q862597
+Q1125657,conga,instancia de,género musical,género musical,Q188451
+Q290869,Son montuno,instancia de,tipo de baile,tipo de baile,Q107357104
+Q388475,Rumba cubana,país de origen,Cuba,Cuba,Q241
+Q3163340,jazz afrocubano,subclase de,Afro-Cuban music,Afro-Cuban music,Q20715191
+Q6397421,Bolero son,instancia de,tipo de baile,tipo de baile,Q107357104
+Q835562,habanera,subclase de,danza,danza,Q11639
+Q16986699,Chachachá,país de origen,Cuba,Cuba,Q241
+Q2420447,trova,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q976802,Tumba francesa,instancia de,género musical,género musical,Q188451
+Q3163340,jazz afrocubano,subclase de,jazz latino,jazz latino,Q837389
+Q5393053,filin,instancia de,género musical,género musical,Q188451
+Q6397421,Bolero son,subclase de,bolero,bolero,Q15830404
+Q835562,habanera,país de origen,Cuba,Cuba,Q241
+Q5646383,Yambú,país de origen,Cuba,Cuba,Q241
+Q1552806,guaracha,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q497957,Nueva Trova Cubana,subclase de,trova,trova,Q2420447
+Q2420447,trova,instancia de,género musical,género musical,Q188451
+Q371745,timba,país de origen,Cuba,Cuba,Q241
+Q124713283,reparto,instancia de,género musical,género musical,Q188451
+Q1744659,Salsa (estilo cubano),subclase de,salsa,salsa,Q189825
+Q1744659,Salsa (estilo cubano),subclase de,salsa,salsa,Q208239
+Q497957,Nueva Trova Cubana,instancia de,género musical,género musical,Q188451
+Q290869,Son montuno,instancia de,género musical,género musical,Q188451
+Q1125657,conga,instancia de,forma musical,forma musical,Q862597
+Q290869,Son montuno,subclase de,son cubano,son cubano,Q4428744
+Q1744659,Salsa (estilo cubano),instancia de,tipo de baile,tipo de baile,Q107357104
+Q6397421,Bolero son,instancia de,género musical,género musical,Q188451
+Q367751,pachanga,país de origen,Cuba,Cuba,Q241
+Q1552806,guaracha,instancia de,género musical,género musical,Q188451
+Q3163340,jazz afrocubano,país de origen,Cuba,Cuba,Q241
+Q6397421,Bolero son,subclase de,son cubano,son cubano,Q4428744
+Q1790876,Cuban hip hop,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q3163340,jazz afrocubano,país de origen,Estados Unidos,Estados Unidos,Q30
+Q1125657,conga,país de origen,Cuba,Cuba,Q241
+Q15830404,bolero,subclase de,música tropical,música tropical,Q3328778
+Q976802,Tumba francesa,país de origen,Cuba,Cuba,Q241
+Q15830404,bolero,instancia de,género musical,género musical,Q188451
+Q5393053,filin,país de origen,Cuba,Cuba,Q241
+Q1790876,Cuban hip hop,instancia de,género musical,género musical,Q188451
+Q1790876,Cuban hip hop,subclase de,hip hop latino,hip hop latino,Q3827483
+Q23925185,pilón,subclase de,Música de Cuba,Música de Cuba,Q1544863
+Q5778054,Columbia (rumba),subclase de,Rumba cubana,Rumba cubana,Q388475
+Q5778054,Columbia (rumba),instancia de,género musical,género musical,Q188451
+Q15830404,bolero,subclase de,música de América Latina,música de América Latina,Q727781
+Q2835411,Cueca Porteña,subclase de,Chilean cueca,Chilean cueca,Q117001315
+Q9051042,Nueva Cumbia Chilena,instancia de,género musical,género musical,Q188451
+Q5794674,Cumbia boliviana,subclase de,cumbia,cumbia,Q723418
+Q5793654,Cueca de Chiloé,subclase de,Chilean cueca,Chilean cueca,Q117001315
+Q5794676,Cumbia chilena,subclase de,cumbia,cumbia,Q723418
+Q3437823,Rock de Chile,subclase de,rock,rock,Q11399
+Q3106448,zamba,instancia de,forma musical,forma musical,Q862597
+Q6040713,neofolklore,subclase de,música folk,música folk,Q106298881
+Q3437823,Rock de Chile,país de origen,Chile,Chile,Q298
+Q5793656,Cueca nortina,subclase de,Chilean cueca,Chilean cueca,Q117001315
+Q132508451,Jazz de Chile,subclase de,jazz,jazz,Q8341
+Q766240,cueca,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3106448,zamba,país de origen,Argentina,Argentina,Q414
+Q3106448,zamba,país de origen,Chile,Chile,Q298
+Q3106448,zamba,país de origen,Bolivia,Bolivia,Q750
+Q3106448,zamba,país de origen,Perú,Perú,Q419
+Q109406661,tonada chilena,país de origen,Chile,Chile,Q298
+Q5793654,Cueca de Chiloé,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5898237,Hip hop chileno,instancia de,género musical,género musical,Q188451
+Q3437823,Rock de Chile,instancia de,escena de música,escena de música,Q28820001
+Q5898237,Hip hop chileno,subclase de,música de Chile,música de Chile,Q3889385
+Q766240,cueca,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q6036579,Música surera,país de origen,Chile,Chile,Q298
+Q21480567,Cumbia lunática,subclase de,cumbia,cumbia,Q723418
+Q5794674,Cumbia boliviana,instancia de,género musical,género musical,Q188451
+Q5794676,Cumbia chilena,instancia de,género musical,género musical,Q188451
+Q766240,cueca,instancia de,género musical,género musical,Q188451
+Q2835411,Cueca Porteña,instancia de,género musical,género musical,Q188451
+Q9051042,Nueva Cumbia Chilena,país de origen,Chile,Chile,Q298
+Q5794676,Cumbia chilena,subclase de,música de Chile,música de Chile,Q3889385
+Q766240,cueca,subclase de,danza amerindia,danza amerindia,Q17176998
+Q6036517,música folclórica de Chile,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5793654,Cueca de Chiloé,instancia de,género musical,género musical,Q188451
+Q18170752,canto nuevo,instancia de,tipo de canción,tipo de canción,Q107356781
+Q5747874,Canto a lo Poeta,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q1154911,Carnavalito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5793656,Cueca nortina,instancia de,género musical,género musical,Q188451
+Q5898237,Hip hop chileno,subclase de,hip-hop,hip-hop,Q11401
+Q5898237,Hip hop chileno,país de origen,Chile,Chile,Q298
+Q6036517,música folclórica de Chile,instancia de,género musical,género musical,Q188451
+Q132508451,Jazz de Chile,instancia de,género musical,género musical,Q188451
+Q6036517,música folclórica de Chile,subclase de,música de Chile,música de Chile,Q3889385
+Q5747874,Canto a lo Poeta,instancia de,género musical,género musical,Q188451
+Q132508451,Jazz de Chile,subclase de,música de Chile,música de Chile,Q3889385
+Q5747874,Canto a lo Poeta,subclase de,música de Chile,música de Chile,Q3889385
+Q21480567,Cumbia lunática,instancia de,género musical,género musical,Q188451
+Q6040713,neofolklore,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,subclase de,huayno,huayno,Q2307786
+Q6040713,neofolklore,subclase de,música de Chile,música de Chile,Q3889385
+Q5898237,Hip hop chileno,instancia de,escena de música,escena de música,Q28820001
+Q18170752,canto nuevo,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,instancia de,tipo de baile,tipo de baile,Q107357104
+Q18170752,canto nuevo,subclase de,nueva canción chilena,nueva canción chilena,Q3879286
+Q5794674,Cumbia boliviana,país de origen,Chile,Chile,Q298
+Q1154911,Carnavalito,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q1154911,Carnavalito,subclase de,danza amerindia,danza amerindia,Q17176998
+Q5794676,Cumbia chilena,país de origen,Chile,Chile,Q298
+Q766240,cueca,país de origen,Argentina,Argentina,Q414
+Q766240,cueca,país de origen,Chile,Chile,Q298
+Q766240,cueca,país de origen,Bolivia,Bolivia,Q750
+Q766240,cueca,país de origen,Perú,Perú,Q419
+Q2835411,Cueca Porteña,país de origen,Chile,Chile,Q298
+Q3106448,zamba,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q109406661,tonada chilena,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5793654,Cueca de Chiloé,país de origen,Chile,Chile,Q298
+Q5793656,Cueca nortina,país de origen,Chile,Chile,Q298
+Q9051042,Nueva Cumbia Chilena,subclase de,cumbia,cumbia,Q723418
+Q3437823,Rock de Chile,instancia de,género musical,género musical,Q188451
+Q3437823,Rock de Chile,subclase de,música de Chile,música de Chile,Q3889385
+Q3106448,zamba,instancia de,género musical,género musical,Q188451
+Q6036579,Música surera,subclase de,música tradicional,música tradicional,Q235858
+Q6036517,música folclórica de Chile,país de origen,Chile,Chile,Q298
+Q3106448,zamba,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q109406661,tonada chilena,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,subclase de,danza amerindia,danza amerindia,Q17176998
+Q132508451,Jazz de Chile,país de origen,Chile,Chile,Q298
+Q5747874,Canto a lo Poeta,país de origen,Chile,Chile,Q298
+Q21480567,Cumbia lunática,país de origen,Chile,Chile,Q298
+Q6040713,neofolklore,país de origen,Chile,Chile,Q298
+Q6036579,Música surera,instancia de,género musical,género musical,Q188451
+Q18170752,canto nuevo,país de origen,Chile,Chile,Q298
+Q132508451,Jazz de Chile,instancia de,escena de música,escena de música,Q28820001
+Q6036579,Música surera,subclase de,música de Argentina,música de Argentina,Q645992
+Q1154911,Carnavalito,país de origen,Argentina,Argentina,Q414
+Q1154911,Carnavalito,país de origen,Chile,Chile,Q298
+Q1154911,Carnavalito,país de origen,Bolivia,Bolivia,Q750
+Q1154911,Carnavalito,país de origen,Perú,Perú,Q419
+Q766240,cueca,subclase de,South American folk dance,South American folk dance,Q116173499
+Q2879857,bailecito,país de origen,Argentina,Argentina,Q414
+Q2879857,bailecito,país de origen,Bolivia,Bolivia,Q750
+Q597493,chacarera,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q3106448,zamba,instancia de,forma musical,forma musical,Q862597
+Q25116,tango argentino,país de origen,Argentina,Argentina,Q414
+Q25116,tango argentino,país de origen,Uruguay,Uruguay,Q77
+Q5716336,baguala,subclase de,canción popular,canción popular,Q943929
+Q766240,cueca,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1060475,chamamé,país de origen,Argentina,Argentina,Q414
+Q3106448,zamba,país de origen,Argentina,Argentina,Q414
+Q3106448,zamba,país de origen,Chile,Chile,Q298
+Q3106448,zamba,país de origen,Bolivia,Bolivia,Q750
+Q3106448,zamba,país de origen,Perú,Perú,Q419
+Q1632601,nuevo tango,subclase de,tango,tango,Q14390274
+Q1143752,Cumbia villera,instancia de,género musical,género musical,Q188451
+Q597493,chacarera,instancia de,género musical,género musical,Q188451
+Q597493,chacarera,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q597493,chacarera,subclase de,danza amerindia,danza amerindia,Q17176998
+Q1143752,Cumbia villera,subclase de,cumbia argentina,cumbia argentina,Q4789437
+Q766240,cueca,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q9051102,Nuevo Cancionero,instancia de,tipo de canción,tipo de canción,Q107356781
+Q155119,cuarteto,país de origen,Argentina,Argentina,Q414
+Q597493,chacarera,subclase de,música de Argentina,música de Argentina,Q645992
+Q2879857,bailecito,subclase de,South American dance,South American dance,Q110218562
+Q1632601,nuevo tango,instancia de,género musical,género musical,Q188451
+Q6100580,Rasguido doble,instancia de,género musical,género musical,Q188451
+Q5716336,baguala,instancia de,género musical,género musical,Q188451
+Q766240,cueca,instancia de,género musical,género musical,Q188451
+Q5716336,baguala,subclase de,música andina,música andina,Q492096
+Q766240,cueca,subclase de,danza amerindia,danza amerindia,Q17176998
+Q25116,tango argentino,subclase de,Argentinian dance,Argentinian dance,Q110207339
+Q942955,milonga,subclase de,Rioplatense music,Rioplatense music,Q123856101
+Q6036568,música popular argentina,subclase de,música popular,música popular,Q373342
+Q6036568,música popular argentina,instancia de,género musical,género musical,Q188451
+Q16625777,Escena de rock de Mendoza,instancia de,escena de música,escena de música,Q28820001
+Q6100580,Rasguido doble,subclase de,música litoraleña,música litoraleña,Q6036543
+Q942955,milonga,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1154911,Carnavalito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q9051102,Nuevo Cancionero,instancia de,género musical,género musical,Q188451
+Q597493,chacarera,instancia de,forma musical,forma musical,Q862597
+Q6036568,música popular argentina,subclase de,música de Argentina,música de Argentina,Q645992
+Q354204,folclore de Argentina,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q2879857,bailecito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1143752,Cumbia villera,país de origen,Argentina,Argentina,Q414
+Q25116,tango argentino,subclase de,tango,tango,Q338450
+Q597493,chacarera,país de origen,Argentina,Argentina,Q414
+Q597493,chacarera,país de origen,Bolivia,Bolivia,Q750
+Q942955,milonga,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q25116,tango argentino,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1060475,chamamé,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1154911,Carnavalito,subclase de,huayno,huayno,Q2307786
+Q354204,folclore de Argentina,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,instancia de,tipo de baile,tipo de baile,Q107357104
+Q25116,tango argentino,subclase de,tango,tango,Q14390274
+Q942955,milonga,instancia de,género musical,género musical,Q188451
+Q354204,folclore de Argentina,subclase de,música de Argentina,música de Argentina,Q645992
+Q1632601,nuevo tango,país de origen,Argentina,Argentina,Q414
+Q1154911,Carnavalito,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q6036543,música litoraleña,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,subclase de,danza amerindia,danza amerindia,Q17176998
+Q6100580,Rasguido doble,país de origen,Argentina,Argentina,Q414
+Q5716336,baguala,país de origen,Argentina,Argentina,Q414
+Q766240,cueca,país de origen,Argentina,Argentina,Q414
+Q766240,cueca,país de origen,Chile,Chile,Q298
+Q766240,cueca,país de origen,Bolivia,Bolivia,Q750
+Q766240,cueca,país de origen,Perú,Perú,Q419
+Q1060475,chamamé,subclase de,danza folclórica,danza folclórica,Q201022
+Q2879857,bailecito,subclase de,Música boliviana,Música boliviana,Q3328603
+Q155119,cuarteto,instancia de,tipo de baile,tipo de baile,Q107357104
+Q2879857,bailecito,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q6036568,música popular argentina,país de origen,Argentina,Argentina,Q414
+Q2879857,bailecito,subclase de,música de Argentina,música de Argentina,Q645992
+Q9051102,Nuevo Cancionero,país de origen,Argentina,Argentina,Q414
+Q25116,tango argentino,instancia de,género musical,género musical,Q188451
+Q1060475,chamamé,instancia de,género musical,género musical,Q188451
+Q6036568,música popular argentina,instancia de,escena de música,escena de música,Q28820001
+Q6036543,música litoraleña,subclase de,folclore de Argentina,folclore de Argentina,Q354204
+Q3106448,zamba,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q3106448,zamba,subclase de,danza amerindia,danza amerindia,Q17176998
+Q1060475,chamamé,subclase de,música litoraleña,música litoraleña,Q6036543
+Q942955,milonga,instancia de,forma musical,forma musical,Q862597
+Q155119,cuarteto,instancia de,género musical,género musical,Q188451
+Q354204,folclore de Argentina,país de origen,Argentina,Argentina,Q414
+Q1143752,Cumbia villera,instancia de,tipo de baile,tipo de baile,Q107357104
+Q597493,chacarera,instancia de,tipo de baile,tipo de baile,Q107357104
+Q155119,cuarteto,subclase de,música de Argentina,música de Argentina,Q645992
+Q942955,milonga,país de origen,Argentina,Argentina,Q414
+Q942955,milonga,país de origen,Uruguay,Uruguay,Q77
+Q942955,milonga,país de origen,Brasil,Brasil,Q155
+Q1154911,Carnavalito,país de origen,Argentina,Argentina,Q414
+Q1154911,Carnavalito,país de origen,Chile,Chile,Q298
+Q1154911,Carnavalito,país de origen,Bolivia,Bolivia,Q750
+Q1154911,Carnavalito,país de origen,Perú,Perú,Q419
+Q6036543,música litoraleña,país de origen,Argentina,Argentina,Q414
+Q16625777,Escena de rock de Mendoza,instancia de,género musical,género musical,Q188451
+Q9051102,Nuevo Cancionero,subclase de,Nueva canción latinoamericana,Nueva canción latinoamericana,Q109626458
+Q766240,cueca,subclase de,South American folk dance,South American folk dance,Q116173499
+Q124001752,kaluyo,país de origen,Argentina,Argentina,Q414
+Q16625777,Escena de rock de Mendoza,subclase de,rock de Argentina,rock de Argentina,Q646026
+Q59389199,Música divertida,instancia de,género musical,género musical,Q188451
+Q16637770,tango rock,subclase de,rock,rock,Q11399
+Q59389199,Música divertida,subclase de,rock de Argentina,rock de Argentina,Q646026
+Q109311605,estilo,país de origen,Argentina,Argentina,Q414
+Q16637770,tango rock,país de origen,Argentina,Argentina,Q414
+Q131535017,hip hop de Argentina,país de origen,Argentina,Argentina,Q414
+Q16979361,neotango,subclase de,tango,tango,Q14390274
+Q30904272,Blues de Argentina,subclase de,blues,blues,Q9759
+Q131535017,hip hop de Argentina,instancia de,escena de música,escena de música,Q28820001
+Q16625777,Escena de rock de Mendoza,país de origen,Argentina,Argentina,Q414
+Q59389199,Música divertida,país de origen,Argentina,Argentina,Q414
+Q16979361,neotango,instancia de,género musical,género musical,Q188451
+Q124001752,kaluyo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q30904272,Blues de Argentina,instancia de,género musical,género musical,Q188451
+Q30904272,Blues de Argentina,subclase de,música de Argentina,música de Argentina,Q645992
+Q16637770,tango rock,subclase de,tango,tango,Q14390274
+Q124001752,kaluyo,instancia de,género musical,género musical,Q188451
+Q124001752,kaluyo,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q16979361,neotango,país de origen,Argentina,Argentina,Q414
+Q124001752,kaluyo,subclase de,música de Argentina,música de Argentina,Q645992
+Q109311605,estilo,instancia de,género musical,género musical,Q188451
+Q16637770,tango rock,instancia de,género musical,género musical,Q188451
+Q131535017,hip hop de Argentina,instancia de,género musical,género musical,Q188451
+Q131535017,hip hop de Argentina,subclase de,hip hop latino,hip hop latino,Q3827483
+Q30904272,Blues de Argentina,país de origen,Argentina,Argentina,Q414
+Q131535017,hip hop de Argentina,subclase de,música de Argentina,música de Argentina,Q645992
+Q109311605,estilo,subclase de,folclore de Argentina,folclore de Argentina,Q354204
+Q30904272,Blues de Argentina,instancia de,escena de música,escena de música,Q28820001
+Q5714628,Ayarachi,subclase de,Danzas del Perú,Danzas del Perú,Q7171186
+Q6110296,rock subterráneo,subclase de,rock,rock,Q11399
+Q3106448,zamba,instancia de,forma musical,forma musical,Q862597
+Q6110296,rock subterráneo,país de origen,Perú,Perú,Q419
+Q2509521,vals peruano,país de origen,Perú,Perú,Q419
+Q3531526,Tondero,país de origen,Perú,Perú,Q419
+Q3437873,Rock del Perú,subclase de,música del Perú,música del Perú,Q3085344
+Q222445,marinera,país de origen,Perú,Perú,Q419
+Q5445668,Festejo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q766240,cueca,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3437873,Rock del Perú,instancia de,género musical,género musical,Q188451
+Q1143741,chicha,subclase de,cumbia peruana,cumbia peruana,Q7171184
+Q3141879,Huaylash,subclase de,música del Perú,música del Perú,Q3085344
+Q3106448,zamba,país de origen,Argentina,Argentina,Q414
+Q3106448,zamba,país de origen,Chile,Chile,Q298
+Q3106448,zamba,país de origen,Bolivia,Bolivia,Q750
+Q3106448,zamba,país de origen,Perú,Perú,Q419
+Q3141879,Huaylash,instancia de,género musical,género musical,Q188451
+Q5898242,Hip hop peruano,subclase de,música del Perú,música del Perú,Q3085344
+Q1143741,chicha,instancia de,género musical,género musical,Q188451
+Q3141879,Huaylash,subclase de,música andina,música andina,Q492096
+Q222445,marinera,subclase de,danza nacional,danza nacional,Q51799726
+Q1143741,chicha,subclase de,música andina,música andina,Q492096
+Q5898242,Hip hop peruano,instancia de,género musical,género musical,Q188451
+Q6110296,rock subterráneo,instancia de,escena de música,escena de música,Q28820001
+Q6036427,Música andina del Perú,país de origen,Perú,Perú,Q419
+Q5714628,Ayarachi,país de origen,Perú,Perú,Q419
+Q766240,cueca,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q389671,Saya (baile),país de origen,Bolivia,Bolivia,Q750
+Q389671,Saya (baile),país de origen,Perú,Perú,Q419
+Q5643186,cumbia amazónica,país de origen,Perú,Perú,Q419
+Q2738178,zamacueca,país de origen,Perú,Perú,Q419
+Q5445668,Festejo,instancia de,género musical,género musical,Q188451
+Q766240,cueca,instancia de,género musical,género musical,Q188451
+Q766240,cueca,subclase de,danza amerindia,danza amerindia,Q17176998
+Q5794690,Cumbia sureña,subclase de,cumbia peruana,cumbia peruana,Q7171184
+Q3141879,Huaylash,subclase de,danza,danza,Q11639
+Q5794690,Cumbia sureña,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3437873,Rock del Perú,subclase de,rock,rock,Q11399
+Q5714628,Ayarachi,subclase de,Peruvian folk music,Peruvian folk music,Q109500872
+Q5445668,Festejo,subclase de,música criolla,música criolla,Q6950428
+Q3437873,Rock del Perú,país de origen,Perú,Perú,Q419
+Q6153818,Tunantada,instancia de,género musical,género musical,Q188451
+Q5794690,Cumbia sureña,subclase de,Cumbia boliviana,Cumbia boliviana,Q5794674
+Q3141879,Huaylash,país de origen,Perú,Perú,Q419
+Q5898242,Hip hop peruano,subclase de,hip-hop,hip-hop,Q11401
+Q1143741,chicha,país de origen,Perú,Perú,Q419
+Q2509521,vals peruano,subclase de,vals,vals,Q193434
+Q5898242,Hip hop peruano,país de origen,Perú,Perú,Q419
+Q3437873,Rock del Perú,instancia de,escena de música,escena de música,Q28820001
+Q2509521,vals peruano,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3531526,Tondero,instancia de,tipo de baile,tipo de baile,Q107357104
+Q222445,marinera,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1154911,Carnavalito,subclase de,huayno,huayno,Q2307786
+Q5898242,Hip hop peruano,instancia de,escena de música,escena de música,Q28820001
+Q3106448,zamba,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1154911,Carnavalito,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q1154911,Carnavalito,subclase de,danza amerindia,danza amerindia,Q17176998
+Q5714628,Ayarachi,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5445668,Festejo,país de origen,Perú,Perú,Q419
+Q766240,cueca,país de origen,Argentina,Argentina,Q414
+Q766240,cueca,país de origen,Chile,Chile,Q298
+Q766240,cueca,país de origen,Bolivia,Bolivia,Q750
+Q766240,cueca,país de origen,Perú,Perú,Q419
+Q389671,Saya (baile),instancia de,tipo de baile,tipo de baile,Q107357104
+Q3106448,zamba,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5794690,Cumbia sureña,país de origen,Perú,Perú,Q419
+Q6110296,rock subterráneo,subclase de,música del Perú,música del Perú,Q3085344
+Q6110296,rock subterráneo,instancia de,género musical,género musical,Q188451
+Q2738178,zamacueca,instancia de,tipo de baile,tipo de baile,Q107357104
+Q2509521,vals peruano,instancia de,género musical,género musical,Q188451
+Q389671,Saya (baile),subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q3531526,Tondero,instancia de,género musical,género musical,Q188451
+Q389671,Saya (baile),subclase de,baile latino,baile latino,Q1457972
+Q2509521,vals peruano,país de origen,Virreinato del Perú,Virreinato del Perú,Q211435
+Q222445,marinera,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q3106448,zamba,subclase de,danza amerindia,danza amerindia,Q17176998
+Q2738178,zamacueca,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q6036427,Música andina del Perú,instancia de,género musical,género musical,Q188451
+Q6036427,Música andina del Perú,subclase de,música andina,música andina,Q492096
+Q2509521,vals peruano,subclase de,música criolla,música criolla,Q6950428
+Q3531526,Tondero,subclase de,música criolla,música criolla,Q6950428
+Q5714628,Ayarachi,instancia de,género musical,género musical,Q188451
+Q389671,Saya (baile),instancia de,género musical,género musical,Q188451
+Q222445,marinera,subclase de,música criolla,música criolla,Q6950428
+Q3141879,Huaylash,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5643186,cumbia amazónica,subclase de,cumbia peruana,cumbia peruana,Q7171184
+Q389671,Saya (baile),subclase de,Música de América del Sur,Música de América del Sur,Q5645984
+Q389671,Saya (baile),subclase de,música de América Latina,música de América Latina,Q727781
+Q1154911,Carnavalito,país de origen,Argentina,Argentina,Q414
+Q1154911,Carnavalito,país de origen,Chile,Chile,Q298
+Q1154911,Carnavalito,país de origen,Bolivia,Bolivia,Q750
+Q1154911,Carnavalito,país de origen,Perú,Perú,Q419
+Q5643186,cumbia amazónica,instancia de,género musical,género musical,Q188451
+Q2738178,zamacueca,instancia de,género musical,género musical,Q188451
+Q766240,cueca,subclase de,South American folk dance,South American folk dance,Q116173499
+Q135285638,Chiriwanos,subclase de,Danzas del Perú,Danzas del Perú,Q7171186
+Q11773109,Yaraví Arequipeño,país de origen,Perú,Perú,Q419
+Q7171184,cumbia peruana,instancia de,género musical,género musical,Q188451
+Q116158395,polca criolla,subclase de,polka,polka,Q11821889
+Q6950428,música criolla,instancia de,tradición musical,tradición musical,Q60733114
+Q135285638,Chiriwanos,país de origen,Perú,Perú,Q419
+Q8345377,Chimayche,subclase de,huayno,huayno,Q2307786
+Q6950428,música criolla,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q116158395,polca criolla,instancia de,género musical,género musical,Q188451
+Q8345377,Chimayche,subclase de,música del Perú,música del Perú,Q3085344
+Q8345377,Chimayche,instancia de,género musical,género musical,Q188451
+Q7171184,cumbia peruana,país de origen,Perú,Perú,Q419
+Q6153818,Tunantada,subclase de,música del Perú,música del Perú,Q3085344
+Q16993565,Música afroperuana,subclase de,música del Perú,música del Perú,Q3085344
+Q6950428,música criolla,subclase de,música del Perú,música del Perú,Q3085344
+Q16993565,Música afroperuana,instancia de,género musical,género musical,Q188451
+Q116158395,polca criolla,subclase de,música criolla,música criolla,Q6950428
+Q135285638,Chiriwanos,subclase de,Peruvian folk music,Peruvian folk music,Q109500872
+Q6950428,música criolla,instancia de,género musical,género musical,Q188451
+Q16993565,Música afroperuana,subclase de,Música de la diáspora africana,Música de la diáspora africana,Q6942343
+Q11773109,Yaraví Arequipeño,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q116158395,polca criolla,país de origen,Perú,Perú,Q419
+Q135285638,Chiriwanos,instancia de,tipo de baile,tipo de baile,Q107357104
+Q11773109,Yaraví Arequipeño,instancia de,género musical,género musical,Q188451
+Q8345377,Chimayche,país de origen,Perú,Perú,Q419
+Q11773109,Yaraví Arequipeño,subclase de,música andina,música andina,Q492096
+Q6153818,Tunantada,país de origen,Perú,Perú,Q419
+Q16993565,Música afroperuana,país de origen,Perú,Perú,Q419
+Q6950428,música criolla,país de origen,Perú,Perú,Q419
+Q7171184,cumbia peruana,subclase de,cumbia,cumbia,Q723418
+Q135285638,Chiriwanos,instancia de,género musical,género musical,Q188451
+Q131006206,Joropo andino,subclase de,música tradicional,música tradicional,Q235858
+Q1202208,Joropo,subclase de,danza nacional,danza nacional,Q51799726
+Q131005997,Joropo guayanés,país de origen,Venezuela,Venezuela,Q717
+Q5870900,Fulía,país de origen,Venezuela,Venezuela,Q717
+Q4694554,Aguinaldo,instancia de,género musical,género musical,Q188451
+Q131006206,Joropo andino,instancia de,género musical,género musical,Q188451
+Q7919872,Rock de Venezuela,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q5071702,Raptor house,país de origen,Venezuela,Venezuela,Q717
+Q5330234,Joropo oriental,subclase de,Joropo,Joropo,Q1202208
+Q7919872,Rock de Venezuela,instancia de,género musical,género musical,Q188451
+Q5730722,Blues en Venezuela,subclase de,blues,blues,Q9759
+Q5071702,Raptor house,subclase de,música house,música house,Q20502
+Q17079948,Merengue Venezolano,país de origen,Venezuela,Venezuela,Q717
+Q4694554,Aguinaldo,instancia de,tradición navideña,tradición navideña,Q717040
+Q133294487,Venezuelan hip-hop,país de origen,Venezuela,Venezuela,Q717
+Q5330234,Joropo oriental,subclase de,música tradicional,música tradicional,Q235858
+Q5071702,Raptor house,instancia de,cultura,cultura,Q32090
+Q131302628,Joropo coloniero,país de origen,Venezuela,Venezuela,Q717
+Q5330234,Joropo oriental,instancia de,género musical,género musical,Q188451
+Q6050834,Onda Nueva,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q16947034,Bambuco venezolano,instancia de,tipo de baile,tipo de baile,Q107357104
+Q133294487,Venezuelan hip-hop,instancia de,escena de música,escena de música,Q28820001
+Q527675,Bambuco,instancia de,tipo de baile,tipo de baile,Q107357104
+Q6050834,Onda Nueva,instancia de,género musical,género musical,Q188451
+Q4694554,Aguinaldo,país de origen,Venezuela,Venezuela,Q717
+Q1202208,Joropo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q527675,Bambuco,subclase de,música colombiana,música colombiana,Q920883
+Q131006206,Joropo andino,país de origen,Venezuela,Venezuela,Q717
+Q6050834,Onda Nueva,subclase de,música de América Latina,música de América Latina,Q727781
+Q6741049,malagueña,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q527675,Bambuco,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5730722,Blues en Venezuela,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q16582392,Joropo tuyero,subclase de,Joropo,Joropo,Q1202208
+Q535328,gaita zuliana,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q7919872,Rock de Venezuela,subclase de,rock,rock,Q11399
+Q7919872,Rock de Venezuela,país de origen,Venezuela,Venezuela,Q717
+Q16947034,Bambuco venezolano,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q5730722,Blues en Venezuela,instancia de,género musical,género musical,Q188451
+Q6741049,malagueña,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q1202208,Joropo,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q527675,Bambuco,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q1202208,Joropo,subclase de,danza folclórica,danza folclórica,Q201022
+Q535328,gaita zuliana,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q16947034,Bambuco venezolano,instancia de,género musical,género musical,Q188451
+Q16582392,Joropo tuyero,subclase de,música tradicional,música tradicional,Q235858
+Q6741049,malagueña,instancia de,género musical,género musical,Q188451
+Q16947034,Bambuco venezolano,subclase de,Bambuco,Bambuco,Q527675
+Q131005997,Joropo guayanés,subclase de,Joropo,Joropo,Q1202208
+Q527675,Bambuco,instancia de,género musical,género musical,Q188451
+Q7919872,Rock de Venezuela,instancia de,escena de música,escena de música,Q28820001
+Q5071702,Raptor house,instancia de,tipo de baile,tipo de baile,Q107357104
+Q535328,gaita zuliana,instancia de,género musical,género musical,Q188451
+Q527675,Bambuco,subclase de,danza amerindia,danza amerindia,Q17176998
+Q1202208,Joropo,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q16582392,Joropo tuyero,instancia de,género musical,género musical,Q188451
+Q1202208,Joropo,subclase de,música tropical,música tropical,Q3328778
+Q5330234,Joropo oriental,país de origen,Venezuela,Venezuela,Q717
+Q17079948,Merengue Venezolano,subclase de,merengue,merengue,Q282131
+Q1202208,Joropo,instancia de,género musical,género musical,Q188451
+Q131005997,Joropo guayanés,subclase de,música tradicional,música tradicional,Q235858
+Q5870900,Fulía,subclase de,música tradicional,música tradicional,Q235858
+Q5071702,Raptor house,subclase de,música electrónica latina,música electrónica latina,Q98528166
+Q5071702,Raptor house,subclase de,baile latino,baile latino,Q1457972
+Q6050834,Onda Nueva,país de origen,Venezuela,Venezuela,Q717
+Q5870900,Fulía,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q131005997,Joropo guayanés,instancia de,género musical,género musical,Q188451
+Q5870900,Fulía,instancia de,género musical,género musical,Q188451
+Q5071702,Raptor house,instancia de,género musical,género musical,Q188451
+Q131302628,Joropo coloniero,subclase de,Joropo,Joropo,Q1202208
+Q5730722,Blues en Venezuela,país de origen,Venezuela,Venezuela,Q717
+Q133294487,Venezuelan hip-hop,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q16947034,Bambuco venezolano,país de origen,Venezuela,Venezuela,Q717
+Q6741049,malagueña,país de origen,Venezuela,Venezuela,Q717
+Q527675,Bambuco,país de origen,Colombia,Colombia,Q739
+Q527675,Bambuco,país de origen,Venezuela,Venezuela,Q717
+Q17079948,Merengue Venezolano,instancia de,género musical,género musical,Q188451
+Q133294487,Venezuelan hip-hop,instancia de,género musical,género musical,Q188451
+Q535328,gaita zuliana,país de origen,Venezuela,Venezuela,Q717
+Q5730722,Blues en Venezuela,instancia de,escena de música,escena de música,Q28820001
+Q133294487,Venezuelan hip-hop,subclase de,hip hop latino,hip hop latino,Q3827483
+Q131006206,Joropo andino,subclase de,Joropo,Joropo,Q1202208
+Q16582392,Joropo tuyero,país de origen,Venezuela,Venezuela,Q717
+Q4694554,Aguinaldo,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q4694554,Aguinaldo,subclase de,música navideña,música navideña,Q1443316
+Q1202208,Joropo,país de origen,Colombia,Colombia,Q739
+Q1202208,Joropo,país de origen,Venezuela,Venezuela,Q717
+Q131302628,Joropo coloniero,instancia de,género musical,género musical,Q188451
+Q5957561,Cachaca,instancia de,género musical,género musical,Q188451
+Q6110316,Rock de Paraguay,subclase de,rock,rock,Q11399
+Q6110316,Rock de Paraguay,país de origen,Paraguay,Paraguay,Q733
+Q6110316,Rock de Paraguay,instancia de,escena de música,escena de música,Q28820001
+Q5957561,Cachaca,país de origen,Paraguay,Paraguay,Q733
+Q6110316,Rock de Paraguay,instancia de,género musical,género musical,Q188451
+Q6110316,Rock de Paraguay,subclase de,música de Paraguay,música de Paraguay,Q4381192
+Q5957561,Cachaca,subclase de,cumbia,cumbia,Q723418
+Q7142141,pasillo,país de origen,Colombia,Colombia,Q739
+Q7142141,pasillo,país de origen,Ecuador,Ecuador,Q736
+Q5334415,Rock de Ecuador,instancia de,género musical,género musical,Q188451
+Q5334415,Rock de Ecuador,subclase de,Música del Ecuador,Música del Ecuador,Q6942068
+Q7142141,pasillo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5334415,Rock de Ecuador,subclase de,rock,rock,Q11399
+Q5334415,Rock de Ecuador,país de origen,Ecuador,Ecuador,Q736
+Q7142141,pasillo,instancia de,género musical,género musical,Q188451
+Q5334415,Rock de Ecuador,instancia de,escena de música,escena de música,Q28820001
+Q7142141,pasillo,subclase de,música de América Latina,música de América Latina,Q727781
+Q5147976,Rock colombiano,subclase de,música colombiana,música colombiana,Q920883
+Q116782420,Corridos prohibidos,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q4996773,Bullerengue,subclase de,cumbia,cumbia,Q723418
+Q25413973,fandango,instancia de,tipo de baile,tipo de baile,Q107357104
+Q16587550,La Jota Chocoana,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3069904,porro,subclase de,Música del Caribe,Música del Caribe,Q3394906
+Q3069904,porro,instancia de,género musical,género musical,Q188451
+Q1202208,Joropo,subclase de,danza nacional,danza nacional,Q51799726
+Q21997160,Música muisca,instancia de,género musical,género musical,Q188451
+Q4996773,Bullerengue,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5753407,Carranga,subclase de,rumba,rumba,Q21684437
+Q1061165,Champeta,instancia de,tipo de baile,tipo de baile,Q107357104
+Q20018165,Son de negro,subclase de,son,son,Q116884389
+Q6153324,trova paisa,subclase de,trova,trova,Q2420447
+Q7142141,pasillo,país de origen,Colombia,Colombia,Q739
+Q7142141,pasillo,país de origen,Ecuador,Ecuador,Q736
+Q723418,cumbia,instancia de,tipo de baile,tipo de baile,Q107357104
+Q16587550,La Jota Chocoana,subclase de,danza folclórica,danza folclórica,Q201022
+Q6153324,trova paisa,instancia de,género musical,género musical,Q188451
+Q5147976,Rock colombiano,instancia de,género musical,género musical,Q188451
+Q5753407,Carranga,instancia de,género musical,género musical,Q188451
+Q28517114,música andina colombiana,país de origen,Colombia,Colombia,Q739
+Q116782420,Corridos prohibidos,país de origen,Colombia,Colombia,Q739
+Q116782420,Corridos prohibidos,país de origen,México,México,Q96
+Q25413973,fandango,instancia de,género musical,género musical,Q188451
+Q16587550,La Jota Chocoana,instancia de,género musical,género musical,Q188451
+Q4996773,Bullerengue,subclase de,Música del Caribe,Música del Caribe,Q3394906
+Q4996773,Bullerengue,instancia de,género musical,género musical,Q188451
+Q1061165,Champeta,subclase de,Música del Caribe,Música del Caribe,Q3394906
+Q1574985,vallenato,país de origen,Colombia,Colombia,Q739
+Q1061165,Champeta,instancia de,género musical,género musical,Q188451
+Q723418,cumbia,subclase de,música tropical,música tropical,Q3328778
+Q723418,cumbia,instancia de,género musical,género musical,Q188451
+Q535402,Tropipop,instancia de,género musical,género musical,Q188451
+Q116782420,Corridos prohibidos,subclase de,musica sierreña méxicana,musica sierreña méxicana,Q101440473
+Q723418,cumbia,subclase de,danza amerindia,danza amerindia,Q17176998
+Q527675,Bambuco,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3069904,porro,país de origen,Colombia,Colombia,Q739
+Q21997160,Música muisca,país de origen,Colombia,Colombia,Q739
+Q535402,Tropipop,subclase de,pop latino,pop latino,Q547137
+Q1202208,Joropo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q527675,Bambuco,subclase de,música colombiana,música colombiana,Q920883
+Q527675,Bambuco,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5147976,Rock colombiano,subclase de,rock,rock,Q11399
+Q6153324,trova paisa,país de origen,Colombia,Colombia,Q739
+Q5147976,Rock colombiano,país de origen,Colombia,Colombia,Q739
+Q5753407,Carranga,país de origen,Colombia,Colombia,Q739
+Q1574985,vallenato,subclase de,música hispanoamericana,música hispanoamericana,Q107718539
+Q20018165,Son de negro,instancia de,género musical,género musical,Q188451
+Q1202208,Joropo,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q527675,Bambuco,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q1202208,Joropo,subclase de,danza folclórica,danza folclórica,Q201022
+Q7142141,pasillo,instancia de,tipo de baile,tipo de baile,Q107357104
+Q25413973,fandango,país de origen,Colombia,Colombia,Q739
+Q5147976,Rock colombiano,instancia de,escena de música,escena de música,Q28820001
+Q16587550,La Jota Chocoana,país de origen,Colombia,Colombia,Q739
+Q3069904,porro,subclase de,música hispanoamericana,música hispanoamericana,Q107718539
+Q21997160,Música muisca,subclase de,indigenous music of South America,indigenous music of South America,Q107138217
+Q527675,Bambuco,instancia de,género musical,género musical,Q188451
+Q4996773,Bullerengue,país de origen,Colombia,Colombia,Q739
+Q527675,Bambuco,subclase de,danza amerindia,danza amerindia,Q17176998
+Q1202208,Joropo,subclase de,música de Venezuela,música de Venezuela,Q2486179
+Q1061165,Champeta,país de origen,Colombia,Colombia,Q739
+Q5794983,Currulao,instancia de,género musical,género musical,Q188451
+Q1202208,Joropo,subclase de,música tropical,música tropical,Q3328778
+Q1202208,Joropo,instancia de,género musical,género musical,Q188451
+Q723418,cumbia,país de origen,Colombia,Colombia,Q739
+Q723418,cumbia,país de origen,Panamá,Panamá,Q804
+Q535402,Tropipop,país de origen,Colombia,Colombia,Q739
+Q5794983,Currulao,subclase de,música de América Latina,música de América Latina,Q727781
+Q1574985,vallenato,instancia de,tipo de baile,tipo de baile,Q107357104
+Q7142141,pasillo,instancia de,género musical,género musical,Q188451
+Q1574985,vallenato,subclase de,música colombiana,música colombiana,Q920883
+Q1061165,Champeta,subclase de,música hispanoamericana,música hispanoamericana,Q107718539
+Q20018165,Son de negro,país de origen,Colombia,Colombia,Q739
+Q21997160,Música muisca,instancia de,música por grupo étnico,música por grupo étnico,Q106537557
+Q7142141,pasillo,subclase de,música de América Latina,música de América Latina,Q727781
+Q28517114,música andina colombiana,instancia de,género musical,género musical,Q188451
+Q28517114,música andina colombiana,subclase de,música andina,música andina,Q492096
+Q116782420,Corridos prohibidos,instancia de,género musical,género musical,Q188451
+Q21997160,Música muisca,subclase de,música colombiana,música colombiana,Q920883
+Q527675,Bambuco,país de origen,Colombia,Colombia,Q739
+Q527675,Bambuco,país de origen,Venezuela,Venezuela,Q717
+Q1574985,vallenato,subclase de,música tropical,música tropical,Q3328778
+Q1574985,vallenato,subclase de,Música del Caribe,Música del Caribe,Q3394906
+Q1574985,vallenato,instancia de,género musical,género musical,Q188451
+Q5794983,Currulao,país de origen,Colombia,Colombia,Q739
+Q16587550,La Jota Chocoana,subclase de,jota,jota,Q252626
+Q25413973,fandango,subclase de,fandango,fandango,Q1130969
+Q1202208,Joropo,país de origen,Colombia,Colombia,Q739
+Q1202208,Joropo,país de origen,Venezuela,Venezuela,Q717
+Q130369429,brincao,subclase de,música folclórica,música folclórica,Q43343
+Q2879857,bailecito,país de origen,Argentina,Argentina,Q414
+Q2879857,bailecito,país de origen,Bolivia,Bolivia,Q750
+Q124545070,Mecapaqueña,país de origen,Bolivia,Bolivia,Q750
+Q63197384,Saya,subclase de,Saya (baile),Saya (baile),Q389671
+Q63197384,Saya,subclase de,Música boliviana,Música boliviana,Q3328603
+Q109406646,tonada potosina,país de origen,Bolivia,Bolivia,Q750
+Q63197384,Saya,instancia de,género musical,género musical,Q188451
+Q597493,chacarera,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q124526447,Kaluyo vallegrandino,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,instancia de,forma musical,forma musical,Q862597
+Q124526447,Kaluyo vallegrandino,subclase de,música andina,música andina,Q492096
+Q766240,cueca,instancia de,tipo de baile,tipo de baile,Q107357104
+Q10970468,Taquirari,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q3106448,zamba,país de origen,Argentina,Argentina,Q414
+Q3106448,zamba,país de origen,Chile,Chile,Q298
+Q3106448,zamba,país de origen,Bolivia,Bolivia,Q750
+Q3106448,zamba,país de origen,Perú,Perú,Q419
+Q63197384,Saya,subclase de,danza Boliviana,danza Boliviana,Q891374
+Q597493,chacarera,instancia de,género musical,género musical,Q188451
+Q597493,chacarera,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q597493,chacarera,subclase de,danza amerindia,danza amerindia,Q17176998
+Q766240,cueca,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q389671,Saya (baile),país de origen,Bolivia,Bolivia,Q750
+Q389671,Saya (baile),país de origen,Perú,Perú,Q419
+Q109406646,tonada potosina,subclase de,indigenous American folk music,indigenous American folk music,Q106926276
+Q597493,chacarera,subclase de,música de Argentina,música de Argentina,Q645992
+Q10970468,Taquirari,subclase de,Música boliviana,Música boliviana,Q3328603
+Q10970468,Taquirari,instancia de,género musical,género musical,Q188451
+Q2879857,bailecito,subclase de,South American dance,South American dance,Q110218562
+Q130369429,brincao,instancia de,tipo de baile,tipo de baile,Q107357104
+Q10970468,Taquirari,país de origen,Mojeños,Mojeños,Q3049373
+Q766240,cueca,instancia de,género musical,género musical,Q188451
+Q766240,cueca,subclase de,danza amerindia,danza amerindia,Q17176998
+Q63197384,Saya,país de origen,Bolivia,Bolivia,Q750
+Q124526447,Kaluyo vallegrandino,país de origen,Bolivia,Bolivia,Q750
+Q1154911,Carnavalito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q597493,chacarera,instancia de,forma musical,forma musical,Q862597
+Q2879857,bailecito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q124545070,Mecapaqueña,instancia de,tipo de baile,tipo de baile,Q107357104
+Q130369429,brincao,subclase de,música de baile,música de baile,Q316930
+Q130369429,brincao,subclase de,música popular,música popular,Q373342
+Q597493,chacarera,país de origen,Argentina,Argentina,Q414
+Q597493,chacarera,país de origen,Bolivia,Bolivia,Q750
+Q130369429,brincao,instancia de,género musical,género musical,Q188451
+Q10970468,Taquirari,país de origen,Bolivia,Bolivia,Q750
+Q1154911,Carnavalito,subclase de,huayno,huayno,Q2307786
+Q130369429,brincao,subclase de,música de América Latina,música de América Latina,Q727781
+Q3106448,zamba,instancia de,tipo de baile,tipo de baile,Q107357104
+Q1154911,Carnavalito,instancia de,género musical,género musical,Q188451
+Q1154911,Carnavalito,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q1154911,Carnavalito,subclase de,danza amerindia,danza amerindia,Q17176998
+Q766240,cueca,país de origen,Argentina,Argentina,Q414
+Q766240,cueca,país de origen,Chile,Chile,Q298
+Q766240,cueca,país de origen,Bolivia,Bolivia,Q750
+Q766240,cueca,país de origen,Perú,Perú,Q419
+Q389671,Saya (baile),instancia de,tipo de baile,tipo de baile,Q107357104
+Q2879857,bailecito,subclase de,Música boliviana,Música boliviana,Q3328603
+Q2879857,bailecito,instancia de,género musical,género musical,Q188451
+Q124545070,Mecapaqueña,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q109406646,tonada potosina,instancia de,género musical,género musical,Q188451
+Q124545070,Mecapaqueña,subclase de,música andina,música andina,Q492096
+Q109406646,tonada potosina,subclase de,música andina,música andina,Q492096
+Q2879857,bailecito,subclase de,música de Argentina,música de Argentina,Q645992
+Q389671,Saya (baile),subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q389671,Saya (baile),subclase de,baile latino,baile latino,Q1457972
+Q63197384,Saya,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3106448,zamba,instancia de,género musical,género musical,Q188451
+Q3106448,zamba,subclase de,Danzas nativas argentinas,Danzas nativas argentinas,Q16555308
+Q3106448,zamba,subclase de,danza amerindia,danza amerindia,Q17176998
+Q130369429,brincao,país de origen,Bolivia,Bolivia,Q750
+Q389671,Saya (baile),instancia de,género musical,género musical,Q188451
+Q597493,chacarera,instancia de,tipo de baile,tipo de baile,Q107357104
+Q389671,Saya (baile),subclase de,Música de América del Sur,Música de América del Sur,Q5645984
+Q389671,Saya (baile),subclase de,música de América Latina,música de América Latina,Q727781
+Q1154911,Carnavalito,país de origen,Argentina,Argentina,Q414
+Q1154911,Carnavalito,país de origen,Chile,Chile,Q298
+Q1154911,Carnavalito,país de origen,Bolivia,Bolivia,Q750
+Q1154911,Carnavalito,país de origen,Perú,Perú,Q419
+Q766240,cueca,subclase de,South American folk dance,South American folk dance,Q116173499
+Q7901509,Rock de Uruguay,instancia de,escena de música,escena de música,Q28820001
+Q7901509,Rock de Uruguay,subclase de,música de Uruguay,música de Uruguay,Q23965
+Q24935256,Candombe beat,subclase de,Candombe,Candombe,Q1033073
+Q24935256,Candombe beat,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5747907,Canto popular uruguayo,país de origen,Uruguay,Uruguay,Q77
+Q25116,tango argentino,país de origen,Argentina,Argentina,Q414
+Q25116,tango argentino,país de origen,Uruguay,Uruguay,Q77
+Q6032965,Murga en Uruguay,subclase de,música hispanoamericana,música hispanoamericana,Q107718539
+Q24935256,Candombe beat,instancia de,género musical,género musical,Q188451
+Q24935256,Candombe beat,subclase de,música beat,música beat,Q546264
+Q5747907,Canto popular uruguayo,subclase de,Nueva canción latinoamericana,Nueva canción latinoamericana,Q109626458
+Q24935256,Candombe beat,subclase de,música de América Latina,música de América Latina,Q727781
+Q6032965,Murga en Uruguay,instancia de,tipo de conjunto/grupo musical,tipo de conjunto/grupo musical,Q105756498
+Q25116,tango argentino,subclase de,Argentinian dance,Argentinian dance,Q110207339
+Q942955,milonga,subclase de,Rioplatense music,Rioplatense music,Q123856101
+Q942955,milonga,instancia de,tipo de baile,tipo de baile,Q107357104
+Q6032965,Murga en Uruguay,subclase de,murga,murga,Q1452181
+Q25116,tango argentino,subclase de,tango,tango,Q338450
+Q942955,milonga,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5747907,Canto popular uruguayo,instancia de,tipo de canción,tipo de canción,Q107356781
+Q25116,tango argentino,instancia de,tipo de baile,tipo de baile,Q107357104
+Q24935256,Candombe beat,subclase de,rock,rock,Q11399
+Q7901509,Rock de Uruguay,instancia de,género musical,género musical,Q188451
+Q6032965,Murga en Uruguay,instancia de,género musical,género musical,Q188451
+Q24935256,Candombe beat,país de origen,Uruguay,Uruguay,Q77
+Q25116,tango argentino,subclase de,tango,tango,Q14390274
+Q942955,milonga,instancia de,género musical,género musical,Q188451
+Q6032965,Murga en Uruguay,instancia de,género teatral,género teatral,Q7777573
+Q5747907,Canto popular uruguayo,instancia de,género musical,género musical,Q188451
+Q25116,tango argentino,instancia de,género musical,género musical,Q188451
+Q7901509,Rock de Uruguay,subclase de,rock,rock,Q11399
+Q942955,milonga,instancia de,forma musical,forma musical,Q862597
+Q7901509,Rock de Uruguay,país de origen,Uruguay,Uruguay,Q77
+Q6032965,Murga en Uruguay,país de origen,Uruguay,Uruguay,Q77
+Q942955,milonga,país de origen,Argentina,Argentina,Q414
+Q942955,milonga,país de origen,Uruguay,Uruguay,Q77
+Q942955,milonga,país de origen,Brasil,Brasil,Q155
+Q5614327,Rock guatemalteco,subclase de,Música de Guatemala,Música de Guatemala,Q1298412
+Q5614327,Rock guatemalteco,instancia de,género musical,género musical,Q188451
+Q5614327,Rock guatemalteco,subclase de,rock,rock,Q11399
+Q5614327,Rock guatemalteco,país de origen,Guatemala,Guatemala,Q774
+Q5614327,Rock guatemalteco,instancia de,escena de música,escena de música,Q28820001
+Q16491869,dembow dominicano,subclase de,música hispanoamericana,música hispanoamericana,Q107718539
+Q16491869,dembow dominicano,subclase de,reguetón,reguetón,Q202930
+Q40461,bachata,subclase de,música de baile,música de baile,Q316930
+Q40461,bachata,subclase de,música tropical,música tropical,Q3328778
+Q40461,bachata,instancia de,género musical,género musical,Q188451
+Q282131,merengue,instancia de,tipo de baile,tipo de baile,Q107357104
+Q40461,bachata,subclase de,música de la República Dominicana,música de la República Dominicana,Q6942370
+Q16491869,dembow dominicano,subclase de,Música del Caribe,Música del Caribe,Q3394906
+Q16491869,dembow dominicano,instancia de,género musical,género musical,Q188451
+Q282131,merengue,subclase de,música popular,música popular,Q373342
+Q282131,merengue,subclase de,música tropical,música tropical,Q3328778
+Q282131,merengue,instancia de,género musical,género musical,Q188451
+Q40461,bachata,país de origen,República Dominicana,República Dominicana,Q786
+Q282131,merengue,subclase de,música de la República Dominicana,música de la República Dominicana,Q6942370
+Q16491869,dembow dominicano,país de origen,República Dominicana,República Dominicana,Q786
+Q282131,merengue,subclase de,danza,danza,Q11639
+Q282131,merengue,país de origen,República Dominicana,República Dominicana,Q786
+Q6169362,Xuc,país de origen,El Salvador,El Salvador,Q792
+Q5794686,Cumbia salvadoreña,subclase de,cumbia,cumbia,Q723418
+Q5794686,Cumbia salvadoreña,instancia de,género musical,género musical,Q188451
+Q5794686,Cumbia salvadoreña,subclase de,Música de El Salvador,Música de El Salvador,Q6942071
+Q6169362,Xuc,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5794686,Cumbia salvadoreña,país de origen,El Salvador,El Salvador,Q792
+Q6169362,Xuc,instancia de,género musical,género musical,Q188451
+Q6169362,Xuc,subclase de,Música de El Salvador,Música de El Salvador,Q6942071
+Q500879,reggae en español,instancia de,género musical,género musical,Q188451
+Q723418,cumbia,instancia de,tipo de baile,tipo de baile,Q107357104
+Q6138499,Tamborito,instancia de,tipo de baile,tipo de baile,Q107357104
+Q723418,cumbia,subclase de,música tropical,música tropical,Q3328778
+Q723418,cumbia,instancia de,género musical,género musical,Q188451
+Q723418,cumbia,subclase de,danza amerindia,danza amerindia,Q17176998
+Q6138499,Tamborito,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q500879,reggae en español,país de origen,Panamá,Panamá,Q804
+Q6138499,Tamborito,instancia de,género musical,género musical,Q188451
+Q500879,reggae en español,subclase de,Hispanic music,Hispanic music,Q107718509
+Q6138499,Tamborito,subclase de,Música de Panamá,Música de Panamá,Q6942240
+Q723418,cumbia,país de origen,Colombia,Colombia,Q739
+Q723418,cumbia,país de origen,Panamá,Panamá,Q804
+Q500879,reggae en español,subclase de,reggae,reggae,Q9794
+Q6138499,Tamborito,país de origen,Panamá,Panamá,Q804
+Q500879,reggae en español,instancia de,music by language,music by language,Q107565306
+Q6132088,son nica,país de origen,Nicaragua,Nicaragua,Q811
+Q6132088,son nica,subclase de,son,son,Q116884389
+Q6132088,son nica,instancia de,género musical,género musical,Q188451
+Q6132088,son nica,subclase de,música de Nicaragua,música de Nicaragua,Q6942217
+Q3089524,huapango,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q5794671,Cumbia andina mexicana,subclase de,cumbia,cumbia,Q723418
+Q4797,conjunto norteño,país de origen,Estados Unidos,Estados Unidos,Q30
+Q2307786,huayno,país de origen,México,México,Q96
+Q3437861,Rock de México,subclase de,Música de México,Música de México,Q3397325
+Q3437861,Rock de México,instancia de,género musical,género musical,Q188451
+Q907799,Pasito duranguense,país de origen,México,México,Q96
+Q464129,mariachi,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q3089524,huapango,forma parte de,son huasteco,son huasteco,Q7560584
+Q4797,conjunto norteño,país de origen,México,México,Q96
+Q221934,Narcocorrido,subclase de,música norteña,música norteña,Q1780056
+Q1780056,música norteña,país de origen,México,México,Q96
+Q1797650,Son jarocho,instancia de,género musical,género musical,Q188451
+Q616425,Pirekua,subclase de,Mesoamerican music,Mesoamerican music,Q114357486
+Q5731764,Bomba yucateca,subclase de,music of Yucatán,music of Yucatán,Q108950417
+Q2812726,Banda sinaloense,subclase de,brass band music,brass band music,Q64140592
+Q221934,Narcocorrido,subclase de,Banda sinaloense,Banda sinaloense,Q2812726
+Q221934,Narcocorrido,instancia de,género musical,género musical,Q188451
+Q727634,ranchera,instancia de,género musical,género musical,Q188451
+Q5643998,trova yucatecona,instancia de,género musical,género musical,Q188451
+Q1797650,Son jarocho,subclase de,Mexican son,Mexican son,Q6825988
+Q5643998,trova yucatecona,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q869210,corrido,subclase de,ballad,ballad,Q116690343
+Q5612172,Grupero,instancia de,género musical,género musical,Q188451
+Q2843815,Picota,país de origen,México,México,Q96
+Q3089524,huapango,país de origen,México,México,Q96
+Q3413969,Quebradita,instancia de,tipo de baile,tipo de baile,Q107357104
+Q5794671,Cumbia andina mexicana,instancia de,género musical,género musical,Q188451
+Q5794671,Cumbia andina mexicana,subclase de,música andina,música andina,Q492096
+Q464129,mariachi,país de origen,México,México,Q96
+Q5731764,Bomba yucateca,subclase de,bomba,bomba,Q2278063
+Q727634,ranchera,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q5690818,Rock urbano (México),subclase de,Música de México,Música de México,Q3397325
+Q5690818,Rock urbano (México),instancia de,género musical,género musical,Q188451
+Q5612172,Grupero,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q3437861,Rock de México,subclase de,rock,rock,Q11399
+Q5690818,Rock urbano (México),subclase de,Rock urbano (España),Rock urbano (España),Q5657579
+Q3437861,Rock de México,país de origen,México,México,Q96
+Q869210,corrido,subclase de,canción popular,canción popular,Q943929
+Q1797650,Son jarocho,país de origen,México,México,Q96
+Q2307786,huayno,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3413969,Quebradita,instancia de,género musical,género musical,Q188451
+Q616425,Pirekua,instancia de,género musical,género musical,Q188451
+Q3437861,Rock de México,instancia de,escena de música,escena de música,Q28820001
+Q5747877,Canto cardenche,subclase de,a capela,a capela,Q185298
+Q616425,Pirekua,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q907799,Pasito duranguense,instancia de,tipo de baile,tipo de baile,Q107357104
+Q221934,Narcocorrido,país de origen,Estados Unidos,Estados Unidos,Q30
+Q4797,conjunto norteño,instancia de,tipo de conjunto/grupo musical,tipo de conjunto/grupo musical,Q105756498
+Q221934,Narcocorrido,país de origen,México,México,Q96
+Q5612172,Grupero,país de origen,Estados Unidos,Estados Unidos,Q30
+Q727634,ranchera,país de origen,México,México,Q96
+Q2307786,huayno,subclase de,música folclórica latinoamericana,música folclórica latinoamericana,Q98528197
+Q5643998,trova yucatecona,país de origen,México,México,Q96
+Q5731764,Bomba yucateca,instancia de,género musical,género musical,Q188451
+Q3413969,Quebradita,subclase de,Cumbia mexicana,Cumbia mexicana,Q6826021
+Q2307786,huayno,subclase de,danza folclórica,danza folclórica,Q201022
+Q5747877,Canto cardenche,instancia de,género musical,género musical,Q188451
+Q5747877,Canto cardenche,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q5612172,Grupero,país de origen,México,México,Q96
+Q2812726,Banda sinaloense,instancia de,género musical,género musical,Q188451
+Q5794671,Cumbia andina mexicana,país de origen,México,México,Q96
+Q869210,corrido,instancia de,género musical,género musical,Q188451
+Q869210,corrido,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q2843815,Picota,instancia de,tipo de baile,tipo de baile,Q107357104
+Q3089524,huapango,instancia de,tipo de baile,tipo de baile,Q107357104
+Q464129,mariachi,instancia de,tradición musical,tradición musical,Q60733114
+Q2307786,huayno,instancia de,género musical,género musical,Q188451
+Q5690818,Rock urbano (México),país de origen,México,México,Q96
+Q2307786,huayno,país de origen,Virreinato del Perú,Virreinato del Perú,Q211435
+Q2307786,huayno,subclase de,música andina,música andina,Q492096
+Q3413969,Quebradita,subclase de,danza,danza,Q11639
+Q1780056,música norteña,subclase de,música popular,música popular,Q373342
+Q907799,Pasito duranguense,instancia de,género musical,género musical,Q188451
+Q4797,conjunto norteño,instancia de,género musical,género musical,Q188451
+Q1780056,música norteña,instancia de,género musical,género musical,Q188451
+Q4797,conjunto norteño,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q2812726,Banda sinaloense,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q5690818,Rock urbano (México),instancia de,escena de música,escena de música,Q28820001
+Q5643998,trova yucatecona,subclase de,music of Yucatán,music of Yucatán,Q108950417
+Q3413969,Quebradita,país de origen,México,México,Q96
+Q907799,Pasito duranguense,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q616425,Pirekua,país de origen,México,México,Q96
+Q1780056,música norteña,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q2843815,Picota,instancia de,género musical,género musical,Q188451
+Q3089524,huapango,instancia de,género musical,género musical,Q188451
+Q2843815,Picota,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q221934,Narcocorrido,subclase de,corrido,corrido,Q869210
+Q869210,corrido,instancia de,forma musical,forma musical,Q862597
+Q5731764,Bomba yucateca,país de origen,México,México,Q96
+Q5747877,Canto cardenche,país de origen,México,México,Q96
+Q464129,mariachi,instancia de,género musical,género musical,Q188451
+Q2843815,Picota,subclase de,Baile folclórico de México,Baile folclórico de México,Q5464451
+Q3089524,huapango,subclase de,Baile folclórico de México,Baile folclórico de México,Q5464451
+Q727634,ranchera,subclase de,composición musical,composición musical,Q207628
+Q3437861,Rock de México,subclase de,rock latino,rock latino,Q185162
+Q2812726,Banda sinaloense,país de origen,México,México,Q96
+Q727634,ranchera,instancia de,tipo de canción,tipo de canción,Q107356781
+Q727634,ranchera,instancia de,tipo de obra/composición musical,tipo de obra/composición musical,Q107487333
+Q869210,corrido,país de origen,México,México,Q96
+Q116782420,Corridos prohibidos,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q98842769,serrieño,país de origen,México,México,Q96
+Q6132086,Son istmeño,país de origen,México,México,Q96
+Q25101770,Mexican jazz,país de origen,México,México,Q96
+Q6132084,Son de tamborileros de Tabasco,país de origen,México,México,Q96
+Q7560584,son huasteco,país de origen,México,México,Q96
+Q7692752,Tecnocumbia,país de origen,México,México,Q96
+Q10932272,Technobanda,subclase de,Banda sinaloense,Banda sinaloense,Q2812726
+Q115482626,sonidero,instancia de,tipo de baile,tipo de baile,Q107357104
+Q10932272,Technobanda,instancia de,género musical,género musical,Q188451
+Q25101770,Mexican jazz,instancia de,escena de música,escena de música,Q28820001
+Q9030802,mayapax,país de origen,México,México,Q96
+Q108665706,corridos tumbados,país de origen,Estados Unidos,Estados Unidos,Q30
+Q7560612,música calentana,país de origen,México,México,Q96
+Q6036478,Música de marimba mexicana,subclase de,Música de México,Música de México,Q3397325
+Q108665706,corridos tumbados,país de origen,México,México,Q96
+Q116782420,Corridos prohibidos,país de origen,Colombia,Colombia,Q739
+Q6036478,Música de marimba mexicana,instancia de,género musical,género musical,Q188451
+Q101440473,musica sierreña méxicana,país de origen,Sinaloa,Sinaloa,Q80252
+Q7801106,música de Tierra Caliente,país de origen,México,México,Q96
+Q116782420,Corridos prohibidos,país de origen,México,México,Q96
+Q122818238,Norteño-sax,instancia de,género musical,género musical,Q188451
+Q101440473,musica sierreña méxicana,subclase de,música norteña,música norteña,Q1780056
+Q25101770,Mexican jazz,subclase de,jazz,jazz,Q8341
+Q115482626,sonidero,subclase de,Música de México,Música de México,Q3397325
+Q99470350,Campirano,subclase de,música norteña,música norteña,Q1780056
+Q115482626,sonidero,instancia de,género musical,género musical,Q188451
+Q6138490,Tamborazo,país de origen,Zacatecas,Zacatecas,Q80269
+Q6132064,Son afromestizo de Costa Chica,instancia de,tipo de baile,tipo de baile,Q107357104
+Q108665706,corridos tumbados,subclase de,musica sierreña méxicana,musica sierreña méxicana,Q101440473
+Q5794682,cumbia norteña mexicana,instancia de,género musical,género musical,Q188451
+Q116782420,Corridos prohibidos,subclase de,musica sierreña méxicana,musica sierreña méxicana,Q101440473
+Q5794680,Cumbia del sureste,instancia de,género musical,género musical,Q188451
+Q122818238,Norteño-sax,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q101440473,musica sierreña méxicana,instancia de,género musical,género musical,Q188451
+Q98909757,Norteño Banda,subclase de,música norteña,música norteña,Q1780056
+Q99470350,Campirano,instancia de,género musical,género musical,Q188451
+Q28501777,Cumbia sinfónica,instancia de,género musical,género musical,Q188451
+Q10932272,Technobanda,país de origen,México,México,Q96
+Q17086313,Mexican progressive rock,subclase de,Rock de México,Rock de México,Q3437861
+Q6138490,Tamborazo,instancia de,género musical,género musical,Q188451
+Q5794682,cumbia norteña mexicana,subclase de,Cumbia mexicana,Cumbia mexicana,Q6826021
+Q115482626,sonidero,instancia de,movimiento cultural,movimiento cultural,Q2198855
+Q17086313,Mexican progressive rock,instancia de,género musical,género musical,Q188451
+Q6138490,Tamborazo,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q5794680,Cumbia del sureste,subclase de,Cumbia mexicana,Cumbia mexicana,Q6826021
+Q98909757,Norteño Banda,instancia de,género musical,género musical,Q188451
+Q99470350,Campirano,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q6132064,Son afromestizo de Costa Chica,instancia de,género musical,género musical,Q188451
+Q7692752,Tecnocumbia,subclase de,Technobanda,Technobanda,Q10932272
+Q98842769,serrieño,subclase de,música norteña,música norteña,Q1780056
+Q6036478,Música de marimba mexicana,país de origen,México,México,Q96
+Q6132068,Son arribeño,instancia de,género musical,género musical,Q188451
+Q6132074,Son de artesa,instancia de,género musical,género musical,Q188451
+Q108665706,corridos tumbados,subclase de,corrido,corrido,Q869210
+Q98909757,Norteño Banda,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q122818238,Norteño-sax,país de origen,México,México,Q96
+Q101440473,musica sierreña méxicana,instancia de,radiofórmula,radiofórmula,Q589183
+Q6036478,Música de marimba mexicana,instancia de,escena de música,escena de música,Q28820001
+Q6132064,Son afromestizo de Costa Chica,subclase de,Mexican son,Mexican son,Q6825988
+Q115482626,sonidero,país de origen,México,México,Q96
+Q98842769,serrieño,instancia de,género musical,género musical,Q188451
+Q6132086,Son istmeño,instancia de,género musical,género musical,Q188451
+Q25101770,Mexican jazz,subclase de,Música de México,Música de México,Q3397325
+Q6132068,Son arribeño,subclase de,Mexican son,Mexican son,Q6825988
+Q25101770,Mexican jazz,instancia de,género musical,género musical,Q188451
+Q6132084,Son de tamborileros de Tabasco,instancia de,género musical,género musical,Q188451
+Q6132074,Son de artesa,subclase de,Mexican son,Mexican son,Q6825988
+Q7560584,son huasteco,instancia de,género musical,género musical,Q188451
+Q7692752,Tecnocumbia,instancia de,género musical,género musical,Q188451
+Q5794682,cumbia norteña mexicana,país de origen,México,México,Q96
+Q5794680,Cumbia del sureste,país de origen,México,México,Q96
+Q101440473,musica sierreña méxicana,país de origen,Chihuahua,Chihuahua,Q655
+Q101440473,musica sierreña méxicana,país de origen,México,México,Q96
+Q101440473,musica sierreña méxicana,país de origen,Sonora,Sonora,Q46422
+Q6036478,Música de marimba mexicana,subclase de,marimba music,marimba music,Q106876493
+Q99470350,Campirano,país de origen,México,México,Q96
+Q28501777,Cumbia sinfónica,país de origen,México,México,Q96
+Q9030802,mayapax,instancia de,género musical,género musical,Q188451
+Q9030802,mayapax,subclase de,Música folclórica de México,Música folclórica de México,Q16942070
+Q6132086,Son istmeño,subclase de,Mexican son,Mexican son,Q6825988
+Q6132084,Son de tamborileros de Tabasco,subclase de,Mexican son,Mexican son,Q6825988
+Q7560584,son huasteco,subclase de,Mexican son,Mexican son,Q6825988
+Q7692752,Tecnocumbia,subclase de,Cumbia mexicana,Cumbia mexicana,Q6826021
+Q6138490,Tamborazo,país de origen,México,México,Q96
+Q17086313,Mexican progressive rock,país de origen,México,México,Q96
+Q7560612,música calentana,instancia de,género musical,género musical,Q188451
+Q98909757,Norteño Banda,país de origen,México,México,Q96
+Q108665706,corridos tumbados,instancia de,género musical,género musical,Q188451
+Q7801106,música de Tierra Caliente,instancia de,género musical,género musical,Q188451
+Q17086313,Mexican progressive rock,instancia de,escena de música,escena de música,Q28820001
+Q116782420,Corridos prohibidos,instancia de,género musical,género musical,Q188451
+Q17086313,Mexican progressive rock,subclase de,rock progresivo,rock progresivo,Q49451
+Q6132064,Son afromestizo de Costa Chica,país de origen,México,México,Q96
+Q6132068,Son arribeño,país de origen,México,México,Q96
+Q7560612,música calentana,subclase de,Mexican son,Mexican son,Q6825988
+Q28501777,Cumbia sinfónica,subclase de,cumbia sonidera,cumbia sonidera,Q108297224
+Q6132074,Son de artesa,país de origen,México,México,Q96
+Q108665706,corridos tumbados,subclase de,música regional mexicana,música regional mexicana,Q7309098
+Q7801106,música de Tierra Caliente,subclase de,música regional mexicana,música regional mexicana,Q7309098
